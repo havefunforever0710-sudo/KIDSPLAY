@@ -12,9 +12,13 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 load_dotenv()
 
 try:
-    client = genai.Client()
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        print("真的找不到名為 GEMINI_API_KEY 的環境變數！")
+        exit(1)
+    client = genai.Client(api_key=api_key)
 except Exception as e:
-    print("請確認已經設定 GEMINI_API_KEY")
+    print(f"AI 初始化失敗，真實的錯誤訊息為: {e}")
     exit(1)
 
 def fetch_html(url):
