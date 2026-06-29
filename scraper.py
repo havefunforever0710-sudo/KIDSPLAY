@@ -49,11 +49,14 @@ def call_gemini_with_retry(prompt, max_retries=3):
             elif result_text.startswith("```"):
                 result_text = result_text[3:-3]
                 
-            return json.loads(result_text.strip())
+            result_json = json.loads(result_text.strip())
+            # 成功取得資料後，強制休息 5 秒，確保每分鐘呼叫次數低於 12 次 (Free Tier 限制為 15 RPM)
+            time.sleep(5)
+            return result_json
         except Exception as e:
             error_msg = str(e).lower()
             if "429" in error_msg or "quota" in error_msg or "exhausted" in error_msg:
-                wait_time = 15 * (attempt + 1)
+                wait_time = 30 * (attempt + 1) # 延長等待時間：30秒、60秒、90秒
                 print(f"    [!] 遇到 API 頻率限制 (Rate Limit)，暫停 {wait_time} 秒後重試... ({attempt+1}/{max_retries})")
                 time.sleep(wait_time)
             else:
