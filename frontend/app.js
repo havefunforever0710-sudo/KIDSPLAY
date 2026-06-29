@@ -4,7 +4,14 @@ document.addEventListener('DOMContentLoaded', () => {
     const eventContainer = document.getElementById('eventContainer');
     const currentCategoryTitle = document.getElementById('currentCategoryTitle');
     const regionSelect = document.getElementById('regionSelect');
-    const citySelect = document.getElementById('citySelect');
+    
+    // New DOM Elements for advanced filters
+    const citySelectContainer = document.getElementById('citySelectContainer');
+    const citySelectBtn = document.getElementById('citySelectBtn');
+    const citySelectMenu = document.getElementById('citySelectMenu');
+    const ageSelect = document.getElementById('ageSelect');
+    const priceSelect = document.getElementById('priceSelect');
+    const header = document.querySelector('.header');
     
     // View Toggle Elements
     const btnListView = document.getElementById('btnListView');
@@ -21,37 +28,81 @@ document.addEventListener('DOMContentLoaded', () => {
     // State
     let currentCategory = 'All';
     let currentRegion = 'All';
-    let currentCity = 'All';
+    let selectedCities = [];
+    let currentAge = 'All';
+    let currentPrice = 'All';
     let currentViewMode = 'list'; // 'list' or 'calendar'
     
-    // Calendar State (Default to April 2026 for mock data)
-    let currentDate = new Date(2026, 3, 1); 
+    let currentDate = new Date();
     let selectedDateStr = null;
 
-    // 1. 初始化地點下拉選單
-    function initLocationFilters() {
+    // Header scroll animation (Hide on scroll down)
+    let lastScrollTop = 0;
+    window.addEventListener('scroll', () => {
+        let scrollTop = window.pageYOffset || document.documentElement.scrollTop;
+        if (scrollTop > lastScrollTop && scrollTop > 50) {
+            header.classList.add('hidden'); // Scroll Down
+        } else {
+            header.classList.remove('hidden'); // Scroll Up
+        }
+        lastScrollTop = scrollTop;
+    });
+
+    // Custom Multi-select Logic
+    citySelectBtn.addEventListener('click', (e) => {
+        e.stopPropagation();
+        citySelectMenu.classList.toggle('show');
+    });
+    document.addEventListener('click', () => {
+        citySelectMenu.classList.remove('show');
+    });
+    citySelectMenu.addEventListener('click', (e) => e.stopPropagation());
+
+    function updateCityBtnText() {
+        if (selectedCities.length === 0) citySelectBtn.innerText = '選擇縣市 ▼';
+        else if (selectedCities.length === 1) citySelectBtn.innerText = selectedCities[0] + ' ▼';
+        else citySelectBtn.innerText = `已選 ${selectedCities.length} 縣市 ▼`;
+    }
+
+    // 1. 初始化篩選器
+    function initFilters() {
         regionSelect.addEventListener('change', (e) => {
             currentRegion = e.target.value;
-            currentCity = 'All'; // Reset city when region changes
+            selectedCities = [];
             
-            // Update City Dropdown
-            citySelect.innerHTML = '<option value="All">全縣市</option>';
             if (currentRegion === 'All') {
-                citySelect.disabled = true;
+                citySelectContainer.style.display = 'none';
             } else {
-                citySelect.disabled = false;
+                citySelectContainer.style.display = 'block';
+                citySelectMenu.innerHTML = '';
                 locationsData[currentRegion].forEach(city => {
-                    const opt = document.createElement('option');
-                    opt.value = city;
-                    opt.textContent = city;
-                    citySelect.appendChild(opt);
+                    const label = document.createElement('label');
+                    label.className = 'multi-select-item';
+                    const cb = document.createElement('input');
+                    cb.type = 'checkbox';
+                    cb.value = city;
+                    cb.onchange = (ev) => {
+                        if (ev.target.checked) selectedCities.push(city);
+                        else selectedCities = selectedCities.filter(c => c !== city);
+                        updateCityBtnText();
+                        refreshData();
+                    };
+                    label.appendChild(cb);
+                    label.appendChild(document.createTextNode(city));
+                    citySelectMenu.appendChild(label);
                 });
+                updateCityBtnText();
             }
             refreshData();
         });
 
-        citySelect.addEventListener('change', (e) => {
-            currentCity = e.target.value;
+        ageSelect.addEventListener('change', (e) => {
+            currentAge = e.target.value;
+            refreshData();
+        });
+
+        priceSelect.addEventListener('change', (e) => {
+            currentPrice = e.target.value;
             refreshData();
         });
     }
@@ -63,7 +114,7 @@ document.addEventListener('DOMContentLoaded', () => {
             btnListView.classList.add('active');
             btnCalendarView.classList.remove('active');
             calendarView.style.display = 'none';
-            selectedDateStr = null; // Clear date selection when returning to list
+            selectedDateStr = null; 
             currentCategoryTitle.innerText = currentCategory === 'All' ? '為您推薦' : currentCategory;
             renderEvents();
         });
@@ -75,7 +126,7 @@ document.addEventListener('DOMContentLoaded', () => {
             calendarView.style.display = 'block';
             currentCategoryTitle.innerText = '月曆行程';
             renderCalendar();
-            renderEvents(); // Shows filtered events (or none if date not selected)
+            renderEvents(); 
         });
 
         prevMonthBtn.addEventListener('click', () => {
@@ -125,7 +176,28 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // 4. 月曆繪製邏輯
+    // 4. 資料過濾邏輯
+    const dataSource = (typeof dynamicEvents !== 'undefined' && dynamicEvents.length > 0) ? dynamicEvents : mockEvents;
+
+    function getFilteredEvents() {
+        return dataSource.filter(e => {
+            if (currentCategory !== 'All' && !e.category.includes(currentCategory.split('與')[0])) return false;
+            if (currentRegion !== 'All' && e.region !== currentRegion) return false;
+            if (selectedCities.length > 0 && !selectedCities.includes(e.city)) return false;
+            
+            // 年齡篩選 (AI 會回傳 age_groups 陣列)
+            if (currentAge !== 'All') {
+                if (!e.age_groups || (!e.age_groups.includes(currentAge) && !e.age_groups.includes('全齡'))) return false;
+            }
+            // 費用篩選
+            if (currentPrice !== 'All') {
+                if (e.price_type !== currentPrice) return false;
+            }
+            return true;
+        });
+    }
+
+    // 5. 月曆繪製邏輯
     function renderCalendar() {
         calendarGrid.innerHTML = '';
         const year = currentDate.getFullYear();
@@ -136,24 +208,15 @@ document.addEventListener('DOMContentLoaded', () => {
         const firstDay = new Date(year, month, 1).getDay();
         const daysInMonth = new Date(year, month + 1, 0).getDate();
         
-        // Find which days have events based on current Category & Location filters
-        const filteredEventsForMarks = dataSource.filter(e => {
-            if (currentCategory !== 'All' && !e.category.includes(currentCategory.split('與')[0])) return false;
-            if (currentRegion !== 'All' && e.region !== currentRegion) return false;
-            if (currentCity !== 'All' && e.city !== currentCity) return false;
-            return true;
-        });
-        
+        const filteredEventsForMarks = getFilteredEvents();
         const eventDates = new Set(filteredEventsForMarks.map(e => e.date));
 
-        // Empty cells for alignment
         for (let i = 0; i < firstDay; i++) {
             const emptyCell = document.createElement('div');
             emptyCell.className = 'cal-day empty';
             calendarGrid.appendChild(emptyCell);
         }
 
-        // Days
         const todayStr = new Date().toISOString().split('T')[0];
         
         for (let i = 1; i <= daysInMonth; i++) {
@@ -169,12 +232,12 @@ document.addEventListener('DOMContentLoaded', () => {
 
             dayCell.onclick = () => {
                 if(selectedDateStr === loopDateStr) {
-                    selectedDateStr = null; // deselect
+                    selectedDateStr = null; 
                 } else {
                     selectedDateStr = loopDateStr;
                 }
                 selectedDateTitle.innerText = selectedDateStr ? `🗓️ ${selectedDateStr} 的活動` : '請選擇日期';
-                renderCalendar(); // re-render to update active state
+                renderCalendar(); 
                 renderEvents();
             };
             calendarGrid.appendChild(dayCell);
@@ -185,27 +248,12 @@ document.addEventListener('DOMContentLoaded', () => {
         }
     }
 
-    // 選擇資料來源 (如果有真實資料就用真實的，否則用預設展示資料)
-    const dataSource = (typeof dynamicEvents !== 'undefined' && dynamicEvents.length > 0) ? dynamicEvents : mockEvents;
-
-    // 5. 渲染活動卡片邏輯
-    function renderEvents(categoryToFilter) {
+    // 6. 渲染活動卡片
+    function renderEvents() {
         eventContainer.innerHTML = '';
         
-        let filteredEvents = dataSource;
+        let filteredEvents = getFilteredEvents();
         
-        // Filter by Category
-        if (currentCategory !== 'All') {
-            filteredEvents = filteredEvents.filter(e => e.category.includes(currentCategory.split('與')[0]));
-        }
-        // Filter by Location
-        if (currentRegion !== 'All') {
-            filteredEvents = filteredEvents.filter(e => e.region === currentRegion);
-        }
-        if (currentCity !== 'All') {
-            filteredEvents = filteredEvents.filter(e => e.city === currentCity);
-        }
-        // Filter by Date (only in Calendar mode if a date is selected)
         if (currentViewMode === 'calendar' && selectedDateStr) {
             filteredEvents = filteredEvents.filter(e => e.date === selectedDateStr);
         }
@@ -215,7 +263,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 <div style="text-align:center; padding: 60px 20px; color: #8A8A9E;">
                     <div style="font-size:48px; margin-bottom:16px;">🔍</div>
                     <p style="font-weight: 500;">找不到符合條件的活動！</p>
-                    <p style="font-size: 13px; margin-top: 8px;">試著切換其他日期或地點看看</p>
+                    <p style="font-size: 13px; margin-top: 8px;">試著調整年齡、地點或費用篩選看看</p>
                 </div>
             `;
             return;
@@ -224,14 +272,20 @@ document.addEventListener('DOMContentLoaded', () => {
         filteredEvents.forEach(event => {
             const card = document.createElement('div');
             card.className = 'event-card';
+            
+            const priceTagClass = event.price_type === '免費' ? 'price-free' : 'price-paid';
+            const priceText = event.price_type || '費用未知';
+            const linkUrl = event.source_url || '#';
+
             card.innerHTML = `
                 <div class="event-img-container">
-                    <img src="${event.image}" alt="${event.title}" class="event-img">
+                    <img src="${event.image || 'https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80'}" alt="${event.title}" class="event-img">
                     <span class="event-tag-floating">${event.category.split('與')[0]}</span>
+                    <span class="event-tag-price ${priceTagClass}">${priceText}</span>
                 </div>
                 <div class="event-content">
                     <div class="event-meta">
-                        <span class="event-age">👶 建議年齡: ${event.target_age}</span>
+                        <span class="event-age">👶 建議年齡: ${event.target_age || '不限'}</span>
                     </div>
                     <h3 class="event-title">${event.title}</h3>
                     <div class="event-info">
@@ -244,7 +298,10 @@ document.addEventListener('DOMContentLoaded', () => {
                     </div>
                     <div class="event-actions">
                         <span class="reg-status">${event.registration_date}</span>
-                        <button class="fav-btn" aria-label="Save">♡</button>
+                        <div style="display:flex; gap:12px; align-items:center;">
+                            <button class="fav-btn" aria-label="Save">♡</button>
+                            <a href="${linkUrl}" target="_blank" class="apply-link-btn" onclick="event.stopPropagation()">報名/詳情 🔗</a>
+                        </div>
                     </div>
                 </div>
             `;
@@ -274,7 +331,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // 啟動初始化
-    initLocationFilters();
+    initFilters();
     initViewToggle();
     renderCategories();
     refreshData();

@@ -12,13 +12,9 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 load_dotenv()
 
 try:
-    api_key = os.environ.get("GEMINI_API_KEY")
-    if not api_key:
-        print("真的找不到名為 GEMINI_API_KEY 的環境變數！")
-        exit(1)
-    client = genai.Client(api_key=api_key)
+    client = genai.Client()
 except Exception as e:
-    print(f"AI 初始化失敗，真實的錯誤訊息為: {e}")
+    print("請確認已經設定 GEMINI_API_KEY")
     exit(1)
 
 def fetch_html(url):
@@ -135,7 +131,9 @@ def extract_event_details(url):
         "city": "活動所在縣市（例如：台北市, 高雄市）",
         "registration_date": "報名時間與方式",
         "location": "活動地點與地址",
-        "target_age": "適合年齡（例如：3-12歲）",
+        "target_age": "適合年齡原文（例如：3-12歲）",
+        "age_groups": ["請將適合年齡歸類為標準化陣列，允許的值為：'0-3歲', '4-6歲', '7-12歲', '全齡' (可多選)"],
+        "price_type": "費用類型，請判斷是 '免費' 或 '付費' (若無資訊請填 '付費')",
         "summary": "活動簡介（100字以內）",
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80" 
       }}
@@ -147,6 +145,8 @@ def extract_event_details(url):
     
     events = call_gemini_with_retry(prompt)
     if events:
+        for event in events:
+            event["source_url"] = url
         print(f"    🌟 成功！解析出活動：{events[0].get('title', '未知標題')}")
         return events
     else:

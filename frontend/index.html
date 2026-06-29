@@ -23,21 +23,42 @@
                 <button aria-label="Search">🔍</button>
             </div>
             
-            <!-- Location Filters -->
-            <div class="location-filters">
-                <div class="filter-dropdown">
-                    <select id="regionSelect">
-                        <option value="All">全區</option>
-                        <option value="北部">北部</option>
-                        <option value="中部">中部</option>
-                        <option value="南部">南部</option>
-                        <option value="東部及離島">東部及離島</option>
-                    </select>
+            <!-- Filters -->
+            <div class="filters-container">
+                <div class="filter-row">
+                    <div class="filter-dropdown">
+                        <select id="regionSelect">
+                            <option value="All">全台灣 (選分區)</option>
+                            <option value="北部">北部</option>
+                            <option value="中部">中部</option>
+                            <option value="南部">南部</option>
+                            <option value="東部及離島">東部及離島</option>
+                        </select>
+                    </div>
+                    <!-- City multi-select (Hidden initially) -->
+                    <div class="filter-dropdown multi-select-container" id="citySelectContainer" style="display: none;">
+                        <div class="multi-select-btn" id="citySelectBtn">選擇縣市 ▼</div>
+                        <div class="multi-select-menu" id="citySelectMenu">
+                            <!-- Checkboxes injected by JS -->
+                        </div>
+                    </div>
                 </div>
-                <div class="filter-dropdown">
-                    <select id="citySelect" disabled>
-                        <option value="All">全縣市</option>
-                    </select>
+                <div class="filter-row">
+                    <div class="filter-dropdown">
+                        <select id="ageSelect">
+                            <option value="All">年齡不限</option>
+                            <option value="0-3歲">0-3歲</option>
+                            <option value="4-6歲">4-6歲</option>
+                            <option value="7-12歲">7-12歲</option>
+                        </select>
+                    </div>
+                    <div class="filter-dropdown">
+                        <select id="priceSelect">
+                            <option value="All">免費/付費皆可</option>
+                            <option value="免費">僅顯示免費</option>
+                            <option value="付費">僅顯示付費</option>
+                        </select>
+                    </div>
                 </div>
             </div>
         </header>
