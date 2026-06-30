@@ -7,6 +7,7 @@ from dotenv import load_dotenv
 import urllib.parse
 import time
 import urllib3
+from datetime import datetime
 
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 load_dotenv()
@@ -34,9 +35,6 @@ def fetch_html(url):
         return None
 
 def call_gemini_with_retry(prompt, max_retries=3):
-    """
-    呼叫 Gemini API，加入失敗重試與延遲機制，避免 Rate Limit
-    """
     for attempt in range(max_retries):
         try:
             response = client.models.generate_content(
@@ -50,14 +48,13 @@ def call_gemini_with_retry(prompt, max_retries=3):
                 result_text = result_text[3:-3]
                 
             result_json = json.loads(result_text.strip())
-            # 成功取得資料後，強制休息 5 秒，確保每分鐘呼叫次數低於 12 次 (Free Tier 限制為 15 RPM)
-            time.sleep(5)
+            time.sleep(5) # 成功後強制休息 5 秒
             return result_json
         except Exception as e:
             error_msg = str(e).lower()
             if "429" in error_msg or "quota" in error_msg or "exhausted" in error_msg:
-                wait_time = 30 * (attempt + 1) # 延長等待時間：30秒、60秒、90秒
-                print(f"    [!] 遇到 API 頻率限制 (Rate Limit)，暫停 {wait_time} 秒後重試... ({attempt+1}/{max_retries})")
+                wait_time = 30 * (attempt + 1)
+                print(f"    [!] 遇到 API 頻率限制，暫停 {wait_time} 秒後重試... ({attempt+1}/{max_retries})")
                 time.sleep(wait_time)
             else:
                 print(f"    [X] AI 解析發生錯誤: {e}")
@@ -65,7 +62,7 @@ def call_gemini_with_retry(prompt, max_retries=3):
     print("    [X] 重試次數用盡，放棄此筆解析。")
     return []
 
-def find_activity_links(source_name, source_url):
+def find_activity_links(source_name, source_url, visited_urls):
     print(f"\n👉 開始巡邏目錄：{source_name} ({source_url})")
     soup = fetch_html(source_url)
     if not soup:
@@ -79,24 +76,30 @@ def find_activity_links(source_name, source_url):
         href = a['href']
         if len(text) > 3 and not href.startswith('javascript:'):
             full_url = urllib.parse.urljoin(source_url, href)
-            # 先用 Python 過濾出含有關鍵字的連結，大幅減少送給 AI 的資料量
+            
+            # 智慧過濾：如果已經存在於記憶體中，直接跳過！
+            if full_url in visited_urls:
+                continue
+                
             if any(kw in text for kw in keywords):
                 filtered_links.append(f"[{text}]({full_url})")
             
     filtered_links = list(set(filtered_links))
     
-    # 如果用關鍵字找不到，退而求其次抓前 30 個普通連結
+    # 退而求其次
     if not filtered_links:
         for a in soup.find_all('a', href=True):
             text = a.get_text(strip=True)
-            if len(text) > 3 and not a['href'].startswith('javascript:'):
-                filtered_links.append(f"[{text}]({urllib.parse.urljoin(source_url, a['href'])})")
+            full_url = urllib.parse.urljoin(source_url, a['href'])
+            if len(text) > 3 and not a['href'].startswith('javascript:') and full_url not in visited_urls:
+                filtered_links.append(f"[{text}]({full_url})")
         filtered_links = list(set(filtered_links))[:30]
         
     if not filtered_links:
+        print("  - 沒有發現任何新的未知連結。")
         return []
 
-    print(f"  - 找到 {len(filtered_links)} 個連結，篩選中...")
+    print(f"  - 找到 {len(filtered_links)} 個『全新』連結，交由 AI 篩選中...")
     
     prompt = f"""
     你是一個專門尋找「兒童活動、親子活動、體驗營」的 AI 助手。
@@ -174,9 +177,10 @@ def extract_event_details(url):
 
 def main():
     print("==================================================")
-    print("🤖 雲端全自動兒童活動爬蟲啟動！")
+    print("🤖 滾動式增量爬蟲啟動！")
     print("==================================================")
     
+    # 1. 讀取總來源清單
     sources_file = "sources.json"
     if not os.path.exists(sources_file):
         print(f"找不到 {sources_file}！")
@@ -185,29 +189,105 @@ def main():
     with open(sources_file, "r", encoding="utf-8") as f:
         sources = json.load(f)
         
-    all_events = []
+    # 2. 讀取記憶體狀態
+    state_file = "state.json"
+    if os.path.exists(state_file):
+        with open(state_file, "r", encoding="utf-8") as f:
+            state = json.load(f)
+    else:
+        state = {"last_index": 0, "visited_urls": {}}
+        
+    # 確保 visited_urls 是個字典
+    if "visited_urls" not in state:
+        state["visited_urls"] = {}
+        
+    # 3. 決定本次要爬取的目標 (每次抓取 5 個網站)
+    BATCH_SIZE = 5
+    start_idx = state.get("last_index", 0)
     
-    for idx, source in enumerate(sources):
-        print(f"\n進度：[{idx+1}/{len(sources)}]")
-        target_urls = find_activity_links(source['name'], source['url'])
+    # 避免 index 超出範圍 (例如名單縮水時)
+    if start_idx >= len(sources):
+        start_idx = 0
+        
+    end_idx = start_idx + BATCH_SIZE
+    
+    current_sources = sources[start_idx:end_idx]
+    if end_idx >= len(sources):
+        current_sources += sources[0:(end_idx - len(sources))]
+        state["last_index"] = end_idx % len(sources)
+    else:
+        state["last_index"] = end_idx
+        
+    print(f"📚 總清單數量: {len(sources)}")
+    print(f"🎯 本次批次範圍: {start_idx} ~ {end_idx-1}")
+    
+    all_new_events = []
+    
+    # 4. 開始爬取
+    for idx, source in enumerate(current_sources):
+        print(f"\n進度：[{idx+1}/{len(current_sources)}]")
+        
+        # 讀取該網站的記憶體 (過去看過的網址)
+        site_url = source['url']
+        visited = state["visited_urls"].get(site_url, [])
+        
+        target_urls = find_activity_links(source['name'], site_url, visited)
         
         for url in target_urls:
             events = extract_event_details(url)
             if events:
-                all_events.extend(events)
-            time.sleep(3) # 每次 AI 請求後暫停 3 秒，避免觸發 API 頻率限制
+                all_new_events.extend(events)
+                # 將新網址加入記憶體，最多保留 100 個，避免檔案無限膨脹
+                visited.append(url)
+        
+        state["visited_urls"][site_url] = visited[-100:]
+        time.sleep(3)
             
+    # 5. 合併舊有活動 (增量更新)
     output_dir = "frontend"
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
         
-    output_path = os.path.join(output_dir, "events.js")
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write("// 這支檔案由 GitHub Actions 雲端自動爬蟲產生\n")
-        f.write(f"const dynamicEvents = {json.dumps(all_events, ensure_ascii=False, indent=4)};\n")
+    events_json_file = os.path.join(output_dir, "events.json")
+    existing_events = []
+    if os.path.exists(events_json_file):
+        try:
+            with open(events_json_file, "r", encoding="utf-8") as f:
+                existing_events = json.load(f)
+        except:
+            existing_events = []
+            
+    # 過濾掉已經過期的舊活動
+    today_str = datetime.now().strftime("%Y-%m-%d")
+    valid_events = []
+    for ev in existing_events:
+        # 如果活動日期大於等於今天，或者是無法解析日期的，都暫時保留
+        if ev.get("date", "") >= today_str or not ev.get("date"):
+            valid_events.append(ev)
+            
+    print(f"\n📦 從資料庫載入 {len(valid_events)} 筆未過期的歷史活動。")
+    print(f"🆕 本次新增 {len(all_new_events)} 筆全新活動。")
+    
+    # 合併
+    final_events = valid_events + all_new_events
+    
+    # 6. 存檔
+    # 儲存 JSON 給 Python 下次讀取
+    with open(events_json_file, "w", encoding="utf-8") as f:
+        json.dump(final_events, f, ensure_ascii=False, indent=4)
+        
+    # 儲存 JS 給網頁使用
+    events_js_file = os.path.join(output_dir, "events.js")
+    with open(events_js_file, "w", encoding="utf-8") as f:
+        f.write("// 這支檔案由 GitHub Actions 雲端自動爬蟲產生 (滾動增量版)\n")
+        f.write(f"const dynamicEvents = {json.dumps(final_events, ensure_ascii=False, indent=4)};\n")
+        
+    # 儲存記憶體 state.json
+    with open(state_file, "w", encoding="utf-8") as f:
+        json.dump(state, f, ensure_ascii=False, indent=4)
         
     print("\n==================================================")
-    print(f"✅ 巡邏任務完成！共收集到 {len(all_events)} 筆全新的活動資料。")
+    print(f"✅ 巡邏任務完成！資料庫總共有 {len(final_events)} 筆有效活動。")
     print("==================================================")
 
 if __name__ == "__main__":
