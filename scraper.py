@@ -71,20 +71,32 @@ def find_activity_links(source_name, source_url):
     if not soup:
         return []
         
-    links_data = []
+    keywords = ['報名', '活動', '營隊', '展', '體驗', '課程', '親子', '兒童', '夏令', '冬令', '節', '季']
+    filtered_links = []
+    
     for a in soup.find_all('a', href=True):
         text = a.get_text(strip=True)
         href = a['href']
         if len(text) > 3 and not href.startswith('javascript:'):
             full_url = urllib.parse.urljoin(source_url, href)
-            links_data.append(f"[{text}]({full_url})")
+            # 先用 Python 過濾出含有關鍵字的連結，大幅減少送給 AI 的資料量
+            if any(kw in text for kw in keywords):
+                filtered_links.append(f"[{text}]({full_url})")
             
-    links_data = list(set(links_data))
+    filtered_links = list(set(filtered_links))
     
-    if not links_data:
+    # 如果用關鍵字找不到，退而求其次抓前 30 個普通連結
+    if not filtered_links:
+        for a in soup.find_all('a', href=True):
+            text = a.get_text(strip=True)
+            if len(text) > 3 and not a['href'].startswith('javascript:'):
+                filtered_links.append(f"[{text}]({urllib.parse.urljoin(source_url, a['href'])})")
+        filtered_links = list(set(filtered_links))[:30]
+        
+    if not filtered_links:
         return []
 
-    print(f"  - 找到 {len(links_data)} 個連結，篩選中...")
+    print(f"  - 找到 {len(filtered_links)} 個連結，篩選中...")
     
     prompt = f"""
     你是一個專門尋找「兒童活動、親子活動、體驗營」的 AI 助手。
@@ -99,7 +111,7 @@ def find_activity_links(source_name, source_url):
     ]
 
     連結清單：
-    {chr(10).join(links_data[:200])} 
+    {chr(10).join(filtered_links[:40])} 
     """
     
     urls = call_gemini_with_retry(prompt)
@@ -147,7 +159,7 @@ def extract_event_details(url):
     ]
 
     網頁內容如下：
-    {clean_text[:5000]}
+    {clean_text[:3000]}
     """
     
     events = call_gemini_with_retry(prompt)
