@@ -434,5 +434,265 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,21011,,,,,2",
         "crawl_time": "2026-07-01T07:47:41"
+    },
+    {
+        "title": "中興分館兒童繪本故事時間",
+        "category": "知性與靜態學習",
+        "activity_date": "115-01-01 ~ 115-12-31",
+        "date": "2026-01-01",
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "無需報名",
+        "location": "國立公共資訊圖書館中興分館",
+        "target_age": "親子兒童",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "中興分館舉辦的兒童繪本故事時間，適合親子一同參與，享受閱讀的樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://activity.nlpi.edu.tw/",
+        "crawl_time": "2026-07-01T08:03:15"
+    },
+    {
+        "title": "臺灣原住民文化講座及編織書籤手作體驗",
+        "category": "手作DIY與才藝",
+        "activity_date": "115-06-02 ~ 115-07-04",
+        "date": "2026-06-02",
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "115-06/04 ~ 115-07/02，報名額滿",
+        "location": "國立公共資訊圖書館",
+        "target_age": "一般大眾",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "透過臺灣原住民文化講座，搭配編織書籤手作體驗，了解原住民文化並動手創作。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://activity.nlpi.edu.tw/",
+        "crawl_time": "2026-07-01T08:03:15"
+    },
+    {
+        "title": "用漫畫讀科學：萌動力新書導讀",
+        "category": "知性與靜態學習",
+        "activity_date": "115-06-02 ~ 115-07-19",
+        "date": "2026-06-02",
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "無需報名",
+        "location": "國立公共資訊圖書館",
+        "target_age": "一般大眾",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "透過漫畫新書導讀，以輕鬆有趣的方式探索科學知識，激發對學習的興趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://activity.nlpi.edu.tw/",
+        "crawl_time": "2026-07-01T08:03:15"
+    },
+    {
+        "title": "認識鳥類的聲音",
+        "category": "生態與大自然",
+        "activity_date": "115-06-02 ~ 115-07-26",
+        "date": "2026-06-02",
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "無需報名",
+        "location": "國立公共資訊圖書館",
+        "target_age": "一般大眾",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "透過講座學習辨識鳥類的聲音，探索大自然的奧秘，培養對生態環境的觀察力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://activity.nlpi.edu.tw/",
+        "crawl_time": "2026-07-01T08:03:15"
+    },
+    {
+        "title": "從天空到城市：猛禽如何帶我們看見環境變遷與永續",
+        "category": "生態與大自然",
+        "activity_date": "115-06-02 ~ 115-08-09",
+        "date": "2026-06-02",
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "無需報名",
+        "location": "國立公共資訊圖書館",
+        "target_age": "一般大眾",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "透過猛禽生態，認識環境變遷議題與永續發展的重要性，提升環保意識。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://activity.nlpi.edu.tw/",
+        "crawl_time": "2026-07-01T08:03:15"
+    },
+    {
+        "title": "虎哩哉！與淺山鄰居石虎的共存之道",
+        "category": "生態與大自然",
+        "activity_date": "115-06-02 ~ 115-08-16",
+        "date": "2026-06-02",
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "無需報名",
+        "location": "國立公共資訊圖書館",
+        "target_age": "一般大眾",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "認識淺山生態與瀕危石虎，學習與野生動物和平共存的方法，推廣保育觀念。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://activity.nlpi.edu.tw/",
+        "crawl_time": "2026-07-01T08:03:15"
+    },
+    {
+        "title": "我的動物同學",
+        "category": "生態與大自然",
+        "activity_date": "115-06-02 ~ 115-08-30",
+        "date": "2026-06-02",
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "無需報名",
+        "location": "國立公共資訊圖書館",
+        "target_age": "一般大眾",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "以生動有趣的方式介紹動物世界，讓孩子們認識各種動物，培養對生命的關懷。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://activity.nlpi.edu.tw/",
+        "crawl_time": "2026-07-01T08:03:15"
+    },
+    {
+        "title": "中興分館假日電影院",
+        "category": "藝文展演",
+        "activity_date": "115-01-03 ~ 115-12-30",
+        "date": "2026-01-03",
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "無需報名",
+        "location": "國立公共資訊圖書館中興分館",
+        "target_age": "分館活動群眾",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "中興分館於假日舉辦電影放映活動，提供適合全家大小一同觀賞的影片。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://activity.nlpi.edu.tw/",
+        "crawl_time": "2026-07-01T08:03:15"
+    },
+    {
+        "title": "S級職夢者學院──實境解謎、闖關抽獎活動",
+        "category": "知性與靜態學習",
+        "activity_date": "115-06-24 ~ 115-08-09",
+        "date": "2026-06-24",
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "無需報名",
+        "location": "國立公共資訊圖書館",
+        "target_age": "一般大眾",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "參與S級職夢者學院實境解謎與闖關活動，挑戰智慧，並有機會參與抽獎。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://activity.nlpi.edu.tw/",
+        "crawl_time": "2026-07-01T08:03:15"
+    },
+    {
+        "title": "【技職星際站2026領航員報到】技職嘉年華活動",
+        "category": "職業體驗",
+        "activity_date": "115-06-25 ~ 115-07-18",
+        "date": "2026-06-25",
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "無需報名",
+        "location": "國立公共資訊圖書館",
+        "target_age": "青少年",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "針對青少年舉辦的技職嘉年華，透過多元活動認識不同職業領域，激發未來潛能。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://activity.nlpi.edu.tw/",
+        "crawl_time": "2026-07-01T08:03:15"
+    },
+    {
+        "title": "S級職夢者學院──借閱加碼 送數字填色活動",
+        "category": "手作DIY與才藝",
+        "activity_date": "115-06-26 ~ 115-08-09",
+        "date": "2026-06-26",
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "無需報名",
+        "location": "國立公共資訊圖書館",
+        "target_age": "一般大眾",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "參與圖書館借閱活動，即可獲贈數字填色活動，享受動手創作的樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://activity.nlpi.edu.tw/",
+        "crawl_time": "2026-07-01T08:03:15"
+    },
+    {
+        "title": "海洋教育・蔚藍漫遊號｜2026海洋教育全國巡迴推廣",
+        "category": "生態與大自然",
+        "activity_date": "115-06-30 ~ 115-08-02",
+        "date": "2026-06-30",
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "無需報名",
+        "location": "國立公共資訊圖書館",
+        "target_age": "一般大眾",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "透過全國巡迴推廣活動，深入淺出地介紹海洋知識與保育，提升大眾的海洋素養。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://activity.nlpi.edu.tw/",
+        "crawl_time": "2026-07-01T08:03:15"
+    },
+    {
+        "title": "7月戶外電影*總館館前廣場放映牆",
+        "category": "藝文展演",
+        "activity_date": "115-07-01 ~ 115-07-31",
+        "date": "2026-07-01",
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "無需報名",
+        "location": "國立公共資訊圖書館總館館前廣場",
+        "target_age": "一般大眾",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "七月份於總館館前廣場舉辦戶外電影放映，邀請民眾一同享受星空下的電影時光。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://activity.nlpi.edu.tw/",
+        "crawl_time": "2026-07-01T08:03:15"
     }
 ];
