@@ -254,5 +254,184 @@
         "summary": "桃園市兒童美術館於暑假期間舉辦夏令營，以「玩藝」為主題，提供藝術體驗活動，鼓勵孩子們盡情探索藝術與創意，豐富暑期生活。",
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://tmofa.tycg.gov.tw/ch/events/current-events"
+    },
+    {
+        "title": "蛙寶故事團2026年7月說故事活動",
+        "category": "知性與靜態學習",
+        "activity_date": "2026年7月 每周三及周日",
+        "date": "2026-07-01",
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "現場參與，無須事前報名",
+        "location": "市圖總館(新總館)，臺南市永康區康橋大道255號",
+        "target_age": "適合兒童（無明確年齡限制，圖書館活動通常涵蓋學齡前至國小學童）",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "臺南市立圖書館蛙寶故事團於2026年7月每周三及周日舉辦說故事活動，為孩子們精心準備豐富故事，期盼打開閱讀世界，歡迎家長帶孩子前往總館參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnpl.tn.edu.tw/n14943237246847044508/n1Content",
+        "crawl_time": "2026-07-01T07:47:41"
+    },
+    {
+        "title": "【ㄅ級大人預備備】2026青少年閱讀推廣活動",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-07-26",
+        "date": "2026-07-26",
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "尚未開始報名",
+        "location": "市圖總館(新總館) (臺南市永康區康橋大道255號)",
+        "target_age": "青少年",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "專為青少年設計的閱讀推廣活動，旨在培養閱讀興趣、提升能力，為邁向獨立思考的「ㄅ級大人」奠定基礎。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnpl.tn.edu.tw/ActivityList",
+        "crawl_time": "2026-07-01T07:47:41"
+    },
+    {
+        "title": "《成大台語囡仔古：台語故事時間》",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-07-05",
+        "date": "2026-07-05",
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "請參考活動頁面資訊",
+        "location": "市圖總館(新總館) (臺南市永康區康橋大道255號)",
+        "target_age": "囡仔",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "由成功大學舉辦的台語兒童故事時間，透過生動活潑的台語故事，帶領孩子們進入奇妙的想像世界，並體驗在地語言文化。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnpl.tn.edu.tw/ActivityList",
+        "crawl_time": "2026-07-01T07:47:41"
+    },
+    {
+        "title": "2026創客空間活動",
+        "category": "科技與創客",
+        "activity_date": "2026-07-05",
+        "date": "2026-07-05",
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "請參考活動頁面資訊",
+        "location": "市圖總館(新總館) (臺南市永康區康橋大道255號)",
+        "target_age": "未明確說明",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "提供動手實作的創客體驗，激發創意與培養解決問題的能力，適合對科技與創作有興趣的學員參加。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnpl.tn.edu.tw/ActivityList",
+        "crawl_time": "2026-07-01T07:47:41"
+    },
+    {
+        "title": "2026南市圖 解鎖未來力：AI世代的數位技能課",
+        "category": "科技與創客",
+        "activity_date": "2026-07-05",
+        "date": "2026-07-05",
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "請參考活動頁面資訊",
+        "location": "市圖總館(新總館) (臺南市永康區康橋大道255號)",
+        "target_age": "未明確說明",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "探討AI世代的數位技能，課程旨在提升學員的科技素養，掌握未來趨勢，解鎖數位時代的無限潛力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnpl.tn.edu.tw/ActivityList",
+        "crawl_time": "2026-07-01T07:47:41"
+    },
+    {
+        "title": "「感官超連結：閱讀小宇宙之旅」：圖像故事登入中",
+        "category": "藝文展演",
+        "activity_date": "2026年7月1日(三)－8月31日(一)，每週一及國定假日休館",
+        "date": "2026-07-01",
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "展覽期間現場參與，無需預約報名",
+        "location": "臺南市立圖書館總館 (臺南市永康區康橋大道255號)",
+        "target_age": "大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "臺南市立圖書館舉辦「感官超連結：閱讀小宇宙之旅」圖書展覽，精選金漫獎與金繪獎得獎漫畫繪本，邀請大小朋友進入圖像故事世界。展覽期間可體驗色彩遊蹤、角色設計及集章活動，感受圖像魅力，展開跨越文字與色彩的閱讀冒險。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnpl.tn.edu.tw/n15620079756062084680/n1Content",
+        "crawl_time": "2026-07-01T07:47:41"
+    },
+    {
+        "title": "2026夏令營《小大人驚奇的成長冒險之旅》",
+        "category": "知性與靜態學習",
+        "activity_date": "2026年8月4日至8月7日，每日上午9:00-12:00，每日為獨立課程。",
+        "date": "2026-08-04",
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "報名期間：2026年6月30日上午9點-2026年7月15日下午5點，額滿為止。採網路報名登記，正取者請於一週內至總館3樓服務台繳費完成。",
+        "location": "綠美圖B1多媒體講堂（臺中市西屯區中科路2201號）",
+        "target_age": "暑假前國小3至6年級學生",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "以世界知名繪本作家奧利佛．傑法作品為主題，透過故事閱讀、情緒探索、創意手作與STEAM體驗，引導國小學童學習表達感受、理解他人，培養解決問題與創造力，在閱讀中認識自我與世界，展開成長冒險。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://gov.tw/rG7",
+        "crawl_time": "2026-07-01T07:47:41"
+    },
+    {
+        "title": "【葫蘆墩分館】8/01「借書免費玩-親子桌遊」",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-08-01 10:00 ~ 11:30",
+        "date": "2026-08-01",
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "活動頁面未明確說明報名時間與方式，請留意圖書館公告或洽詢葫蘆墩分館。",
+        "location": "葫蘆墩分館",
+        "target_age": "親子(幼稚園中班至國小)一隊，每場10-15隊",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "臺中市立圖書館葫蘆墩分館舉辦親子桌遊活動，適合幼稚園中班至國小親子參加。活動名稱暗示可能與借書相關。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,20841,,,,,2",
+        "crawl_time": "2026-07-01T07:47:41"
+    },
+    {
+        "title": "2026臺中市閱讀起步走-閱讀之森書展",
+        "category": "知性與靜態學習",
+        "activity_date": "2026年8月1日至8月30日，每日開放時間：週二至週六 08:30-21:00，週日 08:30-17:30，週一及國定例假日休館。",
+        "date": "2026-08-01",
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "無須報名，自由參觀",
+        "location": "臺中市立圖書館西區分館",
+        "target_age": "0-5 歲嬰幼兒家庭",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲"
+        ],
+        "price_type": "免費",
+        "summary": "此展覽推廣0-5歲嬰幼兒家庭的親子共讀理念，透過繪本探索世界，將閱讀樂趣轉化為家庭中最自然、溫暖的每日陪伴，讓閱讀像一顆種子在孩子心中發芽。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,21011,,,,,2",
+        "crawl_time": "2026-07-01T07:47:41"
     }
 ]

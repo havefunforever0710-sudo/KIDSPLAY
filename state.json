@@ -1,5 +1,5 @@
 {
-    "last_index": 20,
+    "last_index": 25,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [],
         "https://www.ntsec.gov.tw/": [],
@@ -29,6 +29,19 @@
             "https://tmofa.tycg.gov.tw/ch/events/current-events"
         ],
         "https://www.cultural.pthg.gov.tw/ptdpml/": [],
-        "https://www.ksml.edu.tw/": []
+        "https://www.ksml.edu.tw/": [],
+        "https://www.tnpl.tn.edu.tw/": [
+            "https://www.tnpl.tn.edu.tw/n14943237246847044508/n1Content",
+            "https://www.tnpl.tn.edu.tw/ActivityList",
+            "https://www.tnpl.tn.edu.tw/n15620079756062084680/n1Content"
+        ],
+        "https://www.library.taichung.gov.tw/": [
+            "https://gov.tw/rG7",
+            "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,20841,,,,,2",
+            "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,21011,,,,,2"
+        ],
+        "https://www.typl.gov.tw/": [],
+        "https://www.library.ntpc.gov.tw/": [],
+        "https://tpml.gov.taipei/": []
     }
 }
