@@ -257,13 +257,9 @@ def main():
         except:
             existing_events = []
             
-    # 過濾掉已經過期的舊活動
-    today_str = datetime.now().strftime("%Y-%m-%d")
-    valid_events = []
-    for ev in existing_events:
-        # 如果活動日期大於等於今天，或者是無法解析日期的，都暫時保留
-        if ev.get("date", "") >= today_str or not ev.get("date"):
-            valid_events.append(ev)
+    # 暫停自動刪除功能：因為許多暑期展覽與營隊的「開始報名日」或「活動起始日」在 6 月，
+    # 若單純比對今天 (7月)，會導致這些還在進行中的長天數活動被系統誤判為「過期」而自動刪除。
+    valid_events = existing_events
             
     print(f"\n📦 從資料庫載入 {len(valid_events)} 筆未過期的歷史活動。")
     print(f"🆕 本次新增 {len(all_new_events)} 筆全新活動。")
