@@ -694,5 +694,55 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://activity.nlpi.edu.tw/",
         "crawl_time": "2026-07-01T08:03:15"
+    },
+    {
+        "title": "淘金體驗",
+        "category": "在地文化體驗",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "黃金博物館「黃金館」旁售票亭購票，亦可透過線上預購（https://gepntpc.fonticket.com/），現場售票時間：am9:30～pm2:30。",
+        "location": "黃金館淘金體驗區三樓（新北市瑞芳區金光路8號）",
+        "target_age": "不限",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "新北市立黃金博物館提供的淘金體驗活動，讓遊客親身體驗採礦歷史與淘金樂趣。活動設有平日與假日固定場次，適合全齡參與，是了解金瓜石在地文化的好機會。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246370980849685209",
+        "crawl_time": "2026-07-01T22:57:47"
+    },
+    {
+        "title": "說石話—石頭的身世與故事 特展",
+        "category": "知性與靜態學習",
+        "activity_date": "2025/10/20 ~ 2026/9/20",
+        "start_date": "2025-10-20",
+        "end_date": "2026-09-20",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "新北市立黃金博物館 大地館3樓特展室 (地址：新北市瑞芳區金光路8號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "本特展「說石話—石頭的身世與故事」從天文、考古、科學、產業等面向，探討人們看待石頭的方式與衍生知識，回答「石頭是什麼」的核心問題。認識石頭是人類理解世界樣貌、探索歷史、連結內外的過程。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.gep.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G266496700270752519&sid=0P275406705160831604",
+        "crawl_time": "2026-07-01T22:57:47"
     }
 ];

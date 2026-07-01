@@ -1,5 +1,5 @@
 {
-    "last_index": 40,
+    "last_index": 45,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [],
         "https://www.ntsec.gov.tw/": [],
@@ -59,6 +59,14 @@
         "https://chiayiartmuseum.chiayi.gov.tw/": [],
         "https://tbocc.cyhg.gov.tw/": [],
         "https://www.ncfta.gov.tw/": [],
-        "https://www.npsm.org.tw/": []
+        "https://www.npsm.org.tw/": [],
+        "https://www.gep.ntpc.gov.tw/": [
+            "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246370980849685209",
+            "https://www.gep.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G266496700270752519&sid=0P275406705160831604"
+        ],
+        "https://www.nmh.gov.tw/": [],
+        "https://www.mocataipei.org.tw/": [],
+        "https://www.museum.org.tw/": [],
+        "https://www.nmp.gov.tw/": []
     }
 }
