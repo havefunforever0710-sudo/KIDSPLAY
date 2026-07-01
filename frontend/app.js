@@ -228,18 +228,58 @@ document.addEventListener('DOMContentLoaded', () => {
         
         const filteredEventsForMarks = getFilteredEvents();
         const eventDates = new Set();
+        
         filteredEventsForMarks.forEach(e => {
-            if (!e.date) return;
-            // 容錯處理：將斜線改為橫線，並確保月份和日期都有補零
-            const dStr = e.date.replace(/\//g, '-').trim();
-            const parts = dStr.split('-');
-            if (parts.length >= 3) {
-                const y = parts[0];
-                const m = parts[1].padStart(2, '0');
-                const d = parts[2].substring(0, 2).padStart(2, '0');
-                eventDates.add(`${y}-${m}-${d}`);
-            } else {
-                eventDates.add(dStr);
+            let sDateStr = e.start_date || e.date;
+            if (!sDateStr) return;
+            sDateStr = sDateStr.replace(/\//g, '-').trim();
+            let eDateStr = e.end_date ? e.end_date.replace(/\//g, '-').trim() : sDateStr;
+            
+            // 嘗試解析日期
+            let startDate = new Date(sDateStr);
+            let endDate = new Date(eDateStr);
+            
+            // 避免 Invalid Date
+            if (isNaN(startDate.getTime())) return;
+            if (isNaN(endDate.getTime())) endDate = startDate;
+            
+            // 計算天數差
+            const daysDiff = (endDate - startDate) / (1000 * 60 * 60 * 24);
+            const isRecurring = Array.isArray(e.recurring_days) && e.recurring_days.length > 0;
+            const isLongTerm = daysDiff >= 7 && !isRecurring;
+            
+            // 將判斷結果存入物件中供後續 renderEvents 使用
+            e.isLongTerm = isLongTerm;
+            e.parsedStart = startDate;
+            e.parsedEnd = endDate;
+
+            if (isLongTerm) {
+                // 長天數常態展覽：只在「首日」與「末日」標示紅點，防洗版
+                const sy = startDate.getFullYear();
+                const sm = String(startDate.getMonth() + 1).padStart(2, '0');
+                const sd = String(startDate.getDate()).padStart(2, '0');
+                eventDates.add(`${sy}-${sm}-${sd}`);
+                
+                const ey = endDate.getFullYear();
+                const em = String(endDate.getMonth() + 1).padStart(2, '0');
+                const ed = String(endDate.getDate()).padStart(2, '0');
+                eventDates.add(`${ey}-${em}-${ed}`);
+                return;
+            }
+            
+            // 週期性或短期活動：標示區間內符合的每一天
+            let current = new Date(startDate);
+            let count = 0;
+            while (current <= endDate && count < 60) { // 最多往後推 60 天防止無窮迴圈
+                const dayOfWeek = current.getDay();
+                if (!isRecurring || e.recurring_days.includes(dayOfWeek)) {
+                    const y = current.getFullYear();
+                    const m = String(current.getMonth() + 1).padStart(2, '0');
+                    const d = String(current.getDate()).padStart(2, '0');
+                    eventDates.add(`${y}-${m}-${d}`);
+                }
+                current.setDate(current.getDate() + 1);
+                count++;
             }
         });
 
@@ -287,7 +327,22 @@ document.addEventListener('DOMContentLoaded', () => {
         let filteredEvents = getFilteredEvents();
         
         if (currentViewMode === 'calendar' && selectedDateStr) {
-            filteredEvents = filteredEvents.filter(e => e.date === selectedDateStr);
+            filteredEvents = filteredEvents.filter(e => {
+                if (!e.parsedStart) {
+                    // 若沒有 parsedStart (可能格式不符)，退回檢查 date
+                    return e.date === selectedDateStr;
+                }
+                
+                let selected = new Date(selectedDateStr);
+                if (selected < e.parsedStart || selected > e.parsedEnd) return false;
+                
+                const isRecurring = Array.isArray(e.recurring_days) && e.recurring_days.length > 0;
+                if (isRecurring && !e.recurring_days.includes(selected.getDay())) {
+                    return false;
+                }
+                
+                return true;
+            });
         }
 
         if (filteredEvents.length === 0) {
@@ -301,7 +356,7 @@ document.addEventListener('DOMContentLoaded', () => {
             return;
         }
 
-        filteredEvents.forEach(event => {
+        const createCard = (event) => {
             const card = document.createElement('div');
             card.className = 'event-card';
             
@@ -327,14 +382,14 @@ document.addEventListener('DOMContentLoaded', () => {
                     <h3 class="event-title">${event.title}</h3>
                     <div class="event-info">
                         <div class="info-row">
-                            <span>📍</span> <span>${event.location}</span>
+                            <span>📍</span> <span>${event.location || event.city}</span>
                         </div>
                         <div class="info-row">
-                            <span>⏰</span> <span>${event.activity_date}</span>
+                            <span>⏰</span> <span>${event.activity_date || event.date || '詳見官網'}</span>
                         </div>
                     </div>
                     <div class="event-actions">
-                        <span class="reg-status">${event.registration_date}</span>
+                        <span class="reg-status">${(event.registration_date && event.registration_date.length < 20) ? event.registration_date : ''}</span>
                         <div style="display:flex; gap:12px; align-items:center;">
                             <button class="fav-btn" aria-label="Save">♡</button>
                             <a href="${linkUrl}" target="_blank" class="apply-link-btn" onclick="event.stopPropagation()">報名/詳情 🔗</a>
@@ -356,8 +411,37 @@ document.addEventListener('DOMContentLoaded', () => {
                     favBtn.style.backgroundColor = '#F8F9FB';
                 }
             };
-            eventContainer.appendChild(card);
-        });
+            return card;
+        };
+
+        // 在月曆模式下且有選中日期時，將常態展覽分流顯示
+        if (currentViewMode === 'calendar' && selectedDateStr) {
+            const dailyEvents = filteredEvents.filter(e => !e.isLongTerm);
+            const ongoingEvents = filteredEvents.filter(e => e.isLongTerm);
+            
+            if (dailyEvents.length > 0) {
+                dailyEvents.forEach(e => eventContainer.appendChild(createCard(e)));
+            } else if (ongoingEvents.length > 0) {
+                // 如果今天沒有單日活動，但有常態展覽
+                const noDailyMsg = document.createElement('div');
+                noDailyMsg.style.textAlign = 'center';
+                noDailyMsg.style.padding = '30px 20px';
+                noDailyMsg.style.color = '#8A8A9E';
+                noDailyMsg.innerHTML = `<p style="font-weight: 500;">今日無特定活動</p>`;
+                eventContainer.appendChild(noDailyMsg);
+            }
+            
+            if (ongoingEvents.length > 0) {
+                const ongoingHeader = document.createElement('div');
+                ongoingHeader.className = 'ongoing-header';
+                ongoingHeader.innerHTML = '🌟 本月常態展覽/活動';
+                eventContainer.appendChild(ongoingHeader);
+                ongoingEvents.forEach(e => eventContainer.appendChild(createCard(e)));
+            }
+        } else {
+            // 一般模式直接全部渲染
+            filteredEvents.forEach(e => eventContainer.appendChild(createCard(e)));
+        }
     }
 
     function refreshData() {
