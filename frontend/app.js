@@ -209,7 +209,21 @@ document.addEventListener('DOMContentLoaded', () => {
         const daysInMonth = new Date(year, month + 1, 0).getDate();
         
         const filteredEventsForMarks = getFilteredEvents();
-        const eventDates = new Set(filteredEventsForMarks.map(e => e.date));
+        const eventDates = new Set();
+        filteredEventsForMarks.forEach(e => {
+            if (!e.date) return;
+            // 容錯處理：將斜線改為橫線，並確保月份和日期都有補零
+            const dStr = e.date.replace(/\//g, '-').trim();
+            const parts = dStr.split('-');
+            if (parts.length >= 3) {
+                const y = parts[0];
+                const m = parts[1].padStart(2, '0');
+                const d = parts[2].substring(0, 2).padStart(2, '0');
+                eventDates.add(`${y}-${m}-${d}`);
+            } else {
+                eventDates.add(dStr);
+            }
+        });
 
         for (let i = 0; i < firstDay; i++) {
             const emptyCell = document.createElement('div');
