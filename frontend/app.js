@@ -176,11 +176,20 @@ document.addEventListener('DOMContentLoaded', () => {
         });
     }
 
-    // 4. 資料過濾邏輯
+    // 4. 資料過濾與最新收錄邏輯
     const dataSource = (typeof dynamicEvents !== 'undefined' && dynamicEvents.length > 0) ? dynamicEvents : mockEvents;
+    
+    // 計算出最新的 crawl_time
+    let latestCrawlTimeStr = null;
+    if (dataSource && dataSource.length > 0) {
+        const crawlTimes = dataSource.map(e => e.crawl_time).filter(t => t);
+        if (crawlTimes.length > 0) {
+            latestCrawlTimeStr = crawlTimes.sort().reverse()[0];
+        }
+    }
 
     function getFilteredEvents() {
-        return dataSource.filter(e => {
+        let filtered = dataSource.filter(e => {
             if (currentCategory !== 'All' && !e.category.includes(currentCategory.split('與')[0])) return false;
             if (currentRegion !== 'All' && e.region !== currentRegion) return false;
             if (selectedCities.length > 0 && !selectedCities.includes(e.city)) return false;
@@ -195,6 +204,15 @@ document.addEventListener('DOMContentLoaded', () => {
             }
             return true;
         });
+
+        // 依據 crawl_time 排序，新抓到的在最前面
+        filtered.sort((a, b) => {
+            const timeA = a.crawl_time || "";
+            const timeB = b.crawl_time || "";
+            return timeB.localeCompare(timeA);
+        });
+
+        return filtered;
     }
 
     // 5. 月曆繪製邏輯
@@ -287,6 +305,10 @@ document.addEventListener('DOMContentLoaded', () => {
             const card = document.createElement('div');
             card.className = 'event-card';
             
+            // 判斷是否為最新收錄
+            const isNew = event.crawl_time && event.crawl_time === latestCrawlTimeStr;
+            const newBadgeHtml = isNew ? `<span class="new-badge">🆕 最新收錄</span>` : '';
+            
             const priceTagClass = event.price_type === '免費' ? 'price-free' : 'price-paid';
             const priceText = event.price_type || '費用未知';
             const linkUrl = event.source_url || '#';
@@ -294,6 +316,7 @@ document.addEventListener('DOMContentLoaded', () => {
             card.innerHTML = `
                 <div class="event-img-container">
                     <img src="${event.image || 'https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80'}" alt="${event.title}" class="event-img">
+                    ${newBadgeHtml}
                     <span class="event-tag-floating">${event.category.split('與')[0]}</span>
                     <span class="event-tag-price ${priceTagClass}">${priceText}</span>
                 </div>

@@ -222,6 +222,7 @@ def main():
     print(f"🎯 本次批次範圍: {start_idx} ~ {end_idx-1}")
     
     all_new_events = []
+    current_crawl_time = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
     
     # 4. 開始爬取
     for idx, source in enumerate(current_sources):
@@ -236,6 +237,8 @@ def main():
         for url in target_urls:
             events = extract_event_details(url)
             if events:
+                for e in events:
+                    e["crawl_time"] = current_crawl_time
                 all_new_events.extend(events)
                 # 將新網址加入記憶體，最多保留 100 個，避免檔案無限膨脹
                 visited.append(url)
