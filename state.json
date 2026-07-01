@@ -1,5 +1,5 @@
 {
-    "last_index": 10,
+    "last_index": 15,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [],
         "https://www.ntsec.gov.tw/": [],
@@ -12,6 +12,13 @@
         "https://www.tfam.museum/": [],
         "https://www.ntmofa.gov.tw/": [
             "https://event.culture.tw/NTMOFA"
+        ],
+        "https://www.tnam.museum/": [],
+        "https://www.kmfa.gov.tw/": [],
+        "https://www.ceramics.ntpc.gov.tw/": [],
+        "https://www.sshm.ntpc.gov.tw/": [],
+        "https://www.juming.org.tw/": [
+            "https://www.juming.org.tw/?sn=ec&pg=ZC845518&gn=%u6D3B%u52D5%u65B0%u8A0A"
         ]
     }
 }
