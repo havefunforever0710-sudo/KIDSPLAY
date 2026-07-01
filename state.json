@@ -1,5 +1,5 @@
 {
-    "last_index": 35,
+    "last_index": 40,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [],
         "https://www.ntsec.gov.tw/": [],
@@ -54,6 +54,11 @@
         "https://www.songshanculturalpark.org/": [],
         "https://www.huashan1914.com/": [],
         "https://pier2.org/": [],
-        "https://www.ttdac.taichung.gov.tw/": []
+        "https://www.ttdac.taichung.gov.tw/": [],
+        "https://www.huludun.taichung.gov.tw/": [],
+        "https://chiayiartmuseum.chiayi.gov.tw/": [],
+        "https://tbocc.cyhg.gov.tw/": [],
+        "https://www.ncfta.gov.tw/": [],
+        "https://www.npsm.org.tw/": []
     }
 }
