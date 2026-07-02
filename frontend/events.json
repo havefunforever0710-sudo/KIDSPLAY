@@ -849,5 +849,96 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.lym.gov.tw/ch/education/activity/",
         "crawl_time": "2026-07-02T02:32:36"
+    },
+    {
+        "title": "森森不息 線上樹火玩紙博物館 SUHO Online Paper Museum",
+        "category": "知性與靜態學習",
+        "activity_date": "全年無休，每天24小時開放",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "隨時開放，透過網址進入",
+        "location": "線上展覽，參觀網址：https://www.virtualmuseum.world/suhopaper/",
+        "target_age": "全齡 (適合各年齡層)",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "樹火紀念紙博物館集結30年經驗，首次以數位互動科技，打造線上玩紙博物館。內容包含探索造紙植物、體驗取纖過程、VR環景工廠、真人導覽、學習資源等，讓參與者從自然出發，透過數位科技，親身體驗造紙文化與藝術教育的樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.suhopaper.org.tw/index.php?route=information/information&information_id=94",
+        "crawl_time": "2026-07-02T09:03:11"
+    },
+    {
+        "title": "樹火館內造紙體驗活動",
+        "category": "手作DIY與才藝",
+        "activity_date": "每場約40分鐘。",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場報名 (各場名額有限，當日額滿為止) 或 線上Klook預約購票。",
+        "location": "樹火紀念紙博物館4F造紙體驗區 (台北市中山區長安東路二段68號)",
+        "target_age": "３歲以上各年齡層的大小朋友。",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "在樹火頂樓造紙陽台，親手攪動紙漿，體驗纖維成紙的有趣過程。適合3歲以上大小朋友，每場約40分鐘。可選擇素紙或花草手工紙體驗，費用$230起。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.suhopaper.org.tw/index.php?route=information/information&information_id=98",
+        "crawl_time": "2026-07-02T09:03:11"
+    },
+    {
+        "title": "線裝手工書DIY材料包",
+        "category": "手作DIY與才藝",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場加購材料包。",
+        "location": "可在樹火紀念紙博物館館內手作區域製作或帶回家完成 (台北市中山區長安東路二段68號)",
+        "target_age": "７歲以上（７歲以下請由家長引導與協助）",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "購買材料包，利用製作完成的手工紙作為封面，搭配內頁及裝飾紙材，一步一步跟著說明書，製作獨一無二充滿手作風格的小書。適合7歲以上，7歲以下需家長引導協助。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.suhopaper.org.tw/index.php?route=information/information&information_id=98",
+        "crawl_time": "2026-07-02T09:03:11"
+    },
+    {
+        "title": "墾管處攜手南瀛天文館 打造沉浸式天文探索營隊",
+        "category": "知性與靜態學習",
+        "activity_date": "",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "線上報名 (詳情請見官網)",
+        "location": "墾丁國家公園管理處",
+        "target_age": null,
+        "age_groups": [],
+        "price_type": "付費",
+        "summary": "墾丁國家公園管理處與南瀛天文館合作，推出沉浸式天文探索營隊，帶領學員探索宇宙奧秘與自然生態。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ktnp.gov.tw/News_Content.aspx?n=5654361B474B8EFF&sms=BF1954FACE1D31AD&s=49680106F5044EC6",
+        "crawl_time": "2026-07-02T09:03:11"
     }
 ]
