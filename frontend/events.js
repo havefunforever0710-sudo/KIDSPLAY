@@ -744,5 +744,111 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.gep.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G266496700270752519&sid=0P275406705160831604",
         "crawl_time": "2026-07-01T22:57:47"
+    },
+    {
+        "title": "2026年「海洋餐桌學---從魚市場到校園的永續教育行動」食魚教育增能課程開放報名囉！",
+        "category": "生態與大自然",
+        "activity_date": "2026/07/09 ~ 2026/07/09",
+        "start_date": "2026-07-09",
+        "end_date": "2026-07-09",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "宜蘭縣",
+        "registration_date": "2026/06/02 ~ 2026/06/19",
+        "location": "蘭陽博物館",
+        "target_age": "一般大眾, 親子",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "此課程為「海洋餐桌學」食魚教育增能課程，探討海洋資源永續。蘭陽博物館邀請學者、料理家、志工，透過講座、闖關活動，推廣海洋永續知識，避免海洋資源耗竭。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.lym.gov.tw/ch/education/activity/",
+        "crawl_time": "2026-07-02T02:32:36"
+    },
+    {
+        "title": "115年「蘭博入校園」 海洋餐桌學—從魚市場到校園的永續行動(需事先報名)",
+        "category": "生態與大自然",
+        "activity_date": "2026/04/09 ~ 2026/09/03",
+        "start_date": "2026-04-09",
+        "end_date": "2026-09-03",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "宜蘭縣",
+        "registration_date": "2026/03/18 ~ 2026/04/30",
+        "location": "宜蘭縣各級學校",
+        "target_age": "團體",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "蘭陽博物館「博物館入校園」專案，推行13年，將資源帶入校園，強化偏鄉學生學習需求。本年度推動「蘭博入校園」海洋餐桌學，延續從魚市場到校園的永續行動，提供多元學習體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.lym.gov.tw/ch/education/activity/",
+        "crawl_time": "2026-07-02T02:32:36"
+    },
+    {
+        "title": "「勁水國寶－故宮x蘭博特展」教育推廣活動（3/21場次）",
+        "category": "藝文展演",
+        "activity_date": "2026/03/21 ~ 2026/03/21",
+        "start_date": "2026-03-21",
+        "end_date": "2026-03-21",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "宜蘭縣",
+        "registration_date": "2026/01/23 ~ 2026/03/20",
+        "location": "蘭陽博物館",
+        "target_age": "一般大眾",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "故宮人氣國寶「肉形石、玉鴨」等15件珍藏來到「勁水國寶－故宮x蘭博特展」。透過教育推廣活動，讓一般大眾近距離欣賞國寶，深入了解其歷史文化意涵，體驗跨越時空的藝術對話。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.lym.gov.tw/ch/education/activity/",
+        "crawl_time": "2026-07-02T02:32:36"
+    },
+    {
+        "title": "「勁水國寶－故宮x蘭博特展」教育推廣活動-金鯉魚手作體驗",
+        "category": "手作DIY與才藝",
+        "activity_date": "2026/02/28 ~ 2026/02/28",
+        "start_date": "2026-02-28",
+        "end_date": "2026-02-28",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "宜蘭縣",
+        "registration_date": "2026/02/13 ~ 2026/02/23",
+        "location": "蘭陽博物館",
+        "target_age": "親子",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "配合「勁水國寶」特展，舉辦金鯉魚手作體驗。展出故宮及宜蘭淇武蘭遺址珍貴文物，其中包含魚形金屬編物「金鯉魚」。親子可親手製作，了解文物歷史與工藝，提升對文化資產的興趣與認識。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.lym.gov.tw/ch/education/activity/",
+        "crawl_time": "2026-07-02T02:32:36"
+    },
+    {
+        "title": "2026世界鯨魚日（World Whale Day）「來自大海的鯨喜!」等你來發現(2/12-14)",
+        "category": "生態與大自然",
+        "activity_date": "2026/02/12 ~ 2026/02/14",
+        "start_date": "2026-02-12",
+        "end_date": "2026-02-14",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "宜蘭縣",
+        "registration_date": "2026/02/12 ~ 2026/02/14",
+        "location": "蘭陽博物館2樓平台序展",
+        "target_age": "一般大眾, 親子",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "每年2月第3個星期日為「世界鯨魚日」。蘭陽博物館於2026年2/12-14舉辦「來自大海的鯨喜!」活動，邀請一般大眾與親子，在2樓平台序展共同關注鯨魚，了解其奧秘與重要性。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.lym.gov.tw/ch/education/activity/",
+        "crawl_time": "2026-07-02T02:32:36"
     }
 ];

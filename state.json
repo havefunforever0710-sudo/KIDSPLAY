@@ -1,5 +1,5 @@
 {
-    "last_index": 45,
+    "last_index": 50,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [],
         "https://www.ntsec.gov.tw/": [],
@@ -22,7 +22,8 @@
         ],
         "https://www.chimeimuseum.org/": [],
         "https://www.lym.gov.tw/": [
-            "https://www.lym.gov.tw/ch/education/course/list/"
+            "https://www.lym.gov.tw/ch/education/course/list/",
+            "https://www.lym.gov.tw/ch/education/activity/"
         ],
         "https://tmofa.tycg.gov.tw/": [
             "https://tmofa.tycg.gov.tw/ch/exhibitions/upcoming-exhibitions",
@@ -67,6 +68,10 @@
         "https://www.nmh.gov.tw/": [],
         "https://www.mocataipei.org.tw/": [],
         "https://www.museum.org.tw/": [],
-        "https://www.nmp.gov.tw/": []
+        "https://www.nmp.gov.tw/": [],
+        "https://www.nmtl.gov.tw/": [],
+        "https://thcdc.hakka.gov.tw/": [],
+        "https://ssl.thcp.org.tw/": [],
+        "https://www.mwr.org.tw/": []
     }
 }
