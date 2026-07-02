@@ -941,5 +941,72 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.ktnp.gov.tw/News_Content.aspx?n=5654361B474B8EFF&sms=BF1954FACE1D31AD&s=49680106F5044EC6",
         "crawl_time": "2026-07-02T09:03:11"
+    },
+    {
+        "title": "2026玉山國家公園Youth Camp「玉山行」",
+        "category": [
+            "生態與大自然",
+            "長天數營隊"
+        ],
+        "activity_date": "2026年7、8月暑假期間辦理，共4梯次，為期3天2夜",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "中部",
+        "city": "南投縣",
+        "registration_date": "115年6月8日8:00起至6月19日18:00止",
+        "location": "玉山國家公園 (從塔塔加起登，夜宿排雲山莊，攀登玉山主峰)",
+        "target_age": "10~12年級的青少年",
+        "age_groups": [],
+        "price_type": "付費",
+        "summary": "玉山國家公園2026年暑假辦理青少年Youth Camp「玉山行」，共4梯次。對象為10~12年級青少年。3天2夜活動從塔塔加起登，攀登玉山主峰。旨在讓學員親近自然，學習風險管理、團隊合作及國土守護。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ysnp.gov.tw/ActivityInfo/C002000?ID=685b75a0-17b1-412f-b30b-4953a52dd88e&PageType=1",
+        "crawl_time": "2026-07-02T22:47:06"
+    },
+    {
+        "title": "2026玉山國家公園Youth Camp「玉山行」",
+        "category": [
+            "生態與大自然",
+            "長天數營隊",
+            "動態體能",
+            "知性與靜態學習"
+        ],
+        "activity_date": "2026年7、8月暑假期間，共計4梯次",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "中部",
+        "city": "南投縣",
+        "registration_date": "115年6月8日8:00起至 6月19日18:00止，請上玉管處官方活動報名網站。",
+        "location": "玉山國家公園（從塔塔加起登，途經孟祿亭、白木林、大峭壁，夜宿排雲山莊，攀登玉山主峰）",
+        "target_age": "10~12年級的青少年",
+        "age_groups": [],
+        "price_type": "付費",
+        "summary": "玉山國家公園將於2026年暑假舉辦Youth Camp「玉山行」營隊，共四梯次，對象為10-12年級青少年。此三天兩夜活動將帶學子從塔塔加起登，夜宿排雲山莊，攀登玉山主峰。旨在親近山林、學習風險管理、團隊合作，並培養國土守護意識。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ysnp.gov.tw/Announcement/C001000?ID=58a12152-7676-4482-a410-81498bcaee44&PageType=1",
+        "crawl_time": "2026-07-02T22:47:06"
+    },
+    {
+        "title": "黑熊骨骼標本特展",
+        "category": "知性與靜態學習",
+        "activity_date": "",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": null,
+        "city": null,
+        "registration_date": null,
+        "location": null,
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "玉山國家公園管理處舉辦的黑熊骨骼標本特展，透過展示黑熊骨骼，提供民眾了解臺灣黑熊的生物特徵與生態保育知識。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ysnp.gov.tw/StaticPage/skeletonspecimen",
+        "crawl_time": "2026-07-02T22:47:06"
     }
 ];
