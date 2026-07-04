@@ -1,5 +1,5 @@
 {
-    "last_index": 65,
+    "last_index": 70,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [],
         "https://www.ntsec.gov.tw/": [],
@@ -70,7 +70,11 @@
         "https://www.museum.org.tw/": [],
         "https://www.nmp.gov.tw/": [],
         "https://www.nmtl.gov.tw/": [],
-        "https://thcdc.hakka.gov.tw/": [],
+        "https://thcdc.hakka.gov.tw/": [
+            "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/167679/",
+            "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/1437/153220/164288/",
+            "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/1437/153220/164272/"
+        ],
         "https://ssl.thcp.org.tw/": [],
         "https://www.mwr.org.tw/": [],
         "https://www.suhopaper.org.tw/": [
@@ -105,6 +109,19 @@
         "https://www.linfamily.ntpc.gov.tw/": [
             "https://www.linfamily.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G249617555861789607&sid=0Q174393748584558538",
             "https://www.linfamily.ntpc.gov.tw/xmdoc/cont?xsmsid=0Q054383780560957303&sid=0Q176521294449682960"
+        ],
+        "https://www.cksmh.gov.tw/": [
+            "https://event.culture.tw/mocweb/reg/CKSMH/Index.init.ctr?openExternalBrowser=1",
+            "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=60773"
+        ],
+        "https://www.yatsen.gov.tw/": [
+            "https://event.culture.tw/mocweb/reg/YATSEN/Index.init.ctr?openExternalBrowser=1"
+        ],
+        "https://culture.hccg.gov.tw/": [],
+        "https://www.tlm.taichung.gov.tw/": [
+            "https://www.tlm.taichung.gov.tw/latestevent/Details.aspx?Parser=9,5,124,,,,1961",
+            "https://www.tlm.taichung.gov.tw/latestevent/Details.aspx?Parser=9,5,124,,,,2003",
+            "https://www.tlm.taichung.gov.tw/latestevent/Details.aspx?Parser=9,5,124,,,,2070"
         ]
     }
 }

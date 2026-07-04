@@ -1219,5 +1219,483 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.linfamily.ntpc.gov.tw/xmdoc/cont?xsmsid=0Q054383780560957303&sid=0Q176521294449682960",
         "crawl_time": "2026-07-03T22:39:29"
+    },
+    {
+        "title": "語文寫作素養-進階A",
+        "category": "6.知性與靜態學習",
+        "activity_date": "2026/09/05-2026/12/19",
+        "start_date": "2026-09-05",
+        "end_date": "2026-12-19",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "2026/07/13 上午9:00開始報名",
+        "location": "國立中正紀念堂管理處 W312教室 (臺北市中正區中山南路21號)",
+        "target_age": "5-6年級或曾初學寫作課程者",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "為5-6年級學童設計的進階語文寫作課程，適合已有基礎或曾初學寫作者，旨在提升寫作能力與素養。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/CKSMH/Index.init.ctr?openExternalBrowser=1",
+        "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "語文寫作素養-初階B",
+        "category": "6.知性與靜態學習",
+        "activity_date": "2026/09/05-2026/12/19",
+        "start_date": "2026-09-05",
+        "end_date": "2026-12-19",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "2026/07/13 上午9:00開始報名",
+        "location": "國立中正紀念堂管理處 W311教室 (臺北市中正區中山南路21號)",
+        "target_age": "3-4年級或曾初學寫作課程者",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "針對3-4年級學童或初學寫作者的基礎語文寫作課程，逐步引導學童建立寫作能力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/CKSMH/Index.init.ctr?openExternalBrowser=1",
+        "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "創藝科技玩家",
+        "category": "8.科技與創客",
+        "activity_date": "2026/09/06-2026/12/13",
+        "start_date": "2026-09-06",
+        "end_date": "2026-12-13",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "2026/07/13 上午9:00開始報名",
+        "location": "國立中正紀念堂管理處 W313教室 (臺北市中正區中山南路21號)",
+        "target_age": "3-6年級",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "適合3-6年級學童的創意科技課程，透過動手操作體驗科技與創客的樂趣，激發創新思維。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/CKSMH/Index.init.ctr?openExternalBrowser=1",
+        "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "繽紛粉彩畫",
+        "category": "4.手作DIY與才藝",
+        "activity_date": "2026/09/06-2026/12/20",
+        "start_date": "2026-09-06",
+        "end_date": "2026-12-20",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "2026/07/13 上午9:00開始報名",
+        "location": "國立中正紀念堂管理處 W313教室 (臺北市中正區中山南路21號)",
+        "target_age": "1-5年級",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "專為1-5年級學童設計的粉彩畫課程，引導孩子透過繽紛色彩與創意，探索藝術世界。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/CKSMH/Index.init.ctr?openExternalBrowser=1",
+        "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "一起輕鬆玩長笛",
+        "category": "4.手作DIY與才藝",
+        "activity_date": "2026/09/07-2026/12/28",
+        "start_date": "2026-09-07",
+        "end_date": "2026-12-28",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "2026/07/22 上午10點開放報名",
+        "location": "國立中正紀念堂管理處 園區教室(二) (臺北市中正區中山南路21號)",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "輕鬆學習長笛基礎，培養音樂興趣與才藝，適合對長笛有興趣的初學者。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/CKSMH/Index.init.ctr?openExternalBrowser=1",
+        "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "《地獄新娘》免費觀賞與映後分享",
+        "category": "2.藝文展演",
+        "activity_date": "2026/09/04-2026/09/04",
+        "start_date": "2026-09-04",
+        "end_date": "2026-09-04",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "免費觀賞",
+        "location": "國立中正紀念堂管理處 演藝廳 (臺北市中正區中山南路21號)",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "免費觀賞提姆·波頓的經典動畫電影《地獄新娘》，並有鄧惠文醫師進行映後分享。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/CKSMH/Index.init.ctr?openExternalBrowser=1",
+        "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "圓潤的魔法 波特羅特展",
+        "category": "藝文展演",
+        "activity_date": "2026/06/19 10:00 ~ 2026/10/11 18:00",
+        "start_date": "2026-06-19",
+        "end_date": "2026-10-11",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "需購票入場，詳見官方網站售票資訊",
+        "location": "中正紀念堂1展廳",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "「圓潤的魔法 波特羅特展」探索哥倫比亞藝術家費爾南多．波特羅獨特的「圓潤美學」。展覽呈現其透過豐盈型態描繪人物、動物與靜物，闡述對體積與存在感的頌揚。展出逾七十年創作生涯的經典作品，顛覆傳統美的想像，帶來一場療癒的藝術饗宴。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=60773",
+        "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "許敏雄老師-水彩畫B班師生成果展",
+        "category": "藝文展演",
+        "activity_date": "2026/06/29-2027/12/31",
+        "start_date": "2026-06-29",
+        "end_date": "2027-12-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "請參閱活動詳情",
+        "location": "國立國父紀念館",
+        "target_age": "不限年齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "展出許敏雄老師水彩畫B班師生們的藝術創作成果，呈現水彩藝術的多元風貌。適合對水彩畫有興趣的民眾參觀。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/YATSEN/Index.init.ctr?openExternalBrowser=1",
+        "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "王俊棠老師-壓克力繪畫與油畫創作班師生成果展",
+        "category": "藝文展演",
+        "activity_date": "2026/06/26-2027/12/31",
+        "start_date": "2026-06-26",
+        "end_date": "2027-12-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "請參閱活動詳情",
+        "location": "國立國父紀念館",
+        "target_age": "不限年齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "展示王俊棠老師壓克力繪畫與油畫創作班的師生作品，帶領觀者欣賞不同媒材的藝術表現與創意。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/YATSEN/Index.init.ctr?openExternalBrowser=1",
+        "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "林仁山老師-揮灑情境~複合媒材表現班師生成果展",
+        "category": "藝文展演",
+        "activity_date": "2026/06/16-2027/12/31",
+        "start_date": "2026-06-16",
+        "end_date": "2027-12-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "請參閱活動詳情",
+        "location": "國立國父紀念館",
+        "target_age": "不限年齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "呈現林仁山老師複合媒材表現班師生們的多元藝術成果，透過不同媒材展現豐富的情境與創意。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/YATSEN/Index.init.ctr?openExternalBrowser=1",
+        "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "楊昇鴻老師-素描班師生成果展",
+        "category": "藝文展演",
+        "activity_date": "2026/06/17-2027/12/31",
+        "start_date": "2026-06-17",
+        "end_date": "2027-12-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "請參閱活動詳情",
+        "location": "國立國父紀念館",
+        "target_age": "不限年齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "展出楊昇鴻老師素描班師生的精采作品，展現素描藝術的基礎與細膩觀察，適合藝術愛好者參觀。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/YATSEN/Index.init.ctr?openExternalBrowser=1",
+        "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "「中山青年藝術獎十週年典藏巡迴特展」",
+        "category": "藝文展演",
+        "activity_date": "2026/06/18-2026/07/19",
+        "start_date": "2026-06-18",
+        "end_date": "2026-07-19",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新竹市",
+        "registration_date": "請參閱活動詳情",
+        "location": "新竹生活美學館",
+        "target_age": "不限年齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "中山青年藝術獎十週年典藏巡迴特展，展出歷屆獲獎的優秀青年藝術作品，展現當代藝術的活力與創意。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/YATSEN/Index.init.ctr?openExternalBrowser=1",
+        "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "115年7月11日-12日、8月22-23日六堆園區「暑期親子共學特色露營」體驗活動",
+        "category": "生態與大自然",
+        "activity_date": "115年7月11日-12日、8月22-23日",
+        "start_date": "2026-07-11",
+        "end_date": "2026-08-23",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "115/7/2(四)下午3點開放線上報名，第一場次報名至2026/07/08 15:00，第二場次報名至2026/08/19 15:00。",
+        "location": "六堆客家文化園區 露營區 (屏東縣內埔鄉建興村信義路588號)",
+        "target_age": "民眾、親子",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "六堆園區暑期親子共學特色露營，主打Chill風格，提供免搭帳、在地風味餐點。活動包含火焰蟲探索、夜間生態觀察。兩場次分別有蒔田體驗與客家甜酒釀湯圓DIY。每人600元，3歲以下免費，適合親子同樂。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/167679/",
+        "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "夜宿博物館【做戲夏令營】-三天兩夜",
+        "category": "長天數營隊",
+        "activity_date": "2026/07/08 10:30 ~ 2026/07/10 12:00",
+        "start_date": "2026-07-08",
+        "end_date": "2026-07-10",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "苗栗縣",
+        "registration_date": "2026/05/15 12:00 ~ 2026/06/30 12:00 (線上購票)",
+        "location": "臺灣客家文化館 (苗栗縣銅鑼鄉銅科南路6號)",
+        "target_age": "限「暑假後升國小4～6年級」兒童參加",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "今年夏天最好玩的夏令營，暑假七月走進繪本故事，開啟一場屬於自己的冒險。加入【做戲夏令營】，透過闖關任務、展館探索與多元手作，一路推進劇情、打造角色，在遊戲中建立自信、在體驗中認識客家，最後站上舞台完成專屬演出！活動包含線索蒐集、夜間開張、角色打造、樂器手作、造型米食及夜宿館舍等豐富內容，打造難忘回憶。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/1437/153220/164288/",
+        "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "夜宿博物館【做戲夏令營】-兩天一夜 (第一梯)",
+        "category": [
+            "藝文展演",
+            "知性與靜態學習",
+            "手作DIY與才藝",
+            "在地文化體驗",
+            "長天數營隊"
+        ],
+        "activity_date": "7/2(四)-7/3(五)",
+        "start_date": "2026-07-02",
+        "end_date": "2026-07-03",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "苗栗縣",
+        "registration_date": "2026/05/15 12:00 ~ 2026/06/30 12:00，透過 Accupass 購票，需審核。",
+        "location": "臺灣客家文化館（苗栗縣銅鑼鄉銅科南路6號）",
+        "target_age": "限「暑假後升國小4～6年級」兒童參加",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "今年夏天最有趣的夏令營，透過闖關、展館探索與手作，打造角色，認識客家，並站上舞台完成專屬演出，建立自信。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/1437/153220/164272/",
+        "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "夜宿博物館【做戲夏令營】-兩天一夜 (第二梯)",
+        "category": [
+            "藝文展演",
+            "知性與靜態學習",
+            "手作DIY與才藝",
+            "在地文化體驗",
+            "長天數營隊"
+        ],
+        "activity_date": "7/4(六)-7/5(日)",
+        "start_date": "2026-07-04",
+        "end_date": "2026-07-05",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "苗栗縣",
+        "registration_date": "2026/05/15 12:00 ~ 2026/06/30 12:00，透過 Accupass 購票，需審核。",
+        "location": "臺灣客家文化館（苗栗縣銅鑼鄉銅科南路6號）",
+        "target_age": "限「暑假後升國小4～6年級」兒童參加",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "今年夏天最有趣的夏令營，透過闖關、展館探索與手作，打造角色，認識客家，並站上舞台完成專屬演出，建立自信。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/1437/153220/164272/",
+        "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "夜宿博物館【做戲夏令營】-兩天一夜 (第三梯)",
+        "category": [
+            "藝文展演",
+            "知性與靜態學習",
+            "手作DIY與才藝",
+            "在地文化體驗",
+            "長天數營隊"
+        ],
+        "activity_date": "7/6(一)-7/7(二)",
+        "start_date": "2026-07-06",
+        "end_date": "2026-07-07",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "苗栗縣",
+        "registration_date": "2026/05/15 12:00 ~ 2026/06/30 12:00，透過 Accupass 購票，需審核。",
+        "location": "臺灣客家文化館（苗栗縣銅鑼鄉銅科南路6號）",
+        "target_age": "限「暑假後升國小4～6年級」兒童參加",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "今年夏天最有趣的夏令營，透過闖關、展館探索與手作，打造角色，認識客家，並站上舞台完成專屬演出，建立自信。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/1437/153220/164272/",
+        "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "夜宿博物館【做戲夏令營】-三天兩夜 (第四梯)",
+        "category": [
+            "藝文展演",
+            "知性與靜態學習",
+            "手作DIY與才藝",
+            "在地文化體驗",
+            "長天數營隊"
+        ],
+        "activity_date": "7/8(三)-7/10(五)",
+        "start_date": "2026-07-08",
+        "end_date": "2026-07-10",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "苗栗縣",
+        "registration_date": "2026/05/15 12:00 ~ 2026/06/30 12:00，透過 Accupass 購票，需審核。",
+        "location": "臺灣客家文化館（苗栗縣銅鑼鄉銅科南路6號），第二晚入住台灣油礦陳列館「微光之丘」",
+        "target_age": "限「暑假後升國小4～6年級」兒童參加",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "今年夏天最好玩的夏令營，透過闖關、展館探索與多元手作，打造角色，認識客家，最後站上舞台完成專屬演出。第四梯為三天兩夜，包含台灣油礦陳列館住宿體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/1437/153220/164272/",
+        "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "臺中文學館兒童文學區115年7月親子聽故事",
+        "category": "知性與靜態學習",
+        "activity_date": "115年7月親子聽故事節目表",
+        "start_date": "2026-07-04",
+        "end_date": "2026-07-26",
+        "recurring_days": [
+            0,
+            6
+        ],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "活動現場參與，無需預先報名",
+        "location": "臺中文學館兒童文學區，地址：403003臺中市西區樂群街38號",
+        "target_age": "(國小以下)小朋友",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "臺中文學館兒童文學區於115年7月每周六、日上午舉辦親子聽故事活動，邀請國小以下小朋友與家長一同參與，透過精彩繪本故事，培養閱讀興趣，並可集點兌換精美小禮。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tlm.taichung.gov.tw/latestevent/Details.aspx?Parser=9,5,124,,,,1961",
+        "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "【臺中文學館】兒童文學區115年6月親子聽故事節目表",
+        "category": "知性與靜態學習",
+        "activity_date": "115年6月每周六、日 10：30-11：00",
+        "start_date": "2026-06-06",
+        "end_date": "2026-06-28",
+        "recurring_days": [
+            6,
+            0
+        ],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "活動現場直接參與，無須預先報名",
+        "location": "臺中文學館兒童文學區 (臺中市西區樂群街38號)",
+        "target_age": "國小以下小朋友",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "臺中文學館兒童文學區於115年6月每周六、日上午舉辦親子聽故事活動。邀請國小以下小朋友與家長大手牽小手，一同參與，聆聽繪本故事。每次參與可獲貼紙集點，集滿點數可兌換文學館精美小禮。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tlm.taichung.gov.tw/latestevent/Details.aspx?Parser=9,5,124,,,,2003",
+        "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "2026臺中文學季-文學城市生成中",
+        "category": "藝文展演",
+        "activity_date": "2026年4月18日(星期六)起至7月5日(星期日)",
+        "start_date": "2026-04-18",
+        "end_date": "2026-07-05",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "敬請密切注意臺中文學館臉書",
+        "location": "臺中文學館 (臺中市西區樂群街38號) 及臺中綠美圖等相關場地",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "2026臺中文學季將於4/18至7/5登場，以「文學城市生成中」為主題，推出多項文學活動與展覽，包含主題講座、文學小旅行、跨域活動及兩大主題展，邀請市民朋友一同參與，打造心中的文學城市。活動期間亦有機會獲得文學季專屬紀念品。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tlm.taichung.gov.tw/latestevent/Details.aspx?Parser=9,5,124,,,,2070",
+        "crawl_time": "2026-07-04T22:14:48"
     }
 ]
