@@ -1698,5 +1698,26 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.tlm.taichung.gov.tw/latestevent/Details.aspx?Parser=9,5,124,,,,2070",
         "crawl_time": "2026-07-04T22:14:48"
+    },
+    {
+        "title": "2026台南文資月｜「文資印象派」繪畫徵件比賽",
+        "category": "競賽與檢定",
+        "activity_date": "115年6月11日 ~ 115年8月31日",
+        "start_date": "2026-06-11",
+        "end_date": "2026-08-31",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "請於截止日期115年8月31日以前，併同報名表，寄至「目目文創競賽辦公室：700台南市中西區南美里民生路一段100號」。",
+        "location": "台南市中西區南美里民生路一段100號",
+        "target_age": "居住或就讀於台南市之國小學生。",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "此繪畫徵件比賽旨在鼓勵台南市國小學童以畫筆描繪家鄉的歷史建築、水路文化、民俗節慶與常民生活，讓文化資產走入大眾生活，並結合2026世界歷史都市聯盟大會青少年推廣專案，促進台南學童與世界歷史城市交流接軌。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tmach-culture.tainan.gov.tw/activity.asp?mainid=B7A40E34-161B-44F0-9224-738E10175C96",
+        "crawl_time": "2026-07-05T22:34:46"
     }
 ];

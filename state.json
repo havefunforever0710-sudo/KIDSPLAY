@@ -1,5 +1,5 @@
 {
-    "last_index": 70,
+    "last_index": 75,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [],
         "https://www.ntsec.gov.tw/": [],
@@ -122,6 +122,13 @@
             "https://www.tlm.taichung.gov.tw/latestevent/Details.aspx?Parser=9,5,124,,,,1961",
             "https://www.tlm.taichung.gov.tw/latestevent/Details.aspx?Parser=9,5,124,,,,2003",
             "https://www.tlm.taichung.gov.tw/latestevent/Details.aspx?Parser=9,5,124,,,,2070"
-        ]
+        ],
+        "https://www.bocach.gov.tw/": [],
+        "https://www.nthcc.gov.tw/": [],
+        "https://content.yunlin.gov.tw/": [],
+        "https://tmach-culture.tainan.gov.tw/": [
+            "https://tmach-culture.tainan.gov.tw/activity.asp?mainid=B7A40E34-161B-44F0-9224-738E10175C96"
+        ],
+        "https://fossil.tainan.gov.tw/": []
     }
 }
