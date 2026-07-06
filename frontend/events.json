@@ -1857,5 +1857,203 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15463",
         "crawl_time": "2026-07-06T02:23:24"
+    },
+    {
+        "title": "2026桃園兒童藝術節",
+        "category": [
+            "藝文展演",
+            "節慶市集與綜合"
+        ],
+        "activity_date": "115/07/04 ~ 115/07/26",
+        "start_date": "2026-07-04",
+        "end_date": "2026-07-26",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": null,
+        "location": "大溪區埔頂公園天幕籃球場、蘆竹區光明河濱公園天幕籃球場、復興區角板山公園天幕廣場、龜山區中山天幕廣場、大園區桃園陽光劇場、龍潭區龍潭運動公園",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "桃園市政府文化局為推廣兒童藝術啟蒙與在地藝文紮根，規劃辦理「2026 桃園兒童藝術節」。活動內容包含前導演出、兒童市集、小型表演及主舞台大型演出，將於桃園市多個地點分場次舉行。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ilccb.gov.tw/News_Content.aspx?n=10199&sms=12932&s=402899",
+        "crawl_time": "2026-07-06T22:48:13"
+    },
+    {
+        "title": "2026蘭陽文藝營｜詩情寫意工作坊",
+        "category": "知性與靜態學習",
+        "activity_date": "8/15（六）－ 8/17（一）",
+        "start_date": "2026-08-15",
+        "end_date": "2026-08-17",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "宜蘭縣",
+        "registration_date": "報名已開始，限額45名，額滿為止。報名網址：https://forms.gle/6RMysNSRSYoTfo7u7",
+        "location": "中興文化園區（宜蘭縣五結鄉中正路二段6之8號）",
+        "target_age": "國、高中職在學學生",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "2026蘭陽文藝營邀請多位知名作家與詩人，透過講座、創作課程、文學走讀等多元形式，引導國、高中職學生探索文字力量，開啟創作潛能。活動免費，限額45名，設籍宜蘭縣學生優先。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ilccb.gov.tw/News_Content.aspx?n=10198&sms=12917&s=401900",
+        "crawl_time": "2026-07-06T22:48:13"
+    },
+    {
+        "title": "2026 藝術自造祭《書的博物館》",
+        "category": "2.藝文展演",
+        "activity_date": "115/07/09 ~ 115/09/06",
+        "start_date": "2026-07-09",
+        "end_date": "2026-09-06",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "宜蘭縣",
+        "registration_date": "無需報名，依開放時間入場",
+        "location": "宜蘭中興文化創意園區",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "宜蘭縣政府文化局主辦的《書的博物館》藝術自造祭，將於2026年7月9日至9月6日在宜蘭中興文創園區展出。展覽以書為創作媒介，集結臺灣及國際藝術家，透過書本藝術、公共藝術、互動裝置等多元形式，打造一座可漫遊、探索、參與的博物館，提供融合文學、藝術與地方文化的全新閱讀體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ilccb.gov.tw/News_Content.aspx?n=10537&sms=12918&s=403080",
+        "crawl_time": "2026-07-06T22:48:13"
+    },
+    {
+        "title": "2026桃園地景藝術節",
+        "category": "藝文展演",
+        "activity_date": "115/07/04 ~ 115/08/30",
+        "start_date": "2026-07-04",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "無明確報名資訊",
+        "location": "桃園珍珠海岸（竹圍漁港至永安漁港，串聯竹圍、許厝港、新屋及永安等海岸節點）",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "2026桃園地景藝術節將於7月4日至8月30日登場，首度轉型為雙年展，以桃園珍珠海岸為策展舞臺，自竹圍漁港串聯至永安漁港，打造橫跨30餘公里海岸線的大型地景藝術展演。本屆藝術節集結來自13個國家、25組國外藝術團隊及47組國內藝術團隊，透過藝術、生態及地方文化交融，引導民眾親近海岸、認識桃園，讓桃園成為一座與環境共生的「無牆美術館」。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1700149",
+        "crawl_time": "2026-07-06T22:48:13"
+    },
+    {
+        "title": "可以摸的美術展「一樣不一樣」",
+        "category": "藝文展演",
+        "activity_date": null,
+        "start_date": "2026-07-03",
+        "end_date": "2026-07-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "無相關資訊",
+        "location": "桃園市立兒童美術館 (中壢區)",
+        "target_age": "兒童、親子",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "桃園市立兒童美術館舉辦「一樣不一樣」觸覺體驗展，邀請國內外藝術家與在地學子共創，打破傳統美術館「不要碰」的限制，鼓勵孩子們大膽觸碰、探索藝術。展覽以「共融」為核心，透過空間遊戲、差異與共融、日常中的想像三大主軸，引導親子從遊戲中認識多元身體與感官需求，適合全齡共同探索。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1693672",
+        "crawl_time": "2026-07-06T22:48:13"
+    },
+    {
+        "title": "2026桃園國際動漫大展",
+        "category": "藝文展演",
+        "activity_date": null,
+        "start_date": "2026-07-04",
+        "end_date": "2026-07-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "詳細活動及報名資訊，歡迎至官方臉書粉絲團（網址：https://www.facebook.com/TY.ACGT/）查詢。",
+        "location": "桃園市 中壢區",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "2026桃園國際動漫大展盛大登場，設置「墨跡漫院堂」漫畫區、「畫影流雲閣」動畫區及「闖關武林坊」遊戲區，展現俠義主題多元面貌。遊戲區規劃《仙劍奇俠傳》經典遊戲體驗、VR武俠互動遊戲、體感遊戲及LARP實境角色扮演，讓民眾親身走進動漫世界。展覽邀請台日港多位知名漫畫家參與交流，旨在支持原創，提供豐富的藝文與互動體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1700138",
+        "crawl_time": "2026-07-06T22:48:13"
+    },
+    {
+        "title": "文化30《成長的「風」狂冒險》親子劇",
+        "category": "藝文展演",
+        "activity_date": "2026/07/11 ~2026/07/11",
+        "start_date": "2026-07-11",
+        "end_date": "2026-07-11",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新竹縣",
+        "registration_date": "OPENTIX兩廳院文化生活購票",
+        "location": "新竹縣政府文化局 演藝廳 (新竹縣竹北市縣政九路146號)",
+        "target_age": "6歲以上，6歲以下建議親子共賞",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "風城孩子必看，今夏唯一《成長的「風」狂冒險》！結合戲劇、現代舞、古典樂的跨界親子冒險劇。關於尋找自我、信任陪伴、迎向未知，專為孩子打造的感官饗宴，在風中找到前進的勇氣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hchcc.gov.tw/Tw/News/ActDetail?filter=58dd03be-c37d-40af-a540-6d34b3790b4c&id=4e48d056-7109-46e0-9603-340ab7c681c2",
+        "crawl_time": "2026-07-06T22:48:13"
+    },
+    {
+        "title": "2026 新瓦屋板凳電影院 × 台灣國際兒童影展",
+        "category": "藝文展演",
+        "activity_date": "2026/07/04 ~2026/07/25",
+        "start_date": "2026-07-04",
+        "end_date": "2026-07-25",
+        "recurring_days": [
+            6
+        ],
+        "region": "北部",
+        "city": "新竹縣",
+        "registration_date": "線上報名 (部分場次已額滿，並於每場次開演前10分鐘開放現場候位)",
+        "location": "新瓦屋園區 (新瓦屋板凳電影院、新瓦屋集會堂、禾埕廣場、忠孝堂)",
+        "target_age": "兒童及全齡 (部分活動有分齡選片)",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "「2026新瓦屋板凳電影院」攜手「台灣國際兒童影展」，於七月每週六在新竹新瓦屋盛大舉行。活動包含國際得獎電影分齡放映、文化平權口述影像專場、逐格動畫成果發表、限定文創好禮及園區市集。7/25露天大主場更有精彩舞台表演、導盲犬宣導與豐富好禮兌換。邀請大小朋友帶上專屬板凳，一同享受夏日影像美學盛會。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hchcc.gov.tw/Tw/News/ActPreviewDetail?filter=e2ce565c-7042-46b7-9b77-bb81937b8cf9&id=73ab96f3-9a62-4711-8c8b-c4a232a4b558",
+        "crawl_time": "2026-07-06T22:48:13"
+    },
+    {
+        "title": "【綜合活動】噠噠讀知識向前衝 –全民閱讀集點3/3大開張！",
+        "category": "知性與靜態學習",
+        "activity_date": "115年 3月 3日 － 115年 12月 31日",
+        "start_date": "2026-03-03",
+        "end_date": "2026-12-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新竹縣",
+        "registration_date": "活動於115年3月3日開始，參與者可透過借閱圖書累積點數，詳情請洽各圖書館。",
+        "location": "新竹縣各公共圖書館",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "新竹縣公共圖書館推出「噠噠讀知識向前衝 –全民閱讀集點」活動，鼓勵大小朋友透過借閱圖書累積點數，換取限量好禮。活動自115年3月3日開始，持續至12月31日，每本書都是通往知識的一大步，讓智慧能量UP！",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://hcplibrary.hchcc.gov.tw/wSite/ct?xItem=10900&ctNode=4293&mp=1",
+        "crawl_time": "2026-07-06T22:48:13"
     }
 ]

@@ -1,5 +1,5 @@
 {
-    "last_index": 80,
+    "last_index": 85,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [],
         "https://www.ntsec.gov.tw/": [],
@@ -141,6 +141,23 @@
             "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15446",
             "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15463"
         ],
-        "https://ccl.taitung.gov.tw/": []
+        "https://ccl.taitung.gov.tw/": [],
+        "https://www.phhcc.gov.tw/": [],
+        "https://www.klccab.gov.tw/": [],
+        "https://www.ilccb.gov.tw/": [
+            "https://www.ilccb.gov.tw/News_Content.aspx?n=10199&sms=12932&s=402899",
+            "https://www.ilccb.gov.tw/News_Content.aspx?n=10198&sms=12917&s=401900",
+            "https://www.ilccb.gov.tw/News_Content.aspx?n=10537&sms=12918&s=403080"
+        ],
+        "https://culture.tycg.gov.tw/": [
+            "https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1700149",
+            "https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1693672",
+            "https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1700138"
+        ],
+        "https://www.hchcc.gov.tw/": [
+            "https://www.hchcc.gov.tw/Tw/News/ActDetail?filter=58dd03be-c37d-40af-a540-6d34b3790b4c&id=4e48d056-7109-46e0-9603-340ab7c681c2",
+            "https://www.hchcc.gov.tw/Tw/News/ActPreviewDetail?filter=e2ce565c-7042-46b7-9b77-bb81937b8cf9&id=73ab96f3-9a62-4711-8c8b-c4a232a4b558",
+            "https://hcplibrary.hchcc.gov.tw/wSite/ct?xItem=10900&ctNode=4293&mp=1"
+        ]
     }
 }
