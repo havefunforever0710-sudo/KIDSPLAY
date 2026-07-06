@@ -1719,5 +1719,144 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://tmach-culture.tainan.gov.tw/activity.asp?mainid=B7A40E34-161B-44F0-9224-738E10175C96",
         "crawl_time": "2026-07-05T22:34:46"
+    },
+    {
+        "title": "水道攀樹體驗",
+        "category": "動態體能",
+        "activity_date": "開放預約中",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "開放預約中，詳洽博物館",
+        "location": "臺南山上花園水道博物館 (臺南市山上區山上里山上16號)",
+        "target_age": null,
+        "age_groups": [],
+        "price_type": "付費",
+        "summary": "臺南山上花園水道博物館推出攀樹體驗活動，讓參與者能親近自然，挑戰自我。目前已開放預約報名。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://waterworks.tainan.gov.tw/index.php?modify=activity",
+        "crawl_time": "2026-07-06T02:23:24"
+    },
+    {
+        "title": "手做體驗課程",
+        "category": "手作DIY與才藝",
+        "activity_date": "每月開課",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "每月開課，詳洽博物館",
+        "location": "臺南山上花園水道博物館 (臺南市山上區山上里山上16號)",
+        "target_age": null,
+        "age_groups": [],
+        "price_type": "付費",
+        "summary": "臺南山上花園水道博物館提供手做體驗課程，每月定期開課，適合親子一同參與，發揮創意與動手樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://waterworks.tainan.gov.tw/index.php?modify=activity",
+        "crawl_time": "2026-07-06T02:23:24"
+    },
+    {
+        "title": "攀樹體驗",
+        "category": [
+            "3.動態體能",
+            "5.生態與大自然",
+            "6.知性與靜態學習"
+        ],
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [
+            0,
+            1,
+            2,
+            4,
+            5,
+            6
+        ],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "最晚於活動日前1週完成報名，團體預約需求請洽0985-294-062 阿文教練",
+        "location": "臺南山上花園水道博物館 (臺南市山上區山上里山上16號)",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺南山上花園水道博物館的攀樹體驗，透過繩索和繩結，讓參與者從高處探索自然，認識生態環境與自我。活動強調身體協調，由專業教練指導，適合學齡兒童及家庭，於百年老樹下感受大自然的魅力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://waterworks.tainan.gov.tw/index.php?modify=facility&id=3",
+        "crawl_time": "2026-07-06T02:23:24"
+    },
+    {
+        "title": "臺南山上花園水道博物館 綠植手作課程",
+        "category": "手作DIY與才藝",
+        "activity_date": "每個月一個週末定期開課",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "報名資訊請關注麒麟貓工作室官方社群公告",
+        "location": "臺南山上花園水道博物館 (地址：743001臺南市山上區山上里山上16號)",
+        "target_age": "不限",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺南山上花園水道博物館與麒麟貓工作室合作，每月定期開設綠植手作課程。課程內容豐富多元，除了常態課程外，未來也將應用館內綠植作為材料，並規劃酒瓶玻璃切割、金屬工藝等特殊手作體驗。歡迎對植物與文創手作有興趣的民眾，關注官方社群報名參與，一同體驗手作美好。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://waterworks.tainan.gov.tw/index.php?modify=facility&id=7",
+        "crawl_time": "2026-07-06T02:23:24"
+    },
+    {
+        "title": "2026《踢踢踏踏．舞蹈節》暨踢踏藝展在花蓮｜踢踏舞體驗研習開放報名",
+        "category": "藝文展演",
+        "activity_date": "115年8月1日至8月23日，每週六、日",
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-23",
+        "recurring_days": [
+            0,
+            6
+        ],
+        "region": "東部及離島",
+        "city": "花蓮縣",
+        "registration_date": "一般民眾及親子組可線上報名，單堂或多週皆可。教師研習報名時間為115年6月20日至7月20日，請至「全國教師在職進修資訊網」報名。",
+        "location": "花蓮縣鐵道文化園區一館調度室 (970 花蓮縣花蓮市中山路71號)",
+        "target_age": "親子組 (5-10歲), 青少年組 (11-18歲), 一般民眾組 (不限年齡), 樂齡組 (55歲以上)",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "花蓮縣文化局與雷克斯踢踏舞團於花蓮鐵道文化園區舉辦2026《踢踢踏踏．舞蹈節》。8/1-8/23每週六日，透過踢踏舞體驗課程、互動展覽，帶領親子(5-10歲)、青少年(11-18歲)及一般民眾認識踢踏舞藝術，感受節奏律動魅力。每堂酌收材料費200元。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15446",
+        "crawl_time": "2026-07-06T02:23:24"
+    },
+    {
+        "title": "2026第二屆身體藝術節登場 7月花蓮文創園區打造沉浸式馬戲藝術盛會",
+        "category": "藝文展演",
+        "activity_date": "2026-07-04 00:00 至 2026-07-12 23:45",
+        "start_date": "2026-07-04",
+        "end_date": "2026-07-12",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "花蓮縣",
+        "registration_date": "提供購票連結，線上購票",
+        "location": "花蓮文化創意產業園區 (970 花蓮縣花蓮市中華路144號)",
+        "target_age": "老少咸宜，歡迎親子家庭、青年朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "2026第二屆身體藝術節將於7月4日至7月12日在花蓮文化創意產業園區登場，以「身體」作為藝術探索的起點，結合當代馬戲、特技、默劇、雜耍、互動演出及多元體驗活動，推出售票演出及工作坊，適合親子家庭。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15463",
+        "crawl_time": "2026-07-06T02:23:24"
     }
 ];

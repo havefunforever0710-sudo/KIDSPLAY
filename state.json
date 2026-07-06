@@ -1,5 +1,5 @@
 {
-    "last_index": 75,
+    "last_index": 80,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [],
         "https://www.ntsec.gov.tw/": [],
@@ -129,6 +129,18 @@
         "https://tmach-culture.tainan.gov.tw/": [
             "https://tmach-culture.tainan.gov.tw/activity.asp?mainid=B7A40E34-161B-44F0-9224-738E10175C96"
         ],
-        "https://fossil.tainan.gov.tw/": []
+        "https://fossil.tainan.gov.tw/": [],
+        "https://waterworks.tainan.gov.tw/": [
+            "https://waterworks.tainan.gov.tw/index.php?modify=activity",
+            "https://waterworks.tainan.gov.tw/index.php?modify=facility&id=3",
+            "https://waterworks.tainan.gov.tw/index.php?modify=facility&id=7"
+        ],
+        "https://khm.org.tw/": [],
+        "https://www.cultural.pthg.gov.tw/": [],
+        "https://www.hccc.gov.tw/": [
+            "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15446",
+            "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15463"
+        ],
+        "https://ccl.taitung.gov.tw/": []
     }
 }
