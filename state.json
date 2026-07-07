@@ -1,5 +1,5 @@
 {
-    "last_index": 85,
+    "last_index": 90,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [],
         "https://www.ntsec.gov.tw/": [],
@@ -158,6 +158,11 @@
             "https://www.hchcc.gov.tw/Tw/News/ActDetail?filter=58dd03be-c37d-40af-a540-6d34b3790b4c&id=4e48d056-7109-46e0-9603-340ab7c681c2",
             "https://www.hchcc.gov.tw/Tw/News/ActPreviewDetail?filter=e2ce565c-7042-46b7-9b77-bb81937b8cf9&id=73ab96f3-9a62-4711-8c8b-c4a232a4b558",
             "https://hcplibrary.hchcc.gov.tw/wSite/ct?xItem=10900&ctNode=4293&mp=1"
+        ],
+        "https://www.mlc.gov.tw/": [],
+        "https://www.culture.taichung.gov.tw/": [
+            "https://www.culture.taichung.gov.tw/3311250/post",
+            "https://www.culture.taichung.gov.tw/3312918/post"
         ]
     }
 }

@@ -2056,5 +2056,47 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://hcplibrary.hchcc.gov.tw/wSite/ct?xItem=10900&ctNode=4293&mp=1",
         "crawl_time": "2026-07-06T22:48:13"
+    },
+    {
+        "title": "紙風車368鄉鎮市區兒童藝術工程-永續啟航",
+        "category": "藝文展演",
+        "activity_date": "115年8月29日(星期六) ~ 115年8月30日(星期日)",
+        "start_date": "2026-08-29",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "免費入場，無須報名",
+        "location": "南屯區文山里籃球場（臺中市南屯區嶺東路750號）及豐原鎮清宮停車場（臺中市豐原區水源路9巷67號）",
+        "target_age": "大朋友小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "紙風車劇團《台灣幻想曲》將於臺中南屯及豐原帶來兩場免費演出。劇中包含唐吉軻德冒險、身體練習曲、剩食的逆襲、後山天使及慶典的喜悅等五段精彩表演，鼓勵孩子勇敢追夢、愛惜食物，並透過魔法黑光秀帶來專屬臺中的祝福，適合全家大小一同觀賞。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.culture.taichung.gov.tw/3311250/post",
+        "crawl_time": "2026-07-07T22:42:40"
+    },
+    {
+        "title": "臺中中山堂玩劇場生活節─藝饗遊樂園",
+        "category": "藝文展演",
+        "activity_date": "2026年7月11日至7月16日",
+        "start_date": "2026-07-11",
+        "end_date": "2026-07-16",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "實境解謎與市集活動免預約入場；部分表演節目需於各文化中心與中山堂免費索票。",
+        "location": "臺中市中山堂及其藝文廣場",
+        "target_age": "大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "臺中中山堂玩劇場生活節，以「藝饗遊樂園」為主題，於暑假期間熱鬧登場。活動內容包含首創實境解謎遊戲「搗蛋鬼事件」、星空馬戲、跨世代舞蹈演出、互動劇場、特色市集及街頭藝人表演，另有史坦威、法吉歐利雙名琴體驗。民眾可免票入場，部分活動需免費索票，邀請大小朋友一同體驗多元藝文活動。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.culture.taichung.gov.tw/3312918/post",
+        "crawl_time": "2026-07-07T22:42:40"
     }
 ];
