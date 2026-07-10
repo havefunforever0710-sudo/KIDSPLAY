@@ -1,8 +1,15 @@
 {
-    "last_index": 100,
+    "last_index": 2,
     "visited_urls": {
-        "https://www.tam.gov.taipei/": [],
-        "https://www.ntsec.gov.tw/": [],
+        "https://www.tam.gov.taipei/": [
+            "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
+            "https://www.tam.gov.taipei/News_Content.aspx?n=794B17A953424610&sms=9D72E82EC16F3E64&s=85F19BAE939B0B51"
+        ],
+        "https://www.ntsec.gov.tw/": [
+            "https://estore.ntsec.gov.tw/",
+            "https://www.ntsec.gov.tw/article/detail.aspx?a=6078",
+            "https://www.ntsec.gov.tw/article/detail.aspx?a=6020"
+        ],
         "https://www.nstm.gov.tw/": [],
         "https://www.zoo.gov.taipei/": [],
         "https://www.nmns.edu.tw/": [],
@@ -181,6 +188,15 @@
         ],
         "https://eleven-ent.com/": [],
         "https://soulangh.tnc.gov.tw/": [],
-        "https://tyart.tnc.gov.tw/": []
+        "https://tyart.tnc.gov.tw/": [],
+        "https://www.beclass.com/": [
+            "https://www.beclass.com/default.php?name=ShowList&op=catRank&range=R",
+            "https://www.beclass.com/default.php?name=ShowList"
+        ],
+        "https://www.accupass.com/category/family": [],
+        "https://mr-tree.webnode.tw/": [
+            "https://mr-tree.webnode.tw/copy-of-%e5%a4%a7%e6%a8%b9%e6%b4%be%e5%b0%8d%e8%a6%8f%e5%8a%83/",
+            "https://mr-tree.webnode.tw/two-columns/"
+        ]
     }
 }
