@@ -3667,5 +3667,1110 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.ntsec.gov.tw/article/detail.aspx?a=6020",
         "crawl_time": "2026-07-10T22:36:19"
+    },
+    {
+        "title": "親子感官與想像力工作坊",
+        "category": "手作DIY與才藝",
+        "activity_date": "115-07-30~115-07-31",
+        "start_date": "2026-07-30",
+        "end_date": "2026-07-31",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": "線上報名，連結：https://forms.gle/qGe3tQ3PMLSTSv7A6",
+        "location": "國立科學工藝博物館 B1F FUN城市積木圖書區",
+        "target_age": "親子活動，適合會走路的孩童與家長",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "這是一個專為親子設計的感官放鬆之旅，透過劇場遊戲、肢體伸展和空間藝術，引導孩子與家長一同探索想像力。活動包含變身探險家和故事築夢家主題，在積木圖書區舉辦，每場限30名。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=d3c437a9-c20a-4862-8590-fb500615a5ed",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "認識石虎 (主題教育駐站)",
+        "category": "生態與大自然",
+        "activity_date": "7-8月",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "recurring_days": [
+            0,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場參與，無需報名 (7/4、8/1暫停)",
+        "location": "臺北市立動物園 (永續食堂旁), 臺北市文山區新光路二段30號",
+        "target_age": "適合全齡參與",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "透過駐站解說，讓民眾認識可愛的石虎，了解其生態與保育現況，提升環境保育意識。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=6D110B3317C54B2B",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "與兩棲爬蟲有約 (定時定點課程)",
+        "category": "生態與大自然",
+        "activity_date": "7-8月",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "recurring_days": [
+            0,
+            2,
+            4,
+            6
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場參與，無需報名",
+        "location": "臺北市立動物園 (兩棲爬蟲教室), 臺北市文山區新光路二段30號",
+        "target_age": "適合全齡參與",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "專業解說員帶領，近距離認識兩棲爬蟲動物的奧秘，學習相關生態知識。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=6D110B3317C54B2B",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "與昆蟲有約 (導覽解說)",
+        "category": "生態與大自然",
+        "activity_date": "7-8月",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "recurring_days": [
+            2,
+            4,
+            6
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場參與，無需報名",
+        "location": "臺北市立動物園 (昆蟲館入口), 臺北市文山區新光路二段30號",
+        "target_age": "適合全齡參與",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "透過導覽解說，深入了解昆蟲世界，探索其多樣性與生態重要性。每場約30分鐘。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=6D110B3317C54B2B",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "昆蟲保育小學堂",
+        "category": "知性與靜態學習",
+        "activity_date": "7-8月",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "recurring_days": [
+            0
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場參與，無需報名",
+        "location": "臺北市立動物園 (昆蟲館入口), 臺北市文山區新光路二段30號",
+        "target_age": "適合全齡參與",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "以輕鬆活潑的方式，教導兒童和家長昆蟲保育知識，從小培養對生命的關懷。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=6D110B3317C54B2B",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "環保DIY",
+        "category": "手作DIY與才藝",
+        "activity_date": "7-8月",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "recurring_days": [
+            0
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場參與，無需報名 (可能需酌收材料費)",
+        "location": "臺北市立動物園 (綠手指教室), 臺北市文山區新光路二段30號",
+        "target_age": "適合全齡參與",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "透過手作體驗，將環保概念融入生活中，製作獨特的環保小物。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=6D110B3317C54B2B",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "勞作DIY",
+        "category": "手作DIY與才藝",
+        "activity_date": "7-8月",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "recurring_days": [
+            0,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場參與，無需報名 (可能需酌收材料費)",
+        "location": "臺北市立動物園 (教育中心動物藝坊), 臺北市文山區新光路二段30號",
+        "target_age": "適合全齡參與",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "提供多樣化的勞作材料，讓大小朋友發揮創意，享受手作的樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=6D110B3317C54B2B",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "頭骨的奧秘",
+        "category": "知性與靜態學習",
+        "activity_date": "7-8月",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "recurring_days": [
+            0
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場參與，無需報名",
+        "location": "臺北市立動物園 (教育中心大廳), 臺北市文山區新光路二段30號",
+        "target_age": "適合全齡參與",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "透過動物頭骨的展示與解說，深入探索動物的演化、食性與生活習性。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=6D110B3317C54B2B",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "動物朋友相見歡",
+        "category": "生態與大自然",
+        "activity_date": "7-8月",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "recurring_days": [
+            0
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場參與，無需報名 (7/12、8/9暫停，遇雨、逢當月第5個週日暫停)",
+        "location": "臺北市立動物園 (教育中心大廳), 臺北市文山區新光路二段30號",
+        "target_age": "適合全齡參與",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "近距離與動物互動的機會，認識多種動物明星，並學習如何與牠們和平共處。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=6D110B3317C54B2B",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "【夜間開放】夜間開放20周年「夜之動物園」週六夜間開放系列活動",
+        "category": "節慶市集與綜合",
+        "activity_date": "7月4日至8月29日每週六",
+        "start_date": "2024-07-04",
+        "end_date": "2024-08-29",
+        "recurring_days": [
+            6
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "【夜之動物園 光影之旅】限定套組預售時間：6月25日12:00至7月3日12:00；【夜光見面繪】採線上報名，每場限額20位，須提早10分鐘報到。",
+        "location": "臺北市立動物園 (包含大門舞台、兒童動物區、教育中心、各展區等)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺北市立動物園為慶祝夜間開放20周年，於7/4至8/29每週六舉辦「夜之動物園」系列活動。內容包含動物舞蹈、Keeper's Talk、月光電影院、夜光彩繪DIY及主題市集等多元體驗，邀請親子夜訪動物園，探索夜間動物的神秘世界。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=252E2F46645EA2B0",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "物種大魔境",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "請至 Google Play商店 或 Apple App Store 下載阿謎GO",
+        "location": "科博館戶外及館內",
+        "target_age": "4年級以上",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "在生命樹崩壞的世界，玩家扮演小精靈，需尋回生命果實以拯救萬物。結合實境解謎與AR互動，部分路線需搭配實體道具包借用。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/learn/museum-education/theme/Theme-000554/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "N.S英雄團",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "請至 Google Play商店 或 Apple App Store 下載阿謎GO",
+        "location": "生命科學廳B1",
+        "target_age": "4年級以上",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "小女孩在展廳失蹤，英雄團調查時透過童話書傳送至童話世界，尋找線索。遊戲需搭配實體道具包借用。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/learn/museum-education/theme/Theme-000554/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "熊寶的奇幻冒險",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "請至 Google Play商店 或 Apple App Store 下載阿謎GO",
+        "location": "地球環境廳2F",
+        "target_age": "5年級以上",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "熊寶不慎啟動時空轉換機，被傳送到各地。玩家需幫助熊寶回到實驗室，修復機器，展開奇幻時空冒險。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/learn/museum-education/theme/Theme-000554/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "午時已盜",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "請至 Google Play商店 或 Apple App Store 下載阿謎GO",
+        "location": "人類文化廳1F, 2F",
+        "target_age": "5年級以上",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "偵探團需阻止怪盜搶奪智慧結晶。玩家運用智慧，解開一系列謎題關卡，守護人類至寶。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/learn/museum-education/theme/Theme-000554/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "廢棄倉庫2.0",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "請至 Google Play商店 或 Apple App Store 下載阿謎GO",
+        "location": "人類文化廳2F",
+        "target_age": "5年級以上",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "小學生在廢棄倉庫發現石板並塗鴉，被神靈打回遠古時代。玩家需幫助他們展開冒險，回到原本時空。需道具包。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/learn/museum-education/theme/Theme-000554/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "創世危機：船說",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "請至 Google Play商店 或 Apple App Store 下載阿謎GO",
+        "location": "人類文化廳B1, 1F, 2F",
+        "target_age": "5年級以上",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "終結者希瓦竊取創世星能量寶石並藏於地球。玩家身為星際員，戴上穿越手環前往地球，找回寶石拯救星球。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/learn/museum-education/theme/Theme-000554/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "廚王爭霸",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "請至 Google Play商店 或 Apple App Store 下載阿謎GO",
+        "location": "人類文化廳1F",
+        "target_age": "5年級以上",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "參加熱門廚藝大賽，組隊挑戰廚王。通過關卡獲取食材，烹煮美味料理，爭奪新一代廚王頭銜。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/learn/museum-education/theme/Theme-000554/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "大末日傳說",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "請至 Google Play商店 或 Apple App Store 下載阿謎GO",
+        "location": "地球環境廳2F",
+        "target_age": "國中以上",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "地球盟主攜「異界之書」預言末日。玩家需集結智慧與力量，探索謎團，拯救即將滅亡的星球。本主題為單線劇情，需道具包。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/learn/museum-education/theme/Theme-000554/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "Are you a chicken？",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "請至 Google Play商店 或 Apple App Store 下載阿謎GO",
+        "location": "生命科學廳1F, 2F",
+        "target_age": "國中以上",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "小雷因同學取笑遇古博士，透過化石了解恐龍演化，學習互相尊重。需搭配實體道具包，為單線故事，無語音音效。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/learn/museum-education/theme/Theme-000554/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "恐龍遊戲",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "請至 Google Play商店 或 Apple App Store 下載阿謎GO",
+        "location": "生命科學廳1F, 2F",
+        "target_age": "國中以上",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "同學收到國王簡訊，為解開恐龍演化滅絕謎團，來科博館執行任務。本遊戲獲徵稿金獎，為單線故事，無語音音效。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/learn/museum-education/theme/Theme-000554/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "921時光跡",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "請至 Google Play商店 或 Apple App Store 下載阿謎GO",
+        "location": "921地震教育園區, 到校課程",
+        "target_age": "3年級以上",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "2199年星球震盪，玩家搭時空艙回過去，找尋地震紀錄。本主題可園區現場體驗，亦可預約到校課程。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/learn/museum-education/theme/Theme-000554/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "餐桌上的科學—貝類篇",
+        "category": "知性與靜態學習",
+        "activity_date": "7/10、7/17、7/22、7/24",
+        "start_date": "2026-07-10",
+        "end_date": "2026-07-24",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "截止報名 (報名網址)",
+        "location": "科學中心５樓幼兒科學園",
+        "target_age": "114學年度大班至國小２年級學童（106/09/02 - 109/09/01 出生）",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "針對大班至國小二年級學童設計，透過餐桌上的貝類，探索海洋生物的科學奧秘，培養對自然科學的興趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/information/news/News-002522/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "乘著風的翅膀",
+        "category": "知性與靜態學習",
+        "activity_date": "8/5、8/12、8/14、8/19",
+        "start_date": "2026-08-05",
+        "end_date": "2026-08-19",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "截止報名 (報名網址)",
+        "location": "科學中心５樓幼兒科學園",
+        "target_age": "114學年度大班至國小２年級學童（106/09/02 - 109/09/01 出生）",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "專為大班至國小二年級學童規劃，透過實作與體驗，認識飛行原理與風的科學，激發學童的想像力與創造力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/information/news/News-002522/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "115年7-8月動手做",
+        "category": "手作DIY與才藝",
+        "activity_date": "7/8、7/11(取消)、7/12、7/22、7/25、7/26（開放報名中），8/5、8/8、8/9、8/19、8/22、8/23（7/14中午1點開放報名）",
+        "start_date": "2026-07-08",
+        "end_date": "2026-08-23",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "7/8、7/12、7/22、7/25、7/26 開放報名中；8/5、8/8、8/9、8/19、8/22、8/23 於 7/14中午1點開放報名 (報名網址)",
+        "location": "第一科學教室",
+        "target_age": "新學年國小 3 年級以上之學生（107/09/01 以前出生者）",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "針對國小三年級以上學生設計，提供多樣化的動手做科學活動，從實踐中學習，提升科學探索能力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/information/news/News-002522/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "創意機關王主題研習活動",
+        "category": "科技與創客",
+        "activity_date": "7/12、13、14、15、18、19，8/15、16",
+        "start_date": "2026-07-12",
+        "end_date": "2026-08-16",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "截止報名 (報名網址)",
+        "location": "第二科學教室（請由必可飛劇場入口進入至Ｂ１）",
+        "target_age": "新學年國小２-６年級學生（約103/9/2至109/9/1間出生者）",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "專為國小二至六年級學生設計，透過創意機關製作，培養邏輯思考、解決問題及動手實作的能力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/information/news/News-002522/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "原生植物是什麼？可以吃嗎？",
+        "category": "生態與大自然",
+        "activity_date": "7/8 取消辦理；7/12",
+        "start_date": "2026-07-12",
+        "end_date": "2026-07-12",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "7/12截止報名 (報名網址)",
+        "location": "植物園特展室門口（西屯路旁小溫室）報到",
+        "target_age": "新學年國小３年級以上之一般民眾（107/09/01以前出生）",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "探索台灣原生植物的奧秘，了解其生態特性與食用價值，適合國小三年級以上及一般民眾參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/information/news/News-002522/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "公視《水．不水之間》特映座談會",
+        "category": "知性與靜態學習",
+        "activity_date": "7/12",
+        "start_date": "2026-07-12",
+        "end_date": "2026-07-12",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "7/11截止報名 (報名網址)",
+        "location": "本館第三演講廳（藍廳），13:40 - 14:00 必可飛劇場側門報到",
+        "target_age": "新學年國小３年級以上之一般大眾（107/09/01以前出生者）",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "觀賞公視紀錄片《水．不水之間》特映，並參與座談，探討水資源相關議題，適合國小三年級以上學童及一般民眾。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/information/news/News-002522/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "小小解說員研習營",
+        "category": "知性與靜態學習",
+        "activity_date": "7/16-17、7/23-24、7/30-31",
+        "start_date": "2026-07-16",
+        "end_date": "2026-07-31",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "截止報名 (報名網址)",
+        "location": "第二科學教室（必可飛劇場左邊側門進出）",
+        "target_age": "新學年國小５年級~國１學生（102/9/2~105/9/1出生）",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "專為國小五年級至國中一年級學生設計，透過專業培訓，學習成為小小解說員，提升表達與知識傳遞能力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/information/news/News-002522/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "位相學動手做大補帖研習",
+        "category": "科技與創客",
+        "activity_date": "7/4、7/5、7/18",
+        "start_date": "2026-07-04",
+        "end_date": "2026-07-18",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "截止報名 (報名網址)",
+        "location": "第一科學教室（9:00 - 9:15 必可飛劇場側門報到）",
+        "target_age": "新學年國小 4 年級至國中 1 年級學生（102/09/02 - 106/09/01 出生）",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "針對國小四年級至國中一年級學生，透過動手實作，深入淺出地學習位相學原理，啟發科學思維。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/information/news/News-002522/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "飛行器動手做大補帖研習",
+        "category": "科技與創客",
+        "activity_date": "7/19、8/1、8/2",
+        "start_date": "2026-07-19",
+        "end_date": "2026-08-02",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "截止報名 (報名網址)",
+        "location": "第一科學教室（9:00 - 9:15 必可飛劇場側門報到）",
+        "target_age": "新學年國小 4 年級至國中 1 年級學生（102/09/02 - 106/09/01 出生）",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "專為國小四年級至國中一年級學生設計，透過飛行器製作與實驗，了解飛行原理，培養科學與工程技能。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/information/news/News-002522/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "植物與人生系列假日活動",
+        "category": "生態與大自然",
+        "activity_date": "7/18取消辦理；7/19",
+        "start_date": "2026-07-19",
+        "end_date": "2026-07-19",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "7/19截止報名 (報名網址)",
+        "location": "植物園特展室門口報到",
+        "target_age": "新學年國小３-６年級學童（103/09/02 - 107/09/01 出生）",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "針對國小三至六年級學童，透過假日活動認識植物與人類生活的關聯，增進對自然生態的了解。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/information/news/News-002522/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "STEAM探索力親師生共學活動",
+        "category": "科技與創客",
+        "activity_date": "7/21、7/30、8/6、8/18",
+        "start_date": "2026-07-21",
+        "end_date": "2026-08-18",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "截止報名 (報名網址)",
+        "location": "第四科學教室、展示場",
+        "target_age": "國小 3 年級以上（106/09/01 以前出生），3 - 4 人組隊報名，由 1 人代表報名。每組至少 1 位成人帶隊全程參與。",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "親師生共同參與的STEAM探索活動，適合國小三年級以上學童與家長組隊報名，共同體驗科學與創客樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/information/news/News-002522/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "健康 Action GO",
+        "category": "知性與靜態學習",
+        "activity_date": "7/8、7/22、8/5、8/19",
+        "start_date": "2026-07-08",
+        "end_date": "2026-08-19",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "截止報名 (報名網址)",
+        "location": "8:50 - 9:00 必可飛劇場側門口報到",
+        "target_age": "新學年國小４年級至國中１年級學生（102/09/02 - 106/09/01 出生）",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "針對國小四年級至國中一年級學生，透過互動活動學習健康知識，培養積極的生活態度。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/information/news/News-002522/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "好海子出任務－雙館齊夏：墾丁海生館篇",
+        "category": "生態與大自然",
+        "activity_date": "7/27-29",
+        "start_date": "2026-07-27",
+        "end_date": "2026-07-29",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "截止報名 (報名網址)",
+        "location": "本館海洋保育教育中心、臺南南瀛海洋保育教育中心、國立海洋生物博物館。第一日 9:00 - 9:15 本館地球環境廳大門（近西屯路）報到。",
+        "target_age": "新學年國小４年級至國中２年級學生（101/09/02 - 106/09/01 ）",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "結合科博館與墾丁海生館的雙館營隊，帶領國小四年級至國中二年級學生，深入探索海洋生態與保育知識，展開一場三天兩夜的海洋任務。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/information/news/News-002522/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "地球危機救援隊暑期體驗營",
+        "category": "生態與大自然",
+        "activity_date": "8/1",
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-01",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "7/12截止報名 (報名網址)",
+        "location": "8:40-8:55 人類文化廳大門內報到（近西屯路）",
+        "target_age": "新學年國小４年級至國中１年級學生",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "針對國小四年級至國中一年級學生，透過暑期體驗營，認識地球環境面臨的危機，學習如何成為地球救援隊的一員。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/information/news/News-002522/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "115年原住民族科學工藝學習營",
+        "category": "在地文化體驗",
+        "activity_date": "8/1、8/15",
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-15",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "7/15截止報名 (報名網址)",
+        "location": "植物園（13:50-14:00 植物園特展室門口報到）",
+        "target_age": "新學年國小３年級以上之一般大眾（2018/09/01以前出生）",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "結合原住民族文化與科學工藝的學習營，適合國小三年級以上及一般民眾，體驗多元文化與動手實作樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/information/news/News-002522/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "MUS 101：魔法博物學院 第三堂—文物保存的運用（一）",
+        "category": "知性與靜態學習",
+        "activity_date": "8/2",
+        "start_date": "2026-08-02",
+        "end_date": "2026-08-02",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "7/17截止報名 (報名網址)",
+        "location": "自然學友之家（13:15-13:30 自然學友之家門口報到）",
+        "target_age": "國小５年級以上一般民眾（2016/09/01 前出生）",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "「魔法博物學院」系列課程，探討文物保存的科學與運用，適合國小五年級以上及一般民眾，了解博物館背後的知識。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/information/news/News-002522/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "大地小勇士：生態與防災探索營",
+        "category": "生態與大自然",
+        "activity_date": "8/6-7",
+        "start_date": "2026-08-06",
+        "end_date": "2026-08-07",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "7/10截止報名 (報名網址)",
+        "location": "第一天 9:00 - 9:30 太空劇場前廣場集合",
+        "target_age": "國小３-６年級學生（102/09/02 - 107/09/01 出生）",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "為國小三至六年級學生打造的生態與防災探索營，透過實地觀察與學習，培養環境保護和災害應變能力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/information/news/News-002522/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "熱得有禮",
+        "category": "知性與靜態學習",
+        "activity_date": "8/15、8/16",
+        "start_date": "2026-08-15",
+        "end_date": "2026-08-16",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "截止報名 (報名網址)",
+        "location": "第一科學教室（9:10 - 9:30 必可飛劇場側門報到）",
+        "target_age": "新學年國小 4 年級至國中 3 年級學生（100/09/02 - 106/09/01 出生者）",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "針對國小四年級至國中三年級學生，探討與熱相關的科學現象，透過有趣的方式學習物理知識。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/information/news/News-002522/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "臺灣台語卡通裡的科學",
+        "category": "知性與靜態學習",
+        "activity_date": "7/4",
+        "start_date": "2026-07-04",
+        "end_date": "2026-07-04",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "現場參加 (免費入場)",
+        "location": "國立自然科學博物館",
+        "target_age": "年滿6歲以上民眾（未滿6歲之兒童請勿觀賞，6-11歲學童須由成年人陪同觀賞）",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "透過播放台語卡通，結合科學知識講解，引導年滿6歲以上民眾與學童，從娛樂中學習科學。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmns.edu.tw/ch/information/news/News-002522/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "2026暑期套裝行程",
+        "category": "長天數營隊",
+        "activity_date": "",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "即將開放報名，詳情待公布",
+        "location": "國立故宮博物院 (兒藝藏寶閣)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "國立故宮博物院兒藝藏寶閣將於2026暑期推出親子套裝行程，歡迎大小朋友一同參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://theme.npm.edu.tw/children/",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "「故宮的技與藝」 2026故宮夏令營",
+        "category": "長天數營隊",
+        "activity_date": "2026-07-21~2026-07-30",
+        "start_date": "2026-07-21",
+        "end_date": "2026-07-30",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "線上報名與繳費，額滿為止，額滿與否依售票系統顯示為準。",
+        "location": "北部院區",
+        "target_age": "兒童及家庭",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "故宮夏令營以故宮文物為主題，透過「技與藝」的課程設計，讓學員體驗多元的文化學習。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.npm.gov.tw/Activity-Current.aspx?sno=03000079&l=1",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "2026〈神獸夜未眠〉親子夜宿活動",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-07-18~2026-08-02",
+        "start_date": "2026-07-18",
+        "end_date": "2026-08-02",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "報名方式請詳閱活動內容。",
+        "location": "北部院區",
+        "target_age": "兒童及家庭",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "故宮親子夜宿活動，帶領親子一同探索博物館夜晚的神秘，與文物神獸共度一場難忘的文化體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.npm.gov.tw/Activity-Current.aspx?sno=03000079&l=1",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "2026暑期套裝行程",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-07-14~2026-08-07",
+        "start_date": "2026-07-14",
+        "end_date": "2026-08-07",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "線上報名。",
+        "location": "北部院區",
+        "target_age": "兒童及家庭",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "故宮為兒童及家庭設計的2026暑期套裝行程，包含多樣化的導覽與體驗活動，深度感受故宮魅力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.npm.gov.tw/Activity-Current.aspx?sno=03000079&l=1",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "2026「故宮童樂節」奇幻登場！",
+        "category": "節慶市集與綜合",
+        "activity_date": "2026-07-01~2026-08-30",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "報名方式請見各活動內容。",
+        "location": "北部院區",
+        "target_age": "兒童及家庭",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "故宮童樂節奇幻登場，規劃一系列適合兒童與家庭的活動，帶來充滿樂趣的暑期體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.npm.gov.tw/Activity-Current.aspx?sno=03000079&l=1",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "115年度上半年「故宮遊藝思─學子嗨FUN參訪北部院區」",
+        "category": "知性與靜態學習",
+        "activity_date": "115/4/16 - 7/17",
+        "start_date": "2026-04-16",
+        "end_date": "2026-07-17",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "請至故宮線上報名系統。",
+        "location": "北部院區",
+        "target_age": "學子",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "故宮為學子規劃的參訪活動，透過活潑的遊藝方式，引導學生們探索故宮文物與文化。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.npm.gov.tw/Activity-Current.aspx?sno=03000079&l=1",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "《海洋性別變奏曲》特展",
+        "category": "知性與靜態學習",
+        "activity_date": "115-06-18~116-03-01",
+        "start_date": "2026-06-18",
+        "end_date": "2027-03-01",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "入場參觀，詳情請洽海生館官網",
+        "location": "國立海洋生物博物館 珊瑚王國館2樓特展區",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "探討海洋生物的性別多樣性，如性別轉換、孤雌生殖等現象，顛覆對性別的刻板印象。透過生動展示，讓遊客了解海洋世界中豐富且獨特的生命樣貌。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmmba.gov.tw/News_Cus1.aspx?n=3BA711487C292039&sms=769E1FE88CFEAD57",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "巨鯨之路(Reborn: the Blue Whale's Journey)",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "入場參觀，詳情請洽海生館官網",
+        "location": "國立海洋生物博物館 世界水域館大廳",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "展出2020年擱淺的巨鯨標本與解剖研究，揭示其腸道中發現大量塑膠垃圾。透過藍鯨的生命故事，喚醒大眾對海洋生態保育及塑膠汙染議題的重視。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmmba.gov.tw/News_Cus1.aspx?n=3BA711487C292039&sms=769E1FE88CFEAD57",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "重返海洋特展",
+        "category": "知性與靜態學習",
+        "activity_date": "114-12-04~115-12-31",
+        "start_date": "2025-12-04",
+        "end_date": "2026-12-31",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "入場參觀，詳情請洽海生館官網",
+        "location": "國立海洋生物博物館 世界水域館-三樓",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "介紹一群從陸地重返海洋的特殊生物，如海龜、海豚與鯨魚。探討牠們如何適應大海，並在演化過程中保留陸生特徵，展示其獨特的演化奧秘。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmmba.gov.tw/News_Cus1.aspx?n=3BA711487C292039&sms=769E1FE88CFEAD57",
+        "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "SEA YOU《海洋的見證與再造》",
+        "category": "知性與靜態學習",
+        "activity_date": "115-04-02~115-06-28",
+        "start_date": "2026-04-02",
+        "end_date": "2026-06-28",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "入場參觀，詳情請洽海生館官網",
+        "location": "國立海洋生物博物館(珊瑚王國出口彩虹廊道、遊客中心大廳)",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "透過影像、文字與實物，見證海洋所面臨的危機與挑戰，並探討人類如何透過行動，共同再造永續的海洋環境。呼籲大眾關注海洋保育議題。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmmba.gov.tw/News_Cus1.aspx?n=3BA711487C292039&sms=769E1FE88CFEAD57",
+        "crawl_time": "2026-07-11T21:35:30"
     }
 ]
