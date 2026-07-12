@@ -4773,5 +4773,276 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.nmmba.gov.tw/News_Cus1.aspx?n=3BA711487C292039&sms=769E1FE88CFEAD57",
         "crawl_time": "2026-07-11T21:35:30"
+    },
+    {
+        "title": "《一日飼育員》親子體驗營 - 第一梯次",
+        "category": "生態與大自然",
+        "activity_date": "115年7月6日（星期一）09:00~16:00",
+        "start_date": "2026-07-06",
+        "end_date": "2026-07-06",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "基隆市",
+        "registration_date": "本梯次已售罄，無法報名。報名相關問題請洽：(02)2469-6000分機5017 周先生 / 5019 邱小姐。",
+        "location": "潮境智能海洋館（地址：基隆市北寧路369巷61號，非海科館主題館）",
+        "target_age": "6-12歲親子家庭（需家長陪同參加）",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "體驗飼育員辛苦又有趣的工作日常！親自準備食物、餵養生物，穿著飼育人員裝備，並公開神秘飼育後場，近距離認識維生系統設備，滿足對海洋生物的好奇心。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://nmmst.fonticket.com/ticket/9nxGMZgE19XgYq1l",
+        "crawl_time": "2026-07-12T21:35:26"
+    },
+    {
+        "title": "《一日飼育員》親子體驗營 - 第二梯次",
+        "category": "生態與大自然",
+        "activity_date": "115年8月3日（星期一）09:00~16:00",
+        "start_date": "2026-08-03",
+        "end_date": "2026-08-03",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "基隆市",
+        "registration_date": "線上報名，預計於115年5月5日開放。報名相關問題請洽：(02)2469-6000分機5017 周先生 / 5019 邱小姐。",
+        "location": "潮境智能海洋館（地址：基隆市北寧路369巷61號，非海科館主題館）",
+        "target_age": "6-12歲親子家庭（需家長陪同參加）",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "體驗飼育員辛苦又有趣的工作日常！親自準備食物、餵養生物，穿著飼育人員裝備，並公開神秘飼育後場，近距離認識維生系統設備，滿足對海洋生物的好奇心。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://nmmst.fonticket.com/ticket/9nxGMZgE19XgYq1l",
+        "crawl_time": "2026-07-12T21:35:26"
+    },
+    {
+        "title": "永續海洋工作坊《魚類標本記錄體驗營》",
+        "category": [
+            "生態與大自然",
+            "手作DIY與才藝",
+            "知性與靜態學習"
+        ],
+        "activity_date": "7/18、7/25、8/15、8/29",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "基隆市",
+        "registration_date": "線上預約至活動前兩天中午截止，本活動須事前準備魚類標本，恕不接受現場報名。",
+        "location": "潮境智能海洋館3F實驗室LAB X（地址：基隆市北寧路369巷61號，非海科館主題館）",
+        "target_age": "12歲以上學生、一般民眾，未滿12歲孩童需請家長一同報名參加(意即需報名1大1小共2名參加，一位成人至多陪伴兩位孩童)",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "國立海洋科技博物館舉辦《魚類標本記錄體驗營》，內容包含認識硬骨魚、製作魚類標本及魚類繪圖。適合12歲以上學生、一般民眾，未滿12歲孩童需家長陪同報名。每人特價900元。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://nmmst.fonticket.com/ticket/rxdM1X4KADa6me9v",
+        "crawl_time": "2026-07-12T21:35:26"
+    },
+    {
+        "title": "《13號兒童樂園》無線電身體工作坊",
+        "category": "手作DIY與才藝",
+        "activity_date": "2026/08/02-2026/08/09",
+        "start_date": "2026-08-02",
+        "end_date": "2026-08-09",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "詳見官網報名資訊",
+        "location": "臺北市立美術館兒藝中心",
+        "target_age": "兒童適用",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "結合無線電科技與身體探索的創意工作坊，激發孩子們的想像力與動手能力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tfam.museum/kid/",
+        "crawl_time": "2026-07-12T21:35:26"
+    },
+    {
+        "title": "明治「ㄑㄧㄠˊ」車位",
+        "category": "知性與靜態學習",
+        "activity_date": "2026/06/23-2026/08/21",
+        "start_date": "2026-06-23",
+        "end_date": "2026-08-21",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "詳見官網",
+        "location": "臺北市立美術館兒藝中心",
+        "target_age": "不限",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "一項特別設計的互動活動，邀請參與者探索與「車位」相關的有趣挑戰與概念。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tfam.museum/kid/",
+        "crawl_time": "2026-07-12T21:35:26"
+    },
+    {
+        "title": "《塚之芽》聲音詩&即興演出",
+        "category": "藝文展演",
+        "activity_date": "2026/05/30-2026/08/29",
+        "start_date": "2026-05-30",
+        "end_date": "2026-08-29",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "已額滿",
+        "location": "臺北市立美術館兒藝中心",
+        "target_age": "不限",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "一場結合聲音詩與即興演出的藝文展演活動，為觀眾帶來獨特的聽覺與視覺體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tfam.museum/kid/",
+        "crawl_time": "2026-07-12T21:35:26"
+    },
+    {
+        "title": "「造公園」故事日",
+        "category": "知性與靜態學習",
+        "activity_date": "2026/04/18-2026/08/22",
+        "start_date": "2026-04-18",
+        "end_date": "2026-08-22",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "詳見官網",
+        "location": "臺北市立美術館兒藝中心",
+        "target_age": "兒童適用",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "專為兒童設計的故事日活動，透過生動的敘述帶領孩子們探索「造公園」主題，激發想像。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tfam.museum/kid/",
+        "crawl_time": "2026-07-12T21:35:26"
+    },
+    {
+        "title": "定時導覽｜「造公園」",
+        "category": "知性與靜態學習",
+        "activity_date": "2026/04/07-2026/08/30",
+        "start_date": "2026-04-07",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "詳見官網定時導覽時間，現場參與",
+        "location": "臺北市立美術館兒藝中心",
+        "target_age": "親子導覽",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "針對「造公園」展覽提供的定時導覽服務，適合親子一同參與，深入了解展覽內容。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tfam.museum/kid/",
+        "crawl_time": "2026-07-12T21:35:26"
+    },
+    {
+        "title": "團體預約導覽｜「造公園」",
+        "category": "知性與靜態學習",
+        "activity_date": "2026/04/01-2026/08/27",
+        "start_date": "2026-04-01",
+        "end_date": "2026-08-27",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "需預約報名",
+        "location": "臺北市立美術館兒藝中心",
+        "target_age": "親子導覽",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "專為團體設計的「造公園」展覽預約導覽，適合學校團體或親子團體共同參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tfam.museum/kid/",
+        "crawl_time": "2026-07-12T21:35:26"
+    },
+    {
+        "title": "繪聲繪色kóng台語：臺灣台語繪本延伸活動—繪本導賞",
+        "category": [
+            "手作DIY與才藝",
+            "知性與靜態學習",
+            "在地文化體驗"
+        ],
+        "activity_date": "2026/07/25 15:00 ~ 2026/08/15 16:40",
+        "start_date": "2026-07-25",
+        "end_date": "2026-08-15",
+        "recurring_days": [
+            6
+        ],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "活動前14日開放預約，至遲於參觀前2日完成，請至「兒童繪本區入場預約申請」",
+        "location": "本館兒童繪本區 (臺中市西區五權西路一段2號)",
+        "target_age": "5歲以上",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "針對兒童辦理臺灣台語繪本故事活動，結合繪本內容，設計多元豐富的遊戲、手作DIY等活動。提供沉浸式的台語故事時間，讓聽故事的親子感受台語故事的樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60116",
+        "crawl_time": "2026-07-12T21:35:26"
+    },
+    {
+        "title": "時代印記：國美典藏常設展",
+        "category": "藝文展演",
+        "activity_date": "2026/01/17 ~ 2026/08/16",
+        "start_date": "2026-01-17",
+        "end_date": "2026-08-16",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "依國美館開館時間自由參觀",
+        "location": "國立臺灣美術館 (301-302展覽室、201展覽室)，臺中市西區五權西路一段2號",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "「時代印記：國美典藏常設展」展示國美館37年豐富典藏，透過五大展區，闡述臺灣明清至當代美術發展與時代精神。以編年方式探討藝術受歷史變遷影響及主體性建立。第二檔次展期2026/01/17至2026/08/16，提供鑑賞臺灣美術的機會。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60040",
+        "crawl_time": "2026-07-12T21:35:26"
+    },
+    {
+        "title": "2026藝術夏令營｜乘著浪花－我的奇幻故事之旅：繪本創作營",
+        "category": "手作DIY與才藝",
+        "activity_date": "第➀梯次 2026/07/15（三）— 07/16（四）每日09:30-17:00；第➁梯次 2026/07/29（三）— 07/30（四）每日09:30-17:00",
+        "start_date": "2026-07-15",
+        "end_date": "2026-07-30",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "早鳥價優惠至6/29止 (3,900元/人)，會員價及一般價優惠至7/10止 (會員4,400元/人，一般4,900元/人)。請點擊網頁報名連結進行報名。",
+        "location": "臺南市美術館1樓閱讀之森 (臺南市中西區南門路37號)",
+        "target_age": "暑假後升國小一至六年級學生",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "臺南市美術館舉辦「繪本創作營」，攜手「沒有名字的繪本」團隊，帶領升國小一至六年級學生，從文化與日常經驗出發，結合海洋元素，將生活感受轉化為故事語言，學習觀看世界與表達自我，完成一本專屬繪本，開啟圖文跨界冒險。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnam.museum/event/detail/722",
+        "crawl_time": "2026-07-12T21:35:26"
     }
 ];
