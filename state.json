@@ -1,5 +1,5 @@
 {
-    "last_index": 12,
+    "last_index": 17,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -44,15 +44,24 @@
             "https://www.tnam.museum/event/detail/722"
         ],
         "https://www.kmfa.gov.tw/": [],
-        "https://www.ceramics.ntpc.gov.tw/": [],
+        "https://www.ceramics.ntpc.gov.tw/": [
+            "https://www.ceramics.ntpc.gov.tw/xmdoc/cont?xsmsid=0J149336017112545740&sid=0Q182579402523931672",
+            "https://www.ceramics.ntpc.gov.tw/xmdoc?xsmsid=0J149638456796918817"
+        ],
         "https://www.sshm.ntpc.gov.tw/": [],
         "https://www.juming.org.tw/": [
-            "https://www.juming.org.tw/?sn=ec&pg=ZC845518&gn=%u6D3B%u52D5%u65B0%u8A0A"
+            "https://www.juming.org.tw/?sn=ec&pg=ZC845518&gn=%u6D3B%u52D5%u65B0%u8A0A",
+            "https://www.juming.org.tw/mainssl/wdb2/go.php?xmlid=89789&urlxmlid=55945"
         ],
-        "https://www.chimeimuseum.org/": [],
+        "https://www.chimeimuseum.org/": [
+            "https://www.chimeimuseum.org/event/62035f9f4fd39",
+            "https://www.chimeimuseum.org/event/691aeece01a23"
+        ],
         "https://www.lym.gov.tw/": [
             "https://www.lym.gov.tw/ch/education/course/list/",
-            "https://www.lym.gov.tw/ch/education/activity/"
+            "https://www.lym.gov.tw/ch/education/activity/",
+            "https://www.lym.gov.tw/ch/education/activity/family-activities/",
+            "https://www.lym.gov.tw/ch/education/course/"
         ],
         "https://tmofa.tycg.gov.tw/": [
             "https://tmofa.tycg.gov.tw/ch/exhibitions/upcoming-exhibitions",
