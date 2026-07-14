@@ -1,5 +1,5 @@
 {
-    "last_index": 17,
+    "last_index": 22,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -68,16 +68,25 @@
             "https://tmofa.tycg.gov.tw/ch/events/current-events"
         ],
         "https://www.cultural.pthg.gov.tw/ptdpml/": [],
-        "https://www.ksml.edu.tw/": [],
+        "https://www.ksml.edu.tw/": [
+            "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16066",
+            "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,15998"
+        ],
         "https://www.tnpl.tn.edu.tw/": [
             "https://www.tnpl.tn.edu.tw/n14943237246847044508/n1Content",
             "https://www.tnpl.tn.edu.tw/ActivityList",
-            "https://www.tnpl.tn.edu.tw/n15620079756062084680/n1Content"
+            "https://www.tnpl.tn.edu.tw/n15620079756062084680/n1Content",
+            "https://www.tnpl.tn.edu.tw/za5658668529963803494/n1Content",
+            "https://www.tnpl.tn.edu.tw/za4799730058017753987/n1Content",
+            "https://www.tnpl.tn.edu.tw/n15243749194484546808/n1Content"
         ],
         "https://www.library.taichung.gov.tw/": [
             "https://gov.tw/rG7",
             "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,20841,,,,,2",
-            "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,21011,,,,,2"
+            "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,21011,,,,,2",
+            "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,21692,,,,,2",
+            "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,20865,,,,,2",
+            "https://www.library.taichung.gov.tw/active/details?Parser=99,3,39,27,,,20502"
         ],
         "https://www.typl.gov.tw/": [],
         "https://www.library.ntpc.gov.tw/": [],
