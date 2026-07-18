@@ -6941,5 +6941,247 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://chiayiartmuseum.chiayi.gov.tw/News_Content.aspx?n=13589&sms=14831&s=944018",
         "crawl_time": "2026-07-17T21:37:33"
+    },
+    {
+        "title": "宜蘭傳藝園區 親子共歡活動",
+        "category": "節慶市集與綜合",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "宜蘭縣",
+        "registration_date": "無需報名，購票入場",
+        "location": "宜蘭縣五結鄉五濱路二段201號",
+        "target_age": "適合孩童及親子",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "宜蘭傳藝園區提供豐富的親子共歡活動，包含百種手作體驗、精彩駐園演出、迷霧森林跑跳與品嚐懷舊美食，讓孩童盡情放電，全家大小一同體驗台灣傳統文化與藝術。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.px-sunmake.org.tw/activity/seasonlist.html",
+        "crawl_time": "2026-07-18T21:36:10"
+    },
+    {
+        "title": "宜蘭傳藝園區 親子共歡活動",
+        "category": "在地文化體驗",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "宜蘭縣",
+        "registration_date": null,
+        "location": "宜蘭縣五結鄉五濱路二段201號",
+        "target_age": "小孩充分歡樂放電!",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "宜蘭傳藝園區專為親子設計的歡樂行程，包含百種手作體驗、駐園演出欣賞、迷霧森林跑跳及品嚐懷舊美食，讓小孩充分放電，大人也能享受文化與美食的樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.px-sunmake.org.tw/activity/artexhibitionlist.html",
+        "crawl_time": "2026-07-18T21:36:10"
+    },
+    {
+        "title": "黃金博物館「小礦工出任務」 兒童節連假邀親子漫遊金仔山",
+        "category": [
+            "在地文化體驗",
+            "知性與靜態學習",
+            "手作DIY與才藝",
+            "藝文展演"
+        ],
+        "activity_date": "4月3日至4月6日兒童節連假",
+        "start_date": "2026-04-03",
+        "end_date": "2026-04-06",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "報名名額有限，額滿為止。活動詳情及報名資訊請至黃金博物館官網、粉絲專頁或IG查詢。",
+        "location": "新北市立黃金博物館 (新北市瑞芳區金光路8號)",
+        "target_age": "兒童及親子、成人",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "新北市立黃金博物館於兒童節連假（4月3日至4月6日）推出「小礦工出任務」系列活動，包含在地走讀、闖關抽獎、和菓子體驗及藝文表演。活動旨在讓親子透過遊戲探索金瓜石礦業歷史文化，適合全家大小一同參與，度過充滿知性與樂趣的兒童節假期。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246366358734295125&sid=0Q187374240979165004",
+        "crawl_time": "2026-07-18T21:36:10"
+    },
+    {
+        "title": "「2026礦山藝術季」文化行旅，小小導覽員帶領穿梭時空秘密基地",
+        "category": "在地文化體驗",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "即日起開放報名，詳情請洽「2026礦山藝術季」活動官網：https://mineartfestival.com/",
+        "location": "新北市立黃金博物館及其周邊區域 (金瓜石、水湳洞、九份)，地址：新北市瑞芳區金光路8號",
+        "target_age": "國民小學學童及親子",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "「2026礦山藝術季」文化行旅以「路徑」為核心，規劃三條路線，邀請瓜山國小學童擔任小小導覽員，帶領遊客探索金瓜石的礦業歷史、舊城日常與水湳洞聚落的新生。活動包含DIY手作礦車藏寶盒和環保提袋，適合親子共同體驗山城文化與手作樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246366358734295125&sid=0Q187384116836768754",
+        "crawl_time": "2026-07-18T21:36:10"
+    },
+    {
+        "title": "2026暑期1日營隊🐫時光旅行團：Let's Go！探索永生傳說",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-07-27 ~ 2026-08-17",
+        "start_date": "2026-07-27",
+        "end_date": "2026-08-17",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": null,
+        "location": "國立歷史博物館",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "世界這麼大，我們都是時光旅行團成員，跟隨領隊一起穿越時空，貼近古埃及文明，探尋展覽奧秘解鎖任務，透過互動體驗、文物觀察、創意手作，展開穿越時空的文化探索之旅。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmh.gov.tw/News_actives.aspx?n=6990&sms=13323",
+        "crawl_time": "2026-07-18T21:36:10"
+    },
+    {
+        "title": "《探遊史博 想想歷史》 公共藝術自主學習方案",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-04-01 ~ 2026-12-31",
+        "start_date": "2026-04-01",
+        "end_date": "2026-12-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": null,
+        "location": "國立歷史博物館",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "邀請老師們帶領孩子們一起來去史博館，用感受自主探索，思考關於「歷史」與「我們」的距離，並配合學習單，創造博物館教學更多可能性。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmh.gov.tw/News_actives.aspx?n=6990&sms=13323",
+        "crawl_time": "2026-07-18T21:36:10"
+    },
+    {
+        "title": "終章未完：穿越生死的文化觀想特展",
+        "category": "藝文展演",
+        "activity_date": "2026-05-30 ~ 2026-09-20",
+        "start_date": "2026-05-30",
+        "end_date": "2026-09-20",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": null,
+        "location": "國立歷史博物館5樓",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "本展以華人傳統與臺灣原住民族的生死觀為核心，從佛教、道教、儒家與祖靈信仰等不同文化脈絡出發，探討人們如何理解死亡、記憶與生命延續。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmh.gov.tw/News_Actives_photo.aspx?n=6983&sms=13323",
+        "crawl_time": "2026-07-18T21:36:10"
+    },
+    {
+        "title": "「埃及木乃伊—永生傳說」國際特展",
+        "category": "藝文展演",
+        "activity_date": "2026-06-18 ~ 2026-09-28",
+        "start_date": "2026-06-18",
+        "end_date": "2026-09-28",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": null,
+        "location": "國立歷史博物館1、2樓展廳",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "本次展覽集結木乃伊真跡與精緻喪葬文物，從彩繪棺木、護身符，到刻有祈禱銘文的石碑，為觀眾完整解碼古埃及人追求永生的信仰與智慧。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmh.gov.tw/News_Actives_photo.aspx?n=6983&sms=13323",
+        "crawl_time": "2026-07-18T21:36:10"
+    },
+    {
+        "title": "《鏡花蟲洞宴》洪易戶外雕塑展",
+        "category": "藝文展演",
+        "activity_date": "2025-12-25 ~ 2026-10-11",
+        "start_date": "2025-12-25",
+        "end_date": "2026-10-11",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": null,
+        "location": "南海學園",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "洪易以藝術創作在國立歷史博物館戶外構築一場跨時空的「庭園劇場」，呈現外星人和動物們的奇幻視覺盛宴，圓潤造型和色彩能量如遊戲般。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmh.gov.tw/News_Actives_photo.aspx?n=6983&sms=13323",
+        "crawl_time": "2026-07-18T21:36:10"
+    },
+    {
+        "title": "B1兒童創意共學空間",
+        "category": "知性與靜態學習",
+        "activity_date": "2024-02-21",
+        "start_date": "2024-02-21",
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": null,
+        "location": "國立歷史博物館",
+        "target_age": "5-12歲兒童及同行者",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "史博館重新開放，特別在B1樓層設置兒童創意共學空間，結合展示、學習、休憩功能，以「時間」為主題，引導5-12歲兒童從日常感受及測量中探索時間。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmh.gov.tw/News_Actives_photo.aspx?n=6983&sms=13323",
+        "crawl_time": "2026-07-18T21:36:10"
+    },
+    {
+        "title": "在這裡，與大家相遇—國立歷史博物館常設展",
+        "category": "藝文展演",
+        "activity_date": "2024-02-21",
+        "start_date": "2024-02-21",
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": null,
+        "location": "國立歷史博物館3樓",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "國立歷史博物館自2018年啟動修復工程，並於2024年初完成。本次常設展以「多元」、「交融」為主題，呈現豐富多元的文化體驗，象徵博物館邁向全新時代。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmh.gov.tw/News_Actives_photo.aspx?n=6983&sms=13323",
+        "crawl_time": "2026-07-18T21:36:10"
     }
 ];

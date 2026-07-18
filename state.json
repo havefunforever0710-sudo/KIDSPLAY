@@ -1,5 +1,5 @@
 {
-    "last_index": 37,
+    "last_index": 42,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -140,13 +140,21 @@
             "https://chiayiartmuseum.chiayi.gov.tw/News_Content.aspx?n=13589&sms=14831&s=944018"
         ],
         "https://tbocc.cyhg.gov.tw/": [],
-        "https://www.ncfta.gov.tw/": [],
+        "https://www.ncfta.gov.tw/": [
+            "https://www.px-sunmake.org.tw/activity/seasonlist.html",
+            "https://www.px-sunmake.org.tw/activity/artexhibitionlist.html"
+        ],
         "https://www.npsm.org.tw/": [],
         "https://www.gep.ntpc.gov.tw/": [
             "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246370980849685209",
-            "https://www.gep.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G266496700270752519&sid=0P275406705160831604"
+            "https://www.gep.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G266496700270752519&sid=0P275406705160831604",
+            "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246366358734295125&sid=0Q187374240979165004",
+            "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246366358734295125&sid=0Q187384116836768754"
         ],
-        "https://www.nmh.gov.tw/": [],
+        "https://www.nmh.gov.tw/": [
+            "https://www.nmh.gov.tw/News_actives.aspx?n=6990&sms=13323",
+            "https://www.nmh.gov.tw/News_Actives_photo.aspx?n=6983&sms=13323"
+        ],
         "https://www.mocataipei.org.tw/": [],
         "https://www.museum.org.tw/": [],
         "https://www.nmp.gov.tw/": [],
