@@ -7183,5 +7183,347 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.nmh.gov.tw/News_Actives_photo.aspx?n=6983&sms=13323",
         "crawl_time": "2026-07-18T21:36:10"
+    },
+    {
+        "title": "Young Folks：世界是一片感知的膜",
+        "category": "藝文展演",
+        "activity_date": "2026 / 05 / 23 ~ 2026 / 08 / 30",
+        "start_date": "2026-05-23",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "開放參觀，詳細票價及時間請參考台北當代藝術館官網",
+        "location": "台北當代藝術館",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "「Young Folks：世界是一片感知的膜」展覽探討人類精神世界如何隨影像技術演進，揭示世界由多元感知構成。邀請六位藝術家，透過創作探索物質與精神連結。展覽提供兒童學習單，適合親子一同觀賞，理解當代藝術與科技。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/Young*Folks%EF%BC%9A%E4%B8%96%E7%95%8C%E6%98%AF%E4%B8%80%E7%89%87%E6%84%9F%E7%9F%A5%E7%9A%84%E8%86%9C",
+        "crawl_time": "2026-07-19T21:37:27"
+    },
+    {
+        "title": "親子工作坊－如果照片會說謊？—— 剪開歷史的濾鏡！",
+        "category": "手作DIY與才藝",
+        "activity_date": "2026/8/2 (日) 14:30-16:00",
+        "start_date": "2026-08-02",
+        "end_date": "2026-08-02",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "臺東市",
+        "registration_date": "2026/07/17 09:00 ~ 2026/07/31 17:00 (線上報名)",
+        "location": "史前館 第一特展室 (95060臺東市豐田里博物館路1號)",
+        "target_age": "國小一年級（含）以上親子",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "此親子工作坊結合「超越35mm特展」，由紀錄片導演勒嘎·舒米帶領大小朋友，運用剪貼重新詮釋原住民族影像，探索其背後的社會意義。這不只手作好玩，更是與歷史對話的知性學習，參與者可獲紀念小物。活動需購買門票入場。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60342",
+        "crawl_time": "2026-07-19T21:37:27"
+    },
+    {
+        "title": "神遊南島— 出海的桌上冒險",
+        "category": "在地文化體驗",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "臺東市",
+        "registration_date": "至本館售票大廳服務台現場報名後，開啟文化幣打卡掃描「收款碼、打卡碼」付款，即可享優惠。",
+        "location": "國立臺灣史前文化博物館 (本館)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "本活動結合本館南島廳導覽活動，帶領民眾認識南島族群神話故事及航海智慧，並體驗熱縮片，製作船繪圖吊飾作為紀念。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60337",
+        "crawl_time": "2026-07-19T21:37:27"
+    },
+    {
+        "title": "【南科考古館】8/15台語家庭意識培力課程",
+        "category": "知性與靜態學習",
+        "activity_date": "8/15(六)",
+        "start_date": "2026-08-15",
+        "end_date": "2026-08-15",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "報名期間：2026/07/14 00:00 ~ 2026/08/13 23:59，線上報名。",
+        "location": "南科考古館1樓多功能教室 (臺南市新市區南科三路10號)",
+        "target_age": "一般大眾及臺灣台語家庭",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "南科考古館舉辦台語家庭意識培力課程，邀請學者透過生活故事、互動工作坊，帶領家庭了解臺灣台語在家庭中的傳承與實務成長。活動包含考古繪本故事及手作，可獲台語家庭認證點數3點。旨在推廣多元國家語言保存與人文意識。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60341",
+        "crawl_time": "2026-07-19T21:37:27"
+    },
+    {
+        "title": "兒童考古探索廳",
+        "category": "知性與靜態學習",
+        "activity_date": "",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "宜蘭縣",
+        "registration_date": "無需額外報名，憑博物館門票入館",
+        "location": "蘭陽博物館",
+        "target_age": "兒童",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "蘭陽博物館「兒童考古探索廳」為兒童設計互動式展覽，讓孩子扮演小小考古學家，透過體驗遊戲，探索宜蘭史前人類生活。展廳設發掘現場、考古工作室等，引導兒童學習考古過程，藉由感官、想像與邏輯，深入了解在地文化歷史，是一個適合親子共同參與的知性探索空間。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.lym.gov.tw/ch/exhibition/",
+        "crawl_time": "2026-07-19T21:37:27"
+    },
+    {
+        "title": "蘭陽博物館環教課程",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "宜蘭縣",
+        "registration_date": "預約課程請務必先來電洽談。電話：03-9779700#208 陳小姐",
+        "location": "蘭陽博物館 (宜蘭縣頭城鎮青雲路三段750號)",
+        "target_age": "適合學齡兒童及親子家庭",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "蘭陽博物館規劃多樣環境教育課程，涵蓋宜蘭歷史、生態、文化等主題，如《探索鯨奇》、《烏石濕地鳥世界》等11項。課程適合學齡兒童及親子家庭，每人每堂100元，需來電預約。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.lym.gov.tw/ch/education/course/introduction/",
+        "crawl_time": "2026-07-19T21:37:27"
+    },
+    {
+        "title": "繪本說故事／自由參加",
+        "category": "知性與靜態學習",
+        "activity_date": "115年07月18日 ~ 115年08月29日",
+        "start_date": "2026-07-18",
+        "end_date": "2026-08-29",
+        "recurring_days": [
+            6
+        ],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "無需報名，自由參加",
+        "location": "國立臺灣文學館 Ｄ展間（兒童文學特展入口），臺南市中西區中正路1號",
+        "target_age": "大朋友和小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "國立臺灣文學館舉辦的「繪本說故事」活動，由故事志工帶領大朋友小朋友進入文學世界。活動於每週六下午在Ｄ展間舉行，為自由參加。提供115年7月至8月的場次與繪本主題。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60138",
+        "crawl_time": "2026-07-19T21:37:27"
+    },
+    {
+        "title": "親子手語說繪本故事（小手圓舞曲）第二場",
+        "category": "知性與靜態學習",
+        "activity_date": "2026/05/16 13:00 ~ 2026/05/16 15:00",
+        "start_date": "2026-05-16",
+        "end_date": "2026-05-16",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "2026/04/14 09:00 ~ 2026/05/14 22:00",
+        "location": "國立台灣文學館Ｂ１文學樂園 (臺南市中西區中正路1號)",
+        "target_age": "需家長陪同，最多可攜伴3位小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "國立台灣文學館舉辦親子手語說繪本故事活動，結合聾人老師以全手語講述繪本，引導孩童認識聾人文化，豐富閱聽經驗，促進聽聾共融。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60093",
+        "crawl_time": "2026-07-19T21:37:27"
+    },
+    {
+        "title": "親子手語說繪本故事（小手圓舞曲）第三場",
+        "category": "知性與靜態學習",
+        "activity_date": "2026/06/13 13:00 ~ 2026/06/13 15:00",
+        "start_date": "2026-06-13",
+        "end_date": "2026-06-13",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "2026/04/14 09:00 ~ 2026/06/12 23:59",
+        "location": "國立台灣文學館Ｂ１文學樂園 (臺南市中西區中正路1號)",
+        "target_age": "需家長陪同，最多可攜伴3位小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "國立台灣文學館舉辦親子手語說繪本故事活動，結合聾人老師以全手語講述繪本，引導孩童認識聾人文化，豐富閱聽經驗，促進聽聾共融。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60093",
+        "crawl_time": "2026-07-19T21:37:27"
+    },
+    {
+        "title": "親子手語說繪本故事（小手圓舞曲）第五場",
+        "category": "知性與靜態學習",
+        "activity_date": "2026/08/15 13:00 ~ 2026/08/15 15:00",
+        "start_date": "2026-08-15",
+        "end_date": "2026-08-15",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "2026/04/14 09:00 ~ 2026/08/06 17:00",
+        "location": "國立台灣文學館Ｂ１文學樂園 (臺南市中西區中正路1號)",
+        "target_age": "需家長陪同，最多可攜伴3位小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "國立台灣文學館舉辦親子手語說繪本故事活動，結合聾人老師以全手語講述繪本，引導孩童認識聾人文化，豐富閱聽經驗，促進聽聾共融。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60093",
+        "crawl_time": "2026-07-19T21:37:27"
+    },
+    {
+        "title": "親子手語說繪本故事（小手圓舞曲）第四場 (原7/11場次)",
+        "category": "知性與靜態學習",
+        "activity_date": "2026/08/30 13:10 ~ 2026/08/30 15:00",
+        "start_date": "2026-08-30",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "2026/04/14 09:00 ~ 2026/08/27 17:00",
+        "location": "國立台灣文學館Ｂ１文學樂園 (臺南市中西區中正路1號)",
+        "target_age": "需家長陪同，最多可攜伴3位小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "國立台灣文學館舉辦親子手語說繪本故事活動，結合聾人老師以全手語講述繪本，引導孩童認識聾人文化，豐富閱聽經驗，促進聽聾共融。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60093",
+        "crawl_time": "2026-07-19T21:37:27"
+    },
+    {
+        "title": "親子手語說繪本故事（小手圓舞曲）第六場",
+        "category": "知性與靜態學習",
+        "activity_date": "2026/09/19 13:00 ~ 2026/09/19 15:00",
+        "start_date": "2026-09-19",
+        "end_date": "2026-09-19",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "2026/04/14 09:00 ~ 2026/09/10 17:00",
+        "location": "國立台灣文學館Ｂ１文學樂園 (臺南市中西區中正路1號)",
+        "target_age": "需家長陪同，最多可攜伴3位小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "國立台灣文學館舉辦親子手語說繪本故事活動，結合聾人老師以全手語講述繪本，引導孩童認識聾人文化，豐富閱聽經驗，促進聽聾共融。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60093",
+        "crawl_time": "2026-07-19T21:37:27"
+    },
+    {
+        "title": "兒童劇演出「消失的色彩──大畫家的奇幻調色盤」",
+        "category": "藝文展演",
+        "activity_date": "2026/07/04 14:00 ~ 2026/07/04 15:30",
+        "start_date": "2026-07-04",
+        "end_date": "2026-07-04",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "2026/06/22 09:00 ~ 2026/07/03 16:00",
+        "location": "國立臺灣文學館B1文學樂園",
+        "target_age": "6～11歲兒童為主，30人。",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "灰色男爵沒收所有顏色，將軍與公主帶領孩子化身「色彩修復師」，踏上奪回色彩的冒險。結合肢體開發、感官體驗與即興表演，透過聲光節奏，完成色彩與情緒的奇幻故事冒險。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60129",
+        "crawl_time": "2026-07-19T21:37:27"
+    },
+    {
+        "title": "《我的頭頂長了一朵香菇》閱讀活動",
+        "category": "藝文展演",
+        "activity_date": "2026/07/12 14:00 ~ 2026/07/12 15:30",
+        "start_date": "2026-07-12",
+        "end_date": "2026-07-12",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "2026/06/29 09:00 ~ 2026/07/10 16:00",
+        "location": "國立臺灣文學館B1文學樂園",
+        "target_age": "6～9歲兒童為主，20人。",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "共讀繪本引導孩子正視內心不安與脆弱，透過肢體互動、運用彩色布料進行創造性戲劇練習，學習接納不完美的自己。活動包含暖身、繪畫香菇及解決方法，擁抱接受情緒。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60129",
+        "crawl_time": "2026-07-19T21:37:27"
+    },
+    {
+        "title": "兒童文學工作坊「文學國的孩子王」",
+        "category": "知性與靜態學習",
+        "activity_date": "2026/08/12 09:00 ~ 2026/08/12 16:00",
+        "start_date": "2026-08-12",
+        "end_date": "2026-08-12",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "2026/07/15 09:00 ~ 2026/07/31 16:00",
+        "location": "國立臺灣文學館B1文學樂園",
+        "target_age": "9～12歲兒童為主，30人。",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "本工作坊以臺灣兒童文學繪本為主題，講師透過聆聽與提問互動，引領孩子從閱讀、故事討論與創作之間，感受文學是被體驗、被思考與被創造的生活歷程。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60129",
+        "crawl_time": "2026-07-19T21:37:27"
+    },
+    {
+        "title": "祖父母節《阿祖的日子紙》閱讀活動",
+        "category": "知性與靜態學習",
+        "activity_date": "2026/08/23 14:00 ~ 2026/08/23 15:30",
+        "start_date": "2026-08-23",
+        "end_date": "2026-08-23",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "2026/08/10 09:00 ~ 2026/08/21 16:00",
+        "location": "國立臺灣文學館B1文學樂園",
+        "target_age": "6～9歲兒童為主，歡迎祖孫一同報名參加，共計15組，30人。",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "共讀繪本《阿祖的日子紙》並透過戲劇遊戲，引導祖孫觀察彼此生命軌跡，搭建跨世代心靈交流橋樑。本活動使用80%台語、20%華語。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60129",
+        "crawl_time": "2026-07-19T21:37:27"
     }
 ];
