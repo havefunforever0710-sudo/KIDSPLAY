@@ -1,5 +1,5 @@
 {
-    "last_index": 47,
+    "last_index": 52,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -174,13 +174,25 @@
         "https://thcdc.hakka.gov.tw/": [
             "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/167679/",
             "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/1437/153220/164288/",
-            "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/1437/153220/164272/"
+            "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/1437/153220/164272/",
+            "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/165870/",
+            "https://thcdc.hakka.gov.tw/12205/12214/12215/168463/post",
+            "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/1437/153220/166991/"
         ],
-        "https://ssl.thcp.org.tw/": [],
-        "https://www.mwr.org.tw/": [],
+        "https://ssl.thcp.org.tw/": [
+            "https://ssl.thcp.org.tw/events/1630",
+            "https://ssl.thcp.org.tw/events/1631",
+            "https://ssl.thcp.org.tw/exhibitions/26"
+        ],
+        "https://www.mwr.org.tw/": [
+            "https://www.mwr.org.tw/xmdoc/cont?xsmsid=0I011567281712162219&sid=0Q155639520221936320",
+            "https://www.mwr.org.tw/xmdoc?xsmsid=0I011567281712162219",
+            "https://www.mwr.org.tw/xcspecexhi?xsmsid=0H305741810776620070"
+        ],
         "https://www.suhopaper.org.tw/": [
             "https://www.suhopaper.org.tw/index.php?route=information/information&information_id=94",
-            "https://www.suhopaper.org.tw/index.php?route=information/information&information_id=98"
+            "https://www.suhopaper.org.tw/index.php?route=information/information&information_id=98",
+            "https://www.suhopaper.org.tw/new_exhibition"
         ],
         "https://hotspringmuseum.taipei/": [],
         "https://discovery.gov.taipei/": [],

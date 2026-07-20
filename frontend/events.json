@@ -7524,5 +7524,703 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60129",
         "crawl_time": "2026-07-19T21:37:27"
+    },
+    {
+        "title": "115年7/25-26、8/15-16【六堆園區客語夏令營營隊體驗活動】(國小孩童限定)",
+        "category": "長天數營隊",
+        "activity_date": "115/7/25(六)-26(日)",
+        "start_date": "2026-07-25",
+        "end_date": "2026-07-26",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "線上報名，報名時間：2026/06/10 15:00 至 2026/07/23 12:00",
+        "location": "六堆客家文化園區 露營區 (屏東縣內埔鄉建興村信義路588號)",
+        "target_age": "國小三年級~六年級孩童 (小二升小三✓、小六升國一✓）",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "六堆園區客語夏令營以客家文化傳承、環境教育、客庄巡禮為三大主軸，規劃豐富有趣的體驗內容。包含團康、手作、營火晚會、客家料理、腳踏車巡禮、東片寶石村探索。適合國小三年級至六年級孩童，費用900元，含餐點、保險、DIY材料及帳篷等，暑假留下美好回憶。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/165870/",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "115年7/25-26、8/15-16【六堆園區客語夏令營營隊體驗活動】(國小孩童限定)",
+        "category": "長天數營隊",
+        "activity_date": "115/8/15(六)-16(日)",
+        "start_date": "2026-08-15",
+        "end_date": "2026-08-16",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "線上報名，報名時間：2026/06/10 15:00 至 2026/08/11 15:00",
+        "location": "六堆客家文化園區 露營區 (屏東縣內埔鄉建興村信義路588號)",
+        "target_age": "國小三年級~六年級孩童 (小二升小三✓、小六升國一✓）",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "六堆園區客語夏令營以客家文化傳承、環境教育、客庄巡禮為三大主軸，規劃豐富有趣的體驗內容。包含團康、手作、營火晚會、客家料理、腳踏車巡禮、東片寶石村探索。適合國小三年級至六年級孩童，費用900元，含餐點、保險、DIY材料及帳篷等，暑假留下美好回憶。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/165870/",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "HAKKA歡樂派對 (大獅兄人偶家族、巨型小丑泡泡秀、YOYO家族)",
+        "category": "藝文展演",
+        "activity_date": "2026年7月18日、7月26日、8月2日、8月29日",
+        "start_date": "2026-07-18",
+        "end_date": "2026-08-29",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "無需報名，現場參與",
+        "location": "六堆客家文化園區",
+        "target_age": "大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "六堆客家文化園區於暑假舉辦HAKKA歡樂派對，邀請大獅兄人偶家族、巨型小丑泡泡秀及YOYO家族番茄姐姐輪番演出，帶動唱跳並學習客語，打造豐富多元的夏日回憶。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/12205/12214/12215/168463/post",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "Fun暑假講客闖關趣",
+        "category": "知性與靜態學習",
+        "activity_date": "配合「HAKKA歡樂派對」活動當天",
+        "start_date": "2026-07-18",
+        "end_date": "2026-08-29",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "現場參與，部分活動需銅板價",
+        "location": "六堆客家文化園區周邊",
+        "target_age": "孩子們",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "於HAKKA歡樂派對期間同步推出，設有客語拼圖及銅板價客語趣味遊戲攤位，透過互動關卡讓孩子們在音樂與遊戲中開口說客語，成功闖關有機會獲得限量版精美刺繡貼。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/12205/12214/12215/168463/post",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "沉浸式互動小劇場《共下來打怪之歡笑能量》兒童劇",
+        "category": "藝文展演",
+        "activity_date": "2026年7月26日及8月2日",
+        "start_date": "2026-07-26",
+        "end_date": "2026-08-02",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "無需報名，現場參與",
+        "location": "六堆客家文化園區",
+        "target_age": "大、小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "結合全方位感官體驗的沉浸式互動兒童劇，帶領大小朋友進入南臺灣客家文化世界，在戲劇互動中親近客家文化，充滿歡笑與教育意義。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/12205/12214/12215/168463/post",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "暑期親子共學特色露營 (7月場)",
+        "category": "長天數營隊",
+        "activity_date": "2026年7月11日至12日",
+        "start_date": "2026-07-11",
+        "end_date": "2026-07-12",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "線上露營報名",
+        "location": "六堆客家文化園區",
+        "target_age": "全家",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "親子共學特色露營體驗活動，讓全家能在星空下夜觀園區生態，享受與大自然親近的兩天一夜營隊時光，學習自然知識。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/12205/12214/12215/168463/post",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "暑期親子共學特色露營 (8月場)",
+        "category": "長天數營隊",
+        "activity_date": "2026年8月22日至23日",
+        "start_date": "2026-08-22",
+        "end_date": "2026-08-23",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "線上露營報名",
+        "location": "六堆客家文化園區",
+        "target_age": "全家",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "親子共學特色露營體驗活動，讓全家能在星空下夜觀園區生態，享受與大自然親近的兩天一夜營隊時光，學習自然知識。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/12205/12214/12215/168463/post",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "蒔田農趣，共下禾做暑假親子農事派對",
+        "category": "在地文化體驗",
+        "activity_date": "2026年7月12日",
+        "start_date": "2026-07-12",
+        "end_date": "2026-07-12",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "詳洽官網報名",
+        "location": "六堆客家文化園區",
+        "target_age": "大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "親子農事派對，邀請大小朋友光著腳丫踩進泥土裡、親手插秧苗，從中體會「一碗飯的來源」的珍貴，深度體驗在地農家樂及客家文化。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/12205/12214/12215/168463/post",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "客語夏令營營隊體驗活動 (7月場)",
+        "category": "長天數營隊",
+        "activity_date": "2026年7月25日至26日",
+        "start_date": "2026-07-25",
+        "end_date": "2026-07-26",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "線上活動/環境教育課程報名",
+        "location": "六堆客家文化園區",
+        "target_age": "適合親子參加",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "提供多元藝文活動的客語夏令營，讓孩子們在輕鬆愉快的氛圍中學習客語，體驗客家文化的樂趣，是充實暑假的絕佳選擇。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/12205/12214/12215/168463/post",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "客語夏令營營隊體驗活動 (8月場)",
+        "category": "長天數營隊",
+        "activity_date": "2026年8月15日至16日",
+        "start_date": "2026-08-15",
+        "end_date": "2026-08-16",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "線上活動/環境教育課程報名",
+        "location": "六堆客家文化園區",
+        "target_age": "適合親子參加",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "提供多元藝文活動的客語夏令營，讓孩子們在輕鬆愉快的氛圍中學習客語，體驗客家文化的樂趣，是充實暑假的絕佳選擇。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/12205/12214/12215/168463/post",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "清涼一夏˙水戰尖炮城",
+        "category": "動態體能",
+        "activity_date": "暑假期間 (2026年7月至8月)",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-31",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "組隊報名參加",
+        "location": "六堆客家文化園區",
+        "target_age": "適合親子參加",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "園區推出適合親子參加的「清涼一夏˙水戰尖炮城」活動，邀請民眾組隊報名，在炎炎夏日中體驗刺激有趣的水戰遊戲，一同消暑。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/12205/12214/12215/168463/post",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "【2026客家細灶下】客家米食體驗推廣活動-菜包",
+        "category": "在地文化體驗",
+        "activity_date": "2026/07/25",
+        "start_date": "2026-07-25",
+        "end_date": "2026-07-25",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "苗栗縣",
+        "registration_date": "2026/06/30 11:00 ~ 2026/07/22 23:00 (線上報名)",
+        "location": "臺灣客家文化館 / 臺灣客家文化館(苗栗縣銅鑼鄉銅科南路6號）",
+        "target_age": "不限",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "本活動為2026客家米食體驗推廣活動，主題是製作客家菜包。內容包含DIY課程教學、客家文化與館區導覽、成果分享及品嘗。活動在苗栗臺灣客家文化館舉行，費用每人250元，不限年齡對象。報名時間自2026/06/30起至2026/07/22止。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/1437/153220/166991/",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "A-3 客家節氣生活小物創作-幼兒(優先續報-個報)",
+        "category": "手作DIY與才藝",
+        "activity_date": "115/09/05 ~ 115/11/14",
+        "start_date": "2026-09-05",
+        "end_date": "2026-11-14",
+        "recurring_days": [
+            6
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "早鳥時段：115.8.12(三) 10:00- 115.8.19(三)15:00；一般時段：115.8.20(四) 10:00- 首堂課一週內。線上報名，恕不提供現場報名。",
+        "location": "臺北市客家文化主題公園-文化中心-4F學習教室 (臺北市中正區汀州路三段2號)",
+        "target_age": "3-6歲(含)",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲"
+        ],
+        "price_type": "付費",
+        "summary": "本課程引導3-6歲幼兒與家長，透過認識客家祈福花草知識、歷史文化與藝術賞析，以五感體驗探索花香、花色與葉子藝術。課程將結合手作DIY，讓孩子們利用大自然的植物素材，創作獨特的客家節氣生活小物，不僅啟發美感，也學習敬天愛物，並將客家文化融入日常創作中。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://ssl.thcp.org.tw/events/1630",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "115-2 A-4 客家節氣生活小物創作-國小(優先續報-個報)",
+        "category": "4.手作DIY與才藝",
+        "activity_date": "115/09/05 ~ 115/11/14",
+        "start_date": "2026-09-05",
+        "end_date": "2026-11-14",
+        "recurring_days": [
+            6
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "早鳥時段：115.8.12(三) 10:00 - 115.8.19(三)15:00；一般時段：115.8.20(四) 10:00 - 首堂課一週內。線上報名，需先加入會員或登入主題公園會員，不提供現場報名。",
+        "location": "臺北市客家文化主題公園-文化中心-4F學習教室 (臺北市中正區汀州路三段2號，近台電大樓捷運站5號出口步行3分鐘)",
+        "target_age": "7-12歲(含)，3-6歲請報名幼兒班別",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "本課程引導親子認識客家祈福用的花草特色知識、歷史文化與藝術賞析，透過觀賞花、聞花香、品嚐花，啟發生活創作靈感，並親手創造獨特客家節氣生活小物。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://ssl.thcp.org.tw/events/1631",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "2026「臨暗仔」環境藝術節",
+        "category": "藝文展演",
+        "activity_date": "2026-03-20 ~ 2026-06-29",
+        "start_date": "2026-03-20",
+        "end_date": "2026-06-29",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": null,
+        "location": "臺北市客家文化主題公園戶外 (臺北市中正區汀州路三段2號), 寶藏巖, 貨櫃屋「水源213」",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "2026「臨暗仔」環境藝術節，客語「傍晚時分」之意，象徵日夜交會、文化轉譯與新生。藝術節邀請藝術家以創作回應城市、環境與人的關係，開展當代公共對話。展期2026/03/20至2026/06/29，於客家公園戶外、寶藏巖等展出。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://ssl.thcp.org.tw/exhibitions/26",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "2026山神獸策展營：找到我的庇護所 (第一梯次)",
+        "category": [
+            "長天數營隊",
+            "手作DIY與才藝",
+            "知性與靜態學習",
+            "生態與大自然",
+            "公益與生命教育"
+        ],
+        "activity_date": "第一梯次　2026.07.08（三）～07.11（六）_報名已截止",
+        "start_date": "2026-07-08",
+        "end_date": "2026-07-11",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "報名已截止",
+        "location": "世界宗教博物館 (新北市永和區中山路一段236號7樓)",
+        "target_age": "國小升三年級～國小六年級（9～12歲）",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "《找到我的庇護所》帶領孩子從情緒覺察、自然觀察到建築創作，探索人與世界連結。化身小小空間設計師，透過情緒探索與創意，打造專屬庇護所，並成為小小策展人分享作品。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.mwr.org.tw/xmdoc/cont?xsmsid=0I011567281712162219&sid=0Q155639520221936320",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "2026山神獸策展營：找到我的庇護所 (第二梯次)",
+        "category": [
+            "長天數營隊",
+            "手作DIY與才藝",
+            "知性與靜態學習",
+            "生態與大自然",
+            "公益與生命教育"
+        ],
+        "activity_date": "第二梯次　2026.08.05（三）～08.08（六）_熱烈報名中",
+        "start_date": "2026-08-05",
+        "end_date": "2026-08-08",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "線上報名，報名後三日內完成繳費。熱烈報名中。",
+        "location": "世界宗教博物館 (新北市永和區中山路一段236號7樓)",
+        "target_age": "國小升三年級～國小六年級（9～12歲）",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "《找到我的庇護所》帶領孩子從情緒覺察、自然觀察到建築創作，探索人與世界連結。化身小小空間設計師，透過情緒探索與創意，打造專屬庇護所，並成為小小策展人分享作品。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.mwr.org.tw/xmdoc/cont?xsmsid=0I011567281712162219&sid=0Q155639520221936320",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "2026山神獸策展營：找到我的庇護所",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-06-04",
+        "start_date": "2026-06-04",
+        "end_date": "2026-06-04",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "世界宗教博物館 (新北市永和區中山路一段236號7樓)",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "參與山神獸策展營，透過學習策展知識，尋找並打造屬於自己的庇護所，體驗有趣的文化探索與創造過程。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.mwr.org.tw/xmdoc?xsmsid=0I011567281712162219",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "【故事人劇場】6-8月主題：我們的小宇宙",
+        "category": "藝文展演",
+        "activity_date": "2026-04-17 (6-8月主題)",
+        "start_date": "2026-06-01",
+        "end_date": "2026-08-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "世界宗教博物館 (新北市永和區中山路一段236號7樓)",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "故事人劇場帶來6-8月主題「我們的小宇宙」，透過精彩故事與戲劇，帶領孩子們探索內心世界與浩瀚宇宙。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.mwr.org.tw/xmdoc?xsmsid=0I011567281712162219",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "【解鎖眾神密碼】鯉魚の祝福（日本兒童節）",
+        "category": "在地文化體驗",
+        "activity_date": "2026-04-17",
+        "start_date": "2026-04-17",
+        "end_date": "2026-04-17",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "世界宗教博物館 (新北市永和區中山路一段236號7樓)",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "在世界宗教博物館解鎖眾神密碼，體驗日本兒童節的「鯉魚の祝福」，透過文化活動了解節慶意義與傳說故事。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.mwr.org.tw/xmdoc?xsmsid=0I011567281712162219",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "【解鎖眾神密碼】繽紛色彩節",
+        "category": "節慶市集與綜合",
+        "activity_date": "2026-03-17",
+        "start_date": "2026-03-17",
+        "end_date": "2026-03-17",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "世界宗教博物館 (新北市永和區中山路一段236號7樓)",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "參與世界宗教博物館的「繽紛色彩節」，解鎖眾神密碼，一同探索世界各地色彩斑斕的節慶文化與其背後的故事。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.mwr.org.tw/xmdoc?xsmsid=0I011567281712162219",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "【故事人劇場】3-5月主題：我的心情花園",
+        "category": "藝文展演",
+        "activity_date": "2026-03-13 (3-5月主題)",
+        "start_date": "2026-03-01",
+        "end_date": "2026-05-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "世界宗教博物館 (新北市永和區中山路一段236號7樓)",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "故事人劇場呈現3-5月主題「我的心情花園」，透過生動故事與表演，引導孩子認識、表達與管理自己的情緒。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.mwr.org.tw/xmdoc?xsmsid=0I011567281712162219",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "【解鎖眾神密碼】聖誕之光",
+        "category": "節慶市集與綜合",
+        "activity_date": "2025-12-04",
+        "start_date": "2025-12-04",
+        "end_date": "2025-12-04",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "世界宗教博物館 (新北市永和區中山路一段236號7樓)",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "探索世界宗教博物館的「聖誕之光」，解鎖眾神密碼，了解聖誕節背後的文化與宗教意義，體驗溫馨節慶氛圍。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.mwr.org.tw/xmdoc?xsmsid=0I011567281712162219",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "【解鎖眾神密碼】日本七五三節",
+        "category": "在地文化體驗",
+        "activity_date": "2025-11-13",
+        "start_date": "2025-11-13",
+        "end_date": "2025-11-13",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "世界宗教博物館 (新北市永和區中山路一段236號7樓)",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "透過「日本七五三節」活動，解鎖眾神密碼，讓孩子們了解日本傳統文化，體驗節慶的成長與祝福意義。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.mwr.org.tw/xmdoc?xsmsid=0I011567281712162219",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "【故事人劇場】情緒噴水池－11月主題：一起勇敢長大",
+        "category": "藝文展演",
+        "activity_date": "2025-10-20 (11月主題)",
+        "start_date": "2025-11-01",
+        "end_date": "2025-11-30",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "世界宗教博物館 (新北市永和區中山路一段236號7樓)",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "故事人劇場11月主題「情緒噴水池－一起勇敢長大」，透過劇場表演，引導孩子學習認識和處理情緒，培養面對挑戰的勇氣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.mwr.org.tw/xmdoc?xsmsid=0I011567281712162219",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "【駐館作家講座】×圖像敘事工作坊：《是誰躲在草叢裡》",
+        "category": "手作DIY與才藝",
+        "activity_date": "2025-10-15",
+        "start_date": "2025-10-15",
+        "end_date": "2025-10-15",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "世界宗教博物館 (新北市永和區中山路一段236號7樓)",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "參與駐館作家講座暨圖像敘事工作坊，以繪本《是誰躲在草叢裡》為引，學習圖像創作與故事表達，激發想像力與創造力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.mwr.org.tw/xmdoc?xsmsid=0I011567281712162219",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "木構之美：實踐大學建築模型展",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-05-21~2026-08-30",
+        "start_date": "2026-05-21",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "詳洽官方網站或現場購票",
+        "location": "世界宗教博物館 (新北市永和區中山路一段236號7樓)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "實踐大學建築模型展，展示木構建築的精巧與美學，適合對建築藝術有興趣的觀眾。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.mwr.org.tw/xcspecexhi?xsmsid=0H305741810776620070",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "文物開窗系列特展：Sanātana Dharma—永恆之法",
+        "category": "藝文展演",
+        "activity_date": "2026-03-31~2026-10-20",
+        "start_date": "2026-03-31",
+        "end_date": "2026-10-20",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "詳洽官方網站或現場購票",
+        "location": "世界宗教博物館 (新北市永和區中山路一段236號7樓)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "世界宗教博物館文物開窗系列特展，透過文物探索Sanātana Dharma「永恆之法」的深層意涵。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.mwr.org.tw/xcspecexhi?xsmsid=0H305741810776620070",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "不只一百種：保種計畫III——靈性回歸",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-01-23~2026-11-29",
+        "start_date": "2026-01-23",
+        "end_date": "2026-11-29",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "詳洽官方網站或現場購票",
+        "location": "世界宗教博物館 (新北市永和區中山路一段236號7樓)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "深入探討保種計畫與靈性回歸的主題展覽，引導觀眾思考生命與環境的深層連結。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.mwr.org.tw/xcspecexhi?xsmsid=0H305741810776620070",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "光在萬物：LIGHT A LIFE × LIVE A LIGHT",
+        "category": "藝文展演",
+        "activity_date": "2025-04-22~2026-12-31",
+        "start_date": "2025-04-22",
+        "end_date": "2026-12-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "詳洽官方網站或現場購票",
+        "location": "世界宗教博物館 (新北市永和區中山路一段236號7樓)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "透過「光」的主題，探討生命與萬物之間的關聯，提供具啟發性的觀展體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.mwr.org.tw/xcspecexhi?xsmsid=0H305741810776620070",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "《守護》沈浸式線上互動展",
+        "category": "科技與創客",
+        "activity_date": "2022-06-10~",
+        "start_date": "2022-06-10",
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "詳洽官方網站或線上參與",
+        "location": "線上展覽 (世界宗教博物館主辦)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "透過沈浸式線上互動體驗，觀眾可從不同角度探索《守護》主題，適合全年齡層參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.mwr.org.tw/xcspecexhi?xsmsid=0H305741810776620070",
+        "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "歸根 — 樹火參拾",
+        "category": "知性與靜態學習",
+        "activity_date": "",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "參觀博物館即可",
+        "location": "樹火紀念紙博物館（臺北）",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "樹火紀念紙博物館三十週年特展「歸根 — 樹火參拾」，由鳳嬌催化室策展。展覽探討紙的本質、材料源頭與未來可能，以「歸根」為核心理念，象徵回返與新生，引領觀者重新思考時間與材質的深層連結。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.suhopaper.org.tw/new_exhibition",
+        "crawl_time": "2026-07-20T22:31:47"
     }
 ]
