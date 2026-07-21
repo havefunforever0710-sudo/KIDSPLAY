@@ -8223,5 +8223,26 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.suhopaper.org.tw/new_exhibition",
         "crawl_time": "2026-07-20T22:31:47"
+    },
+    {
+        "title": "墾管處推低碳水上活動 應屆畢業生限額免費參加",
+        "category": "動態體能",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "限額免費參加，詳細報名時間與方式請參閱墾丁國家公園管理處官方網站。",
+        "location": "墾丁國家公園周邊水域",
+        "target_age": "應屆畢業生",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "墾丁國家公園管理處推廣低碳水上活動，特別提供應屆畢業生限額免費參加，鼓勵學子親近海洋，體驗水上運動的樂趣，並同時學習環境保育知識。活動旨在結合遊憩與教育，推廣永續觀光。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ktnp.gov.tw/News_Content.aspx?n=5654361B474B8EFF&sms=BF1954FACE1D31AD&s=C22E91D7B1D9A120",
+        "crawl_time": "2026-07-21T22:14:21"
     }
 ];

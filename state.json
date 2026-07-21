@@ -1,5 +1,5 @@
 {
-    "last_index": 52,
+    "last_index": 57,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -198,7 +198,8 @@
         "https://discovery.gov.taipei/": [],
         "https://www.tjnp.gov.tw/": [],
         "https://www.ktnp.gov.tw/": [
-            "https://www.ktnp.gov.tw/News_Content.aspx?n=5654361B474B8EFF&sms=BF1954FACE1D31AD&s=49680106F5044EC6"
+            "https://www.ktnp.gov.tw/News_Content.aspx?n=5654361B474B8EFF&sms=BF1954FACE1D31AD&s=49680106F5044EC6",
+            "https://www.ktnp.gov.tw/News_Content.aspx?n=5654361B474B8EFF&sms=BF1954FACE1D31AD&s=C22E91D7B1D9A120"
         ],
         "https://www.ymsnp.gov.tw/": [],
         "https://www.taroko.gov.tw/": [],
