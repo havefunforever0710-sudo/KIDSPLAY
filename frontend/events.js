@@ -8244,5 +8244,69 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.ktnp.gov.tw/News_Content.aspx?n=5654361B474B8EFF&sms=BF1954FACE1D31AD&s=C22E91D7B1D9A120",
         "crawl_time": "2026-07-21T22:14:21"
+    },
+    {
+        "title": "玉山國家公園小小守護者3~登山安全與無痕山林",
+        "category": "5.生態與大自然",
+        "activity_date": "113-08-01 - 115-12-31",
+        "start_date": "2024-08-01",
+        "end_date": "2026-12-31",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "嘉義縣",
+        "registration_date": "線上報名，開放中",
+        "location": "玉山南部園區梅山遊客中心",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "玉山是高山型國家公園，登山遊客眾多。希望透過本活動，讓入山的旅人認識基本登山安全與落實無痕山林生態守則，一起來愛自然與珍惜環境吧!!完成活動單元，並宣誓認證宣言，可取得活動紀念品喔!",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ysnp.gov.tw/Apply/ActivityRegistration/C030001",
+        "crawl_time": "2026-07-22T22:38:28"
+    },
+    {
+        "title": "2026國家公園裡的生態觀察與自然藝術課~自然美學體驗課",
+        "category": "生態與大自然",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "花蓮縣",
+        "registration_date": null,
+        "location": "梅山植物園 (散步步道), 梅山遊客中心",
+        "target_age": "小、大朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "本活動結合生態觀察與自然創作體驗，帶領大小朋友藉由自然繪畫，跟著知名生態插畫家的腳步，從科學觀察、自然美學與創作大自然的方式，感受、享受、記錄自然生態。探索玉山國家公園及鄰近保護區的美好，梅山植物園擁有豐富資源，極適合野外觀察活動，讓學員學習自然觀察與生態網絡概念。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ysnp.gov.tw/ActivityInfo/C002000?ID=f8c7afba-a62e-45b8-871e-1afa8f74027e&PageType=1",
+        "crawl_time": "2026-07-22T22:38:28"
+    },
+    {
+        "title": "115年主題式環教課程－「環境守護員」集點活動開跑！",
+        "category": "生態與大自然",
+        "activity_date": "即日起至 115年12月31日",
+        "start_date": "2026-07-07",
+        "end_date": "2026-12-31",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": "線上報名 環境守護員集點活動",
+        "location": "內政部國家公園署海洋國家公園管理處 處本部（高雄市楠梓區德民路26號）",
+        "target_age": "大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "海洋國家公園管理處推出「環境守護員集點活動」，每月周末不定期邀請大小朋友透過環教課程、互動體驗及趣味任務，認識海洋、關心環境，完成任務可獲繪本、明信片和限量好禮。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.marine.gov.tw/zh_tw/news/ActivityInfo/115%E5%B9%B4%E4%B8%BB%E9%A1%8C%E5%BC%8F%E7%92%B0%E6%95%99%E8%AA%B2%E7%A8%8B%EF%BC%8D-%E7%92%B0%E5%A2%83%E5%AE%88%E8%AD%B7%E5%93%A1-%E9%9B%86%E9%BB%9E%E6%B4%BB%E5%8B%95%E9%96%8B%E8%B7%91-79518162",
+        "crawl_time": "2026-07-22T22:38:28"
     }
 ];
