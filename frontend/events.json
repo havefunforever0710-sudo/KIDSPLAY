@@ -8307,5 +8307,70 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.marine.gov.tw/zh_tw/news/ActivityInfo/115%E5%B9%B4%E4%B8%BB%E9%A1%8C%E5%BC%8F%E7%92%B0%E6%95%99%E8%AA%B2%E7%A8%8B%EF%BC%8D-%E7%92%B0%E5%A2%83%E5%AE%88%E8%AD%B7%E5%93%A1-%E9%9B%86%E9%BB%9E%E6%B4%BB%E5%8B%95%E9%96%8B%E8%B7%91-79518162",
         "crawl_time": "2026-07-22T22:38:28"
+    },
+    {
+        "title": "【兒藝節・茶山香氣藝術親子工作坊】",
+        "category": "手作DIY與才藝",
+        "activity_date": "2025-07-19",
+        "start_date": "2025-07-19",
+        "end_date": "2025-07-19",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "活動已結束，無報名資訊",
+        "location": "新北市坪林茶業博物館 (新北市坪林區水德里水聳淒坑19-1號)",
+        "target_age": "親子家庭及一般大眾",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "新北市坪林茶業博物館舉辦「茶山香氣藝術親子工作坊」，帶領大小朋友走訪園區採集芳香植物，認識獨特香氣。活動包含蒸餾純露，並親手設計專屬酊劑配方，搭配坪林蜜香紅茶葉，調製獨一無二的香氣，將茶山芬芳帶回家，探索香氣的藝術。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tea.ntpc.gov.tw/xmdoc/cont?xsmsid=0G266542551798465239&sid=0P202435656186116050",
+        "crawl_time": "2026-07-23T22:33:13"
+    },
+    {
+        "title": "2026林園尋藝：8月傳統工藝推廣活動",
+        "category": "手作DIY與才藝",
+        "activity_date": "2026-07-19 ~ 2026-08-31",
+        "start_date": "2026-07-19",
+        "end_date": "2026-08-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "2026/07/20 中午12:00起於Accupass線上報名，額滿為止。",
+        "location": "林本源園邸 (新北市板橋區西門街9號)",
+        "target_age": "成人班、親子班",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "林本源園邸8月舉辦傳統工藝推廣活動，包含專題導覽、文化資產講座，以及彩瓷與擂金工藝研習。活動設有成人班與親子班，邀請大家透過體驗，探索文化資產，感受傳統工藝魅力。7/20中午開放報名。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.linfamily.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G249617555861789607&sid=0Q200543607992454237",
+        "crawl_time": "2026-07-23T22:33:13"
+    },
+    {
+        "title": "115年MUSE大玩家暑假活動",
+        "category": "知性與靜態學習",
+        "activity_date": "115年7月1日（三）正式展開",
+        "start_date": "2026-07-01",
+        "end_date": "2026-07-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "詳洽國立中正紀念堂 (02)2343-1100 分機1114",
+        "location": "國立中正紀念堂 (臺北市中正區中山南路21號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "國立中正紀念堂舉辦「MUSE大玩家暑假活動」，活動於7月1日（三）正式展開，內容包含集章任務與推廣品兌換，詳情請洽主辦單位。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.cksmh.gov.tw/News_Content.aspx?n=6216&s=258047",
+        "crawl_time": "2026-07-23T22:33:13"
     }
 ]
