@@ -8372,5 +8372,210 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.cksmh.gov.tw/News_Content.aspx?n=6216&s=258047",
         "crawl_time": "2026-07-23T22:33:13"
+    },
+    {
+        "title": "2026新竹瘋影展",
+        "category": "藝文展演",
+        "activity_date": "2026年7月31日(五) 至 2026年8月30日(日)",
+        "start_date": "2026-07-31",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新竹市",
+        "registration_date": "線上索票，各場次報名時間與索票連結不同，最早從2026/07/13開始。開演前30分鐘開放線上索票名額入場，最晚於開演前10分鐘報到。",
+        "location": "新竹市影像博物館 / 新竹市東區中正路65號",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "新竹市影像博物館舉辦2026新竹瘋影展，從2026年7月31日至8月30日，提供一系列免費電影放映。影展包含多部適合親子觀賞的動畫及各國影片，類型多元，讓大小朋友共同享受藝文饗宴。需線上索票入場，請留意各場次報名時間及入場規定。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://hsinchucityfilm.kktix.cc/events/2026hsinchucityfilm",
+        "crawl_time": "2026-07-24T22:40:03"
+    },
+    {
+        "title": "窯滾讚炭 - 客家文化教育推廣課程",
+        "category": "在地文化體驗",
+        "activity_date": "七月 18、19、25、26",
+        "start_date": "2026-07-18",
+        "end_date": "2026-07-26",
+        "recurring_days": [
+            0,
+            6
+        ],
+        "region": "中部",
+        "city": "苗栗縣",
+        "registration_date": "現場報名",
+        "location": "臺灣客家文化館/B1研習教室 (苗栗縣銅鑼鄉九湖村銅科南路6號)",
+        "target_age": "一般民眾",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "瞭解客庄相思木製炭產業，善用山林資源的智慧，透過手作炭盆栽，體驗客家先民刻苦耐勞的生活態度與產業文化。費用$150/組。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/28645/167387/",
+        "crawl_time": "2026-07-24T22:40:03"
+    },
+    {
+        "title": "客家食當好食 - 客家文化教育推廣課程",
+        "category": "在地文化體驗",
+        "activity_date": "八月1、8、9、15、22、29、30／九月26、27、28",
+        "start_date": "2026-08-01",
+        "end_date": "2026-09-28",
+        "recurring_days": [
+            0,
+            1,
+            6
+        ],
+        "region": "中部",
+        "city": "苗栗縣",
+        "registration_date": "現場報名",
+        "location": "臺灣客家文化館/B1研習教室 (苗栗縣銅鑼鄉九湖村銅科南路6號)",
+        "target_age": "一般民眾",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "從一甕福菜認識客家飲食文化與生活精神，透過手作福菜瓶，體驗客家族群勤儉惜福、與環境共存的態度，傳承惜物精神。費用$50/組。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/28645/167387/",
+        "crawl_time": "2026-07-24T22:40:03"
+    },
+    {
+        "title": "世代相傳藍衫情 - 客家文化教育推廣課程 (藍染)",
+        "category": "手作DIY與才藝",
+        "activity_date": "九月5、6、12、13、19、20",
+        "start_date": "2026-09-05",
+        "end_date": "2026-09-20",
+        "recurring_days": [
+            0,
+            6
+        ],
+        "region": "中部",
+        "city": "苗栗縣",
+        "registration_date": "事前線上報名，連結：https://forms.gle/grV4agGVyvmEF9pS6",
+        "location": "臺灣客家文化館/B1研習教室 (苗栗縣銅鑼鄉九湖村銅科南路6號)",
+        "target_age": "一般民眾",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "客家傳統代表服飾「藍衫」，透過繁複藍染工序，從植物中萃取藍色特性，展現細緻美學與客家人智慧。體驗藍染手作，製作大方巾、圍脖、抱枕套或圍巾。費用$150-$680。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/28645/167387/",
+        "crawl_time": "2026-07-24T22:40:03"
+    },
+    {
+        "title": "【2026六堆園區農事學堂活動】蒔田農趣.共下禾作",
+        "category": "在地文化體驗",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": null,
+        "location": "六堆客家文化園區",
+        "target_age": "大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "六堆客家文化園區於2026年7月舉辦「農事學堂-蒔禾（插秧）體驗趣」。活動吸引家長與小朋友赤腳下田，體驗插秧樂趣，並透過祭拜伯公、客家點心與文化闖關，學習客家傳統農事與文化，感受人與土地連結，留下難忘夏日回憶。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/12205/12219/12218/168558/",
+        "crawl_time": "2026-07-24T22:40:03"
+    },
+    {
+        "title": "臺中文學館兒童文學區115年5月親子聽故事節目表",
+        "category": "知性與靜態學習",
+        "activity_date": "115年5月 親子聽故事節目表",
+        "start_date": "2026-05-02",
+        "end_date": "2026-05-31",
+        "recurring_days": [
+            0,
+            6
+        ],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "無需報名，現場參加",
+        "location": "臺中文學館兒童文學區 (臺中市西區樂群街38號)",
+        "target_age": "國小以下",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "臺中文學館兒童文學區於115年5月每周六、日舉辦親子聽故事活動，歡迎國小以下的小朋友與家長一同參與，聆聽多樣的繪本故事。活動期間參與可集點兌換精美小禮。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tlm.taichung.gov.tw/latestevent/Details.aspx?Parser=9,5,124,,,,2064",
+        "crawl_time": "2026-07-24T22:40:03"
+    },
+    {
+        "title": "城市出發中：夜間x生態-東勢林場夜訪螢火蟲",
+        "category": "5.生態與大自然",
+        "activity_date": "115/04/18 ~ 115/07/05",
+        "start_date": "2026-04-18",
+        "end_date": "2026-07-05",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "未提供詳細資訊，請參考臺中文學館官網公告",
+        "location": "東勢林場 (臺中市東勢區)",
+        "target_age": "全齡親子",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺中文學季「城市出發中」系列活動之一，帶領市民朋友深入東勢林場，在夜間探索螢火蟲的生態奧秘，體驗大自然之美，適合親子一同參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tlm.taichung.gov.tw/tour/index.aspx?Parser=13,6,135",
+        "crawl_time": "2026-07-24T22:40:03"
+    },
+    {
+        "title": "靈感召喚中：《再見機器人》，你好自己——關於獨處與離別的成長課",
+        "category": "6.知性與靜態學習",
+        "activity_date": "115/04/18 ~ 115/07/05",
+        "start_date": "2026-04-18",
+        "end_date": "2026-07-05",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "未提供詳細資訊，請參考臺中文學館官網公告",
+        "location": "臺中綠美圖 (臺中市水湳經貿園區)",
+        "target_age": "適合7-15歲學童及青少年",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "臺中文學季「靈感召喚中」系列活動之一，透過《再見機器人》探討獨處與離別的議題，引導學員進行自我成長與反思，是一堂適合兒童及青少年的生命教育課程。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tlm.taichung.gov.tw/tour/index.aspx?Parser=13,6,135",
+        "crawl_time": "2026-07-24T22:40:03"
+    },
+    {
+        "title": "城市出發中：黑暗 X 五感: 與視障者描繪舊城區",
+        "category": "6.知性與靜態學習",
+        "activity_date": "115/04/18 ~ 115/07/05",
+        "start_date": "2026-04-18",
+        "end_date": "2026-07-05",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "未提供詳細資訊，請參考臺中文學館官網公告",
+        "location": "臺中舊城區 (臺中市中區)",
+        "target_age": "建議10歲以上參與",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺中文學季「城市出發中」系列活動之一，透過黑暗中的五感體驗，引導參與者從視障者的角度描繪臺中舊城區，培養同理心與觀察力，是一場深具教育意義的活動。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tlm.taichung.gov.tw/tour/index.aspx?Parser=13,6,135",
+        "crawl_time": "2026-07-24T22:40:03"
     }
 ]

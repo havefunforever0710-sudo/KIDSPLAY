@@ -1,5 +1,5 @@
 {
-    "last_index": 67,
+    "last_index": 72,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -177,7 +177,9 @@
             "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/1437/153220/164272/",
             "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/165870/",
             "https://thcdc.hakka.gov.tw/12205/12214/12215/168463/post",
-            "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/1437/153220/166991/"
+            "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/1437/153220/166991/",
+            "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/28645/167387/",
+            "https://thcdc.hakka.gov.tw/12205/12219/12218/168558/"
         ],
         "https://ssl.thcp.org.tw/": [
             "https://ssl.thcp.org.tw/events/1630",
@@ -238,11 +240,15 @@
         "https://www.yatsen.gov.tw/": [
             "https://event.culture.tw/mocweb/reg/YATSEN/Index.init.ctr?openExternalBrowser=1"
         ],
-        "https://culture.hccg.gov.tw/": [],
+        "https://culture.hccg.gov.tw/": [
+            "https://hsinchucityfilm.kktix.cc/events/2026hsinchucityfilm"
+        ],
         "https://www.tlm.taichung.gov.tw/": [
             "https://www.tlm.taichung.gov.tw/latestevent/Details.aspx?Parser=9,5,124,,,,1961",
             "https://www.tlm.taichung.gov.tw/latestevent/Details.aspx?Parser=9,5,124,,,,2003",
-            "https://www.tlm.taichung.gov.tw/latestevent/Details.aspx?Parser=9,5,124,,,,2070"
+            "https://www.tlm.taichung.gov.tw/latestevent/Details.aspx?Parser=9,5,124,,,,2070",
+            "https://www.tlm.taichung.gov.tw/latestevent/Details.aspx?Parser=9,5,124,,,,2064",
+            "https://www.tlm.taichung.gov.tw/tour/index.aspx?Parser=13,6,135"
         ],
         "https://www.bocach.gov.tw/": [],
         "https://www.nthcc.gov.tw/": [],
