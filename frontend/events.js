@@ -8578,5 +8578,141 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.tlm.taichung.gov.tw/tour/index.aspx?Parser=13,6,135",
         "crawl_time": "2026-07-24T22:40:03"
+    },
+    {
+        "title": "「文資小學堂」線上電競賽",
+        "category": "競賽與檢定",
+        "activity_date": "2026年",
+        "start_date": "2026-07-20",
+        "end_date": "2026-07-31",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "發布日期：2026/7/20，線上報名",
+        "location": "線上舉行",
+        "target_age": "小學學齡兒童",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "臺南市文化資產管理處舉辦2026年「文資小學堂」線上電競賽，透過趣味電競形式，推廣文化資產知識給學童。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tmach-culture.tainan.gov.tw/activitylist.asp?orcaid=b4e77290-ccd8-4870-b25d-bb52e5302a56",
+        "crawl_time": "2026-07-25T22:12:58"
+    },
+    {
+        "title": "運河百年派任務・是在派什麼———集章趣",
+        "category": "在地文化體驗",
+        "activity_date": "2026年",
+        "start_date": "2026-07-16",
+        "end_date": "2026-07-31",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "現場參與，無需事先報名",
+        "location": "臺南市運河周邊",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "臺南市文化資產管理處規劃「運河百年派任務」集章趣活動，邀請全齡民眾探索臺南運河百年歷史文化。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tmach-culture.tainan.gov.tw/activitylist.asp?orcaid=b4e77290-ccd8-4870-b25d-bb52e5302a56",
+        "crawl_time": "2026-07-25T22:12:58"
+    },
+    {
+        "title": "2026臺南文資月-文資就很派 — FUN PLAY 臺南 ✦ 自成一派",
+        "category": "節慶市集與綜合",
+        "activity_date": "2026年文資月",
+        "start_date": "2026-07-01",
+        "end_date": "2026-07-31",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "依各子活動公告",
+        "location": "臺南市各地",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "2026臺南文化資產月系列活動，以「文資就很派」為主題，融合「FUN PLAY 臺南」精神，邀請全民體驗文化資產。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tmach-culture.tainan.gov.tw/activitylist.asp?orcaid=b4e77290-ccd8-4870-b25d-bb52e5302a56",
+        "crawl_time": "2026-07-25T22:12:58"
+    },
+    {
+        "title": "2026臺南文資月｜「文資印象派」繪畫徵件比賽",
+        "category": "競賽與檢定",
+        "activity_date": "2026年文資月",
+        "start_date": "2026-06-04",
+        "end_date": "2026-07-31",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "2026/6/4起線上徵件",
+        "location": "線上徵件，成果可能於臺南展出",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "2026臺南文化資產月期間舉辦的繪畫徵件比賽，以「文資印象派」為主題，鼓勵藝術創作，展現對文資的詮釋。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tmach-culture.tainan.gov.tw/activitylist.asp?orcaid=b4e77290-ccd8-4870-b25d-bb52e5302a56",
+        "crawl_time": "2026-07-25T22:12:58"
+    },
+    {
+        "title": "《怪盜春仔花》系列實境遊戲",
+        "category": "在地文化體驗",
+        "activity_date": "",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "無明確資訊",
+        "location": "台南市各相關民俗文化資產地點",
+        "target_age": "無明確資訊",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "台南市文化資產管理處推出台南民俗主題系列6款實境遊戲《怪盜春仔花》，融合香科文化、西拉雅族祖靈信仰、普度祭儀及實境解謎元素。玩家將化身偵探與怪盜，在民俗文化與奇幻交錯的世界中展開一場智慧較勁！",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tmach-culture.tainan.gov.tw/page.asp?orcaid=7E02B9B3-8473-4FEC-BC13-305711676555",
+        "crawl_time": "2026-07-25T22:12:58"
+    },
+    {
+        "title": "蜂遊趣體驗",
+        "category": "生態與大自然",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [
+            0,
+            1,
+            2,
+            4,
+            5,
+            6
+        ],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "購票入園",
+        "location": "臺南山上花園水道博物館, 743001臺南市山上區山上里山上16號",
+        "target_age": "6歲以下",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "臺南山上花園水道博物館的「蜂遊趣體驗」是一項常設互動設施，適合親子共同參與。博物館每日開放(週三休園)，提供此體驗，6歲以下兒童免費入園，成人需購票。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://waterworks.tainan.gov.tw/index.php?modify=facility&id=4",
+        "crawl_time": "2026-07-25T22:12:58"
     }
 ];
