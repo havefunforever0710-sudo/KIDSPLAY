@@ -8714,5 +8714,26 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://waterworks.tainan.gov.tw/index.php?modify=facility&id=4",
         "crawl_time": "2026-07-25T22:12:58"
+    },
+    {
+        "title": "極光石相-花蓮透光石畫藝術展",
+        "category": "藝文展演",
+        "activity_date": "2026-07-03 09:00 至 2026-09-27 17:00",
+        "start_date": "2026-07-03",
+        "end_date": "2026-09-27",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "花蓮縣",
+        "registration_date": "無需報名，展覽期間現場參觀",
+        "location": "花蓮縣石雕博物館 第一企劃室 (970 花蓮縣花蓮市文復路6號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "花蓮縣石雕博物館與花蓮玫瑰石藝術舘合作，展出約40件「石頭光畫」作品。透過特殊薄切工藝與背光照明，呈現石材內部紋理，展現花蓮透光石畫「形、色、光」魅力。設有互動區，民眾可體驗框取藝術的樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15489",
+        "crawl_time": "2026-07-26T22:16:32"
     }
 ];
