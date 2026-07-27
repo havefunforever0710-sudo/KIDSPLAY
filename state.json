@@ -1,5 +1,5 @@
 {
-    "last_index": 82,
+    "last_index": 87,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -278,22 +278,33 @@
         "https://www.ilccb.gov.tw/": [
             "https://www.ilccb.gov.tw/News_Content.aspx?n=10199&sms=12932&s=402899",
             "https://www.ilccb.gov.tw/News_Content.aspx?n=10198&sms=12917&s=401900",
-            "https://www.ilccb.gov.tw/News_Content.aspx?n=10537&sms=12918&s=403080"
+            "https://www.ilccb.gov.tw/News_Content.aspx?n=10537&sms=12918&s=403080",
+            "https://www.ilccb.gov.tw/News_Content.aspx?n=10537&sms=12918&s=404851",
+            "https://www.ilccb.gov.tw/News_Content.aspx?n=10198&sms=12917&s=403607",
+            "https://www.ilccb.gov.tw/News_Content.aspx?n=10199&sms=12932&s=404436"
         ],
         "https://culture.tycg.gov.tw/": [
             "https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1700149",
             "https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1693672",
-            "https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1700138"
+            "https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1700138",
+            "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1744526",
+            "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1755353",
+            "https://culture.tycg.gov.tw/ActiveList.aspx?n=23648&sms=20299"
         ],
         "https://www.hchcc.gov.tw/": [
             "https://www.hchcc.gov.tw/Tw/News/ActDetail?filter=58dd03be-c37d-40af-a540-6d34b3790b4c&id=4e48d056-7109-46e0-9603-340ab7c681c2",
             "https://www.hchcc.gov.tw/Tw/News/ActPreviewDetail?filter=e2ce565c-7042-46b7-9b77-bb81937b8cf9&id=73ab96f3-9a62-4711-8c8b-c4a232a4b558",
-            "https://hcplibrary.hchcc.gov.tw/wSite/ct?xItem=10900&ctNode=4293&mp=1"
+            "https://hcplibrary.hchcc.gov.tw/wSite/ct?xItem=10900&ctNode=4293&mp=1",
+            "https://hcplibrary.hchcc.gov.tw/wSite/ct?xItem=11008&ctNode=4293&mp=1",
+            "https://www.accupass.com/event/2606230225108854015370",
+            "https://www.hchcc.gov.tw/Tw/News/ActPreviewDetail?filter=e2ce565c-7042-466e-9b77-bb81937b8cf9&id=73ab96f3-9a62-4711-8c8b-c4a232a4b558"
         ],
         "https://www.mlc.gov.tw/": [],
         "https://www.culture.taichung.gov.tw/": [
             "https://www.culture.taichung.gov.tw/3311250/post",
-            "https://www.culture.taichung.gov.tw/3312918/post"
+            "https://www.culture.taichung.gov.tw/3312918/post",
+            "https://www.culture.taichung.gov.tw/3329200/post",
+            "https://childdrawings.huludun.taichung.gov.tw/"
         ],
         "https://cabcy.chiayi.gov.tw/": [
             "https://cabcy.chiayi.gov.tw/web/cabcych/HotActivitiesList_25081517540120428",
