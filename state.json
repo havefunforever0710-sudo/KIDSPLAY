@@ -1,5 +1,5 @@
 {
-    "last_index": 87,
+    "last_index": 92,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -309,9 +309,12 @@
         "https://cabcy.chiayi.gov.tw/": [
             "https://cabcy.chiayi.gov.tw/web/cabcych/HotActivitiesList_25081517540120428",
             "https://cabcy.chiayi.gov.tw/web/cabcych/HotActivitiesList_26060914095183543",
-            "https://cabcy.chiayi.gov.tw/web/cabcych/news_26062515192425628"
+            "https://cabcy.chiayi.gov.tw/web/cabcych/news_26062515192425628",
+            "https://cabcy.chiayi.gov.tw/web/cabcych/HotActivitiesList_26070816535868936"
         ],
-        "https://culture.tainan.gov.tw/": [],
+        "https://culture.tainan.gov.tw/": [
+            "https://culture.tainan.gov.tw/active/index?Parser=99,3,31"
+        ],
         "https://www.khcc.gov.tw/": [],
         "https://www.tfam.museum/kid/": [
             "https://www.tfam.museum/kid/Event/Event_page.aspx?id=3927",

@@ -9125,5 +9125,68 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://childdrawings.huludun.taichung.gov.tw/",
         "crawl_time": "2026-07-27T22:38:48"
+    },
+    {
+        "title": "2026桃喜親子藝術節-青少年音樂公演計畫音樂會",
+        "category": "藝文展演",
+        "activity_date": "2026/08/02 (日)",
+        "start_date": "2026-08-02",
+        "end_date": "2026-08-02",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "嘉義市",
+        "registration_date": "7/16（四）起開放索票。線上索票請至 https://forms.gle/ZNtGYNdUxkLkAcio8，實體索票請洽嘉義市政府文化局服務台（週一至週五09:00－12:00｜13:30－17:00）。每人限索取4張，數量有限，索完為止。",
+        "location": "嘉義市政府文化局音樂廳 (嘉義市忠孝路275號)",
+        "target_age": "青少年學子與親子",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "2026桃喜親子藝術節的青少年音樂公演計畫，提供舞台讓青少年學子參與藝文表演，增進學習歷程。活動邀請雲林、嘉義、臺南9組傑出青少年演奏團隊，帶來一場豐富的音樂饗宴。本活動採索票入場，數量有限。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://cabcy.chiayi.gov.tw/web/cabcych/HotActivitiesList_26070816535868936",
+        "crawl_time": "2026-07-28T22:39:41"
+    },
+    {
+        "title": "臺南市政府文化局「2026十六歲正青春藝術節」-青少「廉」逗陣來社會參與廉政宣導闖關活動",
+        "category": "知性與靜態學習",
+        "activity_date": "2026/07/26",
+        "start_date": "2026-07-26",
+        "end_date": "2026-07-26",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": null,
+        "location": null,
+        "target_age": "16歲以上青少年",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺南市政府文化局舉辦「2026十六歲正青春藝術節」，其中包含「青少『廉』逗陣來社會參與廉政宣導闖關活動」。此活動旨在鼓勵青少年透過互動體驗，學習並參與社會廉政議題，提升公民意識，適合16歲以上的青少年朋友參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://culture.tainan.gov.tw/active/index?Parser=99,3,31",
+        "crawl_time": "2026-07-28T22:39:41"
+    },
+    {
+        "title": "佇臺南，作伙來講台語！培育台語家庭計畫說明會開跑啦",
+        "category": "在地文化體驗",
+        "activity_date": "2026/07/24~2026/08/01",
+        "start_date": "2026-07-24",
+        "end_date": "2026-08-01",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": null,
+        "location": null,
+        "target_age": "適合親子家庭",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺南市舉辦「佇臺南，作伙來講台語！培育台語家庭計畫說明會」，旨在推廣家庭台語學習。透過此說明會，將引導家長了解如何在日常生活中營造台語環境，鼓勵親子共同參與，傳承珍貴的在地文化語言，適合所有對台語學習有興趣的親子家庭。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://culture.tainan.gov.tw/active/index?Parser=99,3,31",
+        "crawl_time": "2026-07-28T22:39:41"
     }
 ]
