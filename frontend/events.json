@@ -9188,5 +9188,26 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://culture.tainan.gov.tw/active/index?Parser=99,3,31",
         "crawl_time": "2026-07-28T22:39:41"
+    },
+    {
+        "title": "《她們的風景—觀看之間》—黃靜儀與陳天容母女聯展",
+        "category": "藝文展演",
+        "activity_date": "115. 5.1 （五）－ 5.18 （一）",
+        "start_date": "2026-05-01",
+        "end_date": "2026-05-18",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "無需報名",
+        "location": "板橋435藝文特區 浮洲館 (新北市板橋區中正路435號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "這是一場跨世代的母女藝術聯展，由黃靜儀與陳天容共同展出。呈現創作者在人生不同階段的創作樣貌，將日常生活、旅途中所遇見的自然景觀與多元文化，轉化為圖像風景，並行展開，也彼此映照。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.435.culture.ntpc.gov.tw/xmdoc/cont?xsmsid=0I215519643908705938&sid=0Q062520919864875910",
+        "crawl_time": "2026-07-29T22:31:04"
     }
 ]
