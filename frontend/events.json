@@ -9209,5 +9209,156 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.435.culture.ntpc.gov.tw/xmdoc/cont?xsmsid=0I215519643908705938&sid=0Q062520919864875910",
         "crawl_time": "2026-07-29T22:31:04"
+    },
+    {
+        "title": "蔗有線香味兒─手作香氛工作坊",
+        "category": "手作DIY與才藝",
+        "activity_date": "8/15㊅",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": null,
+        "location": "台南市佳里區六安里六安130號 (蕭壠文化園區)",
+        "target_age": null,
+        "age_groups": [],
+        "price_type": "付費",
+        "summary": "蕭壠文化園區舉辦的手作香氛工作坊，讓孩子體驗親手製作獨特香氛的樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://soulangh.tnc.gov.tw/index.php?inter=activity",
+        "crawl_time": "2026-07-30T20:12:45"
+    },
+    {
+        "title": "甜甜圈手工皂─手作香氛工作坊",
+        "category": "手作DIY與才藝",
+        "activity_date": "8/16㊐",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": null,
+        "location": "台南市佳里區六安里六安130號 (蕭壠文化園區)",
+        "target_age": null,
+        "age_groups": [],
+        "price_type": "付費",
+        "summary": "蕭壠文化園區舉辦的手作香氛工作坊，讓孩子體驗親手製作甜甜圈造型手工皂的樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://soulangh.tnc.gov.tw/index.php?inter=activity",
+        "crawl_time": "2026-07-30T20:12:45"
+    },
+    {
+        "title": "【2026 走進糖廠‧閱讀糖香】走糖集章換冰棒",
+        "category": "節慶市集與綜合",
+        "activity_date": "7/29 ㊂ 10點起可索取相機底片卡；8/1 ㊅ 起兌換天然水果冰棒。平日可集章，冰棒兌換僅限周六日，單日限量10支。",
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-31",
+        "recurring_days": [
+            0,
+            6
+        ],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "至蕭壠兒童圖書館單次借閱10本書索取集章卡，免報名。",
+        "location": "蕭壠兒童圖書館 / 蕭壠文化園區A1販售部 (臺南市佳里區六安里六安130號)",
+        "target_age": "不限年齡 (適合大小朋友)",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "透過借閱書籍集章活動，讓小朋友們在閱讀中探索糖廠文化，集滿章後可至販售部兌換天然水果冰棒。集章平日可進行，冰棒兌換限週六日。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://soulangh.tnc.gov.tw/index.php?inter=news&id=11&did=358",
+        "crawl_time": "2026-07-30T20:12:45"
+    },
+    {
+        "title": "【2026 走進糖廠‧閱讀糖香】甜蜜香氛手作工作坊：蔗有線香味",
+        "category": "手作DIY與才藝",
+        "activity_date": "8/15 ㊅ 10:00、11:15；14:00、15:15 (每場1小時)",
+        "start_date": "2026-08-15",
+        "end_date": "2026-08-15",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "8/2 日 ㊐ 9:00 開始線上報名，網址將另行公告。",
+        "location": "蕭壠文化園區 (臺南市佳里區六安里六安130號)",
+        "target_age": "小班以上 (一組一大一小)",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "由品成香于珍老師帶領，一組一大一小，透過手作體驗感受甜滋滋的蔗香，製作獨特香氛。需事先線上報名。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://soulangh.tnc.gov.tw/index.php?inter=news&id=11&did=358",
+        "crawl_time": "2026-07-30T20:12:45"
+    },
+    {
+        "title": "【2026 走進糖廠‧閱讀糖香】甜蜜香氛手作工作坊：甜甜圈手工皂",
+        "category": "手作DIY與才藝",
+        "activity_date": "8/16 ㊐ 10:00；14:00 (每場2小時)",
+        "start_date": "2026-08-16",
+        "end_date": "2026-08-16",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "8/2 日 ㊐ 9:00 開始線上報名，網址將另行公告。",
+        "location": "蕭壠文化園區 (臺南市佳里區六安里六安130號)",
+        "target_age": "中班以上 (一組一大一小)",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "由Cora老師帶領，一組一大一小，親子一同動手製作可愛的甜甜圈造型手工皂。需事先線上報名。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://soulangh.tnc.gov.tw/index.php?inter=news&id=11&did=358",
+        "crawl_time": "2026-07-30T20:12:45"
+    },
+    {
+        "title": "【2026 走進糖廠‧閱讀糖香】糖裡有故事",
+        "category": "知性與靜態學習",
+        "activity_date": "每周日 15:30 (8/2, 8/9, 8/16, 8/23, 8/30)",
+        "start_date": "2026-08-02",
+        "end_date": "2026-08-30",
+        "recurring_days": [
+            0
+        ],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "無須報名，自由入場。",
+        "location": "蕭壠兒童圖書館 (臺南市佳里區六安里六安130號)",
+        "target_age": "不限 (適合大小朋友親子共聽)",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "每周日舉辦繪本故事時間，邀請不同老師為大小朋友講述充滿糖香與童趣的故事，豐富小朋友的想像力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://soulangh.tnc.gov.tw/index.php?inter=news&id=11&did=358",
+        "crawl_time": "2026-07-30T20:12:45"
+    },
+    {
+        "title": "【2026 走進糖廠‧閱讀糖香】糖業知識小博士",
+        "category": "知性與靜態學習",
+        "activity_date": "8/1 ㊅ 起至兒圖索取問券，作答完畢交給櫃檯，次月公布答案，完勝小博士可抽小禮物唷~",
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-31",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "至蕭壠兒童圖書館櫃檯索取問卷，免報名。",
+        "location": "蕭壠兒童圖書館 (臺南市佳里區六安里六安130號)",
+        "target_age": "不限 (適合兒童參與)",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "透過填寫糖業知識問卷，讓小朋友們在遊戲中學習糖的知識，作答完畢後可參加抽獎活動，有機會獲得小禮物。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://soulangh.tnc.gov.tw/index.php?inter=news&id=11&did=358",
+        "crawl_time": "2026-07-30T20:12:45"
     }
 ]
