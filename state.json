@@ -1,21 +1,30 @@
 {
-    "last_index": 102,
+    "last_index": 4,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
-            "https://www.tam.gov.taipei/News_Content.aspx?n=794B17A953424610&sms=9D72E82EC16F3E64&s=85F19BAE939B0B51"
+            "https://www.tam.gov.taipei/News_Content.aspx?n=794B17A953424610&sms=9D72E82EC16F3E64&s=85F19BAE939B0B51",
+            "https://www.tam.gov.taipei/News.aspx?n=0258A8C5F361FF53&sms=C859FAFAA10995CD",
+            "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=C7B59F37984FFA31"
         ],
         "https://www.ntsec.gov.tw/": [
             "https://estore.ntsec.gov.tw/",
             "https://www.ntsec.gov.tw/article/detail.aspx?a=6078",
-            "https://www.ntsec.gov.tw/article/detail.aspx?a=6020"
+            "https://www.ntsec.gov.tw/article/detail.aspx?a=6020",
+            "https://estore.ntsec.gov.tw/classes.aspx?TYPE2=1&uid=49&pid=13",
+            "https://www.ntsec.gov.tw/article/detail.aspx?a=6051"
         ],
         "https://www.nstm.gov.tw/": [
-            "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=d3c437a9-c20a-4862-8590-fb500615a5ed"
+            "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=d3c437a9-c20a-4862-8590-fb500615a5ed",
+            "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=4b53a13e-ca44-4216-9409-86d9eb5d90d5",
+            "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=1dd1abaa-54f4-4cfe-b4d9-596b63ebdc7b",
+            "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=d4dfef79-3967-414d-a553-31e41ed82353"
         ],
         "https://www.zoo.gov.taipei/": [
             "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=6D110B3317C54B2B",
-            "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=252E2F46645EA2B0"
+            "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=252E2F46645EA2B0",
+            "https://www.zoo.gov.taipei/News_Content.aspx?n=BD065B2FA7782989&sms=72544237BBE4C5F6&s=DDB74E162770AC4C",
+            "https://www.zoo.gov.taipei/News_Content.aspx?n=BD065B2FA7782989&sms=72544237BBE4C5F6&s=3EA440D4A7DFE8F9"
         ],
         "https://www.nmns.edu.tw/": [
             "https://www.nmns.edu.tw/ch/learn/museum-education/theme/Theme-000554/",
@@ -338,7 +347,9 @@
         "https://www.accupass.com/category/family": [],
         "https://mr-tree.webnode.tw/": [
             "https://mr-tree.webnode.tw/copy-of-%e5%a4%a7%e6%a8%b9%e6%b4%be%e5%b0%8d%e8%a6%8f%e5%8a%83/",
-            "https://mr-tree.webnode.tw/two-columns/"
+            "https://mr-tree.webnode.tw/two-columns/",
+            "https://mr-tree.webnode.tw/copy-of-%e5%a4%a7%e6%a8%b9%e6%b4%be%e5%b0%8d%e8%a6%8f%e5%8a%83/",
+            "https://mr-tree.webnode.tw/%e5%8c%85%e5%a0%b4%e8%b3%87%e8%a8%8a/"
         ]
     }
 }
