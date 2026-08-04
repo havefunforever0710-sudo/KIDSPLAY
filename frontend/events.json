@@ -11917,5 +11917,552 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://tmofa.tycg.gov.tw/ch/exhibitions/current-exhibitions",
         "crawl_time": "2026-08-03T20:24:40"
+    },
+    {
+        "title": "蛙寶故事團2026年8月說故事活動",
+        "category": "知性與靜態學習",
+        "activity_date": "2026年8月",
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-31",
+        "recurring_days": [
+            0,
+            3
+        ],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "無需報名，現場參與",
+        "location": "臺南市立圖書館總館 (臺南市永康區康橋大道255號)",
+        "target_age": "兒童與家長",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "臺南市立圖書館蛙寶故事團於2026年8月每周三及周日舉辦說故事活動，精心準備豐富故事，歡迎家長帶孩子一同參與，開啟孩子們的閱讀世界。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnpl.tn.edu.tw/n15025316259670297419/n1Content",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "Highlights Library數位閱讀平台線上有獎徵答Part II~即日起至8月31日",
+        "category": "知性與靜態學習",
+        "activity_date": "即日起至8月31日",
+        "start_date": "2026-08-03",
+        "end_date": "2026-08-31",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "即日起至8月31日，線上填寫表單",
+        "location": "Highlights Library數位閱讀平台 (線上活動)",
+        "target_age": "無明確說明，適合學齡兒童及親子",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "臺南市立圖書館舉辦Highlights Library數位閱讀平台線上有獎徵答Part II活動。讀者只需登入平台閱讀指定英文故事書《Man-Made Materials》並回答問題，即有機會免費獲得英文繪讀本。活動期間為即日起至8月31日，得獎名單將於9月10日公告，旨在推廣數位閱讀並鼓勵兒童參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnpl.tn.edu.tw/n14980047607798949881/n1Content",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "南市圖 X 臺南市家庭教育中心「單身育兒不孤單」個別輔導計畫 -教育推廣講座",
+        "category": "知性與靜態學習",
+        "activity_date": "8月23日（日）09:30－11:30",
+        "start_date": "2026-08-23",
+        "end_date": "2026-08-23",
+        "recurring_days": [
+            0
+        ],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "https://forms.gle/trH8AFgM6CN9duY99，實體與直播共用報名表，名額有限，額滿為止。",
+        "location": "南市圖新總館4樓多功能教室（臺南市永康區康橋大道255號）",
+        "target_age": "2至12歲兒童 (托育服務)",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "南市圖與家庭教育中心舉辦「單身育兒不孤單」講座，中醫師分享單親家長身心壓力調適與舒壓穴位，助家長找回平衡。現場提供2-12歲兒童托育服務，歡迎免費報名。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnpl.tn.edu.tw/n15203106215767417398/n1Content",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "2026夏令營-<小大人驚奇的成長冒險之旅> 8/7場",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-08-07",
+        "start_date": "2026-08-07",
+        "end_date": "2026-08-07",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "2026/06/30 09:00~2026/08/05 00:00",
+        "location": "總館",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "臺中市立圖書館舉辦夏令營，以「小大人驚奇的成長冒險之旅」為主題，提供學齡兒童探索與學習的機會。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.taichung.gov.tw/registration/index?Parser=99,3,91,28,44",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "2026圖書館e學堂-08/14 完轉配音好有趣",
+        "category": "手作DIY與才藝",
+        "activity_date": "2026-08-14",
+        "start_date": "2026-08-14",
+        "end_date": "2026-08-14",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "2026/06/16 12:00~2026/08/13 00:00",
+        "location": "總館",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺中市立圖書館e學堂系列課程，引導參與者體驗配音樂趣，學習聲音創意應用。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.taichung.gov.tw/registration/index?Parser=99,3,91,28,44",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "2026「SDGS永續發展 探索實驗營」",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-08-15",
+        "start_date": "2026-08-15",
+        "end_date": "2026-08-15",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "2026/07/31 12:00~2026/08/15 14:00",
+        "location": "李科永紀念圖書分館",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "李科永紀念圖書分館舉辦「SDGS永續發展探索實驗營」，透過活動認識永續發展目標與環保議題。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.taichung.gov.tw/registration/index?Parser=99,3,91,28,44",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "2026圖書館e學堂-08/15 Q版卡通化的自己創意問候圖(實體課程)",
+        "category": "手作DIY與才藝",
+        "activity_date": "2026-08-15",
+        "start_date": "2026-08-15",
+        "end_date": "2026-08-15",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "2026/06/16 12:00~2026/08/14 00:00",
+        "location": "總館",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺中市立圖書館e學堂課程，學習繪製Q版卡通化的自我形象，創作獨特問候圖卡，發揮藝術潛能。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.taichung.gov.tw/registration/index?Parser=99,3,91,28,44",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "2026圖書館e學堂-08/15 不懂音樂也能創作旋律(實體課程)",
+        "category": "手作DIY與才藝",
+        "activity_date": "2026-08-15",
+        "start_date": "2026-08-15",
+        "end_date": "2026-08-15",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "2026/06/16 12:00~2026/08/14 00:00",
+        "location": "總館",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺中市立圖書館e學堂課程，讓無音樂基礎者也能輕鬆創作旋律，體驗音樂創作的樂趣與可能性。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.taichung.gov.tw/registration/index?Parser=99,3,91,28,44",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "【總館】〔散步閱讀森林工作坊〕多樣性森林-色彩與形狀的拼貼實驗(講師：余嘉琪)",
+        "category": "手作DIY與才藝",
+        "activity_date": "2026-08-21",
+        "start_date": "2026-08-21",
+        "end_date": "2026-08-21",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "2026/08/06 08:00~2026/08/21 00:00",
+        "location": "總館",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺中市立圖書館「散步閱讀森林工作坊」，由余嘉琪老師帶領，透過色彩與形狀拼貼實驗，探索多樣性森林的藝術表現。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.taichung.gov.tw/registration/index?Parser=99,3,91,28,44",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "【第一場】親子共讀 × 音樂律動",
+        "category": "知性與靜態學習",
+        "activity_date": "8/8（六）15:00 - 15:30",
+        "start_date": "2026-08-08",
+        "end_date": "2026-08-08",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "7/16 (四) 中午 12:00 Accupass 線上報名 (已額滿)",
+        "location": "綠美圖 B1 多媒體講堂 (臺中市西屯區中科路2201號)",
+        "target_age": "1位成人及1位0-5歲嬰幼兒",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲"
+        ],
+        "price_type": "付費",
+        "summary": "以繪本《肚臍的洞洞》為主題，結合音樂律動與親子互動，透過歌唱、律動及閱讀，引導孩子探索世界，體驗共讀陪伴的美好時光。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://gov.tw/exE",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "【第二場】親子共讀 × 瑜珈體驗",
+        "category": "知性與靜態學習",
+        "activity_date": "8/9（日）15:00 - 15:30",
+        "start_date": "2026-08-09",
+        "end_date": "2026-08-09",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "7/16 (四) 中午 12:00 Accupass 線上報名 (已額滿)",
+        "location": "上楓分館 3樓多功能室 (臺中市大雅區樹德街255巷5號)",
+        "target_age": "1位成人及1位0-5歲嬰幼兒",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲"
+        ],
+        "price_type": "付費",
+        "summary": "以繪本《超神奇種子鋪》為主題，結合親子瑜珈與伸展，引導親子建立默契。安排靜心共讀時光，鼓勵家長以溫暖陪伴，一起閱讀、一起成長。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://gov.tw/exE",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "驚奇市場 閱讀的採買旅行 主題書展",
+        "category": "知性與靜態學習",
+        "activity_date": "2026年 6/2- 8/30",
+        "start_date": "2026-06-02",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "無需報名，自由入場",
+        "location": "臺中市立圖書館 (臺中市西屯區中科路2201號)",
+        "target_age": "兒童 (特別推薦0-5歲)",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "臺中市立圖書館與台北書展基金會合作，舉辦「驚奇市場 閱讀的採買旅行」兒童主題書展。以菜市場為靈感，規劃幼芽啟蒙站、心靈成長屋等攤位，呈現精選繪本，提供兒童專屬童書推薦書單，啟發自我概念、情緒理解與多元視野。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://gov.tw/vhZ",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "動滋達滋森之島-動滋互動劇場《手忙腳亂進行曲》",
+        "category": "藝文展演",
+        "activity_date": "2026-08-16 14:00 ～ 2026-08-16 15:30",
+        "start_date": "2026-08-16",
+        "end_date": "2026-08-16",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "2026-08-01 11:00～2026-08-10 17:00，官網報名",
+        "location": "楊梅故事園區二十講堂 (桃園市楊梅區中山路125巷14號)",
+        "target_age": "3歲-10歲",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "小公視超人氣學齡前節目《動滋達滋森之島》帶來全新劇碼《手忙腳亂進行曲》，由森之島人氣角色跳跳、妙妙、巧克及閃電波波現身，結合音樂、律動與互動遊戲，讓大小朋友在歡笑中與好朋友同樂，留下難忘暑假回憶。現場並設有行動書車與借閱好禮。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.typl.gov.tw/zh-tw/Activity/Content/9907?Preview=51-C61AF8DF331F40FC8453A17D9FCFEC90&httproute=True",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "小行星10週年活動開跑！「樂樂小宇宙：能量寶石大作戰」集章據點",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-07-01 08:30 ～ 2026-10-31 21:00",
+        "start_date": "2026-07-01",
+        "end_date": "2026-10-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "活動期間隨時可參與，攜帶集章冊或列印活動頁即可。",
+        "location": "桃園市立圖書館 總館3樓服務台",
+        "target_age": "兒童",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "小行星幼兒誌十週年活動，在桃園市立圖書館總館舉辦「樂樂小宇宙：能量寶石大作戰」集章。參與者可攜集章冊或列印專屬頁面，於館內尋找蓋章處，完成任務即有機會抽好禮。活動免費，適合兒童參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.typl.gov.tw/zh-tw/Activity/Content/9836?Preview=1147-74D5F17920774B4BB5353F5261CE4151&httproute=True",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "[桃園活動]親子情緒香氛擴香花手作",
+        "category": "手作DIY與才藝",
+        "activity_date": "2026-08-22 14:00 ～ 2026-08-22 16:00",
+        "start_date": "2026-08-22",
+        "end_date": "2026-08-22",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "報名期限 2026-07-22 12:00～ 2026-08-16 23:59",
+        "location": "婦女培力中心(桃園市桃園區民權路69號)",
+        "target_age": "15組親子(適合6-12歲兒童)",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "本活動以情緒繪本開場，介紹香氛如何透過嗅覺影響情緒並調節心情。適合6-12歲兒童與家長一同參與，每組限一大一小，現場酌收材料費150元，手作擴香花。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.typl.gov.tw/zh-tw/Activity/Content/9886",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "興直堡講古-台語囡仔營",
+        "category": "在地文化體驗",
+        "activity_date": "8月16日(日) 09:00-12:00",
+        "start_date": "2026-08-16",
+        "end_date": "2026-08-16",
+        "recurring_days": [
+            0
+        ],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "7/31下午15:00開放報名，人工審核，8/7(五)下午1:30公布第二波錄取名單",
+        "location": "新莊區中港路350號4樓 中港第二活動中心",
+        "target_age": "15組親子 (小一至國三皆可報名)",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "帶領親子認識新莊特有閩南語文化，透過互動遊戲學習、體驗，傳承美麗的聲音。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=c00db7db6bfa433c95e4a528fafc4cfb",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "鹹光餅摘心指南-拼貼新莊味",
+        "category": "手作DIY與才藝",
+        "activity_date": "8月23日(日) 14:00-16:00",
+        "start_date": "2026-08-23",
+        "end_date": "2026-08-23",
+        "recurring_days": [
+            0
+        ],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "7/31下午15:00開放報名",
+        "location": "新莊區中港路350號 中港7樓多功能教室",
+        "target_age": "15組親子",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "透過繪本與手作，以故事圖像自由拼貼，創作獨一無二的鹹光餅畫，認識新莊文化。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=c00db7db6bfa433c95e4a528fafc4cfb",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "味蕾探險家-創意鹹光餅",
+        "category": "手作DIY與才藝",
+        "activity_date": "8月30日(日) 10:00-12:00",
+        "start_date": "2026-08-30",
+        "end_date": "2026-08-30",
+        "recurring_days": [
+            0
+        ],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "7/31下午15:00開放報名",
+        "location": "新莊區中港路350號 中港7樓多功能教室",
+        "target_age": "10組親子",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "激發美食創意，利用鹹光餅與多樣配料，親子一同將傳統糕點大變身為獨特料理。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=c00db7db6bfa433c95e4a528fafc4cfb",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "「書香行旅・香氣漫遊」擴香石手作坊",
+        "category": "手作DIY與才藝",
+        "activity_date": "115年7月3日(五) 11:00-15:00",
+        "start_date": "2026-07-03",
+        "end_date": "2026-07-03",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "即日起開始網路報名",
+        "location": "美術館B1探索基地(行動書房)、1FA1空間(手作課程)",
+        "target_age": "一般民眾",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "新北市圖書館行動書房暑假活動，包含推廣服務、主題書展及永生花擴香石DIY手作課程。報名成功並借閱3本圖書可免費參加。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://atpass.ntpclib.gov.tw/activities/detail?svcId=8e109e8bb57a4b44b21e31c34db87dba&cntId=2fe8fd3181e54c29abe75a0be33f9a91",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "「書香行旅・茶香渲染」煙花皂手作坊",
+        "category": "手作DIY與才藝",
+        "activity_date": "115年7月17日(五) 10:00-14:30",
+        "start_date": "2026-07-17",
+        "end_date": "2026-07-17",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "即日起開始網路報名",
+        "location": "坪林茶業博物館-茶藝教室、展示館b1",
+        "target_age": "一般民眾",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "新北市圖書館行動書房暑假活動，有主題書展、茶食文化特展導覽及茶香渲染煙花皂DIY手作。報名成功並借閱3本圖書可免費參加。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://atpass.ntpclib.gov.tw/activities/detail?svcId=8e109e8bb57a4b44b21e31c34db87dba&cntId=2fe8fd3181e54c29abe75a0be33f9a91",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "「書香行旅・故事旅行」新住民媽媽故事工作坊",
+        "category": "知性與靜態學習",
+        "activity_date": "115年8月15日(六) 11:00-15:00",
+        "start_date": "2026-08-15",
+        "end_date": "2026-08-15",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "7/24開始網路報名",
+        "location": "美術館B1-探索基地",
+        "target_age": "一般民眾",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "新北市圖書館行動書房暑假活動，透過新住民媽媽分享越南與緬甸繪本故事，體驗多元文化與服裝展示。報名成功並借閱3本圖書可免費參加。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://atpass.ntpclib.gov.tw/activities/detail?svcId=8e109e8bb57a4b44b21e31c34db87dba&cntId=2fe8fd3181e54c29abe75a0be33f9a91",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "「書香行旅・綠意發芽」草頭寶寶繪本工作坊",
+        "category": "手作DIY與才藝",
+        "activity_date": "115年8月28日(五) 11:00-15:00",
+        "start_date": "2026-08-28",
+        "end_date": "2026-08-28",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "7/24開始網路報名",
+        "location": "鶯歌陶瓷博物館-1F、陶藝舞臺",
+        "target_age": "一般民眾",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "新北市圖書館行動書房暑假活動，結合環保主題書展、特展導覽及草頭寶寶DIY手作與繪本閱讀。報名成功並借閱5本圖書可免費參加。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://atpass.ntpclib.gov.tw/activities/detail?svcId=8e109e8bb57a4b44b21e31c34db87dba&cntId=2fe8fd3181e54c29abe75a0be33f9a91",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "哈努曼神猴&面具DIY",
+        "category": "手作DIY與才藝",
+        "activity_date": "8月9日(日) 14:00-16:00",
+        "start_date": "2026-08-09",
+        "end_date": "2026-08-09",
+        "recurring_days": [
+            0
+        ],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "7/24中午12:30開放報名，目前仍有名額，歡迎報名。",
+        "location": "裕民6樓禮堂 (新莊區裕民街136號)",
+        "target_age": "親子組15組，國小生為優先報名",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "探索印度史詩神猴哈努曼與柬埔寨面具舞的文化連結，聆聽老師解說其背後故事，並動手製作專屬面具，體驗異國藝術魅力，適合親子及國小生參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=f6e003efa815409f8ff9dfc85ab37c2e",
+        "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "送水節-水燈DIY",
+        "category": "手作DIY與才藝",
+        "activity_date": "8月16日(日) 14:00-16:00",
+        "start_date": "2026-08-16",
+        "end_date": "2026-08-16",
+        "recurring_days": [
+            0
+        ],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "7/24中午12:30開放報名，目前仍有名額，歡迎報名。",
+        "location": "裕民6樓禮堂 (新莊區裕民街136號)",
+        "target_age": "親子組15組，國小生為優先報名",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "認識柬埔寨三大節慶之一的送水節，了解其感恩水神的文化意義。透過老師講解，並親自動手製作水燈，體驗充滿樂趣的異國節慶氛圍，適合親子與國小生一同參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=f6e003efa815409f8ff9dfc85ab37c2e",
+        "crawl_time": "2026-08-04T20:21:57"
     }
 ]
