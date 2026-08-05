@@ -12465,5 +12465,165 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=f6e003efa815409f8ff9dfc85ab37c2e",
         "crawl_time": "2026-08-04T20:21:57"
+    },
+    {
+        "title": "總館「Henna祝福手繪親子體驗課程」手作活動",
+        "category": "手作DIY與才藝",
+        "activity_date": "9月6日（週日）下午2時至4時",
+        "start_date": "2026-09-06",
+        "end_date": "2026-09-06",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "臺北市",
+        "registration_date": "網路報名 https://reurl.cc/gN2nLp",
+        "location": "總館9樓多功能活動室（臺北市大安區建國南路2段125號）",
+        "target_age": "滿6歲以上兒童（本活動為親子活動，需一位家長全程陪同）",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "臺北市立圖書館總館舉辦「Henna祝福手繪親子體驗課程」。邀請東南亞文化藝術講師，介紹Henna文化背景、顏料特性與握筆技巧，帶領親子實際體驗人體彩繪創作，感受印度Henna藝術的魅力與手作樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tpml.gov.taipei/News_Content.aspx?n=49F42C0F3A955E81&sms=9D72E82EC16F3E64&s=9724E4618ECBCB27",
+        "crawl_time": "2026-08-05T20:23:52"
+    },
+    {
+        "title": "北市圖書車8月親水登場！ 駛進自來水園區邀親子共度「涼夏閱讀派對」",
+        "category": "知性與靜態學習",
+        "activity_date": "8月的週末",
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-31",
+        "recurring_days": [
+            0,
+            6
+        ],
+        "region": "北部",
+        "city": "臺北市",
+        "registration_date": "無須事先報名，現場參與各項活動",
+        "location": "臺北自來水園區",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "臺北市立圖書館「城市書森」行動書車將於8月駛進臺北自來水園區，為親子家庭打造「涼夏閱讀派對」。活動包含閱讀遊戲、書森占卜、數位集點、時光明信片及好書交換，邀請大小朋友在戲水之餘，享受清涼的閱讀樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tpml.gov.taipei/News_Content.aspx?n=057F7CE33AEF867C&sms=9D72E82EC16F3E64&s=D11EE2656A329783",
+        "crawl_time": "2026-08-05T20:23:52"
+    },
+    {
+        "title": "文山分館「文山親子電影院」9月節目表",
+        "category": "藝文展演",
+        "activity_date": "每週日下午2時起放映。",
+        "start_date": "2026-09-06",
+        "end_date": "2026-09-27",
+        "recurring_days": [
+            0
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場免費入場",
+        "location": "臺北市立圖書館文山分館9樓多功能活動室。(臺北市文山區興隆路二段160號)",
+        "target_age": "闔家觀賞",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "臺北市立圖書館文山分館九月親子電影院，每週日下午2時放映適合闔家觀賞的精選影片，如《聲之形》、《大雄的祕密道具博物館》等，提供親子週末休憩時光。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tpml.gov.taipei/News_Content.aspx?n=F969DE2A717178AE&sms=9D72E82EC16F3E64&s=C0DEDE49F1F12AD6",
+        "crawl_time": "2026-08-05T20:23:52"
+    },
+    {
+        "title": "115年8月份兒童學習中心週日故事活動",
+        "category": "知性與靜態學習",
+        "activity_date": "115/08/02 (日)15:00 ~ 115/08/30 (日)16:30",
+        "start_date": "2026-08-02",
+        "end_date": "2026-08-30",
+        "recurring_days": [
+            0
+        ],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "無需報名，自由入場",
+        "location": "國立公共資訊圖書館總館-1樓兒童學習中心手作室 (臺中市南區五權南路100號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "國立公共資訊圖書館兒童學習中心於115年8月份舉辦一系列週日故事活動，包含繪本互動、故事協會講故事、小朋友說故事以及影片播映。活動內容豐富多元，歡迎大小朋友一同參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://activity.nlpi.edu.tw/Active_Content.aspx?n=3&ss=28D27DAEF318DFA9",
+        "crawl_time": "2026-08-05T20:23:52"
+    },
+    {
+        "title": "栗子老師的日文故事時間",
+        "category": "藝文展演",
+        "activity_date": "115/07/25 (六)10:30 ~ 115/08/22 (六)15:30",
+        "start_date": "2026-07-25",
+        "end_date": "2026-08-22",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "無需報名，自由入場~",
+        "location": "國立公共資訊圖書館 總館1F兒童學習中心手作室 (臺中市南區五權南路100號)",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "栗子老師將在國立公共資訊圖書館總館兒童學習中心手作室，以日文及中文帶來可愛的故事時間，包含兩場不同故事。本活動無需報名，自由入場。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://activity.nlpi.edu.tw/Active_Content.aspx?n=3&ss=4366E34FCC55BB12",
+        "crawl_time": "2026-08-05T20:23:52"
+    },
+    {
+        "title": "2026豆莢寶寶兒童音樂會《咻咻～魔幻擊樂秀》",
+        "category": "藝文展演",
+        "activity_date": "2026/08/01 ~ 2026/09/13",
+        "start_date": "2026-08-01",
+        "end_date": "2026-09-13",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "透過OPENTIX售票平台購票",
+        "location": "臺北市藝文推廣處城市舞台 (臺北市松山區八德路3段25號)",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "《咻咻～魔幻擊樂秀》由魔幻打擊樂團以打擊樂與魔術帶來精彩演出。豆莢寶寶DoReMi加入樂團，共同面對樂團場地拆除危機，努力完成最後舞台。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tapo.gov.taipei/News_Content.aspx?n=A6FF89AB737B343B&sms=4EC89792B96F7291&s=15006286E685D756",
+        "crawl_time": "2026-08-05T20:23:52"
+    },
+    {
+        "title": "115文山劇場《文山故事繪本劇場》7月活動",
+        "category": "藝文展演",
+        "activity_date": "115/07/04(六)",
+        "start_date": "2026-07-04",
+        "end_date": "2026-07-04",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "免費，自由參加，無需事先報名",
+        "location": "文山劇場4樓展覽空間",
+        "target_age": "1~10歲，親子共同參加",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "7月主題《情緒大飯店》，透過奇妙旅館的故事，孩子能學會理解與安頓自己的情緒，明白每種情緒都有存在的價值。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tapo.gov.taipei/News_Content.aspx?n=CEDE938182D9017F&sms=A4E6E8DBA30EF49D&s=956723230B2302EB",
+        "crawl_time": "2026-08-05T20:23:52"
     }
 ];
