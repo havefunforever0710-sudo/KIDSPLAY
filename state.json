@@ -1,5 +1,5 @@
 {
-    "last_index": 34,
+    "last_index": 39,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -182,11 +182,15 @@
         "https://pier2.org/": [],
         "https://www.ttdac.taichung.gov.tw/": [
             "https://www.ttdac.taichung.gov.tw/nc5232470501983413029/ncArticleContent",
-            "https://www.ttdac.taichung.gov.tw/nc5120505618265090734/ncArticleContent"
+            "https://www.ttdac.taichung.gov.tw/nc5120505618265090734/ncArticleContent",
+            "https://www.ttdac.taichung.gov.tw/na4624453813688828570/naArticleContent",
+            "https://www.ttdac.taichung.gov.tw/nc5613570722813613357/ncArticleContent",
+            "https://www.ttdac.taichung.gov.tw/nc4904869813859458542/ncArticleContent"
         ],
         "https://www.huludun.taichung.gov.tw/": [
             "https://www.huludun.taichung.gov.tw/active/index-1.asp?Parser=99,8,40,,,,158857,3",
-            "https://www.huludun.taichung.gov.tw/active/index-1.asp?Parser=99,8,40,,,,158034,3"
+            "https://www.huludun.taichung.gov.tw/active/index-1.asp?Parser=99,8,40,,,,158034,3",
+            "https://childdrawings.huludun.taichung.gov.tw/"
         ],
         "https://chiayiartmuseum.chiayi.gov.tw/": [
             "https://chiayiartmuseum.chiayi.gov.tw/News_Content.aspx?n=13589&sms=14831&s=940520",
@@ -195,7 +199,8 @@
         "https://tbocc.cyhg.gov.tw/": [],
         "https://www.ncfta.gov.tw/": [
             "https://www.px-sunmake.org.tw/activity/seasonlist.html",
-            "https://www.px-sunmake.org.tw/activity/artexhibitionlist.html"
+            "https://www.px-sunmake.org.tw/activity/artexhibitionlist.html",
+            "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=259414"
         ],
         "https://www.npsm.org.tw/": [],
         "https://www.gep.ntpc.gov.tw/": [

@@ -12690,5 +12690,189 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.songshanculturalpark.org/exhibition/activity/4a7f533a-7537-4dd0-af44-d074a73d47c2",
         "crawl_time": "2026-08-07T00:39:22"
+    },
+    {
+        "title": "盛保羅魔幻劇團《魔法師的考驗-地球危機！》",
+        "category": "藝文展演",
+        "activity_date": "2026-07-18(六) 14時30分 ~ 2026-07-18(六) 16時30分",
+        "start_date": "2026-07-18",
+        "end_date": "2026-07-18",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "OPENTIX售票，演出前30分鐘開放進場",
+        "location": "屯區藝文中心演藝廳 (臺中市太平區大興路201號)",
+        "target_age": "適合所有年齡層的觀眾",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "原創親子魔幻戲劇《魔法師的考驗-地球危機！》，結合魔術、科技、教育、特技與幻術。故事講述魔法師與公主攜手解決因人類過度濫用資源引發的地球危機，教導愛護地球，適合全齡觀看。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ttdac.taichung.gov.tw/na4624453813688828570/naArticleContent",
+        "crawl_time": "2026-08-07T19:50:30"
+    },
+    {
+        "title": "115年7~12月「英語故事屋」及「大鵬老師說故事」",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-07-12(日) 10時00分 ~ 2026-12-20(日) 12時00分",
+        "start_date": "2026-07-12",
+        "end_date": "2026-12-20",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "活動免費並自由入場，不需事先報名",
+        "location": "B1藝享空間 (臺中市太平區大興路201號)",
+        "target_age": "大朋友、小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "屯區藝文中心每月舉辦中英語繪本故事活動，透過故事激發孩子好奇心、想像力與創造力，並培養閱讀及學習英語的樂趣。活動免費且自由入場，歡迎大小朋友參加。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ttdac.taichung.gov.tw/nc5613570722813613357/ncArticleContent",
+        "crawl_time": "2026-08-07T19:50:30"
+    },
+    {
+        "title": "公共鋼琴「藝起來彈」",
+        "category": "藝文展演",
+        "activity_date": "2026-07-22(三) 09時00分 ~ 2026-08-19(三) 17時00分",
+        "start_date": "2026-07-22",
+        "end_date": "2026-08-19",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "現場參加",
+        "location": "臺中市屯區藝文中心西側大廳 (太平區大興路201號)",
+        "target_age": "大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "公共鋼琴現身屯區藝文中心！邀請喜愛演奏的大小朋友來彈奏平台式鋼琴，一同推廣音樂藝術。市民朋友至屯藝觀看演出、欣賞作品的同時可以「藝起來彈」！參與活動達成條件還能獲得精美小禮。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ttdac.taichung.gov.tw/nc4904869813859458542/ncArticleContent",
+        "crawl_time": "2026-08-07T19:50:30"
+    },
+    {
+        "title": "葫蘆墩文化中心全國兒童聯想創作畫 - 第33屆得獎作品巡迴展",
+        "category": "藝文展演",
+        "activity_date": "115年巡迴展",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "無需報名 (展覽觀賞)",
+        "location": "葫蘆墩文化中心 (臺中市豐原區圓環東路782號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "葫蘆墩文化中心展出全國兒童聯想創作畫比賽第33屆的得獎作品，呈現孩子們豐富的想像力與創意。這些優秀作品將於115年起展開巡迴展覽，邀請大眾一同欣賞。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://childdrawings.huludun.taichung.gov.tw/",
+        "crawl_time": "2026-08-07T19:50:30"
+    },
+    {
+        "title": "「兒童歌仔戲—親子劇場匯演」- 新協興歌劇團《小綠的追雲傘》",
+        "category": [
+            "藝文展演",
+            "在地文化體驗"
+        ],
+        "activity_date": "7/25（六）19:00",
+        "start_date": "2026-07-25",
+        "end_date": "2026-07-25",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "南投縣",
+        "registration_date": "活動為開放參與，網頁未提及具體報名方式。",
+        "location": "南投中興會堂前廣場",
+        "target_age": "兒童與親子",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "國立傳統藝術中心舉辦「兒童歌仔戲—親子劇場匯演」，由新協興歌劇團於南投演出《小綠的追雲傘》。活動專為兒童及親子設計，以淺顯易懂、生動活潑的歌仔戲形式，引導孩子走入戲曲世界，適合闔家共賞。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=259414",
+        "crawl_time": "2026-08-07T19:50:30"
+    },
+    {
+        "title": "「兒童歌仔戲—親子劇場匯演」- 奇巧劇團《哮天犬的限時任務》",
+        "category": [
+            "藝文展演",
+            "在地文化體驗"
+        ],
+        "activity_date": "8/1 （六）19:00",
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-01",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "活動為開放參與，網頁未提及具體報名方式。",
+        "location": "臺中圓滿戶外劇場",
+        "target_age": "兒童與親子",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "國立傳統藝術中心舉辦「兒童歌仔戲—親子劇場匯演」，由奇巧劇團於臺中演出《哮天犬的限時任務》。活動以淺顯易懂、生動活潑的歌仔戲形式，引導孩子走入戲曲世界，適合闔家共同欣賞，推動傳統戲曲向下扎根。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=259414",
+        "crawl_time": "2026-08-07T19:50:30"
+    },
+    {
+        "title": "「兒童歌仔戲—親子劇場匯演」- 明華園星字戲劇團《石獅子的眼淚》",
+        "category": [
+            "藝文展演",
+            "在地文化體驗"
+        ],
+        "activity_date": "8/15（六）19:00",
+        "start_date": "2026-08-15",
+        "end_date": "2026-08-15",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新竹縣",
+        "registration_date": "活動為開放參與，網頁未提及具體報名方式。",
+        "location": "新竹新埔枋寮褒忠亭義民廟",
+        "target_age": "兒童與親子",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "國立傳統藝術中心舉辦「兒童歌仔戲—親子劇場匯演」，由明華園星字戲劇團於新竹演出《石獅子的眼淚》。活動專為兒童及親子設計，以生動活潑的歌仔戲表演，引導孩子認識傳統戲曲，培養藝文興趣，適合闔家觀賞。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=259414",
+        "crawl_time": "2026-08-07T19:50:30"
+    },
+    {
+        "title": "「兒童歌仔戲—親子劇場匯演」- 薪傳歌仔戲劇團《婆姐出任務》",
+        "category": [
+            "藝文展演",
+            "在地文化體驗"
+        ],
+        "activity_date": "8/23（日）19:00",
+        "start_date": "2026-08-23",
+        "end_date": "2026-08-23",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "宜蘭縣",
+        "registration_date": "活動為開放參與，網頁未提及具體報名方式。",
+        "location": "宜蘭羅東文化工場",
+        "target_age": "兒童與親子",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "國立傳統藝術中心舉辦「兒童歌仔戲—親子劇場匯演」，由薪傳歌仔戲劇團於宜蘭演出《婆姐出任務》。活動旨在透過淺顯易懂、生動活潑的歌仔戲，引導孩子走入戲曲世界，培養其對傳統藝術的興趣，適合闔家參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=259414",
+        "crawl_time": "2026-08-07T19:50:30"
     }
 ];
