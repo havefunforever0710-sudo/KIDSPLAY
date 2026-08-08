@@ -1,5 +1,5 @@
 {
-    "last_index": 39,
+    "last_index": 44,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -207,14 +207,19 @@
             "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246370980849685209",
             "https://www.gep.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G266496700270752519&sid=0P275406705160831604",
             "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246366358734295125&sid=0Q187374240979165004",
-            "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246366358734295125&sid=0Q187384116836768754"
+            "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246366358734295125&sid=0Q187384116836768754",
+            "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246366358734295125&sid=0Q205605788098858761",
+            "https://mineartfestival.com/"
         ],
         "https://www.nmh.gov.tw/": [
             "https://www.nmh.gov.tw/News_actives.aspx?n=6990&sms=13323",
-            "https://www.nmh.gov.tw/News_Actives_photo.aspx?n=6983&sms=13323"
+            "https://www.nmh.gov.tw/News_Actives_photo.aspx?n=6983&sms=13323",
+            "https://www.nmh.gov.tw/News_Content.aspx?n=6993&s=249680",
+            "https://www.nmh.gov.tw/News_Card.aspx?n=7304&sms=15239"
         ],
         "https://www.mocataipei.org.tw/": [
-            "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/Young*Folks%EF%BC%9A%E4%B8%96%E7%95%8C%E6%98%AF%E4%B8%80%E7%89%87%E6%84%9F%E7%9F%A5%E7%9A%84%E8%86%9C"
+            "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/Young*Folks%EF%BC%9A%E4%B8%96%E7%95%8C%E6%98%AF%E4%B8%80%E7%89%87%E6%84%9F%E7%9F%A5%E7%9A%84%E8%86%9C",
+            "http://www.moca.taipei/tw/ExhibitionAndEvent/Exhibitions/Up-Coming"
         ],
         "https://www.museum.org.tw/": [],
         "https://www.nmp.gov.tw/": [

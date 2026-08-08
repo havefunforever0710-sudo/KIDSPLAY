@@ -12874,5 +12874,261 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=259414",
         "crawl_time": "2026-08-07T19:50:30"
+    },
+    {
+        "title": "黃金故事限時聽",
+        "category": "藝文展演",
+        "activity_date": "8 月 15 日下午 2 點 30 分及下午 4 點",
+        "start_date": "2026-08-15",
+        "end_date": "2026-08-15",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "7 月 27 日起於 ACCUPASS（https://reurl.cc/p8xdel）開放售票 (名額有限，額滿為止)",
+        "location": "黃金博物館本山五坑",
+        "target_age": "無特別標示年齡，引導民眾走入礦山聚落",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "藝術家楊雨樵在黃金博物館本山五坑，結合坑道空間特性，以環境聲響及即興敘事，讓觀眾感受礦山場域魅力，重新認識金瓜石的文化風景。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246366358734295125&sid=0Q205605788098858761",
+        "crawl_time": "2026-08-08T19:26:00"
+    },
+    {
+        "title": "小城生成：拼貼老街的風景",
+        "category": "手作DIY與才藝",
+        "activity_date": "8 月 15 日下午 2 點至 4 點 30 分",
+        "start_date": "2026-08-15",
+        "end_date": "2026-08-15",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "即日起於 ACCUPASS（https://reurl.cc/1lgVRQ）開放報名",
+        "location": "新北市立黃金博物館園區或周邊聚落街區",
+        "target_age": "喜愛手作的民眾",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "藝術家周學涵帶領參與者走入聚落街區觀察老街紋理，並透過拼貼創作，完成專屬自己的礦山風景，從作品《副本：金瓜石》延伸創作。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246366358734295125&sid=0Q205605788098858761",
+        "crawl_time": "2026-08-08T19:26:00"
+    },
+    {
+        "title": "當戲偶走進礦山",
+        "category": "藝文展演",
+        "activity_date": "8 月 16 日下午 2 點至 2 點 40 分",
+        "start_date": "2026-08-16",
+        "end_date": "2026-08-16",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "免費演出，無需報名",
+        "location": "金水廣場",
+        "target_age": "深受大小朋友喜愛",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "蘇俊穎木偶劇團在金水廣場帶來免費偶戲演出，透過靈活生動的戲偶操演、幽默口白及現場互動，演繹礦山故事，為藝術季增添熱情活力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246366358734295125&sid=0Q205605788098858761",
+        "crawl_time": "2026-08-08T19:26:00"
+    },
+    {
+        "title": "藝術家工作坊",
+        "category": "藝文展演",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "2026.06.30起開放報名，詳細資訊請參考官網。",
+        "location": "新北市立黃金博物館及金瓜石周邊",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "礦山藝術季期間，藝術家工作坊現正開放報名。探索藝術與礦山文化的結合，提供深入體驗的機會。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://mineartfestival.com/",
+        "crawl_time": "2026-08-08T19:26:00"
+    },
+    {
+        "title": "山人旅行社：走進礦山的路徑",
+        "category": "在地文化體驗",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "2026.06.30起開放報名，詳細資訊請參考官網。",
+        "location": "金瓜石、九份、水湳洞及周邊礦山路徑",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "山人旅行社開放報名，帶您深入金瓜石、九份、水湳洞，沿著礦山路徑，體驗在地文化與歷史。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://mineartfestival.com/",
+        "crawl_time": "2026-08-08T19:26:00"
+    },
+    {
+        "title": "「鳳起1955：史博的館史故事」線上展",
+        "category": "知性與靜態學習",
+        "activity_date": "自2026-01-16起線上展出",
+        "start_date": "2026-01-16",
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "無需報名，隨時上線觀看",
+        "location": "線上展出，網址：https://nmhstory.nmh.gov.tw",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "國立歷史博物館為慶祝建館70週年，推出「鳳起1955：史博的館史故事」線上展。展覽結合珍貴歷史照片與敘事文字，鋪陳史博館70年流金歲月記憶。內容涵蓋館史精華，並設計三款翻牌記憶遊戲，增添互動性，讓使用者能寓教於樂，探索博物館歷史與文化價值。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmh.gov.tw/News_Content.aspx?n=6993&s=249680",
+        "crawl_time": "2026-08-08T19:26:00"
+    },
+    {
+        "title": "嬉-兒童繪畫創作展",
+        "category": "藝文展演",
+        "activity_date": "2025.06.02",
+        "start_date": "2025-06-02",
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": null,
+        "location": "國立歷史博物館 雲端展廳 (線上)",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "國立歷史博物館雲端展廳推出的「嬉-兒童繪畫創作展」，展出多幅兒童繪畫作品，激發小朋友的藝術潛能與創意。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmh.gov.tw/News_Card.aspx?n=7304&sms=15239",
+        "crawl_time": "2026-08-08T19:26:00"
+    },
+    {
+        "title": "HIGH翻博物館-史博嘉年華",
+        "category": "節慶市集與綜合",
+        "activity_date": "2026.01.21",
+        "start_date": "2026-01-21",
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": null,
+        "location": "國立歷史博物館 雲端展廳 (線上)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "國立歷史博物館雲端展廳精選「HIGH翻博物館-史博嘉年華」，以線上形式呈現博物館熱鬧歡樂的節慶活動氛圍。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmh.gov.tw/News_Card.aspx?n=7304&sms=15239",
+        "crawl_time": "2026-08-08T19:26:00"
+    },
+    {
+        "title": "Young Folks：世界是一片感知的膜",
+        "category": "藝文展演",
+        "activity_date": "2026 05 / 23 Sat. 2026 08 / 30 Sun.",
+        "start_date": "2026-05-23",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "線上報名",
+        "location": "台北當代藝術館 / 台北市大同區長安西路39號",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "本展覽於台北當代藝術館展出，為觀眾帶來獨特的藝術體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "http://www.moca.taipei/tw/ExhibitionAndEvent/Exhibitions/Up-Coming",
+        "crawl_time": "2026-08-08T19:26:00"
+    },
+    {
+        "title": "記憶的囚徒困境",
+        "category": "藝文展演",
+        "activity_date": "2026 05 / 23 Sat. 2026 08 / 30 Sun.",
+        "start_date": "2026-05-23",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "線上報名",
+        "location": "台北當代藝術館 / 台北市大同區長安西路39號",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "本展覽於台北當代藝術館展出，為觀眾帶來獨特的藝術體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "http://www.moca.taipei/tw/ExhibitionAndEvent/Exhibitions/Up-Coming",
+        "crawl_time": "2026-08-08T19:26:00"
+    },
+    {
+        "title": "野草不服管 MoCA STUDIO",
+        "category": "藝文展演",
+        "activity_date": "2026 07 / 11 Sat. 2026 09 / 20 Sun.",
+        "start_date": "2026-07-11",
+        "end_date": "2026-09-20",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "線上報名",
+        "location": "台北當代藝術館 / 台北市大同區長安西路39號",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "本展覽於台北當代藝術館展出，為觀眾帶來獨特的藝術體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "http://www.moca.taipei/tw/ExhibitionAndEvent/Exhibitions/Up-Coming",
+        "crawl_time": "2026-08-08T19:26:00"
+    },
+    {
+        "title": "境未竟 MoCA Video",
+        "category": "藝文展演",
+        "activity_date": "2026 07 / 11 Sat. 2026 09 / 06 Sun.",
+        "start_date": "2026-07-11",
+        "end_date": "2026-09-06",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "線上報名",
+        "location": "台北當代藝術館 / 台北市大同區長安西路39號",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "本展覽於台北當代藝術館展出，為觀眾帶來獨特的藝術體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "http://www.moca.taipei/tw/ExhibitionAndEvent/Exhibitions/Up-Coming",
+        "crawl_time": "2026-08-08T19:26:00"
     }
 ];
