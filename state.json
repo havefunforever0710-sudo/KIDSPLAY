@@ -1,5 +1,5 @@
 {
-    "last_index": 44,
+    "last_index": 49,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -91,7 +91,8 @@
             "https://www.lym.gov.tw/ch/exhibition/",
             "https://www.lym.gov.tw/ch/education/course/introduction/",
             "https://www.lym.gov.tw/ch/press-releases/news/TSLymNews-000745/",
-            "https://www.lym.gov.tw/ch/press-releases/news/TSLymNews-000747/"
+            "https://www.lym.gov.tw/ch/press-releases/news/TSLymNews-000747/",
+            "https://www.lym.gov.tw/ch/education/activity/festivals/"
         ],
         "https://tmofa.tycg.gov.tw/": [
             "https://tmofa.tycg.gov.tw/ch/exhibitions/upcoming-exhibitions",
@@ -225,7 +226,9 @@
         "https://www.nmp.gov.tw/": [
             "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60342",
             "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60337",
-            "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60341"
+            "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60341",
+            "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60347",
+            "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60349"
         ],
         "https://www.nmtl.gov.tw/": [
             "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60138",
@@ -240,12 +243,16 @@
             "https://thcdc.hakka.gov.tw/12205/12214/12215/168463/post",
             "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/1437/153220/166991/",
             "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/28645/167387/",
-            "https://thcdc.hakka.gov.tw/12205/12219/12218/168558/"
+            "https://thcdc.hakka.gov.tw/12205/12219/12218/168558/",
+            "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/168610/"
         ],
         "https://ssl.thcp.org.tw/": [
             "https://ssl.thcp.org.tw/events/1630",
             "https://ssl.thcp.org.tw/events/1631",
-            "https://ssl.thcp.org.tw/exhibitions/26"
+            "https://ssl.thcp.org.tw/exhibitions/26",
+            "https://ssl.thcp.org.tw/news/1461",
+            "https://ssl.thcp.org.tw/events/1647",
+            "https://ssl.thcp.org.tw/events"
         ],
         "https://www.mwr.org.tw/": [
             "https://www.mwr.org.tw/xmdoc/cont?xsmsid=0I011567281712162219&sid=0Q155639520221936320",
