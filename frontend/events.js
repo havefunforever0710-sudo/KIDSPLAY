@@ -13361,5 +13361,71 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://ssl.thcp.org.tw/events",
         "crawl_time": "2026-08-09T19:29:50"
+    },
+    {
+        "title": "【拾光小學堂】為什麼日本人 拜山、 拜樹、拜石頭？––神道中的自然信仰",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-06-30",
+        "start_date": "2026-06-30",
+        "end_date": "2026-06-30",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "世界宗教博物館 (新北市永和區中山路一段236號7樓)",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "此活動為「拾光小學堂」系列，探討日本神道信仰中人與自然的關係，了解為何日本人崇拜山、樹和石頭。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.mwr.org.tw/xmdoc?xsmsid=0I003612806515691444",
+        "crawl_time": "2026-08-10T19:53:01"
+    },
+    {
+        "title": "不只一百種：保種計畫III—靈性回歸",
+        "category": "知性與靜態學習",
+        "activity_date": "2026/01/23（五） ~ 2026/11/29（日）",
+        "start_date": "2026-01-23",
+        "end_date": "2026-11-29",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "開放時間內購票入場",
+        "location": "世界宗教博物館 7樓宗博兒童館，新北市永和區中山路一段236號7樓",
+        "target_age": "3歲以上兒童及青少年（3歲以下兒童免費入場，4至12歲兒童享半價優惠）",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "《不只一百種：保種計畫III—靈性回歸》是一場為兒童與青少年策劃的「內在」探索之旅。展覽從自然出發，將光、雲、風與大地，轉化為可被感受的內在風景，邀請觀眾在遊戲、感官與創作中，慢慢與自己的感受相遇。以跨齡策展方式，讓不同年齡的觀眾都能依自己的節奏體驗，學習與自然共感共存。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.mwr.org.tw/xcpmtexhi/cont?xsmsid=0H305740978429024070&sid=0Q020484110874916733",
+        "crawl_time": "2026-08-10T19:53:01"
+    },
+    {
+        "title": "【解鎖眾神密碼】盂蘭盆節",
+        "category": "在地文化體驗",
+        "activity_date": "2026/08/22（六）14：00～16：30",
+        "start_date": "2026-08-22",
+        "end_date": "2026-08-22",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "線上報名，報名後三日內完成繳費，並來電或Email告知匯款資訊",
+        "location": "世界宗教博物館 (新北市永和區中山路一段236號7樓)",
+        "target_age": "5～12歲親子家庭（一大一小）",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "邀請親子一同探索亞洲盂蘭盆文化。透過故事導讀、展件探索、日本盂蘭盆舞體驗、精靈馬手作，並品嚐節慶餐點，從五感體驗中理解不同文化雖有各自表現形式，卻都共同傳遞珍視生命、關懷家人、傳承記憶的人文精神。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.mwr.org.tw/xmdoc/cont?xsmsid=0I011567281712162219&sid=0Q215620690060829690",
+        "crawl_time": "2026-08-10T19:53:01"
     }
 ];
