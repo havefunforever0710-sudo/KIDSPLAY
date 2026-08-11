@@ -1,5 +1,5 @@
 {
-    "last_index": 54,
+    "last_index": 59,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -281,7 +281,9 @@
             "https://www.ysnp.gov.tw/Announcement/C001000?ID=58a12152-7676-4482-a410-81498bcaee44&PageType=1",
             "https://www.ysnp.gov.tw/StaticPage/skeletonspecimen",
             "https://www.ysnp.gov.tw/Apply/ActivityRegistration/C030001",
-            "https://www.ysnp.gov.tw/ActivityInfo/C002000?ID=f8c7afba-a62e-45b8-871e-1afa8f74027e&PageType=1"
+            "https://www.ysnp.gov.tw/ActivityInfo/C002000?ID=f8c7afba-a62e-45b8-871e-1afa8f74027e&PageType=1",
+            "https://www.ysnp.gov.tw/StaticPage/Course",
+            "https://www.ysnp.gov.tw/ActivityInfo/C002000"
         ],
         "https://www.spnp.gov.tw/": [],
         "https://www.kmnp.gov.tw/": [],

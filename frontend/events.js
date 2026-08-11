@@ -13427,5 +13427,110 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.mwr.org.tw/xmdoc/cont?xsmsid=0I011567281712162219&sid=0Q215620690060829690",
         "crawl_time": "2026-08-10T19:53:01"
+    },
+    {
+        "title": "塔塔加暗空悄悄話",
+        "category": "生態與大自然",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "中部",
+        "city": "南投縣",
+        "registration_date": "請參考玉山國家公園環境課程預約網站",
+        "location": "塔塔加遊客中心及周邊步道",
+        "target_age": "5~6年級學生",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "本課程帶領國小中高年級學員認識塔塔加暗夜星空，學習觀星常識與禮儀，並製作星座觀察盒。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ysnp.gov.tw/StaticPage/Course",
+        "crawl_time": "2026-08-11T19:59:07"
+    },
+    {
+        "title": "猴你在一起",
+        "category": "生態與大自然",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "中部",
+        "city": "南投縣",
+        "registration_date": "請參考玉山國家公園環境課程預約網站",
+        "location": "塔塔加遊憩區、塔塔加遊客中心或水里遊客中心 (室內課)",
+        "target_age": "國小3~4年級學童",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "本課程旨在讓國小學童認識臺灣獼猴的行為與生態，並探討人猴和平共處之道，提升保育意識。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ysnp.gov.tw/StaticPage/Course",
+        "crawl_time": "2026-08-11T19:59:07"
+    },
+    {
+        "title": "2026玉山國家公園Youth Camp「玉山行」6/8起報名",
+        "category": "長天數營隊",
+        "activity_date": "115-07-19 00:00 ~ 115-08-28 23:59",
+        "start_date": "2026-07-19",
+        "end_date": "2026-08-28",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "南投縣",
+        "registration_date": "115年6月8日8:00起至6月19日18:",
+        "location": "玉山國家公園",
+        "target_age": "Youth Camp",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "內政部國家公園署玉山國家公園管理處將於暑假期間辦理2026年玉山國家公園Youth Camp「玉山行」活動，共計4梯次。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ysnp.gov.tw/ActivityInfo/C002000",
+        "crawl_time": "2026-08-11T19:59:07"
+    },
+    {
+        "title": "2026國家公園裡的生態觀察與自然藝術課~自然美學體驗課",
+        "category": "生態與大自然",
+        "activity_date": "115-07-18 09:00 ~ 115-07-19 15:00",
+        "start_date": "2026-07-18",
+        "end_date": "2026-07-19",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "南投縣",
+        "registration_date": null,
+        "location": "國家公園",
+        "target_age": "小、大朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "本活動結合生態觀察與自然創作體驗，帶領小、大朋友認識國家公園的生態系服務價值與自然美學。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ysnp.gov.tw/ActivityInfo/C002000",
+        "crawl_time": "2026-08-11T19:59:07"
+    },
+    {
+        "title": "瓦拉米下的友熊森林~臺灣黑熊生態兒童繪畫展覽.歡迎您~~~",
+        "category": "藝文展演",
+        "activity_date": "115-07-01 00:00 ~ 116-08-31 23:59",
+        "start_date": "2026-07-01",
+        "end_date": "2027-08-31",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "花蓮縣",
+        "registration_date": null,
+        "location": "瓦拉米",
+        "target_age": "兒童繪畫展覽",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "玉山國家公園管理處與台灣黑熊保育協會合作，舉辦「瓦拉米下的友熊森林~臺灣黑熊生態兒童繪畫展」。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ysnp.gov.tw/ActivityInfo/C002000",
+        "crawl_time": "2026-08-11T19:59:07"
     }
 ];
