@@ -1,5 +1,5 @@
 {
-    "last_index": 59,
+    "last_index": 64,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -298,7 +298,8 @@
         "https://www.tea.ntpc.gov.tw/": [
             "https://www.tea.ntpc.gov.tw/xmdoc/cont?xsmsid=0G266543806125384210&sid=0O200320144010107466",
             "https://www.tea.ntpc.gov.tw/xmdoc/cont?xsmsid=0G266543806125384210&sid=0P290615508432243722",
-            "https://www.tea.ntpc.gov.tw/xmdoc/cont?xsmsid=0G266542551798465239&sid=0P202435656186116050"
+            "https://www.tea.ntpc.gov.tw/xmdoc/cont?xsmsid=0G266542551798465239&sid=0P202435656186116050",
+            "https://www.tea.ntpc.gov.tw/xmdoc/cont?xsmsid=0G266542551798465239&sid=0P064388541715011728"
         ],
         "https://www.linfamily.ntpc.gov.tw/": [
             "https://www.linfamily.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G249617555861789607&sid=0Q174393748584558538",

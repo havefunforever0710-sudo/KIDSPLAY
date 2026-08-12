@@ -13531,5 +13531,26 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.ysnp.gov.tw/ActivityInfo/C002000",
         "crawl_time": "2026-08-11T19:59:07"
+    },
+    {
+        "title": "【茶活動．🌱茶文化機關木偶工作坊】",
+        "category": "手作DIY與才藝",
+        "activity_date": "2024-12-14",
+        "start_date": "2024-12-14",
+        "end_date": "2024-12-14",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "新北市坪林茶業博物館 (232001新北市坪林區水德里水聳淒坑19-1號)",
+        "target_age": "大朋友與小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "新北市坪林茶業博物館舉辦茶文化機關木偶工作坊，由Anadou木作工藝家帶領大小朋友組裝、彩繪茶壺造型機關木偶，體驗傳統機關工藝與茶文化結合的樂趣，讓茶器動起來，發揮創意上色。此活動讓參與者深入了解茶文化與機關木偶的趣味結合。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tea.ntpc.gov.tw/xmdoc/cont?xsmsid=0G266542551798465239&sid=0P064388541715011728",
+        "crawl_time": "2026-08-12T19:59:24"
     }
 ]
