@@ -1,5 +1,5 @@
 {
-    "last_index": 64,
+    "last_index": 69,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -304,12 +304,14 @@
         "https://www.linfamily.ntpc.gov.tw/": [
             "https://www.linfamily.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G249617555861789607&sid=0Q174393748584558538",
             "https://www.linfamily.ntpc.gov.tw/xmdoc/cont?xsmsid=0Q054383780560957303&sid=0Q176521294449682960",
-            "https://www.linfamily.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G249617555861789607&sid=0Q200543607992454237"
+            "https://www.linfamily.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G249617555861789607&sid=0Q200543607992454237",
+            "https://www.linfamily.ntpc.gov.tw/xmdoc/cont?xsmsid=0Q054383780560957303&sid=0Q068551900853012146"
         ],
         "https://www.cksmh.gov.tw/": [
             "https://event.culture.tw/mocweb/reg/CKSMH/Index.init.ctr?openExternalBrowser=1",
             "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=60773",
-            "https://www.cksmh.gov.tw/News_Content.aspx?n=6216&s=258047"
+            "https://www.cksmh.gov.tw/News_Content.aspx?n=6216&s=258047",
+            "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=60996"
         ],
         "https://www.yatsen.gov.tw/": [
             "https://event.culture.tw/mocweb/reg/YATSEN/Index.init.ctr?openExternalBrowser=1"

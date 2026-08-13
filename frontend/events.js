@@ -13553,5 +13553,45 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.tea.ntpc.gov.tw/xmdoc/cont?xsmsid=0G266542551798465239&sid=0P064388541715011728",
         "crawl_time": "2026-08-12T19:59:24"
+    },
+    {
+        "title": "駿馬開印・版畫體驗",
+        "category": "手作DIY與才藝",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "林本源園邸 (新北市板橋區西門街9號)",
+        "target_age": null,
+        "age_groups": [],
+        "price_type": "付費",
+        "summary": "林本源園邸舉辦的『駿馬開印・版畫體驗』活動，透過手作版畫，讓民眾體驗傳統藝術的樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.linfamily.ntpc.gov.tw/xmdoc/cont?xsmsid=0Q054383780560957303&sid=0Q068551900853012146",
+        "crawl_time": "2026-08-13T19:54:28"
+    },
+    {
+        "title": "〈以笑為始〉黃瓊瑋•李亦婷創作展(免費參觀)",
+        "category": "藝文展演",
+        "activity_date": "2026/08/22 09:00 ~ 2026/09/09 18:00",
+        "start_date": "2026-08-22",
+        "end_date": "2026-09-09",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "免費參觀，無需報名",
+        "location": "三樓藝廊，臺北市中正區中山南路21號",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "黃瓊瑋與女兒李亦婷攜手舉辦母女藝術創作聯展。展覽以「以孝為始；以笑為始」為核心，展出近百件水彩、彩墨、書法及壓克力等複合媒材作品，風格多元，包含療癒、詩意與充滿童趣的創作。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=60996",
+        "crawl_time": "2026-08-13T19:54:28"
     }
 ];
