@@ -13592,5 +13592,31 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=60996",
         "crawl_time": "2026-08-13T19:54:28"
+    },
+    {
+        "title": "臺中文學館兒童文學區115年8月親子聽故事節目",
+        "category": "知性與靜態學習",
+        "activity_date": "115年8月1日 ~ 115年8月30日",
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-30",
+        "recurring_days": [
+            0,
+            6
+        ],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "現場參與，無須報名",
+        "location": "臺中文學館，地址：403003臺中市西區樂群街38號",
+        "target_age": "兒童、親子",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "臺中文學館兒童文學區於115年8月舉辦一系列親子聽故事活動，每週六、日邀請家庭共讀繪本。參與者可集點兌換文學館精美小禮，鼓勵親子一同享受閱讀樂趣，培養對文學的興趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tlm.taichung.gov.tw/latestevent/Details.aspx?Parser=9,5,124,,,,2047",
+        "crawl_time": "2026-08-14T19:44:57"
     }
 ]
