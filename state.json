@@ -1,5 +1,5 @@
 {
-    "last_index": 74,
+    "last_index": 79,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -340,14 +340,18 @@
             "https://waterworks.tainan.gov.tw/index.php?modify=activity",
             "https://waterworks.tainan.gov.tw/index.php?modify=facility&id=3",
             "https://waterworks.tainan.gov.tw/index.php?modify=facility&id=7",
-            "https://waterworks.tainan.gov.tw/index.php?modify=facility&id=4"
+            "https://waterworks.tainan.gov.tw/index.php?modify=facility&id=4",
+            "https://waterworks.tainan.gov.tw/index.php?modify=schedule",
+            "https://waterworks.tainan.gov.tw/"
         ],
         "https://khm.org.tw/": [],
         "https://www.cultural.pthg.gov.tw/": [],
         "https://www.hccc.gov.tw/": [
             "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15446",
             "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15463",
-            "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15489"
+            "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15489",
+            "https://www.hccc.gov.tw/zh-tw/Activity/SignUp",
+            "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15554"
         ],
         "https://ccl.taitung.gov.tw/": [],
         "https://www.phhcc.gov.tw/": [],

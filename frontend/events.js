@@ -13619,5 +13619,108 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.tlm.taichung.gov.tw/latestevent/Details.aspx?Parser=9,5,124,,,,2047",
         "crawl_time": "2026-08-14T19:44:57"
+    },
+    {
+        "title": "水道夏浪季",
+        "category": "節慶市集與綜合",
+        "activity_date": "2026年 8月1日 ~ 2026年 8月2日",
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-02",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": null,
+        "location": "臺南山上花園水道博物館，地址:743001臺南市山上區山上里山上16號",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺南山上花園水道博物館於2026年8月1日至8月2日舉辦「水道夏浪季」活動，提供夏日親子體驗，適合各年齡層遊客探索水道歷史與自然生態。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://waterworks.tainan.gov.tw/index.php?modify=schedule",
+        "crawl_time": "2026-08-15T19:18:54"
+    },
+    {
+        "title": "手做體驗",
+        "category": "4.手作DIY與才藝",
+        "activity_date": "每月開課",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "未提及報名方式",
+        "location": "臺南山上花園水道博物館，地址：743001臺南市山上區山上里山上16號",
+        "target_age": "未提及",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺南山上花園水道博物館每月舉辦的手作體驗課程，提供遊客體驗動手做的樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://waterworks.tainan.gov.tw/",
+        "crawl_time": "2026-08-15T19:18:54"
+    },
+    {
+        "title": "水道攀樹體驗",
+        "category": "3.動態體能",
+        "activity_date": "開放預約中！",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "開放預約中",
+        "location": "臺南山上花園水道博物館，地址：743001臺南市山上區山上里山上16號",
+        "target_age": "未提及",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "臺南山上花園水道博物館提供的攀樹體驗活動，讓遊客能在專業指導下安全地感受攀爬樹木的樂趣，現正開放預約。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://waterworks.tainan.gov.tw/",
+        "crawl_time": "2026-08-15T19:18:54"
+    },
+    {
+        "title": "花蓮的野性讀本動物講座第三場",
+        "category": "生態與大自然",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "花蓮縣",
+        "registration_date": "線上報名中",
+        "location": null,
+        "target_age": null,
+        "age_groups": [],
+        "price_type": "付費",
+        "summary": "花蓮縣文化局舉辦的動物主題講座，現正開放線上報名。透過講座探索動物世界，增進自然知識。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hccc.gov.tw/zh-tw/Activity/SignUp",
+        "crawl_time": "2026-08-15T19:18:54"
+    },
+    {
+        "title": "2026花蓮國際藝術節-韓國《CHEF》廚師拌飯秀",
+        "category": "藝文展演",
+        "activity_date": "2026-08-29 19:00 至 2026-08-30 20:00",
+        "start_date": "2026-08-29",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "花蓮縣",
+        "registration_date": null,
+        "location": "花蓮市日出大道重慶市場旁 (地址: 970 花蓮縣花蓮市日出大道F段)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "韓國人氣音樂劇《CHEF》廚師拌飯秀，融合Beatbox、街舞、阿卡貝拉、音樂劇、喜劇與肢體劇場等多元元素，打造兼具節奏感、戲劇性與娛樂效果的舞臺作品。兩位廚師展開料理對決，透過四道料理競賽展現創意與廚藝，八位演員詮釋鮮明角色，帶來高潮迭起的藝術饗宴。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15554",
+        "crawl_time": "2026-08-15T19:18:54"
     }
 ];
