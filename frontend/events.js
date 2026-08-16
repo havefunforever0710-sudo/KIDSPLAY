@@ -13722,5 +13722,181 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15554",
         "crawl_time": "2026-08-15T19:18:54"
+    },
+    {
+        "title": "《摘星星的人》",
+        "category": "藝文展演",
+        "activity_date": "6月28日",
+        "start_date": "2026-06-28",
+        "end_date": "2026-06-28",
+        "recurring_days": [],
+        "region": "東部",
+        "city": "宜蘭市",
+        "registration_date": "即日起於OPENTIX兩廳院文化生活售票網全面啟售。",
+        "location": "宜蘭演藝廳 (宜蘭縣宜蘭市中山路二段482號 )",
+        "target_age": "適合兒童與家庭",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "身聲劇場帶來繪本式意象劇場《摘星星的人》，結合音樂、戲劇與肢體，描繪孩子追夢的純真旅程，傳遞平凡生活中的溫暖光芒。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ilccb.gov.tw/News_Content.aspx?n=10198&sms=12917&s=399199",
+        "crawl_time": "2026-08-16T19:18:49"
+    },
+    {
+        "title": "親子偶劇《阿甯咕這一家》",
+        "category": "藝文展演",
+        "activity_date": "7月4日",
+        "start_date": "2026-07-04",
+        "end_date": "2026-07-04",
+        "recurring_days": [],
+        "region": "東部",
+        "city": "宜蘭市",
+        "registration_date": "即日起於OPENTIX兩廳院文化生活售票網全面啟售。",
+        "location": "宜蘭演藝廳 (宜蘭縣宜蘭市中山路二段482號 )",
+        "target_age": "適合親子",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "阿甯咕劇團推出親子偶劇《阿甯咕這一家》，改編自駱以軍經典作品，以幽默奇幻方式呈現家庭日常與成長故事。適合全家觀賞。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ilccb.gov.tw/News_Content.aspx?n=10198&sms=12917&s=399199",
+        "crawl_time": "2026-08-16T19:18:49"
+    },
+    {
+        "title": "《光的奇幻旅程》親子工作坊",
+        "category": "手作DIY與才藝",
+        "activity_date": "(活動期間)",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "東部",
+        "city": "宜蘭市",
+        "registration_date": "更多活動詳情及報名資訊，請至宜蘭演藝廳Facebook粉絲專頁查詢。",
+        "location": "宜蘭演藝廳 (宜蘭縣宜蘭市中山路二段482號 )",
+        "target_age": "孩子與家長",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "無獨有偶工作室劇團《光的奇幻旅程》親子工作坊，運用光影與手作，激發孩子與家長的創作想像力，共同體驗藝術與創意樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ilccb.gov.tw/News_Content.aspx?n=10198&sms=12917&s=399199",
+        "crawl_time": "2026-08-16T19:18:49"
+    },
+    {
+        "title": "《我把故事交給它》青少年藝術創作營",
+        "category": "長天數營隊",
+        "activity_date": "8月初展開，並於8月7日進行成果展演。",
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-07",
+        "recurring_days": [],
+        "region": "東部",
+        "city": "宜蘭市",
+        "registration_date": "更多活動詳情及報名資訊，請至宜蘭演藝廳Facebook粉絲專頁查詢。",
+        "location": "宜蘭演藝廳 (宜蘭縣宜蘭市中山路二段482號 )",
+        "target_age": "12至18歲青少年",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "《我把故事交給它》青少年藝術創作營，邀請12至18歲青少年，透過書寫、表演與物件創作，發展舞台作品，展現新世代創意。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ilccb.gov.tw/News_Content.aspx?n=10198&sms=12917&s=399199",
+        "crawl_time": "2026-08-16T19:18:49"
+    },
+    {
+        "title": "《宜蘭演藝廳導覽》",
+        "category": "知性與靜態學習",
+        "activity_date": "(活動期間)",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "東部",
+        "city": "宜蘭市",
+        "registration_date": "更多活動詳情及報名資訊，請至宜蘭演藝廳Facebook粉絲專頁查詢。",
+        "location": "宜蘭演藝廳 (宜蘭縣宜蘭市中山路二段482號 )",
+        "target_age": "全年齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "蘭陽戲劇團《宜蘭演藝廳導覽》，以情境式導覽結合戲曲元素，帶領觀眾探索劇場空間奧秘，深度體驗表演藝術，適合各年齡層參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ilccb.gov.tw/News_Content.aspx?n=10198&sms=12917&s=399199",
+        "crawl_time": "2026-08-16T19:18:49"
+    },
+    {
+        "title": "說台語，傳文化！宜蘭台語故事志工培訓開跑囉！",
+        "category": "在地文化體驗",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "宜蘭縣",
+        "registration_date": "線上報名，詳見報名連結：https://reurl.cc/5dYR56",
+        "location": null,
+        "target_age": "親子",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "宜蘭縣政府文化局舉辦台語故事志工培訓，邀請各校志工及民眾參與，學習用台語說故事、讀繪本、教童謠。活動包含志工場與親子場，旨在透過故事分享與親子互動，讓孩子們快樂學台語，傳承文化之美。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ilccb.gov.tw/News_Content.aspx?n=10537&sms=12918&s=238677",
+        "crawl_time": "2026-08-16T19:18:49"
+    },
+    {
+        "title": "【航博召集令｜航空城博物館-05警戒區 9月軍人節主題活動】",
+        "category": "節慶市集與綜合",
+        "activity_date": "115/09/05(六)-115/09/06(日)",
+        "start_date": "2026-09-05",
+        "end_date": "2026-09-06",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "現場報名制 / 現場自由參與",
+        "location": "航空城博物館-05警戒區（桃園市大園區桃航三路456巷60號）",
+        "target_age": "邀親子走進05警戒區認識航空歷史 / 讓孩子化身小小戰士",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "航空城博物館-05警戒區將於9月軍人節期間舉辦一系列主題活動。內容包含「實習飛行官」軍史記憶展、三軍特色趣味闖關《軍速出擊》、迷彩穿搭響應《迷有你不行》及軍事航空主題集章《守護天空的印記》。活動透過親子互動，寓教於樂地認識航空歷史與全民國防精神，營造節日氛圍。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://culture.tycg.gov.tw/News_Content.aspx?n=8812&s=1808162",
+        "crawl_time": "2026-08-16T19:18:49"
+    },
+    {
+        "title": "蘭陽戲劇團《土地公傳奇‧親人‧情人》",
+        "category": "藝文展演",
+        "activity_date": "115年8月14日（星期五）晚間7時",
+        "start_date": "2026-08-14",
+        "end_date": "2026-08-14",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "免費入場，不需報名，演出當日晚間6時開放進場。",
+        "location": "桃園青溪公園市民廣場前",
+        "target_age": "老少咸宜",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "蘭陽戲劇團將於桃園青溪公園市民廣場演出歌仔戲《土地公傳奇‧親人‧情人》。本劇以家庭倫理為題材，結合傳統唱腔與現代手法，寓教於樂、老少咸宜。免費入場，歡迎闔家觀賞。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1795313",
+        "crawl_time": "2026-08-16T19:18:49"
     }
 ];
