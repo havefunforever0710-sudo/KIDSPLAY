@@ -1,5 +1,5 @@
 {
-    "last_index": 84,
+    "last_index": 89,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -389,7 +389,10 @@
             "https://www.culture.taichung.gov.tw/3311250/post",
             "https://www.culture.taichung.gov.tw/3312918/post",
             "https://www.culture.taichung.gov.tw/3329200/post",
-            "https://childdrawings.huludun.taichung.gov.tw/"
+            "https://childdrawings.huludun.taichung.gov.tw/",
+            "https://www.culture.taichung.gov.tw/3347876/post",
+            "https://www.culture.taichung.gov.tw/3343294/post",
+            "https://www.culture.taichung.gov.tw/3347872/post"
         ],
         "https://cabcy.chiayi.gov.tw/": [
             "https://cabcy.chiayi.gov.tw/web/cabcych/HotActivitiesList_25081517540120428",

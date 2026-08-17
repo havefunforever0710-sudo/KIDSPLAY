@@ -13898,5 +13898,70 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1795313",
         "crawl_time": "2026-08-16T19:18:49"
+    },
+    {
+        "title": "【2026藝起Artgogo】《聲音裡的臺中》永續親子藝術節",
+        "category": "藝文展演",
+        "activity_date": "2026年9月26日至27日",
+        "start_date": "2026-09-26",
+        "end_date": "2026-09-27",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": null,
+        "location": "台中文化資產園區願景館 1 樓廣場",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "《聲音裡的臺中》永續親子藝術節由台北打擊樂團策劃，在台中文化資產園區登場。以永續親子教育為核心，結合時間藝術與馬戲表演，運用樂器與回收瓶罐創意打擊，帶領孩子探索奇幻聲景，並首創「聲音大亂鬥」即興合奏。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.culture.taichung.gov.tw/3347876/post",
+        "crawl_time": "2026-08-17T19:24:53"
+    },
+    {
+        "title": "環遊世界70張地圖—三百年來兒童文學中的製圖珍寶",
+        "category": "藝文展演",
+        "activity_date": "即日起至12月20日",
+        "start_date": "2024-12-07",
+        "end_date": "2024-12-20",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "無",
+        "location": "中市圖總館（綠美圖）世界講堂",
+        "target_age": "大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "台中市立圖書館與德國慕尼黑國際青少年圖書館合作，於中市圖總館（綠美圖）舉辦「環遊世界70張地圖—三百年來兒童文學中的製圖珍寶」國際特展。展出70張橫跨300年的兒童文學經典地圖，邀請大小朋友透過故事與圖像，探索真實、過渡與幻想世界，並了解台灣創作者如何融入地方文化。展覽旨在推動國際閱讀交流，並延伸民眾對世界地理與文學的認識。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.culture.taichung.gov.tw/3343294/post",
+        "crawl_time": "2026-08-17T19:24:53"
+    },
+    {
+        "title": "【2026藝起Artgogo】《2026大開潘朵拉戲劇節》",
+        "category": "藝文展演",
+        "activity_date": "2026年9月12日至9月13日",
+        "start_date": "2026-09-12",
+        "end_date": "2026-09-13",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "部分活動需購票，詳細資訊請參考官方網站或洽詢主辦單位。",
+        "location": "纖維工藝博物館",
+        "target_age": "親子",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "《2026大開潘朵拉戲劇節》將於9月12日至13日在纖維工藝博物館登場，以「戲劇．纖維．永續」為主題，推出互動故事劇場《沉睡王子》、《小紅帽》，讓親子共同沉浸故事冒險。另有售票光影偶戲、漫才與融合馬戲、戲劇、音樂的《雨星奇幻記》及手作工作坊，引導觀眾關注環境與成長。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.culture.taichung.gov.tw/3347872/post",
+        "crawl_time": "2026-08-17T19:24:53"
     }
 ];
