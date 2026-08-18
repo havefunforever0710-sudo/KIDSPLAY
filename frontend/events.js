@@ -13963,5 +13963,27 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.culture.taichung.gov.tw/3347872/post",
         "crawl_time": "2026-08-17T19:24:53"
+    },
+    {
+        "title": "指尖探險：感官體驗工作坊",
+        "category": "藝文展演",
+        "activity_date": "2026年8月25日 （二）10:00-12:00",
+        "start_date": "2026-08-25",
+        "end_date": "2026-08-25",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "線上報名自2026/8/7 10:00起，至2026/8/24 23:00止。",
+        "location": "臺北市立美術館 兒藝中心大工作坊（B2），臺北市中山區中山北路三段181號",
+        "target_age": "5-12歲 親子觀眾",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "本活動以「模擬視障者觀展視角」為核心，邀請大小朋友戴上眼罩，在安全引導下作為「探索者」，透過觸覺、聽覺去感知藝術作品的紋理、形狀。同時透過「解說員」角色，練習對藝術作品的觀察及描述能力，培養平權意識與同理心。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tfam.museum/kid/Event/Event_page.aspx?id=3948",
+        "crawl_time": "2026-08-18T19:24:37"
     }
 ];
