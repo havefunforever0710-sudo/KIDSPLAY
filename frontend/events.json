@@ -13984,5 +13984,204 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.tfam.museum/kid/Event/Event_page.aspx?id=3948",
         "crawl_time": "2026-08-18T19:24:37"
+    },
+    {
+        "title": "蕭壠兒童美術館群常設展覽",
+        "category": "藝文展演",
+        "activity_date": "",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": null,
+        "location": "蕭壠文化園區 兒童美術館群 (包含A10特展室、A9探索館、兒童圖書館、A5電影館、A6兒童遊戲室)",
+        "target_age": "專為兒童所策劃",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "蕭壠兒童美術館群提供專為兒童策劃的常設展覽，融合在地文化元素，打造以美感體驗為中心的藝術空間。透過活潑互動的展示設計，讓兒童在遊戲中培養美學，並提供五感體驗。館內不定期舉辦活動、課程及影片播映。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://soulangh.tnc.gov.tw/index.php?inter=children_museums",
+        "crawl_time": "2026-08-19T19:21:25"
+    },
+    {
+        "title": "2026 走進糖廠‧閱讀糖香 x 蕭壠兒童圖書館",
+        "category": "知性與靜態學習",
+        "activity_date": "7/29㊂10點起可索取相機底片卡",
+        "start_date": "2026-07-29",
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "現場索取底片卡，無須事先報名",
+        "location": "蕭壠兒童圖書館 (蕭壠文化園區內)",
+        "target_age": "小朋友們",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "蕭壠文化園區兒童圖書館舉辦親子閱讀活動，由咪咪貓貓姐姐帶領小朋友進入甜滋滋的閱讀世界。另有集章換冰棒活動於7/29起開跑。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://soulangh.tnc.gov.tw/index.php?inter=news&id=11",
+        "crawl_time": "2026-08-19T19:21:25"
+    },
+    {
+        "title": "2025蕭壠陣頭藝術祭「陣在鬥熱鬧」",
+        "category": "在地文化體驗",
+        "activity_date": "今年中秋連假（10月4日至6日）及雙十連假（10月10日至12日）",
+        "start_date": "2025-10-04",
+        "end_date": "2025-10-12",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "現場參與，無須報名",
+        "location": "蕭壠文化園區",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "蕭壠文化園區舉辦2025陣頭藝術祭，融合傳統陣頭藝術與當代文化體驗，於中秋與雙十連假期間盛大登場，邀請全民一同體驗在地文化盛事。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://soulangh.tnc.gov.tw/index.php?inter=news&id=11",
+        "crawl_time": "2026-08-19T19:21:25"
+    },
+    {
+        "title": "藝術家盧俊翰《走進歡樂的風景裡探險》個展",
+        "category": "藝文展演",
+        "activity_date": "自即日至12月31日",
+        "start_date": "2025-06-30",
+        "end_date": "2025-12-31",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "現場參觀，無需預約",
+        "location": "蕭壠文化園區兒童美術館A10特展館",
+        "target_age": "兒童及親子",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "蕭壠文化園區兒童美術館推出藝術家盧俊翰個展《走進歡樂的風景裡探險》，展覽充滿童趣與想像力，適合兒童及親子共同觀賞。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://soulangh.tnc.gov.tw/index.php?inter=news&id=11",
+        "crawl_time": "2026-08-19T19:21:25"
+    },
+    {
+        "title": "永續農業穿越劇場",
+        "category": "知性與靜態學習",
+        "activity_date": "即日起上下午開放觀賞!! 開園(周三至周日)、連價活動期間：上午 11:00，1場 下午 03:00，1場",
+        "start_date": "2025-05-28",
+        "end_date": null,
+        "recurring_days": [
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "現場觀賞，無需報名",
+        "location": "蕭壠文化園區內",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "蕭壠文化園區推出【永續農業穿越劇場】，每日上下午各一場，於開園日開放觀賞，透過劇場形式帶領觀眾了解永續農業。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://soulangh.tnc.gov.tw/index.php?inter=news&id=11",
+        "crawl_time": "2026-08-19T19:21:25"
+    },
+    {
+        "title": "感知之間",
+        "category": "藝文展演",
+        "activity_date": "2026-08-10 ~ 2026-08-30",
+        "start_date": "2026-08-10",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "",
+        "location": "蕭壠文化園區 A4-1展覽館, 台南市佳里區六安里六安130號",
+        "target_age": "",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "由國立臺南藝術大學動畫藝術與影像美學所互動媒體組策劃的展覽，探索感知與互動的藝術體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://soulangh.tnc.gov.tw/index.php?inter=exhibition&type=1&kind=current",
+        "crawl_time": "2026-08-19T19:21:25"
+    },
+    {
+        "title": "未竟之境：傷痕下的系統",
+        "category": "藝文展演",
+        "activity_date": "2026-04-24 ~ 2026-08-30",
+        "start_date": "2026-04-24",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "",
+        "location": "蕭壠文化園區 A2展覽館, 台南市佳里區六安里六安130號",
+        "target_age": "",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "一個探討傷痕與系統主題的藝術展覽。展出地點為蕭壠文化園區A2展覽館。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://soulangh.tnc.gov.tw/index.php?inter=exhibition&type=1&kind=current",
+        "crawl_time": "2026-08-19T19:21:25"
+    },
+    {
+        "title": "《我們身在何處：流動，墜落》",
+        "category": "藝文展演",
+        "activity_date": "2026-06-18 ~ 2026-08-31",
+        "start_date": "2026-06-18",
+        "end_date": "2026-08-31",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "",
+        "location": "蕭壠文化園區 A5展覽館, 台南市佳里區六安里六安130號",
+        "target_age": "",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "韓國藝術家文敞奐帶來的藝術展覽《我們身在何處：流動，墜落》，在蕭壠文化園區A5展覽館展出，探討流動與墜落的主題。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://soulangh.tnc.gov.tw/index.php?inter=exhibition&type=1&kind=current",
+        "crawl_time": "2026-08-19T19:21:25"
+    },
+    {
+        "title": "沿線定位",
+        "category": "藝文展演",
+        "activity_date": "2026-07-10 ~ 2026-10-31",
+        "start_date": "2026-07-10",
+        "end_date": "2026-10-31",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "",
+        "location": "蕭壠文化園區 A3-1展覽館, 台南市佳里區六安里六安130號",
+        "target_age": "",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "一個以「沿線定位」為主題的藝術展覽，於蕭壠文化園區A3-1展覽館展出，引導觀眾思考空間與定位的關係。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://soulangh.tnc.gov.tw/index.php?inter=exhibition&type=1&kind=current",
+        "crawl_time": "2026-08-19T19:21:25"
     }
 ]
