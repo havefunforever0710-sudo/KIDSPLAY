@@ -1,11 +1,14 @@
 {
-    "last_index": 99,
+    "last_index": 1,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
             "https://www.tam.gov.taipei/News_Content.aspx?n=794B17A953424610&sms=9D72E82EC16F3E64&s=85F19BAE939B0B51",
             "https://www.tam.gov.taipei/News.aspx?n=0258A8C5F361FF53&sms=C859FAFAA10995CD",
-            "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=C7B59F37984FFA31"
+            "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=C7B59F37984FFA31",
+            "https://www.tam.gov.taipei/News_Content.aspx?n=794B17A953424610&sms=9D72E82EC16F3E64&s=07034258D6B2B690",
+            "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=8600F610BB6CFD46",
+            "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=474F183F55409528"
         ],
         "https://www.ntsec.gov.tw/": [
             "https://estore.ntsec.gov.tw/",
@@ -425,14 +428,16 @@
         "https://tyart.tnc.gov.tw/": [],
         "https://www.beclass.com/": [
             "https://www.beclass.com/default.php?name=ShowList&op=catRank&range=R",
-            "https://www.beclass.com/default.php?name=ShowList"
+            "https://www.beclass.com/default.php?name=ShowList",
+            "https://www.beclass.com/default.php?name=ShowList&op=catRank&range=B"
         ],
         "https://www.accupass.com/category/family": [],
         "https://mr-tree.webnode.tw/": [
             "https://mr-tree.webnode.tw/copy-of-%e5%a4%a7%e6%a8%b9%e6%b4%be%e5%b0%8d%e8%a6%8f%e5%8a%83/",
             "https://mr-tree.webnode.tw/two-columns/",
             "https://mr-tree.webnode.tw/copy-of-%e5%a4%a7%e6%a8%b9%e6%b4%be%e5%b0%8d%e8%a6%8f%e5%8a%83/",
-            "https://mr-tree.webnode.tw/%e5%8c%85%e5%a0%b4%e8%b3%87%e8%a8%8a/"
+            "https://mr-tree.webnode.tw/%e5%8c%85%e5%a0%b4%e8%b3%87%e8%a8%8a/",
+            "https://mr-tree.webnode.tw/copy-of-%e5%a4%a7%e6%a8%b9%e6%b4%be%e5%b0%8d%e8%a6%8f%e5%8a%83/"
         ]
     }
 }
