@@ -16032,5 +16032,93 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://npm.fonticket.com/ticket/tibetan_dragon_canon",
         "crawl_time": "2026-08-21T19:22:58"
+    },
+    {
+        "title": "閱進海洋‧爸氣一夏！海生館父親節推出行動海洋圖書館 帶領親子解鎖獨特海洋父愛",
+        "category": [
+            "生態與大自然",
+            "知性與靜態學習"
+        ],
+        "activity_date": "2026年8月3日（一）至8月9日（日）",
+        "start_date": "2026-08-03",
+        "end_date": "2026-08-09",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "免費參與，需購票入館後可參加，兌獎時間至每日下午4時30分止。",
+        "location": "國立海洋生物博物館 (館內大廳與珊瑚王國館), 屏東縣車城鄉後灣村後灣路2號",
+        "target_age": "親子家庭",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "海生館於父親節期間推出「閱進海洋‧爸氣一夏！」行動海洋圖書館系列活動。活動結合海洋生物爸爸的育兒故事、豐富海洋與雙語圖書，以及多元探索體驗，邀請親子家庭透過自由閱讀、雙語繪本、闖關集章與DIY活動，認識海洋生物生態與偉大父愛。活動每日於館內大廳與珊瑚王國館展開，免費參與但需購票入館。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmmba.gov.tw/News_Content.aspx?n=FF40572369107C6E&s=7EA31362A38E4415",
+        "crawl_time": "2026-08-22T19:20:05"
+    },
+    {
+        "title": "2026藝術教育展「文字跑進作品裡了!」展覽系列活動(參展藝術家前導場) | 新加坡藝術家Hu Qiren X親子拓印工作坊",
+        "category": "手作DIY與才藝",
+        "activity_date": "2026.09.06(日)",
+        "start_date": "2026-09-06",
+        "end_date": "2026-09-06",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "2026/08/10 09:00 ~ 2026/08/30 23:59 (線上報名)",
+        "location": "國立臺灣美術館| 3F工作坊",
+        "target_age": "家庭觀眾（建議兒童年齡：6歲以上）",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "國美館舉辦2026藝術教育展系列活動，邀請新加坡藝術家胡啟仁親自帶領親子拓印工作坊。活動從其作品《Tracing Memory 記憶的紋理》出發，指導大、小朋友學習「拓印」技法，將日常物件紋理轉化為藝術創作，一同探索感官與家族記憶。適合6歲以上兒童的家庭參與，體驗藝術家獨特的創作方式與故事。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60135",
+        "crawl_time": "2026-08-22T19:20:05"
+    },
+    {
+        "title": "「文字跑進作品裡了!」2026藝術教育展",
+        "category": "藝文展演",
+        "activity_date": "2026/09/29 09:00 ~ 2027/08/29 18:00",
+        "start_date": "2026-09-29",
+        "end_date": "2027-08-29",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "請參考官網資訊",
+        "location": "國立臺灣美術館 臺灣兒童藝術基地(B1教育展示空間), 臺中市西區五權西路一段2號",
+        "target_age": "親子、大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "國立臺灣美術館「臺灣兒童藝術基地」舉辦藝術教育展，精選館藏並邀集新、日、韓藝術家創作，透過多元互動體驗，引導大小朋友探索臺灣藝術史。展覽聚焦文字在藝術中的角色，邀請親子共同解讀文字與藝術作品的祕密，開啟跨國對話。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60146",
+        "crawl_time": "2026-08-22T19:20:05"
+    },
+    {
+        "title": "agnès b. on aime le graff !! 我們愛塗鴉藝術特展",
+        "category": "2.藝文展演",
+        "activity_date": "2026/06/25 15:00 ~ 2026/09/20 18:00",
+        "start_date": "2026-06-25",
+        "end_date": "2026-09-20",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "無特別報名資訊，依美術館入場規定",
+        "location": "臺南市美術館, 1館1樓導覽室、1館2樓展覽室I、1館2樓展覽室J",
+        "target_age": "不限",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "agnès b. 塗鴉藝術特展，橫跨40年的收藏，展現時尚與塗鴉藝術的自由邂逅。本展從法國、日本巡迴至台南，在南美館展出，邀您步入服裝、藝術與生活的感性對話。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnam.museum/exhibition/detail/716",
+        "crawl_time": "2026-08-22T19:20:05"
     }
 ]

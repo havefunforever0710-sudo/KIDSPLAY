@@ -1,5 +1,5 @@
 {
-    "last_index": 6,
+    "last_index": 11,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -58,7 +58,8 @@
         "https://www.nmmba.gov.tw/": [
             "https://www.nmmba.gov.tw/News_Cus1.aspx?n=3BA711487C292039&sms=769E1FE88CFEAD57",
             "https://www.nmmba.gov.tw/News_Content.aspx?n=8929A8F90C63BDDF&s=FAC0B4D162921B52",
-            "https://www.nmmba.gov.tw/News_Content.aspx?n=AAF333914F15A63E&s=CEAD5E99D9232782"
+            "https://www.nmmba.gov.tw/News_Content.aspx?n=AAF333914F15A63E&s=CEAD5E99D9232782",
+            "https://www.nmmba.gov.tw/News_Content.aspx?n=FF40572369107C6E&s=7EA31362A38E4415"
         ],
         "https://www.nmmst.gov.tw/": [
             "https://nmmst.fonticket.com/ticket/9nxGMZgE19XgYq1l",
@@ -74,10 +75,13 @@
             "https://event.culture.tw/NTMOFA",
             "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60116",
             "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60040",
-            "https://www.ntmofa.gov.tw/News_Actives_photo.aspx?n=1498&sms=11893"
+            "https://www.ntmofa.gov.tw/News_Actives_photo.aspx?n=1498&sms=11893",
+            "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60135",
+            "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60146"
         ],
         "https://www.tnam.museum/": [
-            "https://www.tnam.museum/event/detail/722"
+            "https://www.tnam.museum/event/detail/722",
+            "https://www.tnam.museum/exhibition/detail/716"
         ],
         "https://www.kmfa.gov.tw/": [],
         "https://www.ceramics.ntpc.gov.tw/": [
