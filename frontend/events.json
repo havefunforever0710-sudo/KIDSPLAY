@@ -16120,5 +16120,177 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.tnam.museum/exhibition/detail/716",
         "crawl_time": "2026-08-22T19:20:05"
+    },
+    {
+        "title": "胖叔叔說中秋故事│青竹綠、玉兔白：點亮金月亮的神祕派對",
+        "category": "藝文展演",
+        "activity_date": "115.09.06",
+        "start_date": "2026-09-06",
+        "end_date": "2026-09-06",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": null,
+        "location": "兒美館",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "胖叔叔在中秋節於高雄市立美術館兒美館帶來趣味故事活動，邀請小朋友一同參與「點亮金月亮的神祕派對」。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.kmfa.gov.tw/Exhibition.aspx",
+        "crawl_time": "2026-08-23T19:19:27"
+    },
+    {
+        "title": "語言漂流記│「菲」來不可－甜點小旅行（菲律賓語學習ｘ黏土手作）",
+        "category": "手作DIY與才藝",
+        "activity_date": "115.09.05",
+        "start_date": "2026-09-05",
+        "end_date": "2026-09-05",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": null,
+        "location": "本館",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "一場結合菲律賓語學習與黏土手作的文化體驗活動，讓參與者透過甜點主題，輕鬆探索異國語言與手作樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.kmfa.gov.tw/Exhibition.aspx",
+        "crawl_time": "2026-08-23T19:19:27"
+    },
+    {
+        "title": "雨天偵探 破解美術館密碼 (JM 尋寶包)",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "參考網頁租借辦法",
+        "location": "朱銘美術館 (新北市金山區西勢湖2號)",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "爺爺留下了存放雨天寶藏的盒子，想要打開盒子的年輕人，需要你的幫忙！透過尋寶包，在美術館中展開一場破解密碼的偵探之旅。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.juming.org.tw/mainssl/wdb2/go.php?xmlid=89789&urlxmlid=243626",
+        "crawl_time": "2026-08-23T19:19:27"
+    },
+    {
+        "title": "感官扇 - 14 UP種認識大自然的方法",
+        "category": "生態與大自然",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "參考網頁購買資訊",
+        "location": "朱銘美術館 (新北市金山區西勢湖2號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "一種透過多種方式認識大自然的教具，幫助使用者探索周遭環境，培養對自然的感知與連結。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.juming.org.tw/mainssl/wdb2/go.php?xmlid=89789&urlxmlid=243626",
+        "crawl_time": "2026-08-23T19:19:27"
+    },
+    {
+        "title": "多媒體 - 生活中的雕與塑",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "不適用",
+        "location": "朱銘美術館 (新北市金山區西勢湖2號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "透過多媒體方式介紹雕刻與塑形的基本概念，讓參觀者了解生活中的雕塑藝術。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.juming.org.tw/mainssl/wdb2/go.php?xmlid=89789&urlxmlid=243626",
+        "crawl_time": "2026-08-23T19:19:27"
+    },
+    {
+        "title": "2026北海岸藝術季漫遊護照 集章換好禮",
+        "category": "藝文展演",
+        "activity_date": "2026/7/17-9/27",
+        "start_date": "2026-07-17",
+        "end_date": "2026-09-27",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "藝術季期間（2026/7/17-9/27）至三芝遊客中心、朱銘美術館索取漫遊護照",
+        "location": "三芝遊客中心、朱銘美術館服務中心",
+        "target_age": "不限",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "參與2026北海岸藝術季，於三芝遊客中心或朱銘美術館索取漫遊護照，完成集章即可兌換限量精美禮物，鼓勵民眾探索藝術場館，適合親子同樂。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.juming.org.tw/main/modules/MySpace/index.php?xmlid=354211",
+        "crawl_time": "2026-08-23T19:19:27"
+    },
+    {
+        "title": "我喜歡在這裡",
+        "category": "生態與大自然",
+        "activity_date": "2026/2/10-2027/1/17",
+        "start_date": "2026-02-10",
+        "end_date": "2027-01-17",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "無",
+        "location": "兒童藝術中心 (朱銘美術館內)",
+        "target_age": "小朋友和家人",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "「我喜歡在這裡」是一個為小朋友準備的生態體驗區，設有生態池及不同活動區，小朋友可透過動手做、玩遊戲認識大自然，並與家人一同觀察植物、昆蟲及小動物，學習愛護自然生態。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.juming.org.tw/main/modules/MySpace/index.php?xmlid=354211",
+        "crawl_time": "2026-08-23T19:19:27"
+    },
+    {
+        "title": "大英博物館鉅獻《埃及之王：法老》",
+        "category": "2.藝文展演",
+        "activity_date": "2026.01.29 － 2027.01.10",
+        "start_date": "2026-01-29",
+        "end_date": "2027-01-10",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "早鳥票已售罄。一般票線上2025/10/28中午12點啟售，現場2026/01/29啟售。",
+        "location": "奇美博物館 特展廳",
+        "target_age": "不限身分年齡（未滿1歲嬰幼兒除外）",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "《埃及之王：法老》由奇美博物館與大英博物館共同合作，匯聚280件作品，是歷年埃及法老文物來臺規模之最！透過巨型雕像、金飾珍寶、外交書信等珍罕文物，一窺統治偉大古文明的現實和挑戰。展覽探索法老多重角色，重現古埃及輝煌。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.chimeimuseum.org/special-exhibition/68a68f0a422a6",
+        "crawl_time": "2026-08-23T19:19:27"
     }
 ]
