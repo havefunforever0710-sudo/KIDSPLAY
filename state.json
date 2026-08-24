@@ -1,5 +1,5 @@
 {
-    "last_index": 16,
+    "last_index": 21,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -127,7 +127,9 @@
         "https://www.cultural.pthg.gov.tw/ptdpml/": [],
         "https://www.ksml.edu.tw/": [
             "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16066",
-            "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,15998"
+            "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,15998",
+            "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,15688",
+            "https://www.ksml.edu.tw/mainlibrary/Latestevent/Details.aspx?Parser=9,23,212,157,,,14313,,,,1"
         ],
         "https://www.tnpl.tn.edu.tw/": [
             "https://www.tnpl.tn.edu.tw/n14943237246847044508/n1Content",
@@ -138,7 +140,8 @@
             "https://www.tnpl.tn.edu.tw/n15243749194484546808/n1Content",
             "https://www.tnpl.tn.edu.tw/n15025316259670297419/n1Content",
             "https://www.tnpl.tn.edu.tw/n14980047607798949881/n1Content",
-            "https://www.tnpl.tn.edu.tw/n15203106215767417398/n1Content"
+            "https://www.tnpl.tn.edu.tw/n15203106215767417398/n1Content",
+            "https://www.tnpl.tn.edu.tw/za5456576870354677074/n1Content"
         ],
         "https://www.library.taichung.gov.tw/": [
             "https://gov.tw/rG7",
