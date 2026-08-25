@@ -16402,5 +16402,404 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.tnpl.tn.edu.tw/za5456576870354677074/n1Content",
         "crawl_time": "2026-08-24T19:25:44"
+    },
+    {
+        "title": "2026臺中市閱讀起步走-閱讀之森 父母森活講座",
+        "category": "知性與靜態學習",
+        "activity_date": "2026/07/18 ~ 2026/09/06",
+        "start_date": "2026-07-18",
+        "end_date": "2026-09-06",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "第一場 2026/07/01 中午 12:00；第二場 2026/07/08 中午 12:00；第三場 2026/08/05 中午 12:00 開放報名，採 Accupass 線上報名。",
+        "location": "綠美圖 B1 演講廳 (第一、二場講座), 裕元花園酒店 B1 國際演講廳 (第三場講座)",
+        "target_age": "0-5歲嬰幼兒家長及一般民眾",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲"
+        ],
+        "price_type": "免費",
+        "summary": "臺中市立圖書館「2026閱讀起步走-閱讀之森」父母森活講座，邀請黃瑽寧醫師、嚴淑女博士、廖瑞文營運長，分享0-5歲嬰幼兒教養、情緒繪本共讀與親子閱讀力。透過專家分享，幫助家長建立自信，陪伴孩子在愛與閱讀中安心成長，增進親子關係與社會情緒學習，名額有限，請及早線上報名。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://gov.tw/abV",
+        "crawl_time": "2026-08-25T19:28:04"
+    },
+    {
+        "title": "【總館】8月份雲朵下的故事圈圈說故事活動",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-08-01 ~ 2026-08-30",
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "無資訊",
+        "location": "總館 西屯區中科路2201號",
+        "target_age": "一般對象",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺中市立圖書館總館於八月份舉辦「雲朵下的故事圈圈說故事活動」，活動期間為2026年8月1日至8月30日，歡迎一般大眾參與，享受聽故事的樂趣與知性學習體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.taichung.gov.tw/active/details?Parser=99,3,39,27,,,22473",
+        "crawl_time": "2026-08-25T19:28:04"
+    },
+    {
+        "title": "【總館】聽海說故事：蚵再生杯墊DIY體驗",
+        "category": "手作DIY與才藝",
+        "activity_date": "2026-08-28 ~ 2026-11-14",
+        "start_date": "2026-08-28",
+        "end_date": "2026-11-14",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "線上報名，需扣除「閱讀存摺」點數30點。報名連結：綠美圖場次(https://reurl.cc/AXOWpj)、大安分館場次(https://reurl.cc/eQWy3W)、東勢許良宇圖書館場次(https://reurl.cc/QN45K9)。",
+        "location": "臺中市立圖書館（綠美圖B1多媒體講堂、大安分館3樓多功能活動室、東勢許良宇圖書館2樓多功能活動室、溪東分館3樓多功能活動室）",
+        "target_age": "5～8歲",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "從閱讀探索海洋保育與循環永續。運用再生材料製作專屬杯墊，認識循環利用與環境永續理念。故事志工帶來精彩海洋故事，透過閱讀與分享，探索海洋保育重要性，讓環保觀念從生活中實踐。適合5-8歲親子參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.taichung.gov.tw/active/details?Parser=99,3,39,27,,,21679",
+        "crawl_time": "2026-08-25T19:28:04"
+    },
+    {
+        "title": "[龍潭分館]繪動新視界－《爸爸的友善茶園》沉浸式繪本動畫展",
+        "category": "2.藝文展演",
+        "activity_date": "2026-04-06 08:30 ～ 2026-10-31 17:00",
+        "start_date": "2026-04-06",
+        "end_date": "2026-10-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "無需報名，自由入場。配合展期另有手作體驗及講座活動，邀請民眾透過借閱參與。",
+        "location": "龍潭區 / 龍潭分館 音樂館3樓（桃園市龍潭區中興路680號）",
+        "target_age": null,
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "桃園市立圖書館龍潭分館推出《繪動新視界：沉浸式繪本動畫展》，透過動畫影像、聲音與投影空間，將繪本故事《爸爸的友善茶園》從紙本延伸至立體世界。展覽呈現茶園四季與友善農法理念，並規劃閱讀推廣與手作體驗活動，提供全新的閱讀感受。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.typl.gov.tw/zh-tw/Activity/Content/9401",
+        "crawl_time": "2026-08-25T19:28:04"
+    },
+    {
+        "title": "《是誰的腳丫丫》 免費親子劇",
+        "category": "藝文展演",
+        "activity_date": "2026-08-30 11:00 ～ 2026-08-30 14:40",
+        "start_date": "2026-08-30",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "Accupass線上索票，免費演出，採依序排隊自由進場，憑票入場。",
+        "location": "總館 / 總館 1樓微光廳（桃園市桃園區南平路303號）",
+        "target_age": "3-12歲（幼兒園、國小學童）",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "本免費親子劇《是誰的腳丫丫》邀請3-12歲孩童與家庭，一同探索生態循環與自然智慧。故事講述孩子們在爺爺菜園發現神秘腳印後，被帶入乾涸的地下世界，為拯救土地展開一場尋找花之女王的冒險。透過劇場演出，讓觀眾感受生命與自然的力量，學習珍惜土地與環境，是一場充滿驚奇、歡笑與感動的藝文體驗。活動於桃園市立圖書館總館微光廳舉行。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.typl.gov.tw/zh-tw/Activity/Content/10012",
+        "crawl_time": "2026-08-25T19:28:04"
+    },
+    {
+        "title": "AI人工智慧Teachable Machine 機器學習：影像辨識實作互動",
+        "category": "科技與創客",
+        "activity_date": "6/14(日) 13:30-16:30",
+        "start_date": "2026-06-14",
+        "end_date": "2026-06-14",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "5/25下午4點開放Accupass線上報名",
+        "location": "桃園市立圖書館總館 4樓創客教室",
+        "target_age": "4-9年級",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "學習人工智慧(AI)應用，使用Teachable Machine及Scratch製作AI應用模型，並進行影像辨識互動式遊戲。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.typl.gov.tw/zh-tw/Activity/Content/9617",
+        "crawl_time": "2026-08-25T19:28:04"
+    },
+    {
+        "title": "PicoBoard 互動式遊戲設計",
+        "category": "科技與創客",
+        "activity_date": "6/28(日) 13:30-16:30",
+        "start_date": "2026-06-28",
+        "end_date": "2026-06-28",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "6/1上午10點開放Accupass線上報名",
+        "location": "桃園市立圖書館總館 6樓多功能教室",
+        "target_age": "親子組（1大1小，2-6年級）",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "親子組活動。介紹智慧生活，學習基礎硬體連接、光線與聲音感應器應用，並設計互動式遊戲程式。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.typl.gov.tw/zh-tw/Activity/Content/9617",
+        "crawl_time": "2026-08-25T19:28:04"
+    },
+    {
+        "title": "AI人工智慧Teachable Machine 機器學習：聲音辨識實作互動",
+        "category": "科技與創客",
+        "activity_date": "9/6(日) 13:30-16:30",
+        "start_date": "2026-09-06",
+        "end_date": "2026-09-06",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "8/10下午4點開放Accupass線上報名",
+        "location": "桃園市立圖書館總館 4樓創客教室",
+        "target_age": "4-9年級",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "學習人工智慧(AI)應用，使用Teachable Machine及Scratch製作AI應用模型，並進行聲音辨識互動式遊戲。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.typl.gov.tw/zh-tw/Activity/Content/9617",
+        "crawl_time": "2026-08-25T19:28:04"
+    },
+    {
+        "title": "黑與白的邏輯視覺：mBot 機器人自動循跡專題實作",
+        "category": "科技與創客",
+        "activity_date": "10/18(日) 13:30-16:30",
+        "start_date": "2026-10-18",
+        "end_date": "2026-10-18",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "9/21下午4點開放Accupass線上報名",
+        "location": "桃園市立圖書館總館 6樓多功能教室",
+        "target_age": "4-9年級",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "簡介mBot機器人，學習控制程式執行流程、紅外線感測器原理，並實作循跡邏輯編程。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.typl.gov.tw/zh-tw/Activity/Content/9617",
+        "crawl_time": "2026-08-25T19:28:04"
+    },
+    {
+        "title": "【總館】跟著星光冒險即將出發，開啟你的專屬冒險！｜0905-0927故事探險隊：展開故事的奇幻旅程特展",
+        "category": "藝文展演",
+        "activity_date": "115/09/05 ~ 115/09/27",
+        "start_date": "2026-09-05",
+        "end_date": "2026-09-27",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "無須報名，現場參與",
+        "location": "新北市立圖書館總館 (新北市板橋區貴興路139號)",
+        "target_age": "適合親子及各年齡層兒童",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "新北市立圖書館總館舉辦的互動特展，以經典童話為主題，鼓勵親子共同創作故事、體驗角色扮演。設有多個互動區域，讓大小朋友翻轉想像，享受故事探險的樂趣，並可兌換限定書籤與杯袋。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=18f959fba0ae44d5aee880f5e585b771#gsc.tab=0",
+        "crawl_time": "2026-08-25T19:28:04"
+    },
+    {
+        "title": "頑皮艾伯特不在家-基礎程式班",
+        "category": "科技與創客",
+        "activity_date": "115年9月12日(六) 10:00-12:00",
+        "start_date": "2026-09-12",
+        "end_date": "2026-09-12",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "預計8/28（五）中午12:30開放報名，9/2(三)截止",
+        "location": "中港分館7樓多功能教室 (新莊區中港路350號)",
+        "target_age": "限國小 1 - 3 年級學童",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "頑皮的機器人艾伯特，因好奇坐上飛碟，開啟一連串冒險。此為由橘子蘋果程式學苑帶領國小1-3年級學童的程式設計基礎課程。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=db386be2f0fb4ad2a68f6365c2e6571f",
+        "crawl_time": "2026-08-25T19:28:04"
+    },
+    {
+        "title": "Scratch菁英課程-菁英程式班",
+        "category": "科技與創客",
+        "activity_date": "115年9月19日(六) 10:00-12:00",
+        "start_date": "2026-09-19",
+        "end_date": "2026-09-19",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "預計8/28（五）中午12:30開放報名，9/2(三)截止",
+        "location": "中港分館7樓多功能教室 (新莊區中港路350號)",
+        "target_age": "限國小 4 - 6 年級學童",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "用圖像化的積木組合取代全英文程式碼，零基礎皆可入門，完整培養程式概念。此為橘子蘋果程式學苑帶領國小4-6年級學童的Scratch程式設計菁英課程。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=db386be2f0fb4ad2a68f6365c2e6571f",
+        "crawl_time": "2026-08-25T19:28:04"
+    },
+    {
+        "title": "【蘆洲兒童親子分館】115年9月份彩虹故事屋",
+        "category": "知性與靜態學習",
+        "activity_date": "9/5、9/19、9/26(六) 13:30~14:30",
+        "start_date": "2026-09-05",
+        "end_date": "2026-09-26",
+        "recurring_days": [
+            6
+        ],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "免費入場，無須報名",
+        "location": "新北市蘆洲區集賢路221巷11號3樓/親子互動區。",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "新北市立圖書館蘆洲兒童親子分館於115年9月份舉辦彩虹故事屋活動，於9/5、9/19、9/26(六)下午帶來多場精彩繪本故事，包含《池塘真的會變魔術嗎?》、《The Wishing Well》等，活動免費入場，無需報名，歡迎家長帶領孩子一同享受閱讀樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=780acc3df6ef45a285013eb51b71f0ff",
+        "crawl_time": "2026-08-25T19:28:04"
+    },
+    {
+        "title": "稻香分館「小小館員」體驗活動",
+        "category": "1.職業體驗",
+        "activity_date": "9月6日（週日）上午10時至12時",
+        "start_date": "2026-09-06",
+        "end_date": "2026-09-06",
+        "recurring_days": [
+            0
+        ],
+        "region": "北部",
+        "city": "臺北市",
+        "registration_date": "報名網址：https://reurl.cc/OQ4jnD",
+        "location": "稻香分館 (臺北市北投區稻香路81號7-9樓)",
+        "target_age": "小朋友",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "臺北市立圖書館稻香分館邀請小朋友化身小小館員，透過角色扮演與闖關遊戲，探索圖書館的日常運作，了解幕後世界。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tpml.gov.taipei/News_Content.aspx?n=49F42C0F3A955E81&sms=9D72E82EC16F3E64&s=2842EC29A17FFCA2",
+        "crawl_time": "2026-08-25T19:28:04"
+    },
+    {
+        "title": "臺北市立圖書館電影欣賞：「星期六電影同樂會」",
+        "category": "藝文展演",
+        "activity_date": "9月每週週六下午2時至4時。",
+        "start_date": "2026-09-05",
+        "end_date": "2026-09-26",
+        "recurring_days": [
+            6
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "無須報名，自由入場",
+        "location": "親子美育數位圖書館 2樓多功能放映室 (臺北市南港區研究院路2段61巷15號2樓)",
+        "target_age": "12歲以下兒童及其家長",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "放慢腳步，陪孩子看場電影！臺北市立圖書館精選適合親子共賞的電影，邀請大小朋友在週末一同享受溫馨又歡樂的觀影時光。透過故事中的冒險與感動，陪伴孩子發現想像力與閱讀之外的美好世界，並留下親子的溫暖回憶。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tpml.gov.taipei/News_Content.aspx?n=3951678DEC0A8461&sms=9D72E82EC16F3E64&s=95AD2C3FE3482B0B",
+        "crawl_time": "2026-08-25T19:28:04"
+    },
+    {
+        "title": "臺北市立圖書館王貫英先生紀念圖書館 9月「週六童樂會-兒童影片欣賞」",
+        "category": "知性與靜態學習",
+        "activity_date": "第一、三週週六上午10時 (9月5日、9月19日)",
+        "start_date": "2026-09-05",
+        "end_date": "2026-09-19",
+        "recurring_days": [
+            6
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "未提及報名方式，應為現場參與",
+        "location": "王貫英先生紀念圖書館3樓多功能活動室（地址：臺北市中正區汀州路2段265號）",
+        "target_age": "兒童讀者",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "臺北市立圖書館王貫英先生紀念圖書館為兒童讀者舉辦「週六童樂會-兒童影片欣賞」，精選熱門影片，讓小朋友在課後之餘能欣賞影片，擴展視野並提升閱讀興趣。活動於9月的第一、三週週六上午舉行。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tpml.gov.taipei/News_Content.aspx?n=F969DE2A717178AE&sms=9D72E82EC16F3E64&s=DC7250E209FFE255",
+        "crawl_time": "2026-08-25T19:28:04"
+    },
+    {
+        "title": "【語你同行．閱讀集點趣】國家語言借閱活動",
+        "category": "知性與靜態學習",
+        "activity_date": "115/08/04 (二)09:00 ~ 115/08/30 (日)17:00",
+        "start_date": "2026-08-04",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "活動期間至服務台參與，不需事先報名",
+        "location": "國立公共資訊圖書館 總館一樓流通服務台",
+        "target_age": "大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "國立公共資訊圖書館舉辦「語你同行．閱讀集點趣」活動，邀請大小朋友開口說臺灣台語、客語或臺灣手語，即可領取集點卡。活動期間借閱圖書累積點數，達指定點數可兌換精美文具好禮。旨在推廣國家語言、享受閱讀樂趣，讓暑假充滿知識與驚喜。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://activity.nlpi.edu.tw/Active_Content.aspx?n=3&ss=D510ED3CB51352E3",
+        "crawl_time": "2026-08-25T19:28:04"
+    },
+    {
+        "title": "【困獸 × 困境】石虎保育 × 適得其所雙聯展",
+        "category": "生態與大自然",
+        "activity_date": "115/07/30 (四)09:00 ~ 115/10/11 (日)17:00",
+        "start_date": "2026-07-30",
+        "end_date": "2026-10-11",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "開放參觀，無需報名",
+        "location": "國資圖2樓藝文走廊 (國立公共資訊圖書館 總館：402臺中市南區五權南路100號)",
+        "target_age": "適合親子、大小朋友、解謎迷全員出動！",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "「困獸 × 困境」石虎保育雙聯展在國立公共資訊圖書館展出，帶領民眾認識石虎生存危機與野生動物保育議題。展覽含語音導覽、插畫及互動任務，適合親子與大小朋友參與，完成任務可兌換小禮物。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://activity.nlpi.edu.tw/Active_Content.aspx?n=3&ss=16BAFABBE7EA9576",
+        "crawl_time": "2026-08-25T19:28:04"
     }
 ];
