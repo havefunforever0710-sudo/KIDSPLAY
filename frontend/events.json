@@ -16800,5 +16800,136 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://activity.nlpi.edu.tw/Active_Content.aspx?n=3&ss=16BAFABBE7EA9576",
         "crawl_time": "2026-08-25T19:28:04"
+    },
+    {
+        "title": "115文山劇場《文山故事繪本劇場》8月活動",
+        "category": "藝文展演",
+        "activity_date": "115/08/08",
+        "start_date": "2026-08-08",
+        "end_date": "2026-08-08",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "免費，自由參加",
+        "location": "文山劇場4樓展覽空間",
+        "target_age": "適合1~10歲，親子共同參加",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "文山劇場八月繪本劇場活動，以《愛哭公主》為主題，透過故事引導孩子學習情緒管理與成長。活動免費，適合1-10歲親子共同參與，每月更換主題和老師。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tapo.gov.taipei/News_Content.aspx?n=CEDE938182D9017F&sms=A4E6E8DBA30EF49D&s=2049DA0ADFE1D8B7",
+        "crawl_time": "2026-08-26T21:37:37"
+    },
+    {
+        "title": "115文山劇場《親子玩藝》8月活動",
+        "category": "藝文展演",
+        "activity_date": "115年 08/01(六)、08/15(六)",
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-15",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "請點擊購票連結",
+        "location": "文山劇場10或11樓排練空間(教室)",
+        "target_age": "4~8歲親子",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "文山劇場8月《親子玩藝》活動，專為4-8歲親子設計。包含美術「紙上奇想．三明治小書製作」與戲劇「誰在舞台上？」兩大主題，透過手作與戲劇探索，讓親子共同享受藝術樂趣，增進互動與創造力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tapo.gov.taipei/News_Content.aspx?n=CEDE938182D9017F&sms=A4E6E8DBA30EF49D&s=81B65683F9BB0404",
+        "crawl_time": "2026-08-26T21:37:37"
+    },
+    {
+        "title": "時刻在藝起：NTT10週年回顧展",
+        "category": "2.藝文展演",
+        "activity_date": "2026/07/01 (三) ～2026/11/01 (日)",
+        "start_date": "2026-07-01",
+        "end_date": "2026-11-01",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "無須報名",
+        "location": "其他場地",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "臺中國家歌劇院10週年回顧展覽，回顧精彩時刻與藝術成就，適合所有年齡層參觀。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.npac-ntt.org/program/events",
+        "crawl_time": "2026-08-26T21:37:37"
+    },
+    {
+        "title": "豬探長小劇場《馬戲團謎奇事件》",
+        "category": "2.藝文展演",
+        "activity_date": "2026/08/29 (六)",
+        "start_date": "2026-08-29",
+        "end_date": "2026-08-29",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "立即購票",
+        "location": "大劇院",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "知名兒童角色豬探長帶來一場結合馬戲團主題的精彩小劇場，充滿謎團與趣味，適合兒童觀賞。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.npac-ntt.org/program/events",
+        "crawl_time": "2026-08-26T21:37:37"
+    },
+    {
+        "title": "2026《兒童夜訪歌劇院》",
+        "category": "6.知性與靜態學習",
+        "activity_date": "90分鐘",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "立即報名",
+        "location": "其他場地",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "專為兒童設計的夜間導覽活動，讓孩子們深入探索歌劇院的神秘面紗與幕後故事。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.npac-ntt.org/program/events",
+        "crawl_time": "2026-08-26T21:37:37"
+    },
+    {
+        "title": "張正傑親子音樂會—義大利Pizza PK 台灣潤餅",
+        "category": "2.藝文展演",
+        "activity_date": "2026/09/13 (日)",
+        "start_date": "2026-09-13",
+        "end_date": "2026-09-13",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "立即購票",
+        "location": "大劇院",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "音樂家張正傑將以義大利Pizza與台灣潤餅為主題，為親子帶來一場趣味橫生且充滿互動的音樂會。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.npac-ntt.org/program/events",
+        "crawl_time": "2026-08-26T21:37:37"
     }
 ]
