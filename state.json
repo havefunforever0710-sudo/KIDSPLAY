@@ -1,5 +1,5 @@
 {
-    "last_index": 31,
+    "last_index": 36,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -222,7 +222,10 @@
             "https://www.songshanculturalpark.org/exhibition/activity/18a71ab7-0063-4b7d-a43c-fe95ca9f8d36",
             "https://www.songshanculturalpark.org/exhibition/activity/8e248f11-734d-4987-bbbe-7bfceab13e3e",
             "https://www.songshanculturalpark.org/exhibition/activity/a6f48ac9-995d-4755-bef9-6c81b27bd2a7",
-            "https://www.songshanculturalpark.org/exhibition/activity/4a7f533a-7537-4dd0-af44-d074a73d47c2"
+            "https://www.songshanculturalpark.org/exhibition/activity/4a7f533a-7537-4dd0-af44-d074a73d47c2",
+            "https://www.songshanculturalpark.org/exhibition/activity/c64a0dee-b436-408d-b527-b141ab24a202",
+            "https://www.songshanculturalpark.org/exhibition/activity/2ffd3ac9-afc7-4008-ba05-7c9b0b0d617c",
+            "https://www.songshanculturalpark.org/exhibition/activity/840b0803-826e-407f-bd62-8447b51cf9c2"
         ],
         "https://www.huashan1914.com/": [],
         "https://pier2.org/": [],
@@ -231,12 +234,16 @@
             "https://www.ttdac.taichung.gov.tw/nc5120505618265090734/ncArticleContent",
             "https://www.ttdac.taichung.gov.tw/na4624453813688828570/naArticleContent",
             "https://www.ttdac.taichung.gov.tw/nc5613570722813613357/ncArticleContent",
-            "https://www.ttdac.taichung.gov.tw/nc4904869813859458542/ncArticleContent"
+            "https://www.ttdac.taichung.gov.tw/nc4904869813859458542/ncArticleContent",
+            "https://www.ttdac.taichung.gov.tw/nc4667477325703002623/ncArticleContent",
+            "https://www.ttdac.taichung.gov.tw/nc5710506783003211574/ncArticleContent",
+            "https://www.ttdac.taichung.gov.tw/nc5355773174289635586/ncArticleContent"
         ],
         "https://www.huludun.taichung.gov.tw/": [
             "https://www.huludun.taichung.gov.tw/active/index-1.asp?Parser=99,8,40,,,,158857,3",
             "https://www.huludun.taichung.gov.tw/active/index-1.asp?Parser=99,8,40,,,,158034,3",
-            "https://childdrawings.huludun.taichung.gov.tw/"
+            "https://childdrawings.huludun.taichung.gov.tw/",
+            "https://www.huludun.taichung.gov.tw/search/index.asp?Parser=99,15,75,,,,,,,,,,兒童聯想創作畫"
         ],
         "https://chiayiartmuseum.chiayi.gov.tw/": [
             "https://chiayiartmuseum.chiayi.gov.tw/News_Content.aspx?n=13589&sms=14831&s=940520",

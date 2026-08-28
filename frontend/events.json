@@ -16931,5 +16931,155 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.npac-ntt.org/program/events",
         "crawl_time": "2026-08-26T21:37:37"
+    },
+    {
+        "title": "史努比的藝術人生：快閃小巡迴（台北站）",
+        "category": "藝文展演",
+        "activity_date": "2026/08/06 (三) – 2026/09/28 (一)",
+        "start_date": "2026-08-06",
+        "end_date": "2026-09-28",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "免費入場，現場參與，無需報名",
+        "location": "松山文創園區 南向製菸工廠 (台北市信義區光復南路133號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "史努比快閃小巡迴台北站，延續《花生漫畫75周年特展》精神，匯集世界各地藝術家以史努比為靈感的創作，包含崔雅喜新作。現場展出獨家聯名商品。免費入場，讓喜愛史努比的粉絲感受友情與創意。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/c64a0dee-b436-408d-b527-b141ab24a202",
+        "crawl_time": "2026-08-28T02:24:46"
+    },
+    {
+        "title": "小鳥時光 6.0｜Animal Party 動物派對",
+        "category": "節慶市集與綜合",
+        "activity_date": "活動日期：2026/09/12（六）－2026/09/13（日）",
+        "start_date": "2026-09-12",
+        "end_date": "2026-09-13",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場售票，不提供預售票；焦點講座憑當日活動門票即可免費參加，無需另外報名。",
+        "location": "松山文創園區 3 號倉庫 (台北市信義區光復南路133號)",
+        "target_age": "12 歲以下孩童須由成人陪同入場。",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "小鳥時光 6.0《Animal Party 動物派對》集結台灣、日本、韓國等地插畫家，以動物為主題打造充滿療癒與創意的插畫市集。現場規劃海洋、森林、里山、花園四大主題展區，並邀請生態保育 NGO 進駐，舉辦限定講座，帶你一起走進動物與自然的世界。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/2ffd3ac9-afc7-4008-ba05-7c9b0b0d617c",
+        "crawl_time": "2026-08-28T02:24:46"
+    },
+    {
+        "title": "《消失的法老》古夫金字塔 VR 沉浸體驗",
+        "category": "知性與靜態學習",
+        "activity_date": "2026/01/29-2026/09/28",
+        "start_date": "2026-01-29",
+        "end_date": "2026-09-28",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "採線上購票場次預約制",
+        "location": "台北市信義區光復南路133號，XR 沉浸玩家 (A7 E203 東向製菸工廠二樓)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "不用飛埃及，在台北就能走進古夫金字塔！《消失的法老》透過多人行走式 VR 沉浸體驗，帶領觀眾身歷其境走進 1:1 還原的金字塔空間，感受古老建築的震撼尺度，並回到四千五百年前的古埃及文明現場。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/840b0803-826e-407f-bd62-8447b51cf9c2",
+        "crawl_time": "2026-08-28T02:24:46"
+    },
+    {
+        "title": "115年下半年「屯藝學堂-藝文研習班」",
+        "category": "手作DIY與才藝",
+        "activity_date": "2026-08-28(五) 00時00分 ~ 2026-12-18(五) 00時00分",
+        "start_date": "2026-08-28",
+        "end_date": "2026-12-18",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "2026年7月8日開放報名，報名費2500-3500元，材料費另計。",
+        "location": "屯區藝文中心 (研習教室、B1藝享空間)，地址：臺中市太平區大興路201號",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "屯區藝文中心115年下半年「屯藝學堂-藝文研習班」，提供花鳥工筆畫、創意手作皮雕、烏克麗麗、水墨畫、書法、油畫等多種藝文課程，適合對藝術學習有興趣的民眾參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ttdac.taichung.gov.tw/nc4667477325703002623/ncArticleContent",
+        "crawl_time": "2026-08-28T02:24:46"
+    },
+    {
+        "title": "兔兔仿真黏土蛋黃酥 MEMO夾",
+        "category": "手作DIY與才藝",
+        "activity_date": "2026-09-12(六) 09時30分 ~ 2026-09-12(六) 11時30分",
+        "start_date": "2026-09-12",
+        "end_date": "2026-09-12",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "2026-06-26 ~ 2026-09-05 現場報名",
+        "location": "屯區藝文中心 B1藝享空間, 臺中市太平區大興路201號",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "用黏土製作仿真度超高的蛋黃酥，堆疊酥皮、描繪烤色，動手體驗仿真工藝的樂趣。蛋黃流心變身小兔子，實用memo夾隨時給你療癒。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ttdac.taichung.gov.tw/nc5710506783003211574/ncArticleContent",
+        "crawl_time": "2026-08-28T02:24:46"
+    },
+    {
+        "title": "「我可以做自己」書展",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-09-01(二) 09時00分 ~ 2026-09-30(三) 16時00分",
+        "start_date": "2026-09-01",
+        "end_date": "2026-09-30",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "自由入場",
+        "location": "臺中市屯區藝文中心 2樓美學典藏館 (臺中市太平區大興路201號)",
+        "target_age": "適合兒童閱讀",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "本次書展以「我可以做自己」為主題，精選各式各樣適合兒童閱讀的繪本、故事書與趣味讀物，邀請孩子依照自己的興趣挑選喜歡的書，在閱讀中自由探索、發揮想像，發現屬於自己的小小世界。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ttdac.taichung.gov.tw/nc5355773174289635586/ncArticleContent",
+        "crawl_time": "2026-08-28T02:24:46"
+    },
+    {
+        "title": "孩子王週末歡樂派",
+        "category": "節慶市集與綜合",
+        "activity_date": null,
+        "start_date": "2014-12-14",
+        "end_date": "2014-12-14",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "免費入場",
+        "location": "葫蘆墩文化中心戶外廣場",
+        "target_age": "小朋友",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "配合第22屆全國兒童聯想創作畫比賽，葫蘆墩文化中心戶外廣場特別規劃「孩子王週末歡樂派」，提供孩子王劇團演出、大型親子遊戲場、氣墊滑梯及影片放映，為小朋友打造歡樂週末。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.huludun.taichung.gov.tw/search/index.asp?Parser=99,15,75,,,,,,,,,,兒童聯想創作畫",
+        "crawl_time": "2026-08-28T02:24:46"
     }
 ]
