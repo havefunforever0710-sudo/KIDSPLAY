@@ -1,5 +1,5 @@
 {
-    "last_index": 41,
+    "last_index": 46,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -268,11 +268,14 @@
             "https://www.nmh.gov.tw/News_actives.aspx?n=6990&sms=13323",
             "https://www.nmh.gov.tw/News_Actives_photo.aspx?n=6983&sms=13323",
             "https://www.nmh.gov.tw/News_Content.aspx?n=6993&s=249680",
-            "https://www.nmh.gov.tw/News_Card.aspx?n=7304&sms=15239"
+            "https://www.nmh.gov.tw/News_Card.aspx?n=7304&sms=15239",
+            "https://www.nmh.gov.tw/News_Content.aspx?n=6993&s=260563"
         ],
         "https://www.mocataipei.org.tw/": [
             "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/Young*Folks%EF%BC%9A%E4%B8%96%E7%95%8C%E6%98%AF%E4%B8%80%E7%89%87%E6%84%9F%E7%9F%A5%E7%9A%84%E8%86%9C",
-            "http://www.moca.taipei/tw/ExhibitionAndEvent/Exhibitions/Up-Coming"
+            "http://www.moca.taipei/tw/ExhibitionAndEvent/Exhibitions/Up-Coming",
+            "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E8%A8%98%E6%86%B6%E7%9A%84%E5%9B%A4%E5%BE%92%E5%9B%B0%E5%A2%83",
+            "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E9%87%8E%E8%8D%89%E4%B8%8D%E6%9C%8D%E7%AE%A1"
         ],
         "https://www.museum.org.tw/": [],
         "https://www.nmp.gov.tw/": [
@@ -280,7 +283,9 @@
             "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60337",
             "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60341",
             "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60347",
-            "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60349"
+            "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60349",
+            "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60355",
+            "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60353"
         ],
         "https://www.nmtl.gov.tw/": [
             "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60138",

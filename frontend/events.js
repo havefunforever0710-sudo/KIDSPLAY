@@ -17082,5 +17082,174 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.huludun.taichung.gov.tw/search/index.asp?Parser=99,15,75,,,,,,,,,,兒童聯想創作畫",
         "crawl_time": "2026-08-28T02:24:46"
+    },
+    {
+        "title": "走揣城南ê熱天",
+        "category": "在地文化體驗",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "線上報名 (詳見連結: https://portaly.cc/nmhunitas)",
+        "location": "國立歷史博物館 （正館） 臺北市中正區南海路49號",
+        "target_age": "大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "今年夏天，邀請大小朋友從故事到街巷、從冊頁到文物，透過看片、讀冊、食茶、講笑詼、踅城南、練工夫等系列台語活動，一起探索、收集一個城南ê熱天。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmh.gov.tw/News_Content.aspx?n=6993&s=260563",
+        "crawl_time": "2026-08-29T21:29:36"
+    },
+    {
+        "title": "Young Folks：世界是一片感知的膜",
+        "category": "藝文展演",
+        "activity_date": "2026/05/23 ~ 2026/08/30",
+        "start_date": "2026-05-23",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "線上報名",
+        "location": "台北當代藝術館 (台北市大同區長安西路39號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "台北當代藝術館展出最新藝術展覽「Young Folks：世界是一片感知的膜」，透過藝術作品探索感知與世界的連結，適合所有對當代藝術有興趣的觀眾。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E8%A8%98%E6%86%B6%E7%9A%84%E5%9B%A4%E5%BE%92%E5%9B%B0%E5%A2%83",
+        "crawl_time": "2026-08-29T21:29:36"
+    },
+    {
+        "title": "記憶的囚徒困境",
+        "category": "藝文展演",
+        "activity_date": "2026/05/23 ~ 2026/08/30",
+        "start_date": "2026-05-23",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "線上報名",
+        "location": "台北當代藝術館 (台北市大同區長安西路39號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "台北當代藝術館展出最新藝術展覽「記憶的囚徒困境」，深入探討記憶的本質與其在當代社會中的多重面向，引發觀者深思。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E8%A8%98%E6%86%B6%E7%9A%84%E5%9B%A4%E5%BE%92%E5%9B%B0%E5%A2%83",
+        "crawl_time": "2026-08-29T21:29:36"
+    },
+    {
+        "title": "野草不服管 MoCA STUDIO",
+        "category": "藝文展演",
+        "activity_date": "2026/07/11 ~ 2026/09/20",
+        "start_date": "2026-07-11",
+        "end_date": "2026-09-20",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "線上報名",
+        "location": "台北當代藝術館 (台北市大同區長安西路39號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "台北當代藝術館MoCA STUDIO空間推出「野草不服管」展覽，以藝術視角呈現野草般的生命韌性與不馴，探索當代議題。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E8%A8%98%E6%86%B6%E7%9A%84%E5%9B%A4%E5%BE%92%E5%9B%B0%E5%A2%83",
+        "crawl_time": "2026-08-29T21:29:36"
+    },
+    {
+        "title": "境未竟 MoCA Video",
+        "category": "藝文展演",
+        "activity_date": "2026/07/11 ~ 2026/09/06",
+        "start_date": "2026-07-11",
+        "end_date": "2026-09-06",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "線上報名",
+        "location": "台北當代藝術館 (台北市大同區長安西路39號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "台北當代藝術館MoCA Video展出「境未竟」，透過影像藝術探討未完成或持續發展的狀態，引導觀眾思考多重層次的當代現實。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E8%A8%98%E6%86%B6%E7%9A%84%E5%9B%A4%E5%BE%92%E5%9B%B0%E5%A2%83",
+        "crawl_time": "2026-08-29T21:29:36"
+    },
+    {
+        "title": "野草不服管",
+        "category": "2.藝文展演",
+        "activity_date": "2026 / 07 / 11 ~ 2026 / 09 / 20",
+        "start_date": "2026-07-11",
+        "end_date": "2026-09-20",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "展覽期間開放參觀，購票入場。教育活動需另行預約報名，詳情請參考官網說明。",
+        "location": "台北當代藝術館 (台北市大同區長安西路39號)",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "「野草不服管」是台北當代藝術館的展覽，透過植物的流動與生長，探討邊界、認同與自由的當代處境。展覽呈現藝術家們對於跨越限制、悄然繁衍的生命力的觀察與回應，書寫不被控制的歷史。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E9%87%8E%E8%8D%89%E4%B8%8D%E6%9C%8D%E7%AE%A1",
+        "crawl_time": "2026-08-29T21:29:36"
+    },
+    {
+        "title": "【卑南遺址公園】《構樹皮與水泡》策展人開箱：幕後故事座談 × 構樹手抄紙工作坊",
+        "category": "手作DIY與才藝",
+        "activity_date": "2026/09/19 (六) 14:00~17:00",
+        "start_date": "2026-09-19",
+        "end_date": "2026-09-19",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "臺東市",
+        "registration_date": "報名期間 2026/08/13 17:00 ~ 2026/09/17 17:00",
+        "location": "卑南遺址公園遊客服務中心多功能教室 (95059臺東市文化公園路200號)",
+        "target_age": "不限",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "本活動結合史前館與永安國小合作的《構樹皮與水泡》特展，邀請策展團隊分享展覽背後的歷程與理念。座談會後，將帶領參與者進行構樹手抄紙DIY體驗，親手完成一張紙張。透過分享與實作，讓大家從看展走向參與，共同認識構樹文化，體驗其在創作與傳承中的生長力量。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60355",
+        "crawl_time": "2026-08-29T21:29:36"
+    },
+    {
+        "title": "【康樂本館】臺灣文化日系列活動—親子場說故事-《我的名字》-娥葛絲（葉雅庭）",
+        "category": "知性與靜態學習",
+        "activity_date": "2026/09/20 15:30 ~ 2026/09/20 16:20",
+        "start_date": "2026-09-20",
+        "end_date": "2026-09-20",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "臺東市",
+        "registration_date": "線上報名，2026/08/17 00:00 ~ 2026/09/18 17:00",
+        "location": "探索館共讀區 (國立臺灣史前文化博物館康樂本館), 臺東市豐田里博物館路1號",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "《我的名字》是一場尋找自己名字意義的生命之旅。透過繪本故事與老師引導，啟發孩子美的感知與自我認同。適合親子共同參與，一起踏上成為自己的旅程，地點在國立臺灣史前文化博物館康樂本館探索館共讀區。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60353",
+        "crawl_time": "2026-08-29T21:29:36"
     }
 ];
