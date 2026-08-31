@@ -17651,5 +17651,24 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.mwr.org.tw/2026dharma",
         "crawl_time": "2026-08-30T21:49:20"
+    },
+    {
+        "title": "與國家公園有約~鯨歌迴響・海中精靈的世界~環境教育營隊",
+        "category": "生態與大自然",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": null,
+        "location": null,
+        "target_age": null,
+        "age_groups": [],
+        "price_type": "付費",
+        "summary": null,
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ktnp.gov.tw/News_Content.aspx?n=5654361B474B8EFF&sms=BF1954FACE1D31AD&s=34FDFEB44338F887",
+        "crawl_time": "2026-08-31T23:05:42"
     }
 ];
