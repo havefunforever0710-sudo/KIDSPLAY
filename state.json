@@ -1,5 +1,5 @@
 {
-    "last_index": 56,
+    "last_index": 61,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -349,12 +349,15 @@
             "https://www.ysnp.gov.tw/Apply/ActivityRegistration/C030001",
             "https://www.ysnp.gov.tw/ActivityInfo/C002000?ID=f8c7afba-a62e-45b8-871e-1afa8f74027e&PageType=1",
             "https://www.ysnp.gov.tw/StaticPage/Course",
-            "https://www.ysnp.gov.tw/ActivityInfo/C002000"
+            "https://www.ysnp.gov.tw/ActivityInfo/C002000",
+            "https://www.ysnp.gov.tw/ActivityInfo/C002000?ID=e904978d-0978-42b4-8f52-8d853a20d023&PageType=1"
         ],
         "https://www.spnp.gov.tw/": [],
         "https://www.kmnp.gov.tw/": [],
         "https://www.marine.gov.tw/": [
-            "https://www.marine.gov.tw/zh_tw/news/ActivityInfo/115%E5%B9%B4%E4%B8%BB%E9%A1%8C%E5%BC%8F%E7%92%B0%E6%95%99%E8%AA%B2%E7%A8%8B%EF%BC%8D-%E7%92%B0%E5%A2%83%E5%AE%88%E8%AD%B7%E5%93%A1-%E9%9B%86%E9%BB%9E%E6%B4%BB%E5%8B%95%E9%96%8B%E8%B7%91-79518162"
+            "https://www.marine.gov.tw/zh_tw/news/ActivityInfo/115%E5%B9%B4%E4%B8%BB%E9%A1%8C%E5%BC%8F%E7%92%B0%E6%95%99%E8%AA%B2%E7%A8%8B%EF%BC%8D-%E7%92%B0%E5%A2%83%E5%AE%88%E8%AD%B7%E5%93%A1-%E9%9B%86%E9%BB%9E%E6%B4%BB%E5%8B%95%E9%96%8B%E8%B7%91-79518162",
+            "https://www.marine.gov.tw/zh_tw/news/ActivityInfo/%E6%BE%8E%E6%B9%96%E5%8D%97%E6%96%B9%E5%9B%9B%E5%B3%B6%E6%97%85%E9%81%8A%E6%96%B0%E9%AB%94%E9%A9%97-%E5%9B%9B%E4%B8%8D%E5%9B%9B%E6%83%B3%E5%B3%B6%E4%BA%86-%E5%B8%B6%E6%97%85%E4%BA%BA%E6%8E%A2%E7%B4%A2%E5%B3%B6%E5%B6%B6%E6%95%85%E4%BA%8B%C2%A0-12842485",
+            "https://www.marine.gov.tw/zh_tw/commentary/EEApply"
         ],
         "https://shoushan.nps.gov.tw/": [],
         "https://www.tshs.ntpc.gov.tw/": [
