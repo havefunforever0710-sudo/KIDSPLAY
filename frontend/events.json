@@ -17733,5 +17733,161 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.marine.gov.tw/zh_tw/commentary/EEApply",
         "crawl_time": "2026-09-01T21:34:17"
+    },
+    {
+        "title": "季風之路─淡水紅毛城互動劇場",
+        "category": "藝文展演",
+        "activity_date": "週一至週五：首場09:30；末場16:45。週六、週日及國定假日：首場09:30；末場17:45。",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "無需報名，依開放時間入場",
+        "location": "淡水紅毛城園區─主堡2樓展間（新北市淡水區中正路28巷1號）",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "三百多年前，季風吹動船帆，將海上世界串連成航線。荷蘭東印度公司因此來到亞洲，臺灣成為航線轉運站。大屯山上的金色小精靈，渴望搭乘季風，從山林走向港口，穿越河流，航向大海，展開一段冒險旅程！",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tshs.ntpc.gov.tw/xmdoc/cont?xsmsid=0G245656224351531469&sid=0Q230583227521474259",
+        "crawl_time": "2026-09-02T21:33:41"
+    },
+    {
+        "title": "季風之路─淡水紅毛城互動劇場",
+        "category": "藝文展演",
+        "activity_date": "日期：2026-08-21",
+        "start_date": "2026-08-21",
+        "end_date": "2026-08-21",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "淡水紅毛城 (新北市立淡水古蹟博物館) 新北市淡水區中正路一段6巷32之2號",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "新北市立淡水古蹟博物館於淡水紅毛城舉辦互動劇場，以生動活潑的方式帶領觀眾探索季風之路的歷史與文化。適合親子共同參與，體驗歷史的魅力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tshs.ntpc.gov.tw/xmdoc?xsmsid=0G245656224351531469",
+        "crawl_time": "2026-09-02T21:33:41"
+    },
+    {
+        "title": "風帆之路-淡水平戶交流特展",
+        "category": "知性與靜態學習",
+        "activity_date": "日期：2026-02-24",
+        "start_date": "2026-02-24",
+        "end_date": "2026-02-29",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "新北市立淡水古蹟博物館 新北市淡水區中正路一段6巷32之2號",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "新北市立淡水古蹟博物館推出特展，深入介紹淡水與日本平戶之間透過風帆貿易建立的歷史交流與文化連結。本展覽內容豐富，適合各年齡層參觀。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tshs.ntpc.gov.tw/xmdoc?xsmsid=0G245656224351531469",
+        "crawl_time": "2026-09-02T21:33:41"
+    },
+    {
+        "title": "魔梯形體劇場-肢體喜劇好好玩",
+        "category": "2.藝文展演",
+        "activity_date": "11 月 15 日（六）",
+        "start_date": "2025-11-15",
+        "end_date": "2025-11-15",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "新北市坪林茶業博物館 戶外停車空間 (新北市坪林區水德里水聳淒坑19-1號)",
+        "target_age": "大朋友小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "新北市坪林茶業博物館於11月15日（六）邀請魔梯形體劇場帶來《進擊的寶寶》與《大頭仔去𨑨迌》雙重肢體喜劇，透過無語言限制的幽默肢體與童趣面具，讓純真的笑聲在坪林綻放。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tea.ntpc.gov.tw/xmdoc/cont?xsmsid=0G266542551798465239&sid=0P324644918681600028",
+        "crawl_time": "2026-09-02T21:33:41"
+    },
+    {
+        "title": "2026【林園尋藝】9月系列活動開放報名",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-09-12 ~ 2026-09-20",
+        "start_date": "2026-09-12",
+        "end_date": "2026-09-20",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "8/31（一）中午12:00開放報名，額滿為止！",
+        "location": "林本源園邸 (新北市板橋區西門街9號)",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "林本源園邸於9月舉辦【林園尋藝】系列活動，透過深度導覽與工藝體驗，探索建築、歷史與傳統技藝的文化故事。活動內容包含枋橋城走讀、木結構專題導覽及大木作推廣教育工作坊。名額有限，報名於8/31中午12點開放。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.linfamily.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G249617555861789607&sid=0Q232416638213621447",
+        "crawl_time": "2026-09-02T21:33:41"
+    },
+    {
+        "title": "「月光織戀」系列活動-月老祈福抓周趣",
+        "category": "12.在地文化體驗",
+        "activity_date": "10月19日下午",
+        "start_date": "2025-10-19",
+        "end_date": "2025-10-19",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "林本源園邸 觀稼樓 (新北市板橋區西門街9號)",
+        "target_age": "寶寶們",
+        "age_groups": [
+            "0-3歲"
+        ],
+        "price_type": "付費",
+        "summary": "林本源園邸舉辦「月老祈福抓周趣」活動，寶寶們體驗傳統抓周儀式，象徵未來發展，並傳遞無論性別、孩子皆有自由探索夢想的權利。活動充滿家人的期盼與祝福，讓幸福與平等的種子在此綻放。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.linfamily.ntpc.gov.tw/xmdoc/cont?xsmsid=0P003508122206281209&sid=0P310371621318020779",
+        "crawl_time": "2026-09-02T21:33:41"
+    },
+    {
+        "title": "2026年第七屆唐獎榮耀展(免費入場)",
+        "category": "知性與靜態學習",
+        "activity_date": "2026年9月1日~2026年10月30日",
+        "start_date": "2026-09-01",
+        "end_date": "2026-10-30",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "臺北市",
+        "registration_date": "免費入場，無需報名",
+        "location": "中正紀念堂1樓中央通廊 (臺北市中正區中山南路21號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "第七屆唐獎榮耀展，以「智慧點亮全球」為核心，結合科技與藝術，展現唐獎得主在永續發展、生技醫藥、漢學及法治四大領域的卓越成就，並打造數位「唐獎智庫」，透過互動啟發未來行動力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=61004",
+        "crawl_time": "2026-09-02T21:33:41"
     }
 ]
