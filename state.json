@@ -1,5 +1,5 @@
 {
-    "last_index": 66,
+    "last_index": 71,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -306,7 +306,10 @@
             "https://thcdc.hakka.gov.tw/12205/12219/12218/168558/",
             "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/168610/",
             "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/166781/",
-            "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/1437/153220/170310/"
+            "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/1437/153220/170310/",
+            "https://thcdc.hakka.gov.tw/12205/12214/12215/170555/post",
+            "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/170917/",
+            "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/170678/"
         ],
         "https://ssl.thcp.org.tw/": [
             "https://ssl.thcp.org.tw/events/1630",
@@ -389,7 +392,9 @@
             "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=61004"
         ],
         "https://www.yatsen.gov.tw/": [
-            "https://event.culture.tw/mocweb/reg/YATSEN/Index.init.ctr?openExternalBrowser=1"
+            "https://event.culture.tw/mocweb/reg/YATSEN/Index.init.ctr?openExternalBrowser=1",
+            "https://www.yatsen.gov.tw/News_actives.aspx?n=6682&sms=13411",
+            "https://www.yatsen.gov.tw/News_Content.aspx?n=6518&s=261211"
         ],
         "https://culture.hccg.gov.tw/": [
             "https://hsinchucityfilm.kktix.cc/events/2026hsinchucityfilm"

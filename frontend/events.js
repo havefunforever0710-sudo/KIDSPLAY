@@ -17890,5 +17890,157 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=61004",
         "crawl_time": "2026-09-02T21:33:41"
+    },
+    {
+        "title": "2026翠湖青少年音樂會",
+        "category": "藝文展演",
+        "activity_date": "2026/01/03 15:00 ~ 2026/12/19 16:001月3日(星期六)起至12月19日(星期六)止，1月至12月每週六下午1500時演出，除7月至10月因天候影響無演出，其餘月份於翠湖與你一起聆聽音樂饗宴。1月3 日 (星期六) 1500-1600",
+        "start_date": "2026-01-03",
+        "end_date": "2026-12-19",
+        "recurring_days": [
+            "6"
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": null,
+        "location": "中山文化園區翠湖",
+        "target_age": "青少年",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "國立國父紀念館於翠湖舉辦的青少年音樂會，從1月至12月每週六下午演出（7至10月除外），為市民帶來音樂饗宴。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.yatsen.gov.tw/News_actives.aspx?n=6682&sms=13411",
+        "crawl_time": "2026-09-03T21:33:10"
+    },
+    {
+        "title": "閱讀城市：多元族群建築與孫中山行旅",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-05-24 ~ 2026-09-13",
+        "start_date": "2026-05-24",
+        "end_date": "2026-09-13",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "連江縣",
+        "registration_date": null,
+        "location": "南竿機場＞金板境天后宮＞津沙聚落＞牛角聚落＞福澳港",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "此活動以孫中山思想為核心，探討多元族群建築風貌、城市空間與社會變遷，結合歷史與現代建築及原住民族文化，是一場知性的行旅。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.yatsen.gov.tw/News_actives.aspx?n=6682&sms=13411",
+        "crawl_time": "2026-09-03T21:33:10"
+    },
+    {
+        "title": "中山青年藝術獎十週年典藏巡迴特展",
+        "category": "藝文展演",
+        "activity_date": "115年9月12日~115年9月30日",
+        "start_date": "2026-09-12",
+        "end_date": "2026-09-30",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": null,
+        "location": "臺中市大墩文化中心 大墩藝廊(三) (臺中市西區英才路600號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "國立國父紀念館舉辦「中山青年藝術獎十週年典藏巡迴特展」，展出歷年優秀青年藝術作品，推廣藝術教育與文化傳承。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.yatsen.gov.tw/News_actives.aspx?n=6682&sms=13411",
+        "crawl_time": "2026-09-03T21:33:10"
+    },
+    {
+        "title": "2026年全國古蹟日活動",
+        "category": "在地文化體驗",
+        "activity_date": "115年9月19日至20日",
+        "start_date": "2026-09-19",
+        "end_date": "2026-09-20",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "請洽文化資產局官網或聯絡電話詢問",
+        "location": "文化部文化資產園區",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "文化資產局將於2026年9月19日至20日在文化部文化資產園區舉辦「2026年全國古蹟日活動」。此活動旨在推廣文化資產保存與古蹟之美，並包含開幕儀式。歡迎對文化遺產有興趣的民眾參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.yatsen.gov.tw/News_Content.aspx?n=6518&s=261211",
+        "crawl_time": "2026-09-03T21:33:10"
+    },
+    {
+        "title": "故宮國寶・客家好神 眾神降臨-敬天惜地的客家人特展",
+        "category": "知性與靜態學習",
+        "activity_date": "展期自即日起至117年1月31日止",
+        "start_date": "2026-08-24",
+        "end_date": "2028-01-31",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "苗栗縣",
+        "registration_date": "自由參觀，無需報名",
+        "location": "臺灣客家文化館 (36645) 苗栗縣銅鑼鄉九湖村銅科南路6號",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "客委會客發中心與故宮博物院共同策劃「眾神降臨-敬天惜地的客家人」特展，於臺灣客家文化館展出。展覽運用高階數位互動多媒體科技，結合故宮國寶文物與臺灣客家信仰特色，呈現多元客家文化與常民信仰，包含米龍藝術、數位互動裝置、3D展件及沉浸式劇場，歡迎全齡觀眾前來體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/12205/12214/12215/170555/post",
+        "crawl_time": "2026-09-03T21:33:10"
+    },
+    {
+        "title": "【※自備帳篷方案】115年9月12日-13日六堆園區「暑期親子共學特色露營」體驗活動",
+        "category": "生態與大自然",
+        "activity_date": "115年9月12日-13日",
+        "start_date": "2026-09-12",
+        "end_date": "2026-09-13",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "2026/09/03 14:30 ~ 2026/09/10 12:00",
+        "location": "六堆客家文化園區/露營區，屏東縣內埔鄉建興村信義路588號",
+        "target_age": "民眾、親子 (3歲以下不收費)",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "六堆客家文化園區推出「暑期親子共學特色露營」體驗活動，此次為自備帳篷方案，讓親子一同感受Chill慢活露營節奏。活動包含在地風味晚餐與早餐、火焰蟲探索、夜間生態觀察、及客家甜酒釀湯圓DIY。每人費用300元，適合親子家庭，3歲以下免費，是探索客家文化與大自然的絕佳機會。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/170917/",
+        "crawl_time": "2026-09-03T21:33:10"
+    },
+    {
+        "title": "【少量名額釋出】115年9月12日場次六堆園區火焰蟲親子共學體驗活動",
+        "category": "生態與大自然",
+        "activity_date": "115年9月12日場次",
+        "start_date": "2026-09-12",
+        "end_date": "2026-09-12",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "報名時間：2026/08/28 10:00 至 2026/09/07 15:00，採線上繳費。",
+        "location": "六堆客家文化園區 (報到地點：行政中心二樓六堆會議廳)，屏東縣內埔鄉建興村信義路588號",
+        "target_age": "一般大眾、親子",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "六堆客家文化園區舉辦火焰蟲親子共學體驗，帶領親子探尋螢火蟲的螢光魅力。活動包含室內生態課程與戶外夜間觀察解說，寓教於樂。適合一般大眾及親子，4歲以下免費，每人費用新臺幣100元。本次釋出少量名額。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/170678/",
+        "crawl_time": "2026-09-03T21:33:10"
     }
 ];
