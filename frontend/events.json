@@ -18041,5 +18041,113 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/170678/",
         "crawl_time": "2026-09-03T21:33:10"
+    },
+    {
+        "title": "2026「文資小學堂」線上電競賽",
+        "category": "競賽與檢定",
+        "activity_date": "~",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "即日起至 9/8 截止",
+        "location": "線上",
+        "target_age": "國中小學生組、不限年齡的個人賽、跨世代雙人團體賽（1位18歲以上成人 + 1位未滿18歲學生）",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "由台南市舉辦的「文資小學堂」線上電競賽，鼓勵國中小學生、不限年齡個人及跨世代親子組隊參與。透過回答台南文資趣味題目，爭奪豐富獎品，報名即贈PaGamO獨家虛寶。活動旨在以電競方式翻轉歷史文資學習。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tmach-culture.tainan.gov.tw/activity.asp?mainid=17BE9DF8-7921-40AF-A82A-5300479D788A",
+        "crawl_time": "2026-09-04T21:12:44"
+    },
+    {
+        "title": "2026葫蘆埤玩一夏",
+        "category": "5.生態與大自然",
+        "activity_date": "115年7月25日、26日及8月1日、2日",
+        "start_date": "2026-07-25",
+        "end_date": "2026-08-02",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "活動資訊可至報名網頁查詢(https://reurl.cc/qpylzy)",
+        "location": "官田區葫蘆埤自然公園",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "台南市政府觀光旅遊局舉辦的2026葫蘆埤玩一夏活動，於官田區葫蘆埤自然公園舉行。活動時間為2026年7月25、26日及8月1、2日，邀請民眾一同到自然公園享受夏日樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tmach-culture.tainan.gov.tw/page.asp?mainid=925636FA-485E-48E4-8691-80DF8EDE175A",
+        "crawl_time": "2026-09-04T21:12:44"
+    },
+    {
+        "title": "臺南山上花園水道博物館 水道夏浪祭",
+        "category": "動態體能",
+        "activity_date": "2026年8月",
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-31",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "不需預先報名，入園即可參加",
+        "location": "臺南山上花園水道博物館 (743001臺南市山上區山上里山上16號)",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺南山上花園水道博物館的年度盛事「水道夏浪祭」於8月登場，結合百米滑水道、20米氣墊樂園，提供遊客夏日消暑樂趣。現場更有30攤市集，為全齡遊客帶來多元的遊憩體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://waterworks.tainan.gov.tw/index.php?modify=news",
+        "crawl_time": "2026-09-04T21:12:44"
+    },
+    {
+        "title": "臺南山上花園水道博物館 戲水池開放",
+        "category": "動態體能",
+        "activity_date": "115年度",
+        "start_date": "2026-06-19",
+        "end_date": "2026-09-30",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "購票入園即可使用",
+        "location": "臺南山上花園水道博物館 (743001臺南市山上區山上里山上16號)",
+        "target_age": "兒童",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "臺南山上花園水道博物館內的戲水池於115年度夏季開放，提供大小朋友消暑戲水的安全場所。遊客購票入園後即可免費使用，是親子活動的好去處。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://waterworks.tainan.gov.tw/index.php?modify=news",
+        "crawl_time": "2026-09-04T21:12:44"
+    },
+    {
+        "title": "水道夏浪祭－一波又起",
+        "category": "節慶市集與綜合",
+        "activity_date": "2026年8月1、2日",
+        "start_date": "2026-08-01",
+        "end_date": "2026-08-02",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "現場入場，無需報名。",
+        "location": "台南山上花園水道博物館",
+        "target_age": "大小朋友，12歲以下兒童憑證可免費入園",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "台南山上花園水道博物館舉辦「水道夏浪祭－一波又起」，內容升級，包含百米滑水道、20公尺大型氣墊戲水樂園，並集結30個特色文創攤位市集。另有博物館益智闖關、攀樹體驗、綠植手作等活動。強調親子共遊，12歲以下兒童免費入園，邀請大小朋友一同戲水、逛市集，享受清涼夏日時光。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ettoday.net/news/20260726/3207762.htm?from=ettoday_app",
+        "crawl_time": "2026-09-04T21:12:44"
     }
 ]
