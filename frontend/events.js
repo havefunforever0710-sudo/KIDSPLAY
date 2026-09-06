@@ -18404,5 +18404,91 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.hccc.gov.tw/zh-tw/Activity/List?ticket=1",
         "crawl_time": "2026-09-05T20:55:11"
+    },
+    {
+        "title": "FOCASA 馬戲團《馬戲親子演出計畫－馬戲探險家》",
+        "category": "藝文展演",
+        "activity_date": "115-10-03 ~ 115-10-04",
+        "start_date": "2026-10-03",
+        "end_date": "2026-10-04",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "免費入場，自由停留欣賞",
+        "location": "桃園展演中心-門前廣場",
+        "target_age": "闔家共同參與",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "FOCASA 馬戲團《馬戲親子演出計畫－馬戲探險家》於桃園展演中心戶外廣場免費演出。節目結合馬戲技巧、肢體表演與觀眾互動，營造親近且富有想像力的觀演體驗，適合闔家共同參與，歡迎攜帶野餐墊。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1863277",
+        "crawl_time": "2026-09-06T21:01:10"
+    },
+    {
+        "title": "大型兒童魔術劇《怪盜神偷-阿呆警察的復仇》",
+        "category": "藝文展演",
+        "activity_date": "115-09-26 ~ 115-09-26",
+        "start_date": "2026-09-26",
+        "end_date": "2026-09-26",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "請參考購票連結查詢時間與方式",
+        "location": "桃園市文化局演藝廳",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "2026全新故事《怪盜神偷-阿呆警察的復仇》大型兒童魔術劇，結合魔術與戲劇，講述警察阿呆與怪盜的鬥智鬥勇，一場充滿奇幻逗趣的冒險。將於桃園市文化局演藝廳歡樂登場。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1769106",
+        "crawl_time": "2026-09-06T21:01:10"
+    },
+    {
+        "title": "2026《仙履奇緣 Cinderella》兒童古典芭蕾舞劇",
+        "category": "2.藝文展演",
+        "activity_date": "115-10-03 ~ 115-10-04",
+        "start_date": "2026-10-03",
+        "end_date": "2026-10-04",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "請參考售票系統",
+        "location": "桃園展演中心-展演廳",
+        "target_age": "大小朋友",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "敦青舞蹈團與國際知名舞團Ballet Manila及桃園青少年舞者合作，全新重製《仙履奇緣 Cinderella》兒童古典芭蕾舞劇。國際專業舞者與臺灣青少年同臺，展現古典芭蕾藝術魅力。邀請大小朋友走進仙杜瑞拉的童話世界，見證勇氣、善良與夢想成真的奇蹟。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1863279",
+        "crawl_time": "2026-09-06T21:01:10"
+    },
+    {
+        "title": "森林閱讀萌萌隊-115竹縣嬰幼兒閱讀串連活動",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新竹縣",
+        "registration_date": null,
+        "location": null,
+        "target_age": "嬰幼兒",
+        "age_groups": [
+            "0-3歲"
+        ],
+        "price_type": "付費",
+        "summary": "新竹縣為嬰幼兒舉辦的閱讀串連活動，旨在推廣嬰幼兒閱讀習慣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hchcc.gov.tw/Tw/News/ActDetail?filter=58dd03be-c37d-40af-a540-6d34b3790b4c&id=0e935906-d6a4-4667-85e1-e2603c51642",
+        "crawl_time": "2026-09-06T21:01:10"
     }
 ];
