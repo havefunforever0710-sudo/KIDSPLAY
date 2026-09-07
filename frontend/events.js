@@ -18490,5 +18490,99 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.hchcc.gov.tw/Tw/News/ActDetail?filter=58dd03be-c37d-40af-a540-6d34b3790b4c&id=0e935906-d6a4-4667-85e1-e2603c51642",
         "crawl_time": "2026-09-06T21:01:10"
+    },
+    {
+        "title": "2026南投劇場藝術季-大開劇團好久茶的秘密2《夢幻雞排大冒險》",
+        "category": "藝文展演",
+        "activity_date": "2026/09/17 ~ 2026/09/19",
+        "start_date": "2026-09-17",
+        "end_date": "2026-09-19",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "南投縣",
+        "registration_date": "Opentix兩廳院售票系統",
+        "location": "南投縣文化局演藝廳",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "大開劇團的《夢幻雞排大冒險》是2026南投劇場藝術季的演出節目，內容適合親子觀賞，讓大小朋友一同沉浸在充滿想像力的戲劇世界。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nthcc.gov.tw/A4_1/content/34290",
+        "crawl_time": "2026-09-07T21:53:57"
+    },
+    {
+        "title": "指尖上的光影流年！南投「漆色流年」特展",
+        "category": "2.藝文展演",
+        "activity_date": "",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "中部",
+        "city": "南投縣",
+        "registration_date": "",
+        "location": "南投",
+        "target_age": "",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "南投縣文化局舉辦「漆色流年」特展，以指尖上的光影流年為主題，呈現漆器藝術之美，適合全齡親子一同欣賞。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nthcc.gov.tw/A3_1/content/34136",
+        "crawl_time": "2026-09-07T21:53:57"
+    },
+    {
+        "title": "「南投武德製造」5月登場，打造武德殿週末文化市集",
+        "category": "7.節慶市集與綜合",
+        "activity_date": "5月登場",
+        "start_date": "2026-05-01",
+        "end_date": "2026-05-31",
+        "recurring_days": [
+            0,
+            6
+        ],
+        "region": "中部",
+        "city": "南投縣",
+        "registration_date": "",
+        "location": "武德殿",
+        "target_age": "",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "南投武德殿於5月舉辦「南投武德製造」週末文化市集，打造獨特市集體驗，活動內容豐富多元，適合親子共遊，感受在地文化魅力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nthcc.gov.tw/A3_1/content/34136",
+        "crawl_time": "2026-09-07T21:53:57"
+    },
+    {
+        "title": "2026嘉義市古蹟日「馬嘻・搜遊」",
+        "category": [
+            "在地文化體驗",
+            "知性與靜態學習",
+            "手作DIY與才藝",
+            "節慶市集與綜合"
+        ],
+        "activity_date": "2026/09/19 ~ 2026/09/20",
+        "start_date": "2026-09-19",
+        "end_date": "2026-09-20",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "嘉義市",
+        "registration_date": "2026年9月1日上午11時起，於本局官網及臉書粉絲專頁，全面開放報名，名額有限，額滿為止。",
+        "location": "嘉義公園及嘉義城隍廟、嘉義慈濟宮、嘉義舊監獄宿舍群、舊嘉義菸葉廠等文化資產場域",
+        "target_age": "適合全齡參與，特別是家庭與兒童",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "2026嘉義市古蹟日「馬嘻・搜遊」以百年地震記憶與昔日賽馬文化為主題，融入插畫家設計的活潑童趣氛圍，串聯嘉義公園及多處文資場域。活動內容豐富，包含文資走讀、特色DIY、實境解謎、馬匹互動、防震教育、版畫拓印及植物創作等，並結合市集，帶領民眾在遊戲中親近文化資產，寓教於樂，適合全齡參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://cabcy.chiayi.gov.tw/web/cabcych/news_26082611483053703",
+        "crawl_time": "2026-09-07T21:53:57"
     }
 ];

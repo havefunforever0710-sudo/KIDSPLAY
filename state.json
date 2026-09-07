@@ -1,5 +1,5 @@
 {
-    "last_index": 86,
+    "last_index": 91,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -408,7 +408,10 @@
             "https://www.tlm.taichung.gov.tw/latestevent/Details.aspx?Parser=9,5,124,,,,2047"
         ],
         "https://www.bocach.gov.tw/": [],
-        "https://www.nthcc.gov.tw/": [],
+        "https://www.nthcc.gov.tw/": [
+            "https://www.nthcc.gov.tw/A4_1/content/34290",
+            "https://www.nthcc.gov.tw/A3_1/content/34136"
+        ],
         "https://content.yunlin.gov.tw/": [],
         "https://tmach-culture.tainan.gov.tw/": [
             "https://tmach-culture.tainan.gov.tw/activity.asp?mainid=B7A40E34-161B-44F0-9224-738E10175C96",
@@ -488,7 +491,8 @@
             "https://cabcy.chiayi.gov.tw/web/cabcych/HotActivitiesList_25081517540120428",
             "https://cabcy.chiayi.gov.tw/web/cabcych/HotActivitiesList_26060914095183543",
             "https://cabcy.chiayi.gov.tw/web/cabcych/news_26062515192425628",
-            "https://cabcy.chiayi.gov.tw/web/cabcych/HotActivitiesList_26070816535868936"
+            "https://cabcy.chiayi.gov.tw/web/cabcych/HotActivitiesList_26070816535868936",
+            "https://cabcy.chiayi.gov.tw/web/cabcych/news_26082611483053703"
         ],
         "https://culture.tainan.gov.tw/": [
             "https://culture.tainan.gov.tw/active/index?Parser=99,3,31"
