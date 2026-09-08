@@ -18584,5 +18584,24 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://cabcy.chiayi.gov.tw/web/cabcych/news_26082611483053703",
         "crawl_time": "2026-09-07T21:53:57"
+    },
+    {
+        "title": "2026孔廟文化節「可圈可點」啟蒙大典－硃砂啟智",
+        "category": "知性與靜態學習",
+        "activity_date": "",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "已額滿",
+        "location": "臺南孔廟",
+        "target_age": "",
+        "age_groups": [],
+        "price_type": "付費",
+        "summary": "臺南孔廟文化節中舉辦的啟蒙儀式，為孩童進行硃砂啟智，象徵開啟智慧與祝福。此活動報名已額滿。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://culture.tainan.gov.tw/registration/index?Parser=99,7,51",
+        "crawl_time": "2026-09-08T21:32:33"
     }
 ];
