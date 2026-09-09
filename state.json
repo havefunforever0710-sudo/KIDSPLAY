@@ -1,5 +1,5 @@
 {
-    "last_index": 96,
+    "last_index": 101,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -517,7 +517,10 @@
             "https://soulangh.tnc.gov.tw/index.php?inter=news&id=11",
             "https://soulangh.tnc.gov.tw/index.php?inter=exhibition&type=1&kind=current"
         ],
-        "https://tyart.tnc.gov.tw/": [],
+        "https://tyart.tnc.gov.tw/": [
+            "https://tyart.tnc.gov.tw/index.php?inter=program&period=real&id=261",
+            "https://tyart.tnc.gov.tw/index.php?inter=news&category=14&nId=201"
+        ],
         "https://www.beclass.com/": [
             "https://www.beclass.com/default.php?name=ShowList&op=catRank&range=R",
             "https://www.beclass.com/default.php?name=ShowList",

@@ -18603,5 +18603,53 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://culture.tainan.gov.tw/registration/index?Parser=99,7,51",
         "crawl_time": "2026-09-08T21:32:33"
+    },
+    {
+        "title": "2026總爺和風文化祭-高知縣工藝特展",
+        "category": "藝文展演",
+        "activity_date": "2026.08.28~ 2026.12.13",
+        "start_date": "2026-08-28",
+        "end_date": "2026-12-13",
+        "recurring_days": [
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "依開館時間自由入場，無需報名",
+        "location": "總爺藝文中心．紅磚工藝館 (地址：台南市麻豆區南勢里總爺5號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "高知縣，自然環境優美，孕育出土佐和紙、土佐打刃物、竹工藝、漆器、陶藝等兼具美感與實用性的傳統工藝。本特展將展示這些充滿高知職人對土地與生活細膩堅持的工藝品。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tyart.tnc.gov.tw/index.php?inter=program&period=real&id=261",
+        "crawl_time": "2026-09-09T21:29:01"
+    },
+    {
+        "title": "總爺和風文化祭",
+        "category": "藝文展演",
+        "activity_date": "8/29（六）",
+        "start_date": "2026-08-29",
+        "end_date": "2026-08-29",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "無報名資訊，自由入場",
+        "location": "總爺藝文中心 紅磚工藝館後方自由廳 (台南市麻豆區南勢里總爺5號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "總爺和風文化祭，舉辦Yosakoi夜來祭、赤野獅子舞、華之和音等日台文化交流演出。活動地點調整至紅磚工藝館後方自由廳，歡迎民眾前往觀賞，感受熱情洋溢的文化交流。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tyart.tnc.gov.tw/index.php?inter=news&category=14&nId=201",
+        "crawl_time": "2026-09-09T21:29:01"
     }
 ];
