@@ -20765,5 +20765,132 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.nmmst.gov.tw/chhtml/newsdetail/556/10633",
         "crawl_time": "2026-09-11T21:32:01"
+    },
+    {
+        "title": "2026藝術教育展「文字跑進作品裡了!」開幕限定體驗|與藝術家的共創日",
+        "category": "藝文展演",
+        "activity_date": "2026.10.03(六)｜14:00-16:00",
+        "start_date": "2026-10-03",
+        "end_date": "2026-10-03",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "線上報名，期間為2026/08/26 09:00 ~ 2026/09/18 23:59 (需人工審核)",
+        "location": "國立臺灣美術館 B1教育展示空間 (403414臺中市西區五權西路一段2號)",
+        "target_age": "家庭觀眾 (建議兒童年齡：5至10歲)",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "國美館2026藝術教育展「文字跑進作品裡了!」開幕限定體驗，邀請策展與藝術家團隊帶領家庭觀眾搶先體驗展覽。活動含作品故事、互動鑑賞與「文字入畫」集體共創。建議5-10歲孩童參與，全程參與有機會獲得專屬蠟筆。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60148",
+        "crawl_time": "2026-09-12T21:10:29"
+    },
+    {
+        "title": "115年全國美術展",
+        "category": "藝文展演",
+        "activity_date": "2026/07/18 09:00 ~ 2026/10/11 18:00",
+        "start_date": "2026-07-18",
+        "end_date": "2026-10-11",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": null,
+        "location": "國立臺灣美術館102-107展覽室、203-205展覽室、美術街，地址：臺中市西區五權西路一段2號",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "國立臺灣美術館主辦「115年全國美術展」，已邁入第16屆。本展透過公開徵件與專業評選，涵蓋水墨、書法、篆刻等11類創作，共展出114件作品及4位免審查獎藝術家作品，展現臺灣藝術多元樣貌與前瞻視野。此展提供創作者發表舞台，並為臺灣藝術文化注入生命力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60118",
+        "crawl_time": "2026-09-12T21:10:29"
+    },
+    {
+        "title": "龍王秘寶：琥珀解密工作坊",
+        "category": "手作DIY與才藝",
+        "activity_date": "2026/9/18（五）下午２時至４時",
+        "start_date": "2026-09-18",
+        "end_date": "2026-09-18",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "詳見連結",
+        "location": "中央廊道 (臺南市美術館)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "跟著黃憶人老師探索琥珀的形成與特色，親手體驗打磨與創作，一步步揭開來自遠古的祕密。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnam.museum/event/detail/732",
+        "crawl_time": "2026-09-12T21:10:29"
+    },
+    {
+        "title": "像警探一樣拍照片：編導式攝影工作坊",
+        "category": "手作DIY與才藝",
+        "activity_date": "2026/8/22（六）下午2時30分至5時",
+        "start_date": "2026-08-22",
+        "end_date": "2026-08-22",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "詳見連結",
+        "location": "閱讀之森 (臺南市美術館)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "運用警察服裝與道具，分組構思劇情、安排場景，創作自己的警察主題影像，完成一場「影像搜查」！",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnam.museum/event/detail/732",
+        "crawl_time": "2026-09-12T21:10:29"
+    },
+    {
+        "title": "〈親像彼寡死人骨頭的代誌〉講述式展演 × 策展人專場導覽",
+        "category": "藝文展演",
+        "activity_date": "2026/9/5（六）晚上7時至8時30分",
+        "start_date": "2026-09-05",
+        "end_date": "2026-09-05",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "詳見連結",
+        "location": "中央廊道 (臺南市美術館)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "透過藝術家的講述式展演與策展人導覽，走進家族、土地與警察歷史交織的現場，揭開深藏於歷史中的記憶。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnam.museum/event/detail/732",
+        "crawl_time": "2026-09-12T21:10:29"
+    },
+    {
+        "title": "《高雄獎30年：藝術的未竟與再啟》定時導覽",
+        "category": "藝文展演",
+        "activity_date": "115年9月8日至115年11月29日",
+        "start_date": "2026-09-08",
+        "end_date": "2026-11-29",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": "定時導覽現場集合，租借導覽子機；團體導覽需預約。",
+        "location": "高雄市立美術館 北大廳集合",
+        "target_age": "不限年齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "高雄市立美術館《高雄獎30年：藝術的未竟與再啟》展覽的定時導覽服務。導覽時間約50分鐘，帶領參觀者深入了解藝術作品與展覽主題。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.kmfa.gov.tw/artbiopark/",
+        "crawl_time": "2026-09-12T21:10:29"
     }
 ]
