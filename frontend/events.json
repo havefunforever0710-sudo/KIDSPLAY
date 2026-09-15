@@ -21530,5 +21530,338 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.typl.gov.tw/zh-tw/Activity/Content/10102?Preview=1147-F6215E65063844978A9A4D5FCC5007D8&httproute=True",
         "crawl_time": "2026-09-14T22:14:57"
+    },
+    {
+        "title": "【全市】寶寶故事劇場《布萊梅樂隊》，歡迎親子一起來看劇!",
+        "category": "藝文展演",
+        "activity_date": "2026-09-13 ~ 2026-09-20",
+        "start_date": "2026-09-13",
+        "end_date": "2026-09-20",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "9/8(二)上午10點起網路報名。",
+        "location": "新北市立圖書館各分館",
+        "target_age": "0-5歲嬰幼兒及其家長",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲"
+        ],
+        "price_type": "免費",
+        "summary": "為推動閱讀從0歲開始，鼓勵家長與寶寶進行親子共讀，結合經典童話與戲劇表演等元素，邀請親子一起進入童話世界中快樂共讀共玩。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://atpass.ntpclib.gov.tw/activities/detail?svcId=8e109e8bb57a4b44b21e31c34db87dba&cntId=b5490a78a88c476aafcdb49e3c7d5100",
+        "crawl_time": "2026-09-15T21:54:31"
+    },
+    {
+        "title": "【林口區李科永紀念圖書館】嬰幼兒活動-海洋故事與觸覺盆探索",
+        "category": "手作DIY與才藝",
+        "activity_date": "9月19日（星期六）10:00 - 12:00",
+        "start_date": "2026-09-19",
+        "end_date": "2026-09-19",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "開放報名時間：9月5日（星期六）上午9:00，報名方式：https://reurl.cc/qav33y",
+        "location": "林口區李科永紀念圖書館 2樓小學堂（新北市林口區公園路192號2樓）",
+        "target_age": "0-6歲嬰幼兒家庭",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲"
+        ],
+        "price_type": "免費",
+        "summary": "以溫柔的海洋繪本故事帶領孩子認識深藍世界，並透過「觸覺海洋盆」探索，提供趣味安全的觸覺刺激環境，讓0-6歲嬰幼兒盡情動手探索，幫助孩子減敏，享受豐富感知體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=d21f0f5e51dc4254a06b1f81feff84f7",
+        "crawl_time": "2026-09-15T21:54:31"
+    },
+    {
+        "title": "【新莊福營分館】2026 Roger科學大魔界：10月31日【光的完全反射】講座",
+        "category": "知性與靜態學習",
+        "activity_date": "2026年10月31日（星期六）",
+        "start_date": "2026-10-31",
+        "end_date": "2026-10-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "網路報名：9/30(三)10:30起至 10/29(四)止，以線上報名為主。",
+        "location": "福營行政大樓 6 樓禮堂（新莊區四維路 9 號）",
+        "target_age": "國小一至六年級需親子共同參加。國中七至九年級可單獨報名。",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "新莊福營分館舉辦「Roger科學大魔界」科學教育推廣講座，主題為【光的完全反射】。活動包含科學實驗與魔術示範，探討光的反射、折射原理及其生活應用。適合國小親子與國中生參與，需繳交材料費60元。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=771055b2dc814c638b70a224a49bf302",
+        "crawl_time": "2026-09-15T21:54:31"
+    },
+    {
+        "title": "臺北市立圖書館-兒童活動-民生分館╳荷蘭視野·台北實踐「小小城市探險家：我的安全上學路」歡迎報名參加！",
+        "category": "知性與靜態學習",
+        "activity_date": "第1場：10月17日（六）下午1時30分至2時30分；第2場：10月18日（日）下午1時30分至2時30分",
+        "start_date": "2026-10-17",
+        "end_date": "2026-10-18",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "至民生分館服務臺或電話（02）27138083報名，因兩場內容相同請擇一報名。",
+        "location": "民生分館5樓視聽室（松山區敦化北路199巷5號5樓）",
+        "target_age": "國小學生及家長，親子一起參加。",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "本活動透過繪本導讀，引導國小學生思考城市空間與日常生活、永續城市與低碳生活的關係。旨在培養孩子觀察環境、表達想法及關心公共事務的能力，並認識「荷蘭視野·台北實踐」團隊推廣永續交通的理念。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tpml.gov.taipei/News_Content.aspx?n=49F42C0F3A955E81&sms=9D72E82EC16F3E64&s=73D2D74685489CE2",
+        "crawl_time": "2026-09-15T21:54:31"
+    },
+    {
+        "title": "臺北市立圖書館南港分館「小方老師的親子摺紙課」- 萬聖節帽子紙模型",
+        "category": "手作DIY與才藝",
+        "activity_date": "10月4日（星期日）下午1時30分至3時30分",
+        "start_date": "2026-10-04",
+        "end_date": "2026-10-04",
+        "recurring_days": [
+            0
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "9月20日開始報名, 電話報名: 02-27825232",
+        "location": "臺北市立圖書館南港分館3樓活動室。（臺北市南港區南港路1段350號）",
+        "target_age": "國小兒童。",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "透過摺紙培養小朋友的空間概念與手指靈活度，增進親子互動。課程中擺放摺紙書籍，鼓勵大小朋友借閱。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tpml.gov.taipei/News_Content.aspx?n=49F42C0F3A955E81&sms=9D72E82EC16F3E64&s=D41904D9010363BF",
+        "crawl_time": "2026-09-15T21:54:31"
+    },
+    {
+        "title": "臺北市立圖書館南港分館「小方老師的親子摺紙課」- 月星摺紙",
+        "category": "手作DIY與才藝",
+        "activity_date": "11月8日（星期日）下午1時30分至3時30分",
+        "start_date": "2026-11-08",
+        "end_date": "2026-11-08",
+        "recurring_days": [
+            0
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "9月20日開始報名, 電話報名: 02-27825232",
+        "location": "臺北市立圖書館南港分館3樓活動室。（臺北市南港區南港路1段350號）",
+        "target_age": "國小兒童。",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "透過摺紙培養小朋友的空間概念與手指靈活度，增進親子互動。課程中擺放摺紙書籍，鼓勵大小朋友借閱。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tpml.gov.taipei/News_Content.aspx?n=49F42C0F3A955E81&sms=9D72E82EC16F3E64&s=D41904D9010363BF",
+        "crawl_time": "2026-09-15T21:54:31"
+    },
+    {
+        "title": "臺北市立圖書館南港分館「小方老師的親子摺紙課」- 聖誕刺蝟紙模型",
+        "category": "手作DIY與才藝",
+        "activity_date": "12月6日（星期日）下午1時30分至3時30分",
+        "start_date": "2026-12-06",
+        "end_date": "2026-12-06",
+        "recurring_days": [
+            0
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "9月20日開始報名, 電話報名: 02-27825232",
+        "location": "臺北市立圖書館南港分館3樓活動室。（臺北市南港區南港路1段350號）",
+        "target_age": "國小兒童。",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "透過摺紙培養小朋友的空間概念與手指靈活度，增進親子互動。課程中擺放摺紙書籍，鼓勵大小朋友借閱。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tpml.gov.taipei/News_Content.aspx?n=49F42C0F3A955E81&sms=9D72E82EC16F3E64&s=D41904D9010363BF",
+        "crawl_time": "2026-09-15T21:54:31"
+    },
+    {
+        "title": "親子美育數位圖書館「我也是一個有故事的人」親子文學創作活動",
+        "category": "知性與靜態學習",
+        "activity_date": "10月18日(日) 下午2時至4時",
+        "start_date": "2026-10-18",
+        "end_date": "2026-10-18",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "線上報名：https://reurl.cc/j6G2gn",
+        "location": "親子美育數位圖書館2樓多功能放映室 (臺北市南港區研究院路2段61巷15號2樓)",
+        "target_age": "幼稚園小班至國小兒童及其家長",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "由黃英雄老師帶領親子文學創作活動，引導幼稚園小班至國小學童從自身經驗出發，學習觀察、思考與表達，將生活轉化為故事作品。課程結合電影案例，並融入尊重差異、包容多元觀念，讓親子在創作中學習理解他人，建立人際價值，共享情感交流時光。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tpml.gov.taipei/News_Content.aspx?n=49F42C0F3A955E81&sms=9D72E82EC16F3E64&s=FE62FA4D960EA985",
+        "crawl_time": "2026-09-15T21:54:31"
+    },
+    {
+        "title": "時光淬釀的經典——國資圖凱迪克大獎繪本展",
+        "category": "藝文展演",
+        "activity_date": "2026-09-01~2027-03-07",
+        "start_date": "2026-09-01",
+        "end_date": "2027-03-07",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": null,
+        "location": "總館3樓世界繪本中心",
+        "target_age": null,
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "國資圖舉辦「凱迪克大獎繪本展」，精選2016-2026年金銀獎作品。展覽透過繪本藝術呈現時代議題，如文化記憶、自我認同。亮點為2026年金獎《煙火》，邀民眾感受繪本魅力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nlpi.edu.tw/ActivityInfo/recap/Detail/945",
+        "crawl_time": "2026-09-15T21:54:31"
+    },
+    {
+        "title": "小學生知識加油站-分年級好書展",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-01-02~2026-12-31",
+        "start_date": "2026-01-02",
+        "end_date": "2026-12-31",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": null,
+        "location": "國立公共資訊圖書館",
+        "target_age": "小學生",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "針對小學生分年級推薦好書的長期展覽，鼓勵學生培養閱讀興趣，增長知識。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nlpi.edu.tw/activityinfo/recap/audiences/親子兒童",
+        "crawl_time": "2026-09-15T21:54:31"
+    },
+    {
+        "title": "繪本故事時間(每週六上午9:30~10:30)",
+        "category": "藝文展演",
+        "activity_date": "2026-01-03~2026-12-27",
+        "start_date": "2026-01-03",
+        "end_date": "2026-12-27",
+        "recurring_days": [
+            6
+        ],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": null,
+        "location": "國立公共資訊圖書館",
+        "target_age": "幼兒及學齡前兒童",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲"
+        ],
+        "price_type": "付費",
+        "summary": "每週六上午定時舉辦的繪本故事時間，透過生動的故事分享，啟發兒童的想像力與閱讀興趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nlpi.edu.tw/activityinfo/recap/audiences/親子兒童",
+        "crawl_time": "2026-09-15T21:54:31"
+    },
+    {
+        "title": "親子經典讀經班 (每週六早上9:30~11:30)",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-01-03~2026-12-31",
+        "start_date": "2026-01-03",
+        "end_date": "2026-12-31",
+        "recurring_days": [
+            6
+        ],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": null,
+        "location": "國立公共資訊圖書館",
+        "target_age": "親子一同參與",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "每週六上午舉辦的親子經典讀經班，提供家庭一同學習經典文化的機會，增進親子互動。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nlpi.edu.tw/activityinfo/recap/audiences/親子兒童",
+        "crawl_time": "2026-09-15T21:54:31"
+    },
+    {
+        "title": "走揣・咱的所在－陳澄波特展在國資圖:島嶼學習實驗室，看見技職的未來",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-05-18~2026-12-13",
+        "start_date": "2026-05-18",
+        "end_date": "2026-12-13",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": null,
+        "location": "國立公共資訊圖書館",
+        "target_age": "青少年及大眾",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "結合藝術家陳澄波特展與島嶼學習實驗室，探討技職教育的未來，適合青少年及一般大眾參觀學習。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nlpi.edu.tw/activityinfo/recap/audiences/親子兒童",
+        "crawl_time": "2026-09-15T21:54:31"
+    },
+    {
+        "title": "【困獸 × 困境】石虎保育 × 適得其所 雙聯展",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-06-23~2026-10-11",
+        "start_date": "2026-06-23",
+        "end_date": "2026-10-11",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": null,
+        "location": "國立公共資訊圖書館",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "以石虎保育為主題的雙聯展覽，透過展出內容提升大眾對野生動物保育及生態環境議題的認識。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nlpi.edu.tw/activityinfo/recap/audiences/親子兒童",
+        "crawl_time": "2026-09-15T21:54:31"
+    },
+    {
+        "title": "走揣・咱的所在-角色導向職能體驗活動",
+        "category": "職業體驗",
+        "activity_date": "2026-06-26~2026-12-13",
+        "start_date": "2026-06-26",
+        "end_date": "2026-12-13",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": null,
+        "location": "國立公共資訊圖書館",
+        "target_age": "學齡兒童及青少年",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "提供角色導向的職能體驗活動，讓學齡兒童及青少年透過實際參與，探索不同職業的可能性。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nlpi.edu.tw/activityinfo/recap/audiences/親子兒童",
+        "crawl_time": "2026-09-15T21:54:31"
     }
 ]
