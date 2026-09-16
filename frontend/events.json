@@ -21863,5 +21863,246 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.nlpi.edu.tw/activityinfo/recap/audiences/親子兒童",
         "crawl_time": "2026-09-15T21:54:31"
+    },
+    {
+        "title": "【2026 場館友善計畫】《永動城市》共融舞蹈工作坊",
+        "category": "動態體能",
+        "activity_date": "2026.11.22 - 2026.11.28",
+        "start_date": "2026-11-22",
+        "end_date": "2026-11-28",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": null,
+        "location": "衛武營國家藝術文化中心",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "衛武營【2026場館友善計畫】系列活動，結合舞蹈平台節目，提供共融式的舞蹈學習體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.npac-weiwuying.org/?nomiss=%E6%9C%80%E6%96%B0%E6%B4%BB%E5%8B%95",
+        "crawl_time": "2026-09-16T21:51:47"
+    },
+    {
+        "title": "【創意學習工作坊】混青春表演課：我們的雙舞台",
+        "category": "藝文展演",
+        "activity_date": "2026.10.10",
+        "start_date": "2026-10-10",
+        "end_date": "2026-10-10",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": null,
+        "location": "衛武營國家藝術文化中心",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "一場跨世代的創意表演工作坊，探索表演藝術的魔幻魅力與雙重舞台呈現。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.npac-weiwuying.org/?nomiss=%E6%9C%80%E6%96%B0%E6%B4%BB%E5%8B%95",
+        "crawl_time": "2026-09-16T21:51:47"
+    },
+    {
+        "title": "衛武營黃昏市集-綠食光 feat.花椰菜控集合",
+        "category": "節慶市集與綜合",
+        "activity_date": "2026.10.09 - 2026.10.11",
+        "start_date": "2026-10-09",
+        "end_date": "2026-10-11",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": null,
+        "location": "衛武營國家藝術文化中心",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "去年廣受好評的「綠食光」黃昏市集再次登場，集結各式攤位與美食，適合全家大小。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.npac-weiwuying.org/?nomiss=%E6%9C%80%E6%96%B0%E6%B4%BB%E5%8B%95",
+        "crawl_time": "2026-09-16T21:51:47"
+    },
+    {
+        "title": "跳出來的地圖：那些身體走過的臺灣路",
+        "category": "藝文展演",
+        "activity_date": "2026.10.10 - 2027.01.24",
+        "start_date": "2026-10-10",
+        "end_date": "2027-01-24",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": null,
+        "location": "衛武營國家藝術文化中心",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "衛武營2026年度展覽，透過舞蹈記憶地圖，引領觀眾探索身體與臺灣土地的連結。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.npac-weiwuying.org/?nomiss=%E6%9C%80%E6%96%B0%E6%B4%BB%E5%8B%95",
+        "crawl_time": "2026-09-16T21:51:47"
+    },
+    {
+        "title": "衛武營芭蕾舞劇《遇見胡桃鉗》",
+        "category": "藝文展演",
+        "activity_date": "2026/12/18 ~ 2026/12/20",
+        "start_date": "2026-12-18",
+        "end_date": "2026-12-20",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": "會員早鳥購票自9/10(四)中午12:00起；一般大眾購票自9/17(四)中午12:00起。可透過兩廳院購票系統購票。",
+        "location": "衛武營國家藝術文化中心 戲劇院",
+        "target_age": "建議5歲以上觀眾觀賞。",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "衛武營芭蕾舞劇《遇見胡桃鉗》為經典芭蕾舞劇的臺灣自製版本，集結國內藝術家與在地舞者。故事描述女孩在成長中面對挑戰，生出勇氣。適合5歲以上觀眾，邀您聖誕季一同進入胡桃鉗的奇幻世界。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.npac-weiwuying.org/programs/69dda80cc3aa6c0007ef8b22",
+        "crawl_time": "2026-09-16T21:51:47"
+    },
+    {
+        "title": "【會員專屬】衛武營8週年特展《衛武營印記》會員體驗場",
+        "category": "知性與靜態學習",
+        "activity_date": "2026.09.17",
+        "start_date": "2026-09-17",
+        "end_date": "2026-09-17",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": null,
+        "location": "衛武營國家藝術文化中心（高雄市鳳山區三多一路 1 號）",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "衛武營國家藝術文化中心8週年特展《衛武營印記》的會員專屬體驗場，深入了解衛武營的故事與印記。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.npac-weiwuying.org/programs",
+        "crawl_time": "2026-09-16T21:51:47"
+    },
+    {
+        "title": "8週年特展《衛武營印記》",
+        "category": "知性與靜態學習",
+        "activity_date": "2026.09.18 - 2026.10.18",
+        "start_date": "2026-09-18",
+        "end_date": "2026-10-18",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": null,
+        "location": "衛武營國家藝術文化中心（高雄市鳳山區三多一路 1 號）",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "衛武營國家藝術文化中心8週年特展，探索建築背後的故事與獨特印記，展現衛武營的豐富歷史。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.npac-weiwuying.org/programs",
+        "crawl_time": "2026-09-16T21:51:47"
+    },
+    {
+        "title": "衛武營芭蕾舞劇《遇見胡桃鉗》",
+        "category": "藝文展演",
+        "activity_date": "2026.12.18 - 2026.12.20",
+        "start_date": "2026-12-18",
+        "end_date": "2026-12-20",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": "詳見官網",
+        "location": "衛武營國家藝術文化中心 高雄市鳳山區三多一路 1 號",
+        "target_age": "無明確資訊",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "衛武營於2026年聖誕夜裡再次上演經典芭蕾舞劇《遇見胡桃鉗》，透過舞蹈探索生命的相遇與成長，為觀眾帶來溫馨的節慶氛圍。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.npac-weiwuying.org/",
+        "crawl_time": "2026-09-16T21:51:47"
+    },
+    {
+        "title": "松菸夜光花園 光影展 THE LUMINOUS GARDEN",
+        "category": "2.藝文展演",
+        "activity_date": "2026-01-31 - 2026-12-31",
+        "start_date": "2026-01-31",
+        "end_date": "2026-12-31",
+        "recurring_days": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "無需報名，免費參觀",
+        "location": "松山文創園區 巴洛克花園 (台北市信義區光復南路133號)",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "松山文創園區夜間光影展，點亮巴洛克花園。以光影藝術探索古蹟、自然與當代文化，融合松菸歷史、生態與流行元素。展演包含《浮光綻放》及《夜光劇場》系列，帶來視聽沉浸體驗。每日18:00-22:00免費入場。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/07e87658-6bea-4715-b633-5e44cd2d9e30",
+        "crawl_time": "2026-09-16T21:51:47"
+    },
+    {
+        "title": "毛孩藝術生活節 FURever Art Festival : IM”PAW”SIBLE",
+        "category": "藝文展演",
+        "activity_date": "2026/12/18 (五) – 2026/12/20 (日)",
+        "start_date": "2026-12-18",
+        "end_date": "2026-12-20",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "無需報名，免費入場",
+        "location": "松山文創園區 2 號倉庫 (台北市信義區光復南路133號)",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "活動以毛寵為主題，匯聚毛孩藝術家、插畫創作者與寵物品牌，打造融合藝術展覽與市集文化的複合型展會。這是一場屬於毛孩與人共同參與的藝術生活體驗，免費入場。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/c738025c-425f-4fdb-b7f0-79fcf49c7dc1",
+        "crawl_time": "2026-09-16T21:51:47"
+    },
+    {
+        "title": "璞石策展系列 Vol.1《Living Minerals｜礦物生活美學特展》",
+        "category": "藝文展演",
+        "activity_date": "2026/09/22（二）– 2026/10/11（日）",
+        "start_date": "2026-09-22",
+        "end_date": "2026-10-11",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "展覽免費入場，無需購票。「設計自己的龍龜」彩繪體驗為另外付費之體驗活動，採現場報名／預約制，實際費用及名額依現場公告為準。若報名人數較多，建議於 24 小時前預約。",
+        "location": "松山文創園區｜檢查室，台北市信義區光復南路133號",
+        "target_age": "未滿12歲兒童建議由家長或成年陪同者陪同參觀。",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "璞石策展系列 Vol.1《Living Minerals｜礦物生活美學特展》在松山文創園區展出，透過天然礦物、晶體與藝術創作，呈現礦物融入日常生活的多元樣貌。展覽期間，假日限定的「彩繪龍龜」付費體驗活動，提供親子手作樂趣，邀請大小朋友共同探索礦物與生活的連結。展覽本身免費入場，未滿12歲兒童建議由家長陪同參觀。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/ddf676a8-1a74-4737-b739-34d2ce4b7bf1",
+        "crawl_time": "2026-09-16T21:51:47"
     }
 ]
