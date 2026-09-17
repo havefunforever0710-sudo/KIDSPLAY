@@ -22105,5 +22105,141 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.songshanculturalpark.org/exhibition/activity/ddf676a8-1a74-4737-b739-34d2ce4b7bf1",
         "crawl_time": "2026-09-16T21:51:47"
+    },
+    {
+        "title": "2026臺中國際動畫影展",
+        "category": "藝文展演",
+        "activity_date": "115年10月3日(週六)至10日(週六)",
+        "start_date": "2026-10-03",
+        "end_date": "2026-10-10",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "9月11日（週五）中午12時起於OPENTIX售票系統啟售",
+        "location": "臺中iFG遠雄廣場威秀影城",
+        "target_age": "適合全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "第12屆臺中國際動畫影展，放映來自世界各地精彩動畫作品，包括臺灣原創動畫影集與日本動畫經典等，並於OPENTIX售票系統啟售。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.huludun.taichung.gov.tw/news/index-1.asp?Parser=9,5,223,,,,5275",
+        "crawl_time": "2026-09-17T21:53:50"
+    },
+    {
+        "title": "2026臺中國際動畫影展系列活動：戶外放映《史努比The Peanuts Movie》",
+        "category": "藝文展演",
+        "activity_date": "115年9月26日（週六）19時",
+        "start_date": "2026-09-26",
+        "end_date": "2026-09-26",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "無明確報名資訊",
+        "location": "臺中市民廣場",
+        "target_age": "適合全齡，特別適合兒童",
+        "age_groups": [
+            "全齡",
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "2026臺中國際動畫影展系列活動，於臺中市民廣場舉行戶外派對，並放映闔家觀賞的動畫電影《史努比The Peanuts Movie》。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.huludun.taichung.gov.tw/news/index-1.asp?Parser=9,5,223,,,,5275",
+        "crawl_time": "2026-09-17T21:53:50"
+    },
+    {
+        "title": "2026臺中國際動畫影展系列活動：《奇談島航》動畫創作特展",
+        "category": "藝文展演",
+        "activity_date": "115年9月11日（週五）至10月12日（週一），每週二配合場館休館，不開放",
+        "start_date": "2026-09-11",
+        "end_date": "2026-10-12",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "無明確報名資訊",
+        "location": "中山73影視藝文空間（臺中市中區中山路73號)",
+        "target_age": "適合全齡",
+        "age_groups": [
+            "全齡",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "2026臺中國際動畫影展系列，於中山73影視藝文空間展出《奇談島航》動畫創作特展，讓觀眾深入了解動畫製作過程。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.huludun.taichung.gov.tw/news/index-1.asp?Parser=9,5,223,,,,5275",
+        "crawl_time": "2026-09-17T21:53:50"
+    },
+    {
+        "title": "2026臺中國際動畫影展系列活動：大型戶外裝置特展",
+        "category": "藝文展演",
+        "activity_date": "115年9月6日(週日)至10月6日(週二)",
+        "start_date": "2026-09-06",
+        "end_date": "2026-10-06",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "無明確報名資訊",
+        "location": "臺中市民廣場",
+        "target_age": "適合全齡",
+        "age_groups": [
+            "全齡",
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "2026臺中國際動畫影展系列活動，在臺中市民廣場展出大型戶外裝置特展，提供民眾與動畫藝術互動的公共空間。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.huludun.taichung.gov.tw/news/index-1.asp?Parser=9,5,223,,,,5275",
+        "crawl_time": "2026-09-17T21:53:50"
+    },
+    {
+        "title": "第34屆全國兒童聯想創作畫比賽",
+        "category": "手作DIY與才藝",
+        "activity_date": "初賽徵件自即日起至10月8日止",
+        "start_date": "2026-09-16",
+        "end_date": "2026-10-08",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "初賽徵件自即日起至10月8日止，活動詳情及畫紙索取方式請至「全國兒童聯想創作畫」網站查詢。",
+        "location": "全國各地 (線上/郵寄投稿)",
+        "target_age": "全國學童",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "臺中市政府文化局主辦「第34屆全國兒童聯想創作畫比賽」，以「微笑地球的想像旅程」為主題，鼓勵全國學童從日常生活聯想，透過藝術創作關注環境議題。比賽旨在打造自由揮灑創意的舞台，初賽徵件自即日起至10月8日止，詳情請洽官網。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.huludun.taichung.gov.tw/news/index-1.asp?Parser=9,5,30,,,,5279",
+        "crawl_time": "2026-09-17T21:53:50"
+    },
+    {
+        "title": "2026纖維藝術節",
+        "category": "節慶市集與綜合",
+        "activity_date": "2026.09.12（六）-09.13（日）",
+        "start_date": "2026-09-12",
+        "end_date": "2026-09-13",
+        "recurring_days": [
+            6,
+            0
+        ],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "無須報名 (市集活動)",
+        "location": "臺中市纖維工藝博物館 1B展廳 (臺中市大里區國光里勝利二路1號)",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺中市纖維工藝博物館舉辦首屆「2026纖維藝術節」，以共振為主題，融合纖維市集、共創藝術、音樂體驗與飲食文化。活動包含藝術家引導創作、多樣化纖維工藝與美食市集，以及律動舞台音樂表演，適合全齡民眾參與，一同感受纖維藝術的多元魅力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.huludun.taichung.gov.tw/news/index-1.asp?Parser=9,5,223,,,,5274",
+        "crawl_time": "2026-09-17T21:53:50"
     }
 ];
