@@ -1,5 +1,5 @@
 {
-    "last_index": 38,
+    "last_index": 43,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -306,7 +306,8 @@
         "https://www.ncfta.gov.tw/": [
             "https://www.px-sunmake.org.tw/activity/seasonlist.html",
             "https://www.px-sunmake.org.tw/activity/artexhibitionlist.html",
-            "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=259414"
+            "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=259414",
+            "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=260925"
         ],
         "https://www.npsm.org.tw/": [],
         "https://www.gep.ntpc.gov.tw/": [
@@ -315,20 +316,26 @@
             "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246366358734295125&sid=0Q187374240979165004",
             "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246366358734295125&sid=0Q187384116836768754",
             "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246366358734295125&sid=0Q205605788098858761",
-            "https://mineartfestival.com/"
+            "https://mineartfestival.com/",
+            "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246366358734295125&sid=0Q187385014162413381",
+            "https://www.gep.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G266496700270752519&sid=0O308760664010107466"
         ],
         "https://www.nmh.gov.tw/": [
             "https://www.nmh.gov.tw/News_actives.aspx?n=6990&sms=13323",
             "https://www.nmh.gov.tw/News_Actives_photo.aspx?n=6983&sms=13323",
             "https://www.nmh.gov.tw/News_Content.aspx?n=6993&s=249680",
             "https://www.nmh.gov.tw/News_Card.aspx?n=7304&sms=15239",
-            "https://www.nmh.gov.tw/News_Content.aspx?n=6993&s=260563"
+            "https://www.nmh.gov.tw/News_Content.aspx?n=6993&s=260563",
+            "https://www.nmh.gov.tw/News_Actives_photo.aspx?n=6984&sms=13323"
         ],
         "https://www.mocataipei.org.tw/": [
             "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/Young*Folks%EF%BC%9A%E4%B8%96%E7%95%8C%E6%98%AF%E4%B8%80%E7%89%87%E6%84%9F%E7%9F%A5%E7%9A%84%E8%86%9C",
             "http://www.moca.taipei/tw/ExhibitionAndEvent/Exhibitions/Up-Coming",
             "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E8%A8%98%E6%86%B6%E7%9A%84%E5%9B%A4%E5%BE%92%E5%9B%B0%E5%A2%83",
-            "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E9%87%8E%E8%8D%89%E4%B8%8D%E6%9C%8D%E7%AE%A1"
+            "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E9%87%8E%E8%8D%89%E4%B8%8D%E6%9C%8D%E7%AE%A1",
+            "https://www.mocataipei.org.tw/tw/ExhibitionAndEvent/Info/【當代館ｘ維京國際】《地圖之外》，一起展開屬於自己的旅程",
+            "http://www.moca.taipei/tw/ExhibitionAndEvent/Exhibitions/Up-Coming",
+            "https://www.moca.taipei/tw/ExhibitionAndEvent/Events"
         ],
         "https://www.museum.org.tw/": [],
         "https://www.nmp.gov.tw/": [
