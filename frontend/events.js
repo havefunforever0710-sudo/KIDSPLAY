@@ -22774,5 +22774,154 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.moca.taipei/tw/ExhibitionAndEvent/Events",
         "crawl_time": "2026-09-18T21:24:13"
+    },
+    {
+        "title": "《飛天牛車糖廠小旅行》繪本分享會",
+        "category": "6. 知性與靜態學習",
+        "activity_date": "9/20 (日) 14:00-15:00",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "線上Accupass報名，免費入場。",
+        "location": "國立臺灣文學館 B1文學樂園 (臺南市中西區中正路1號)",
+        "target_age": "5歲以上兒童、親子為主",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "本活動為《飛天牛車糖廠小旅行》繪本分享會，邀請教育工作者、本書顧問與作者，帶領5歲以上兒童及親子，透過說故事、歷史文獻解謎及創作幕後花絮分享，深入認識臺灣糖業的過去與現在。活動免費參加，需線上報名，地點在國立臺灣文學館B1文學樂園。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60173",
+        "crawl_time": "2026-09-19T21:16:08"
+    },
+    {
+        "title": "「台語有 Sense」—— 台文 × 囡仔古 × 感官工作坊 - 【第1場】 09/26（拜六）｜《掛蠓罩的暗暝》",
+        "category": "藝文展演",
+        "activity_date": "2026/09/26 10:00 ~ 2026/09/26 12:00",
+        "start_date": "2026-09-26",
+        "end_date": "2026-09-26",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "2026/09/08 19:00 ~ 2026/09/26 09:59",
+        "location": "國立臺灣文學館文學沙龍",
+        "target_age": "規家伙仔、大人囡仔同齊來！",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "「台語有 Sense」感官工作坊，透過《掛蠓罩的暗暝》繪本及肢體引導，讓親子用五感體驗台灣記憶與故鄉氣味，學習台語。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60172",
+        "crawl_time": "2026-09-19T21:16:08"
+    },
+    {
+        "title": "「台語有 Sense」—— 台文 × 囡仔古 × 感官工作坊 - 【第2場】 09/27（禮拜）｜《歇睏的光》",
+        "category": "藝文展演",
+        "activity_date": "2026/09/27 10:00 ~ 2026/09/27 12:00",
+        "start_date": "2026-09-27",
+        "end_date": "2026-09-27",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "2026/09/08 19:00 ~ 2026/09/27 09:59",
+        "location": "國立臺灣文學館文學沙龍",
+        "target_age": "規家伙仔、大人囡仔同齊來！",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "「台語有 Sense」感官工作坊，透過《歇睏的光》繪本及肢體引導，陪伴親子面對負面情緒，用台語詩紀錄心情，尋找希望之光。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60172",
+        "crawl_time": "2026-09-19T21:16:08"
+    },
+    {
+        "title": "「台語有 Sense」—— 台文 × 囡仔古 × 感官工作坊 - 【第3場】 09/27（禮拜）｜《阿公豹𤆬我去讀冊》",
+        "category": "藝文展演",
+        "activity_date": "2026/09/27 14:00 ~ 2026/09/27 16:00",
+        "start_date": "2026-09-27",
+        "end_date": "2026-09-27",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "2026/09/08 19:00 ~ 2026/09/27 13:59",
+        "location": "國立臺灣文學館文學沙龍",
+        "target_age": "規家伙仔、大人囡仔同齊來！",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "「台語有 Sense」感官工作坊，透過《阿公豹𤆬我去讀冊》繪本及肢體引導，讓親子從孫女視角看世界，培養面對困難的勇氣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60172",
+        "crawl_time": "2026-09-19T21:16:08"
+    },
+    {
+        "title": "「台語有 Sense」—— 台文 × 囡仔古 × 感官工作坊 - 【第4場】 10/03（拜六）｜《黃金陣佮烏風幔》",
+        "category": "藝文展演",
+        "activity_date": "2026/10/03 10:00 ~ 2026/10/03 12:00",
+        "start_date": "2026-10-03",
+        "end_date": "2026-10-03",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "2026/09/08 19:00 ~ 2026/10/03 09:59",
+        "location": "國立臺灣文學館文學沙龍",
+        "target_age": "規家伙仔、大人囡仔同齊來！",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "「台語有 Sense」感官工作坊，透過《黃金陣佮烏風幔》繪本及木偶劇團，讓親子用台語感受台南在地神怪故事與文化。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60172",
+        "crawl_time": "2026-09-19T21:16:08"
+    },
+    {
+        "title": "「台語有 Sense」—— 台文 × 囡仔古 × 感官工作坊 - 【第5場】 10/17（拜六）｜《神奇漢藥房》",
+        "category": "藝文展演",
+        "activity_date": "2026/10/17 10:00 ~ 2026/10/17 12:00",
+        "start_date": "2026-10-17",
+        "end_date": "2026-10-17",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "2026/09/08 19:00 ~ 2026/10/17 09:59",
+        "location": "國立臺灣文學館文學沙龍",
+        "target_age": "規家伙仔、大人囡仔同齊來！",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "「台語有 Sense」感官工作坊，透過《神奇漢藥房》繪本及表演藝術，帶領親子走進漢藥房，用台語聽古、學知識，感受人情味。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60172",
+        "crawl_time": "2026-09-19T21:16:08"
+    },
+    {
+        "title": "【2026六堆園區農事學堂活動】蒔田農趣.共下禾作",
+        "category": "生態與大自然",
+        "activity_date": "2026年7月份",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "已結束報名",
+        "location": "六堆客家文化園區",
+        "target_age": "大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "六堆客家文化園區舉辦「農事學堂-蒔禾（插秧）體驗趣」，吸引家長與小朋友一同參與。透過赤腳下田插秧、祭拜土地伯公等客庄傳統習俗，讓學童親身體驗農事辛勞，學習愛護土地及客家文化知識。活動包含傳統點心與客家文化闖關，為親子帶來豐富的食農與文化教育體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/12205/12219/12218/168558/post",
+        "crawl_time": "2026-09-19T21:16:08"
     }
 ];
