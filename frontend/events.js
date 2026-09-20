@@ -22923,5 +22923,52 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://thcdc.hakka.gov.tw/12205/12219/12218/168558/post",
         "crawl_time": "2026-09-19T21:16:08"
+    },
+    {
+        "title": "【環境教育核定課程】共下來作田 - 臺北市客家文化主題公園",
+        "category": "生態與大自然, 知性與靜態學習, 在地文化體驗",
+        "activity_date": "每週二、四、五，上午09:30~11:30或下午13:30~15:30，共2小時。",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [
+            2,
+            4,
+            5
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "請於來訪日至少14日前（日曆日），於本官網線上申請（請點選本頁右上角加入購物車）。",
+        "location": "臺北市客家文化主題公園：客家文化中心、臺北客家農場 (臺北市中正區汀州路三段2號)",
+        "target_age": "5年級~6年級之學生",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "在臺北市客家文化主題公園，透過互動遊戲、實地觀察、實作，帶領學生走進梯田景觀，探索水稻生態與客家常民文化。體驗傳統農夫打田、插秧，並利用廢棄稻草搓草繩，理解稻米與人、水、土、生物的循環共生關係，學習客家族群「敬天惜地、勤儉傳家」的永續智慧。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://ssl.thcp.org.tw/events/1665",
+        "crawl_time": "2026-09-20T21:08:51"
+    },
+    {
+        "title": "《守護》沈浸式線上互動展",
+        "category": "藝文展演",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "線上平台隨時可參與",
+        "location": "線上平台 (Android, iOS, PC)",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "《守護》沈浸式線上互動展，邀請您探索四個信仰空間，透過物品收集與解謎遊戲，找回宗教聖物，重新聚集守護之力，為人們帶回心靈的平靜。可透過Android、IOS或PC參與，體驗近似真實的互動旅程。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.mwr.org.tw/2022guardian",
+        "crawl_time": "2026-09-20T21:08:51"
     }
 ];

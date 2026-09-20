@@ -1,5 +1,5 @@
 {
-    "last_index": 48,
+    "last_index": 53,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -382,7 +382,8 @@
             "https://ssl.thcp.org.tw/events/1647",
             "https://ssl.thcp.org.tw/events",
             "https://ssl.thcp.org.tw/events/1648",
-            "https://ssl.thcp.org.tw/events/1662"
+            "https://ssl.thcp.org.tw/events/1662",
+            "https://ssl.thcp.org.tw/events/1665"
         ],
         "https://www.mwr.org.tw/": [
             "https://www.mwr.org.tw/xmdoc/cont?xsmsid=0I011567281712162219&sid=0Q155639520221936320",
@@ -391,7 +392,8 @@
             "https://www.mwr.org.tw/xmdoc?xsmsid=0I003612806515691444",
             "https://www.mwr.org.tw/xcpmtexhi/cont?xsmsid=0H305740978429024070&sid=0Q020484110874916733",
             "https://www.mwr.org.tw/xmdoc/cont?xsmsid=0I011567281712162219&sid=0Q215620690060829690",
-            "https://www.mwr.org.tw/2026dharma"
+            "https://www.mwr.org.tw/2026dharma",
+            "https://www.mwr.org.tw/2022guardian"
         ],
         "https://www.suhopaper.org.tw/": [
             "https://www.suhopaper.org.tw/index.php?route=information/information&information_id=94",
