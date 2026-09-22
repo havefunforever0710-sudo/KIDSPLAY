@@ -22969,5 +22969,26 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.mwr.org.tw/2022guardian",
         "crawl_time": "2026-09-20T21:08:51"
+    },
+    {
+        "title": "澎湖南方四島「四不四想島了？東吉嶼坪環教隨行」快閃活動",
+        "category": "生態與大自然",
+        "activity_date": "115/08/07 ~ 115/08/17",
+        "start_date": "2026-08-07",
+        "end_date": "2026-08-17",
+        "recurring_days": [],
+        "region": "離島",
+        "city": "澎湖縣",
+        "registration_date": "活動期間現場參與",
+        "location": "澎湖南方四島國家公園 (東吉嶼碼頭涼亭旁、東嶼坪嶼池府廟前廣場)",
+        "target_age": "大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "內政部國家公園署海洋國家公園管理處於暑假期間，在澎湖南方四島的東吉嶼和東嶼坪嶼推出「四不四想島了？東吉嶼坪環教隨行」快閃活動。活動透過島嶼植物拼圖、捕魚手遊戲及玄武岩疊疊樂等趣味挑戰，帶領大小朋友認識南方四島的自然與人文特色。另規劃海洋廢棄物DIY手作體驗，推廣環境教育，為旅程留下獨特回憶。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.marine.gov.tw/zh_tw/news/ActivityInfo/%E6%BE%8E%E6%B9%96%E5%8D%97%E6%96%B9%E5%9B%9B%E5%B3%B6%E6%97%85%E9%81%8A%E6%96%B0%E9%AB%94%E9%A9%97-%E5%9B%9B%E4%B8%8D%E5%9B%9B%E6%83%B3%E5%B3%B6%E4%BA%86-%E5%B8%B6%E6%97%85%E4%BA%BA%E6%8E%A2%E7%B4%A2%E5%B3%B6%E5%B6%BC%E6%95%85%E4%BA%8B%C2%A0-12842485",
+        "crawl_time": "2026-09-22T21:45:45"
     }
 ]
