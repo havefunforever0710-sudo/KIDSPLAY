@@ -22991,5 +22991,24 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.marine.gov.tw/zh_tw/news/ActivityInfo/%E6%BE%8E%E6%B9%96%E5%8D%97%E6%96%B9%E5%9B%9B%E5%B3%B6%E6%97%85%E9%81%8A%E6%96%B0%E9%AB%94%E9%A9%97-%E5%9B%9B%E4%B8%8D%E5%9B%9B%E6%83%B3%E5%B3%B6%E4%BA%86-%E5%B8%B6%E6%97%85%E4%BA%BA%E6%8E%A2%E7%B4%A2%E5%B3%B6%E5%B6%BC%E6%95%85%E4%BA%8B%C2%A0-12842485",
         "crawl_time": "2026-09-22T21:45:45"
+    },
+    {
+        "title": "南投縣藝術家資料館展覽參觀預約",
+        "category": "2.藝文展演",
+        "activity_date": "2021/09/14 13:00-17:00",
+        "start_date": "2021-09-14",
+        "end_date": "2021-09-14",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "南投縣",
+        "registration_date": "2021/",
+        "location": "南投縣藝術家資料館",
+        "target_age": null,
+        "age_groups": [],
+        "price_type": "付費",
+        "summary": "預約參觀南投縣藝術家資料館的展覽，提供民眾規劃行程，深入了解藝術家的作品與文化資產。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nthcc.gov.tw/A13_2",
+        "crawl_time": "2026-09-24T21:56:03"
     }
 ];
