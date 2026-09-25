@@ -23009,5 +23009,89 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.nthcc.gov.tw/A13_2",
         "crawl_time": "2026-09-24T21:56:03"
+    },
+    {
+        "title": "2026臺南文資月-文資就跩 — 囝仔佇臺南 ✯ 自成一派",
+        "category": [
+            "藝文展演",
+            "手作DIY與才藝",
+            "生態與大自然",
+            "知性與靜態學習",
+            "長天數營隊",
+            "在地文化體驗",
+            "競賽與檢定"
+        ],
+        "activity_date": "2026臺南文資月",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "活動官網或粉絲頁查詢",
+        "location": "台南市各地（包含五條港、嘉南大圳、臺江內海、鹽分地帶等水系文化區域及校園）",
+        "target_age": "國小學童及親子",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "2026臺南文資月以「文資就跩！臺南自成一派」為主題，致敬「運河百年」歷史，帶領民眾探索臺南水脈文化。活動包含國小學童繪畫徵件、集章趣、水系地景工作坊及精選文化走讀小旅行等，邀請親子一同參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tmach-culture.tainan.gov.tw/activity.asp?mainid=CB750135-3A78-48E0-9748-65A3FC5487BD",
+        "crawl_time": "2026-09-25T21:57:45"
+    },
+    {
+        "title": "臺南山上花園水道博物館 參觀與導覽服務",
+        "category": [
+            "知性與靜態學習",
+            "在地文化體驗"
+        ],
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [
+            0,
+            1,
+            2,
+            4,
+            5,
+            6
+        ],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "免費定時導覽於國定假日及例假日的場次開始前5分鐘集合；平日付費導覽需於參訪前5日來電預約 (06-5781900轉22、23)；免費導覽App可自行下載使用。",
+        "location": "臺南山上花園水道博物館 (地址: 743001臺南市山上區山上里山上16號)",
+        "target_age": "不限年齡，6歲以下免費，歡迎親子參與。",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺南山上花園水道博物館提供豐富的知性參觀體驗。園區每日開放 (週三休園)，國定假日及例假日提供免費定時導覽，平日則可預約付費導覽。另有免費導覽App，含解謎尋寶遊戲與AR互動，增添親子探索樂趣。6歲以下兒童享免費入園優惠。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://waterworks.tainan.gov.tw/index.php?modify=visit&id=2",
+        "crawl_time": "2026-09-25T21:57:45"
+    },
+    {
+        "title": "【雙語繪本說故事】Ahoy！跟著高小雄&高小美遶境去~",
+        "category": "藝文展演",
+        "activity_date": "115/10/04 ~ 115/10/04",
+        "start_date": "2026-10-04",
+        "end_date": "2026-10-04",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": "2026.09.10 ~ 2026.09.30 (已額滿並截止報名)",
+        "location": "高雄市立歷史博物館 1F「高小雄冒險記」展廳 (高雄市鹽埕區中正四路272號)",
+        "target_age": "8-12歲（每組至多限2位成人陪同）",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "透過中英繪本故事與音樂律動，跟著高小雄、高小美體驗高雄熱鬧的民俗文化遶境，感受高雄的生命力。本活動為國發會雙語計畫推廣，免收報名費，適合8-12歲親子共同參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.khm.org.tw/tw/event/detail/406",
+        "crawl_time": "2026-09-25T21:57:45"
     }
 ]
