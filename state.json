@@ -1,5 +1,5 @@
 {
-    "last_index": 78,
+    "last_index": 83,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -511,7 +511,9 @@
             "https://www.hccc.gov.tw/zh-tw/Activity/SignUp",
             "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15554",
             "https://www.hccc.gov.tw/zh-tw/Activity/List?ticket=0",
-            "https://www.hccc.gov.tw/zh-tw/Activity/List?ticket=1"
+            "https://www.hccc.gov.tw/zh-tw/Activity/List?ticket=1",
+            "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15681",
+            "https://www.hccc.gov.tw/zh-tw/News/Detail/15693"
         ],
         "https://ccl.taitung.gov.tw/": [],
         "https://www.phhcc.gov.tw/": [],
@@ -524,7 +526,8 @@
             "https://www.ilccb.gov.tw/News_Content.aspx?n=10198&sms=12917&s=403607",
             "https://www.ilccb.gov.tw/News_Content.aspx?n=10199&sms=12932&s=404436",
             "https://www.ilccb.gov.tw/News_Content.aspx?n=10198&sms=12917&s=399199",
-            "https://www.ilccb.gov.tw/News_Content.aspx?n=10537&sms=12918&s=238677"
+            "https://www.ilccb.gov.tw/News_Content.aspx?n=10537&sms=12918&s=238677",
+            "https://www.ilccb.gov.tw/News_Content.aspx?n=10199&sms=12932&s=409278"
         ],
         "https://culture.tycg.gov.tw/": [
             "https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1700149",

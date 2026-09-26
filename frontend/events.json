@@ -23093,5 +23093,69 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.khm.org.tw/tw/event/detail/406",
         "crawl_time": "2026-09-25T21:57:45"
+    },
+    {
+        "title": "2026太平洋左岸藝術季《牛山海灣之歌》",
+        "category": "藝文展演",
+        "activity_date": "2026-10-25 19:00 至 2026-10-26 14:00",
+        "start_date": "2026-10-25",
+        "end_date": "2026-10-26",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "花蓮市",
+        "registration_date": "OPENTIX購票，早鳥優惠至9月30日",
+        "location": "花蓮文化創意產業園區18棟 (970 花蓮縣花蓮市中華路144號)",
+        "target_age": "不限",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "2026太平洋左岸藝術季《牛山海灣之歌》以花蓮水璉部落牛山海灣為背景，透過光影劇、人聲吟唱，從青少年視角講述土地、海洋與世代的故事，探索青年離鄉、文化記憶與土地情感。結合電影式光影戲、水盤投影，帶領觀眾深入部落記憶，聽見海灣之歌。演出另有演前導聆、演後座談。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15681",
+        "crawl_time": "2026-09-26T21:47:17"
+    },
+    {
+        "title": "2026花蓮國際石雕藝術季－讚美花蓮音樂會",
+        "category": "藝文展演",
+        "activity_date": "2026年9月25日至27日、10月2日至4日、10月9日至11日",
+        "start_date": "2026-09-25",
+        "end_date": "2026-10-11",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "花蓮縣",
+        "registration_date": "無需報名，自由入場",
+        "location": "花蓮日出大道重慶路路口",
+        "target_age": "全齡適用",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "花蓮縣文化局為2026國際石雕藝術季規劃「讚美花蓮音樂會」，於9/25至10/11三個週末，在日出大道舉辦9場戶外音樂會。邀請爵士、民歌、國樂等多元樂團演出，結合石雕藝術，營造城市藝文氛圍，適合全齡民眾共同參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hccc.gov.tw/zh-tw/News/Detail/15693",
+        "crawl_time": "2026-09-26T21:47:17"
+    },
+    {
+        "title": "新北市政府稅捐稽徵處辦理「繪玩又會稅」互動繪本網頁遊戲活動",
+        "category": "知性與靜態學習",
+        "activity_date": "115年9月18日起至10月15日止。",
+        "start_date": "2026-09-18",
+        "end_date": "2026-10-15",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "活動期間內至活動網站參與遊戲 (https://ntpc-argame.com/picturebook/)",
+        "location": "線上活動 (活動網站: https://ntpc-argame.com/picturebook/)",
+        "target_age": "無特定年齡限制，適合兒童及親子共學",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "新北市政府稅捐稽徵處舉辦「繪玩又會稅」互動繪本網頁遊戲，以「發票載具」與「買車好嗎」兩本繪本為主題，設計趣味遊戲關卡，引導大小朋友輕鬆學習稅務知識。活動為線上進行，適合兒童與親子共學。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ilccb.gov.tw/News_Content.aspx?n=10199&sms=12932&s=409278",
+        "crawl_time": "2026-09-26T21:47:17"
     }
 ]
