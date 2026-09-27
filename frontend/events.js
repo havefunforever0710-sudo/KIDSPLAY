@@ -23158,5 +23158,187 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.ilccb.gov.tw/News_Content.aspx?n=10199&sms=12932&s=409278",
         "crawl_time": "2026-09-26T21:47:17"
+    },
+    {
+        "title": "2026台灣設計展",
+        "category": "藝文展演",
+        "activity_date": "115/09/24 ~ 115/10/11",
+        "start_date": "2026-09-24",
+        "end_date": "2026-10-11",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "活動期間掃描指定QR Code，登入「藝遊桃園」數位集章網站即可參與。",
+        "location": "青埔、中壢雙主展區 (桃園會展中心、中原文創園區、中壢舊城等5處衛星展區)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "2026台灣設計展首度登陸桃園，以青埔、中壢雙主展區為核心，規劃16大主題展覽及系列響應活動。展覽推出數位集章新玩法，跟著Flowmomo跑跳集章，可兌換好禮。並攜手Global Mall桃園A19提供逾40家品牌獨家優惠，涵蓋親子娛樂，讓逛展成為一場充滿驚喜的城市冒險。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11103&s=1879470",
+        "crawl_time": "2026-09-27T21:49:51"
+    },
+    {
+        "title": "桃園兒童藝術節",
+        "category": "藝文展演",
+        "activity_date": "每年暑假期間舉辦",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": null,
+        "location": "桃園市各地",
+        "target_age": "親子為對象",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "桃園兒童藝術節是桃園市政府文化局舉辦的年度親子藝文活動，內容涵蓋大型戶外舞台演出、小型展演、兒童藝術市集等。旨在推展藝術啟蒙、拓展兒童世界觀，深受大小朋友喜愛。2024年推出『五力藝文精靈』IP，連結想像力、創造力、美學力、專注力、社交力，陪伴孩子成長。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://culture.tycg.gov.tw/Common/GetVisitcount.ashx?n=27303&s=1866712&ur=61DCF69F391283265E3C91632507C6BBD81068B190E4209F263D6CAAD00CB05F1BC20C546FFF382D999D403E181CFC46C1DA70B53F468691E5455292B21D4F8FAB897B045CD93054",
+        "crawl_time": "2026-09-27T21:49:51"
+    },
+    {
+        "title": "05飛行十間",
+        "category": "動態體能",
+        "activity_date": "10/9(五)-10/11(日)，10:30-12:00、13:30-16:30",
+        "start_date": "2026-10-09",
+        "end_date": "2026-10-11",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "現場報名制",
+        "location": "航空城博物館-05警戒區（桃園市大園區桃航三路456巷60號）",
+        "target_age": "大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "引進「電流急急棒」挑戰裝置，將基地空間轉化為刺激趣味的闖關設施，讓大小朋友在遊戲中加深對冷戰空防地景的認識，呼應國慶雙十精神。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://culture.tycg.gov.tw/News_Content.aspx?n=8812&s=1873647",
+        "crawl_time": "2026-09-27T21:49:51"
+    },
+    {
+        "title": "徽常有意思",
+        "category": "手作DIY與才藝",
+        "activity_date": "10/9(五)-10/10(六)，10:00-16:30",
+        "start_date": "2026-10-09",
+        "end_date": "2026-10-10",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "現場報名制",
+        "location": "航空城博物館-05警戒區（桃園市大園區桃航三路456巷60號）",
+        "target_age": "民眾",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "結合桃園設計展創意思維，萃取黑貓中隊隊徽、U-2高空偵察機等文化符號，邀請民眾親手繪製並壓印成兼具軍事記憶與個人設計風格的雙十徽章，作為專屬紀念品。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://culture.tycg.gov.tw/News_Content.aspx?n=8812&s=1873647",
+        "crawl_time": "2026-09-27T21:49:51"
+    },
+    {
+        "title": "十十刻刻",
+        "category": "手作DIY與才藝",
+        "activity_date": "10/9(五)-10/11(日)，10:00-17:00",
+        "start_date": "2026-10-09",
+        "end_date": "2026-10-11",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "現場報名制",
+        "location": "航空城博物館-05警戒區（桃園市大園區桃航三路456巷60號）",
+        "target_age": "民眾",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "以「時時刻刻守護天空」為核心，邀請民眾透過刮畫紙繪製專屬雙十國慶煙火。完成後可張貼於大型「雙十共創互動牆」，象徵全民共慶和平與對天空的美好祝福。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://culture.tycg.gov.tw/News_Content.aspx?n=8812&s=1873647",
+        "crawl_time": "2026-09-27T21:49:51"
+    },
+    {
+        "title": "「美術館實驗室：油畫開箱」教育推廣活動",
+        "category": "手作DIY與才藝",
+        "activity_date": "115年10月17日(星期六)",
+        "start_date": "2026-10-17",
+        "end_date": "2026-10-17",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新竹縣",
+        "registration_date": "9/19 中午12:00開放線上報名，兩人一組",
+        "location": "新竹縣政府文化局美術館室內外空間 (新竹縣竹北市縣政九路146號)",
+        "target_age": "喜愛藝術之一般民眾",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "以油畫為主題，透過作品觀察、媒材探索及多感官體驗，引導民眾認識油畫的色彩與表現方式，並透過共創油畫，深化民眾與典藏作品及美術館的連結。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hchcc.gov.tw/Tw/News/ActDetail?filter=e2ce565c-7042-466e-9b77-bb81937b8cf9&id=60decaad-428d-4e03-964a-efa8c42aa720",
+        "crawl_time": "2026-09-27T21:49:51"
+    },
+    {
+        "title": "「美術館實驗室：油畫開箱」常態開放體驗區",
+        "category": "手作DIY與才藝",
+        "activity_date": "115年10月21日(三) ~ 11月08日(日)",
+        "start_date": "2026-10-21",
+        "end_date": "2026-11-08",
+        "recurring_days": [
+            0,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "region": "北部",
+        "city": "新竹縣",
+        "registration_date": "免費入場，自由參加",
+        "location": "新竹縣政府文化局美術館親子學習區 (新竹縣竹北市縣政九路146號)",
+        "target_age": "親子家庭及一般觀眾",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "提供親子家庭及一般觀眾自由參與之開放式創作體驗區，讓民眾可自由探索油畫媒材，在互動中感受藝術樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hchcc.gov.tw/Tw/News/ActDetail?filter=e2ce565c-7042-466e-9b77-bb81937b8cf9&id=60decaad-428d-4e03-964a-efa8c42aa720",
+        "crawl_time": "2026-09-27T21:49:51"
+    },
+    {
+        "title": "「美術館實驗室：油畫開箱」成果展",
+        "category": "藝文展演",
+        "activity_date": "115年11月11日(三) ~ 11月18日(三)",
+        "start_date": "2026-11-11",
+        "end_date": "2026-11-18",
+        "recurring_days": [
+            0,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "region": "北部",
+        "city": "新竹縣",
+        "registration_date": "自由入場",
+        "location": "新竹縣政府文化局美術館親子學習區 (新竹縣竹北市縣政九路146號)",
+        "target_age": "一般民眾",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "展出「美術館實驗室：油畫開箱」系列活動之共創作品成果，呈現民眾參與創作的學習歷程，免費自由入場。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hchcc.gov.tw/Tw/News/ActDetail?filter=e2ce565c-7042-466e-9b77-bb81937b8cf9&id=60decaad-428d-4e03-964a-efa8c42aa720",
+        "crawl_time": "2026-09-27T21:49:51"
     }
 ];
