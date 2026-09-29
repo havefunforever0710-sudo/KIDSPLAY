@@ -23340,5 +23340,68 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.hchcc.gov.tw/Tw/News/ActDetail?filter=e2ce565c-7042-466e-9b77-bb81937b8cf9&id=60decaad-428d-4e03-964a-efa8c42aa720",
         "crawl_time": "2026-09-27T21:49:51"
+    },
+    {
+        "title": "「愛你到底在哪裡」開幕特別活動",
+        "category": "藝文展演",
+        "activity_date": "2026/10/03 15:00 - 16:30",
+        "start_date": "2026-10-03",
+        "end_date": "2026-10-03",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "不須預約；活動免費，入館請依本館購票辦法購票",
+        "location": "臺北市立美術館兒藝中心 (臺北市中山區中山北路三段181號)",
+        "target_age": "適合親子觀眾",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "臺北市立美術館兒藝中心「I Spy Love，發現愛」開幕特別活動。邀請三語事劇場以「一人一故事劇場」形式，徵集親子觀眾關於「愛」的日常故事，由演員與樂手即興演出，讓大家看見愛的不同樣貌。活動免費，適合親子觀眾。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tfam.museum/kid/Event/Event_page.aspx?id=3963",
+        "crawl_time": "2026-09-29T22:49:12"
+    },
+    {
+        "title": "435藝術聚落年度聯展「在這裡，我們ING」：2026 初始設定",
+        "category": "藝文展演",
+        "activity_date": "2026.08.28 — 2027.02.14",
+        "start_date": "2026-08-28",
+        "end_date": "2027-02-14",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "無需報名，展覽期間開放參觀",
+        "location": "板橋435藝文特區 光復館、華翠館、大漢館、新海館 (新北市板橋區中正路435號)",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "435藝術聚落年度聯展「在這裡，我們ING」以「2026 初始設定」為題，匯集40組藝術家與7組設計工作室，分六波接力展出。內容涵蓋美術、木雕、複合裝置、影像等多元媒材創作，展示藝術家的創作起點與未來三年計畫。展覽期間可參與集章活動，並將陸續推出表演藝術、開放工作室、市集音樂會等多元活動，適合全年齡參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.435.culture.ntpc.gov.tw/xmdoc/cont?xsmsid=0I215519643908705938&sid=0Q222379473106390358",
+        "crawl_time": "2026-09-29T22:49:12"
+    },
+    {
+        "title": "2026秋季新竹寫生日10月18日登場　邀您共繪百年州廳",
+        "category": "藝文展演",
+        "activity_date": "115年10月18日（日）",
+        "start_date": "2026-10-18",
+        "end_date": "2026-10-18",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新竹市",
+        "registration_date": "活動意願暨午餐登記表主要用於掌握參與意願及午餐需求，並非參加活動的資格限制。午餐限前100位。",
+        "location": "新竹市政府府前廣場、文化藝廊",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "新竹市文化局舉辦2026秋季新竹寫生日，於10月18日邀請民眾以畫筆描繪百年州廳及周邊古蹟風華。活動內容包括戶外寫生、速寫示範及專題講座，並提供限量繪畫材料，開放自由參加，適合所有喜愛藝術與城市文化的朋友。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "http://pse.is/2026HsinchuAutumnSketchingDay",
+        "crawl_time": "2026-09-29T22:49:12"
     }
 ];

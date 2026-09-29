@@ -1,5 +1,5 @@
 {
-    "last_index": 93,
+    "last_index": 98,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -463,7 +463,8 @@
             "https://www.yatsen.gov.tw/News_Content.aspx?n=6518&s=261211"
         ],
         "https://culture.hccg.gov.tw/": [
-            "https://hsinchucityfilm.kktix.cc/events/2026hsinchucityfilm"
+            "https://hsinchucityfilm.kktix.cc/events/2026hsinchucityfilm",
+            "http://pse.is/2026HsinchuAutumnSketchingDay"
         ],
         "https://www.tlm.taichung.gov.tw/": [
             "https://www.tlm.taichung.gov.tw/latestevent/Details.aspx?Parser=9,5,124,,,,1961",
@@ -580,12 +581,14 @@
         "https://www.tfam.museum/kid/": [
             "https://www.tfam.museum/kid/Event/Event_page.aspx?id=3927",
             "https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=804",
-            "https://www.tfam.museum/kid/Event/Event_page.aspx?id=3948"
+            "https://www.tfam.museum/kid/Event/Event_page.aspx?id=3948",
+            "https://www.tfam.museum/kid/Event/Event_page.aspx?id=3963"
         ],
         "https://www.435.culture.ntpc.gov.tw/": [
             "https://www.435.culture.ntpc.gov.tw/xmdoc/cont?xsmsid=0G293423996513620586&sid=0L201630594575735818",
             "https://www.435.culture.ntpc.gov.tw/xmdoc/cont?xsmsid=0G293423996513620586&sid=0L141575912488077919",
-            "https://www.435.culture.ntpc.gov.tw/xmdoc/cont?xsmsid=0I215519643908705938&sid=0Q062520919864875910"
+            "https://www.435.culture.ntpc.gov.tw/xmdoc/cont?xsmsid=0I215519643908705938&sid=0Q062520919864875910",
+            "https://www.435.culture.ntpc.gov.tw/xmdoc/cont?xsmsid=0I215519643908705938&sid=0Q222379473106390358"
         ],
         "https://eleven-ent.com/": [],
         "https://soulangh.tnc.gov.tw/": [
