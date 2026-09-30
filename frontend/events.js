@@ -23403,5 +23403,166 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "http://pse.is/2026HsinchuAutumnSketchingDay",
         "crawl_time": "2026-09-29T22:49:12"
+    },
+    {
+        "title": "駐村藝術家葉馨文個展《沿線定位》",
+        "category": "藝文展演",
+        "activity_date": "即日起於蕭壠文化園區A3-1館展出，每週三至週日上午9時至下午5時免費開放參觀",
+        "start_date": "2026-07-10",
+        "end_date": null,
+        "recurring_days": [
+            3,
+            4,
+            5,
+            6,
+            0
+        ],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "免費開放參觀，無需報名",
+        "location": "蕭壠文化園區A3-1館 (台南市佳里區六安里六安130號)",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "駐村藝術家葉馨文以糖業鐵道為創作主軸，透過踏查與觀察，重新詮釋鐵道沿線的人文風景與時代記憶。展出大型繪製輸出創作及手繪作品，引領觀眾思考地方、空間與時間交織的文化記憶。展覽於蕭壠文化園區A3-1館免費開放參觀，並舉辦藝術教育推廣活動。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://soulangh.tnc.gov.tw/index.php?inter=news&id=11&did=355",
+        "crawl_time": "2026-09-30T22:48:19"
+    },
+    {
+        "title": "沿線定位 Mapping along the line",
+        "category": "2.藝文展演",
+        "activity_date": "2026-07-10 ~ 2027-02-28",
+        "start_date": "2026-07-10",
+        "end_date": "2027-02-28",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "網頁未明確說明此展覽的報名資訊，請參考蕭壠文化園區官網或現場公告。",
+        "location": "蕭壠文化園區 (台南市佳里區六安里六安130號)",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "駐村藝術家葉馨文個展《沿線定位》於蕭壠文化園區展出，展示藝術家在駐村期間的創作成果。蕭壠文化園區設有兒童美術館群，此展覽適合親子一同參觀，感受藝術氛圍。展期自2026年7月10日至2027年2月28日。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://soulangh.tnc.gov.tw/",
+        "crawl_time": "2026-09-30T22:48:19"
+    },
+    {
+        "title": "曲流擺－曾文溪的裏淺山 2026 Mattauw 大地藝術季",
+        "category": "藝文展演",
+        "activity_date": "2026.9.5 – 12.6",
+        "start_date": "2026-09-05",
+        "end_date": "2026-12-06",
+        "recurring_days": [
+            0,
+            3,
+            4,
+            5,
+            6
+        ],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "未提及報名時間與方式，展覽依開放時間自由參觀。",
+        "location": "臺南市多個展區，主要展區為總爺藝文中心 (臺南市麻豆區南勢里總爺5號)、曾文水庫及其他淺山聚落展區。",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "2026 Mattauw大地藝術季以「全流域」與「淺山帶」雙重視野，關注曾文溪流域，透過藝術行動探問「自然契約」。展期從2026年9月5日至12月6日，涵蓋臺南市多個淺山聚落，結合三年田調、多元藝術家與作品，提供感官田野、公眾對話、聚落現場等體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://mattauw2026.art/",
+        "crawl_time": "2026-09-30T22:48:19"
+    },
+    {
+        "title": "2026總爺和風文化祭-高知縣工藝特展",
+        "category": "節慶市集與綜合",
+        "activity_date": "2026年8月28日至2026年12月13日",
+        "start_date": "2026-08-28",
+        "end_date": "2026-12-13",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": null,
+        "location": "總爺藝文中心 (台南市麻豆區南勢里總爺5號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "《2026總爺和風文化祭—高知縣傳統工藝特展》將於8月28日至12月13日在總爺藝文中心紅磚工藝館展出，深入介紹日本高知縣的生活工藝與文化底蘊。8月29日、30日於戶外草地舉辦開幕活動，包括高知夜來祭、赤野獅子舞、華之和音表演，並設有和紙製作、鳴子彩繪等手作體驗及特色市集。誠摯邀請民眾感受高知文化魅力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tyart.tnc.gov.tw/index.php?inter=news&category=2&nId=199",
+        "crawl_time": "2026-09-30T22:48:19"
+    },
+    {
+        "title": "2026 Mattauw 大地藝術季",
+        "category": "藝文展演",
+        "activity_date": "2026.09.05 ~ 2026.12.06",
+        "start_date": "2026-09-05",
+        "end_date": "2026-12-06",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": null,
+        "location": "總爺藝文中心│紅樓、草地、副廠長宿舍、糖學⋯",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "《2026Mattauw大地藝術季–曲流擺：曾文溪的裏淺山》是一個在總爺藝文中心舉辦的大型藝術展覽，結合戶外空間與多樣藝術裝置，適合家庭親子一同參與，探索藝術與自然。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tyart.tnc.gov.tw/index.php?inter=program&period=real",
+        "crawl_time": "2026-09-30T22:48:19"
+    },
+    {
+        "title": "【常設展】小事報主題展",
+        "category": "藝文展演",
+        "activity_date": "2022.10.15",
+        "start_date": "2022-10-15",
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": null,
+        "location": "總爺藝文中心糖學埕",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "本常設展呈現「小事報」主題，強調從小處著手的重要性，常與社區及兒童創意相關，適合各年齡層民眾參觀，探索生活中的小故事與大意義。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tyart.tnc.gov.tw/index.php?inter=program&period=real",
+        "crawl_time": "2026-09-30T22:48:19"
+    },
+    {
+        "title": "大樹先生的家 - 派對包場與抓周活動",
+        "category": "節慶市集與綜合",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "請加入LINE ID: @mrtree_tw 進行諮詢與預訂",
+        "location": "大樹先生的家 (古亭店) 或其他分店",
+        "target_age": "幼兒及兒童",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "大樹先生的家提供多樣化的親子派對包場服務，涵蓋生日派對、寶寶抓周、性別揭曉派對及團體用餐。場地租借彈性，並為壽星準備專屬佈置與氣球。所有貴賓皆可體驗免費簡易抓周儀式，讓家庭共享美好慶祝時光。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://mr-tree.webnode.tw/copy-of-%e5%a4%a7%e6%a8%b9%e6%b4%be%e5%b0%8d%e8%a6%8f%e5%8a%83/",
+        "crawl_time": "2026-09-30T22:48:19"
     }
 ];
