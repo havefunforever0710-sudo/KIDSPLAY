@@ -23564,5 +23564,368 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://mr-tree.webnode.tw/copy-of-%e5%a4%a7%e6%a8%b9%e6%b4%be%e5%b0%8d%e8%a6%8f%e5%8a%83/",
         "crawl_time": "2026-09-30T22:48:19"
+    },
+    {
+        "title": "【體驗營】2026食農教育－農村生態體驗「食在很好玩」 - 呷好稻香報 (水稻收割)",
+        "category": "生態與大自然",
+        "activity_date": ":8:45-12:00",
+        "start_date": "2026-07-12",
+        "end_date": "2026-07-12",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "自6月10日10:00起開放線上報名，於活動開始前5天截止或額滿為止。",
+        "location": "臺北市立動物園 兒童動物區、教育中心",
+        "target_age": "小三至小六年級學童",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "臺北市立動物園推廣食農文化與友善土地，透過農村探險隊體驗，實作瞭解糧食、土地與生活關係，親近大自然體驗一日農夫樂趣，共創永續未來。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=7170169FC002C2A7",
+        "crawl_time": "2026-10-01T22:58:44"
+    },
+    {
+        "title": "【體驗營】2026食農教育－農村生態體驗「食在很好玩」 - 春耕美人腿 (茭白筍收割)",
+        "category": "生態與大自然",
+        "activity_date": ":8:45-12:00",
+        "start_date": "2026-11-15",
+        "end_date": "2026-11-15",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "自10月7日上午10:00起開放線上報名，於活動開始前5天截止或額滿為止。",
+        "location": "臺北市立動物園 兒童動物區、教育中心",
+        "target_age": "小四以上學童或大人",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺北市立動物園推廣食農文化與友善土地，透過農村探險隊體驗，實作瞭解糧食、土地與生活關係，親近大自然體驗一日農夫樂趣，共創永續未來。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=7170169FC002C2A7",
+        "crawl_time": "2026-10-01T22:58:44"
+    },
+    {
+        "title": "【體驗營】2026食農教育－農村生態體驗「食在很好玩」 - 芋來芋香 (芋頭收割)",
+        "category": "生態與大自然",
+        "activity_date": ":8:45-12:00",
+        "start_date": "2026-11-07",
+        "end_date": "2026-11-07",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "自10月7日上午10:00起開放線上報名，於活動開始前5天截止或額滿為止。",
+        "location": "臺北市立動物園 兒童動物區、教育中心",
+        "target_age": "幼兒園大班至小三學童及家長",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "臺北市立動物園推廣食農文化與友善土地，透過農村探險隊體驗，實作瞭解糧食、土地與生活關係，親近大自然體驗一日農夫樂趣，共創永續未來。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=7170169FC002C2A7",
+        "crawl_time": "2026-10-01T22:58:44"
+    },
+    {
+        "title": "臺北市立動物園10月Keeper's Talk",
+        "category": "6.知性與靜態學習",
+        "activity_date": "10月",
+        "start_date": "2026-10-01",
+        "end_date": "2026-10-31",
+        "recurring_days": [
+            3,
+            4,
+            5
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場參與，無需預約。",
+        "location": "無尾熊館、大貓熊館、臺灣動物區、熱帶雨林區",
+        "target_age": "無明確說明，推測適合全齡。",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺北市立動物園10月份的保母講古時間，由飼育員分享動物的知識，主題包含無尾熊、大貓熊、梅花鹿與紅毛猩猩。活動地點分佈在不同展區，每週三、四、五定時舉行，部分日期暫停或彈性調整。適合全家大小一同參與，近距離了解動物的日常與保育。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=C844D0BFBC555E7F",
+        "crawl_time": "2026-10-01T22:58:44"
+    },
+    {
+        "title": "臺北市立動物園10月主題教育駐站：認識石虎",
+        "category": "5.生態與大自然",
+        "activity_date": "10月",
+        "start_date": "2026-10-01",
+        "end_date": "2026-10-31",
+        "recurring_days": [
+            0,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場參與，無需預約。",
+        "location": "臺灣動物區 (教育中心前)",
+        "target_age": "無明確說明，推測適合全齡。",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺北市立動物園10月份於臺灣動物區設置主題教育駐站，由專業人員帶領認識臺灣特有種石虎，了解其生態習性與保育的重要性。活動於每週二至週日舉行，部分日期暫停。歡迎大小朋友前來學習，培養環境保育觀念。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=C844D0BFBC555E7F",
+        "crawl_time": "2026-10-01T22:58:44"
+    },
+    {
+        "title": "臺北市立動物園10月定時定點課程：與兩棲爬蟲有約",
+        "category": "5.生態與大自然",
+        "activity_date": "10月",
+        "start_date": "2026-10-01",
+        "end_date": "2026-10-31",
+        "recurring_days": [
+            0,
+            2,
+            4,
+            6
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場參與，無需預約。",
+        "location": "兩棲爬蟲動物館 (兩棲爬蟲教室)",
+        "target_age": "無明確說明，推測適合全齡。",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺北市立動物園兩棲爬蟲教室10月份舉辦「與兩棲爬蟲有約」課程，透過解說活動帶領參與者認識奇妙的兩棲爬蟲動物世界。活動於每週二、四、六、日定時舉行，是親近自然、學習動物知識的好機會，歡迎有興趣的遊客前往參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=C844D0BFBC555E7F",
+        "crawl_time": "2026-10-01T22:58:44"
+    },
+    {
+        "title": "臺北市立動物園10月定時定點課程：與昆蟲有約 (導覽解說)",
+        "category": "5.生態與大自然",
+        "activity_date": "10月",
+        "start_date": "2026-10-01",
+        "end_date": "2026-10-31",
+        "recurring_days": [
+            2,
+            4,
+            6
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場參與，無需預約。",
+        "location": "昆蟲館入口",
+        "target_age": "無明確說明，推測適合全齡。",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺北市立動物園昆蟲館10月份提供「與昆蟲有約」導覽解說服務，每場約30分鐘，帶領遊客深入了解昆蟲的奧秘。活動於每週二、四、六定時舉行，部分日期暫停。是親近大自然、學習昆蟲知識的有趣課程，適合親子一同體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=C844D0BFBC555E7F",
+        "crawl_time": "2026-10-01T22:58:44"
+    },
+    {
+        "title": "臺北市立動物園10月定時定點課程：昆蟲保育小學堂",
+        "category": "6.知性與靜態學習",
+        "activity_date": "10月",
+        "start_date": "2026-10-01",
+        "end_date": "2026-10-31",
+        "recurring_days": [
+            0
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場參與，無需預約。",
+        "location": "昆蟲館入口",
+        "target_age": "無明確說明，推測適合學齡兒童。",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺北市立動物園昆蟲館10月份推出「昆蟲保育小學堂」，透過互動學習方式，向小朋友傳遞昆蟲保育知識。活動於每週日定時舉辦，是培養孩子對自然生態關懷的絕佳課程，讓學童在玩樂中學習。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=C844D0BFBC555E7F",
+        "crawl_time": "2026-10-01T22:58:44"
+    },
+    {
+        "title": "臺北市立動物園10月定時定點課程：環保DIY",
+        "category": "4.手作DIY與才藝",
+        "activity_date": "10月",
+        "start_date": "2026-10-01",
+        "end_date": "2026-10-31",
+        "recurring_days": [
+            0
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場參與，無需預約。",
+        "location": "綠手指教室",
+        "target_age": "無明確說明，推測適合全齡親子。",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺北市立動物園10月份於綠手指教室舉辦「環保DIY」活動，讓參與者透過手作體驗，學習環保知識與實踐綠色生活。活動於每週日定時舉行，適合親子一同動手做，創造獨特的環保小物，寓教於樂。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=C844D0BFBC555E7F",
+        "crawl_time": "2026-10-01T22:58:44"
+    },
+    {
+        "title": "臺北市立動物園10月定時定點課程：勞作DIY",
+        "category": "4.手作DIY與才藝",
+        "activity_date": "10月",
+        "start_date": "2026-10-01",
+        "end_date": "2026-10-31",
+        "recurring_days": [
+            0,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場參與，無需預約。",
+        "location": "教育中心動物藝坊",
+        "target_age": "無明確說明，推測適合全齡親子。",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺北市立動物園教育中心動物藝坊10月份推出「勞作DIY」活動，提供豐富的手作材料與主題，讓大小朋友發揮創意，享受動手做的樂趣。活動於每週二至週日舉行，是親子共創美好回憶的好選擇，培養藝術與創造力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=C844D0BFBC555E7F",
+        "crawl_time": "2026-10-01T22:58:44"
+    },
+    {
+        "title": "臺北市立動物園10月定時定點課程：頭骨的奧秘",
+        "category": "6.知性與靜態學習",
+        "activity_date": "10月",
+        "start_date": "2026-10-01",
+        "end_date": "2026-10-31",
+        "recurring_days": [
+            0
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場參與，無需預約。",
+        "location": "教育中心大廳",
+        "target_age": "無明確說明，推測適合全齡。",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺北市立動物園教育中心大廳10月份舉辦「頭骨的奧秘」活動，透過展示與解說，讓參與者探索動物頭骨的構造與功能，了解生物多樣性。活動於每週日舉行，適合對動物骨骼有興趣的大小朋友，開啟科學探索之旅。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=C844D0BFBC555E7F",
+        "crawl_time": "2026-10-01T22:58:44"
+    },
+    {
+        "title": "臺北市立動物園10月定時定點課程：動物覓食超能力",
+        "category": "6.知性與靜態學習",
+        "activity_date": "10月",
+        "start_date": "2026-10-01",
+        "end_date": "2026-10-31",
+        "recurring_days": [
+            0
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場參與，無需預約。",
+        "location": "動物行為學院",
+        "target_age": "無明確說明，推測適合全齡。",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺北市立動物園動物行為學院10月份舉辦「動物覓食超能力」活動，透過生動的解說，揭示動物如何運用特殊能力尋找食物。活動於每週日舉行，部分日期暫停。是了解動物行為與生態知識的精彩課程，激發好奇心。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=C844D0BFBC555E7F",
+        "crawl_time": "2026-10-01T22:58:44"
+    },
+    {
+        "title": "臺北市立動物園10月定時定點課程：動物朋友相見歡",
+        "category": "6.知性與靜態學習",
+        "activity_date": "10月",
+        "start_date": "2026-10-01",
+        "end_date": "2026-10-31",
+        "recurring_days": [
+            0
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場參與，無需預約。",
+        "location": "動物行為學院",
+        "target_age": "無明確說明，推測適合全齡，尤其適合低齡兒童。",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺北市立動物園動物行為學院10月份推出「動物朋友相見歡」活動，提供遊客近距離觀察與認識可愛動物的機會。活動於每週日定時舉辦，是親子互動、培養對動物情感的溫馨時刻，讓孩子們與動物更親近。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=C844D0BFBC555E7F",
+        "crawl_time": "2026-10-01T22:58:44"
+    },
+    {
+        "title": "昆蟲年會保育教育市集",
+        "category": "生態與大自然",
+        "activity_date": "115年10月17日 ~ 115年10月18日",
+        "start_date": "2026-10-17",
+        "end_date": "2026-10-18",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場參與，無需報名",
+        "location": "臺北市立動物園教育中心前、永續食堂",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "臺北動物園園慶系列活動之一，結合多個保育學會舉辦昆蟲年會保育教育市集，推廣昆蟲保育知識，適合親子共同參與，寓教於樂。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=77C7A93B7F1D769C",
+        "crawl_time": "2026-10-01T22:58:44"
+    },
+    {
+        "title": "臺北動物園園慶音樂會",
+        "category": "藝文展演",
+        "activity_date": "115年10月24日",
+        "start_date": "2026-10-24",
+        "end_date": "2026-10-24",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "現場參與，無需報名",
+        "location": "臺北市立動物園大門廣場",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "臺北動物園園慶系列活動，邀請樂齡合唱團、萬興國小口琴隊及木柵國小管弦樂團演出，適合全家大小一同欣賞，共襄盛舉。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=77C7A93B7F1D769C",
+        "crawl_time": "2026-10-01T22:58:44"
     }
 ];
