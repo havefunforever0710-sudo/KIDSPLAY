@@ -23927,5 +23927,132 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.zoo.gov.taipei/News_Content.aspx?n=FF99E6A67512AD9B&sms=9D72E82EC16F3E64&s=77C7A93B7F1D769C",
         "crawl_time": "2026-10-01T22:58:44"
+    },
+    {
+        "title": "北院（門票+龍藏經特展預約）參觀券",
+        "category": "藝文展演",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "建議線上預約",
+        "location": "國立故宮博物院北部院區",
+        "target_age": "全齡 (18歲以下有優惠票)",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "國立故宮博物院「龍藏經」特展參觀券線上預約。展覽維持預約參觀制，並設有拍照打卡點。提供多種票價選項，包含18歲以下及長者優惠。建議線上預約以規劃參觀行程。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://npm.fonticket.com/ticket/N8dVjZEdpWRKDrpB",
+        "crawl_time": "2026-10-02T22:47:55"
+    },
+    {
+        "title": "郎世寧．到此藝遊教育巡迴展",
+        "category": "藝文展演",
+        "activity_date": "2018 5.19 —8.29",
+        "start_date": "2018-05-19",
+        "end_date": "2018-08-29",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "網站未提供報名資訊",
+        "location": "桃園兒童美術館 (此為巡迴展之一站)",
+        "target_age": "4至10歲",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "故宮以4至10歲的兒童及家庭親子為目標觀眾，結合複製文物、多媒體影片、數位互動裝置及實體遊戲教具，介紹清代宮廷畫師郎世寧。展覽曾巡迴屏東、新竹、桃園等地，規劃藝術手作、戲劇導覽、幼兒導覽等課程，邀請親子共玩共學。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.npm.gov.tw/Articles.aspx?sno=04012607&l=1",
+        "crawl_time": "2026-10-02T22:47:55"
+    },
+    {
+        "title": "當爵士遇見海洋 海生館巨鯨下展開樂聲與書海沉浸之旅",
+        "category": "知性與靜態學習",
+        "activity_date": "115/08/22 ~ 115/08/23",
+        "start_date": "2026-08-22",
+        "end_date": "2026-08-23",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "現場參與",
+        "location": "國立海洋生物博物館 世界水域館大廳 (屏東縣車城鄉後灣村後灣路2號)",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "國立海洋生物博物館舉辦「海洋爵士樂讀節」，將爵士音樂、雙語閱讀、海洋圖書與生物標本融入展示空間。活動規劃多元雙語海洋主題圖書與海洋知識有獎問答，讓不同年齡層的遊客在樂聲與書頁之間，以聆聽、閱讀與觀察，展開一場輕鬆有趣的海洋學習體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmmba.gov.tw/News_Content.aspx?n=FF40572369107C6E&s=3F198EE2426AF7A9",
+        "crawl_time": "2026-10-02T22:47:55"
+    },
+    {
+        "title": "中秋節特別活動_賞花、賞月、賞秋兔",
+        "category": "節慶市集與綜合",
+        "activity_date": "115年9/25 (五) -10/30(五)",
+        "start_date": "2026-09-25",
+        "end_date": "2026-10-30",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "基隆市",
+        "registration_date": "中秋節(9/25-27)現場參與問卷闖關，需購票入場",
+        "location": "國立海洋科技博物館 潮境智能海洋館A區",
+        "target_age": "不限年齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "國立海洋科技博物館於中秋節期間舉辦特別活動，帶領大小朋友認識中秋節傳說與海洋生物。現場參與問卷闖關，可兌換限量小禮物，適合親子同樂，共同體驗節慶文化。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmmst.gov.tw/chhtml/newsdetail/556/8813",
+        "crawl_time": "2026-10-02T22:47:55"
+    },
+    {
+        "title": "《極地探險》Exploring the Poles 特展",
+        "category": "知性與靜態學習",
+        "activity_date": "115/06/05-116/05/02",
+        "start_date": "2026-06-05",
+        "end_date": "2027-05-02",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "基隆市",
+        "registration_date": null,
+        "location": "國立海洋科技博物館",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "《極地探險》特展帶領觀眾深入極地，探索其原民智慧、環境、科學研究及氣候變遷影響。展覽揭示冰川、種子庫秘密，並提供極光體驗。同時警示氣候變遷對極地的衝擊，強調了解與行動是守護地球的關鍵。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmmst.gov.tw/chhtml/newsdetail/221/10634",
+        "crawl_time": "2026-10-02T22:47:55"
+    },
+    {
+        "title": "「瞬時之眼」桃園機場文化櫥窗特展",
+        "category": "藝文展演",
+        "activity_date": "115年9月2日(三)~116年2月27日(六)",
+        "start_date": "2026-09-02",
+        "end_date": "2027-02-27",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "無明確報名資訊",
+        "location": "桃園國際機場第二航廈 入境區二樓疫檢區及驗照區",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "本次展覽將桃園機場廊道轉化為「跨時空的文化轉運站」，以「瞬時之眼」為題，在大師畫筆的引路下，以瞬時凝視的靈感締造景點永恆的經典，也開啟旅客記憶中的永恆篇章，深度體驗名勝之美。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60142",
+        "crawl_time": "2026-10-02T22:47:55"
     }
 ];
