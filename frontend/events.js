@@ -24054,5 +24054,47 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60142",
         "crawl_time": "2026-10-02T22:47:55"
+    },
+    {
+        "title": "異能搜查隊－《搜查記：警察異能館》教育推廣活動",
+        "category": "知性與靜態學習",
+        "activity_date": "2026/07/22 10:00 ~ 2027/01/10 23:59",
+        "start_date": "2026-07-22",
+        "end_date": "2027-01-10",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "請參考活動網頁",
+        "location": "臺南市美術館 中央廊道、閱讀之森",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "臺南市美術館舉辦「異能搜查隊－《搜查記：警察異能館》教育推廣活動」，透過主題式探索引導，讓參與者在中央廊道及閱讀之森進行互動式學習，提升對藝術與博物館的興趣。本活動旨在以活潑有趣的方式，推廣教育理念。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnam.museum/event/current",
+        "crawl_time": "2026-10-03T21:57:44"
+    },
+    {
+        "title": "TAM+藝術之森｜魔法屋正在等待一個故事 The Magic House is waiting for a story｜故事徵集計畫 Story Open Call",
+        "category": "手作DIY與才藝",
+        "activity_date": "2026/07/03 10:00 ~ 2026/10/05 00:00",
+        "start_date": "2026-07-03",
+        "end_date": "2026-10-05",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "請參考活動網頁",
+        "location": "臺南市美術館 TAM+藝術之森",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "臺南市美術館TAM+藝術之森發起「魔法屋正在等待一個故事」故事徵集計畫，邀請大眾以「魔法屋」為主題進行創作。此活動旨在鼓勵想像力與寫作，徵集具創意及溫度的故事，豐富藝術之森的內容。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnam.museum/event/current",
+        "crawl_time": "2026-10-03T21:57:44"
     }
 ];

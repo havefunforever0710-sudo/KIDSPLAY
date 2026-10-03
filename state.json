@@ -1,5 +1,5 @@
 {
-    "last_index": 10,
+    "last_index": 15,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -108,7 +108,8 @@
         "https://www.tnam.museum/": [
             "https://www.tnam.museum/event/detail/722",
             "https://www.tnam.museum/exhibition/detail/716",
-            "https://www.tnam.museum/event/detail/732"
+            "https://www.tnam.museum/event/detail/732",
+            "https://www.tnam.museum/event/current"
         ],
         "https://www.kmfa.gov.tw/": [
             "https://www.kmfa.gov.tw/Exhibition.aspx",
