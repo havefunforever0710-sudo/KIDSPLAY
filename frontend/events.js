@@ -24096,5 +24096,208 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.tnam.museum/event/current",
         "crawl_time": "2026-10-03T21:57:44"
+    },
+    {
+        "title": "台語親子同樂趣-歡樂親子故事繪：神奇的漢藥房X手工蚊香包",
+        "category": [
+            "手作DIY與才藝",
+            "知性與靜態學習"
+        ],
+        "activity_date": "10/11 14:30-15:30",
+        "start_date": "2026-10-11",
+        "end_date": "2026-10-11",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": "請參考報名網址",
+        "location": "高雄市立圖書館文化中心分館",
+        "target_age": "親子15組",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "歡迎來到熱鬧的繪本故事同樂會。故事將帶您參觀神奇的漢藥房，追尋在地人情味。故事結束後，將用藥材製作手工蚊香包，具有驅蚊功效，保護您免受蚊蟲襲擾。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16378",
+        "crawl_time": "2026-10-04T22:10:56"
+    },
+    {
+        "title": "台語親子同樂趣-歡樂親子故事繪：小耳朵系列故事XDIY彈跳兔",
+        "category": [
+            "手作DIY與才藝",
+            "知性與靜態學習"
+        ],
+        "activity_date": "10/18 14:30-15:30",
+        "start_date": "2026-10-18",
+        "end_date": "2026-10-18",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": "請參考報名網址",
+        "location": "高雄市立圖書館文化中心分館",
+        "target_age": "親子15組",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "歡迎來到熱鬧的繪本故事同樂會。故事將用台語帶各位和小耳朵一起探索世界、探索自己。冒險結束後，將製作充滿跳躍力的DIY彈跳兔。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16378",
+        "crawl_time": "2026-10-04T22:10:56"
+    },
+    {
+        "title": "異國料理｜越世界春捲 DIY",
+        "category": [
+            "手作DIY與才藝"
+        ],
+        "activity_date": "10/24",
+        "start_date": "2026-10-24",
+        "end_date": "2026-10-24",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": null,
+        "location": "岡山文化中心分館",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "岡山文化中心分館舉辦異國料理DIY活動，學習製作越世界春捲。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16378",
+        "crawl_time": "2026-10-04T22:10:56"
+    },
+    {
+        "title": "AI 家庭共學 - 影像生成創作與Ai提示",
+        "category": [
+            "科技與創客",
+            "知性與靜態學習"
+        ],
+        "activity_date": "10/24(六)",
+        "start_date": "2026-10-24",
+        "end_date": "2026-10-24",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": null,
+        "location": "大東藝術圖書館",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "大東藝術圖書館舉辦AI家庭共學活動，學習影像生成創作與AI提示技巧，適合全家一同參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16378",
+        "crawl_time": "2026-10-04T22:10:56"
+    },
+    {
+        "title": "狗斯特的萬聖節派對 - 狗斯特搗蛋任務",
+        "category": [
+            "節慶市集與綜合"
+        ],
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": null,
+        "location": "李科永紀念圖書館",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "李科永分館舉辦萬聖節派對，邀請大小朋友一同參與「狗斯特搗蛋任務」，體驗節慶樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16378",
+        "crawl_time": "2026-10-04T22:10:56"
+    },
+    {
+        "title": "狗斯特的萬聖節派對 - 狗斯特搗蛋任務",
+        "category": "節慶市集與綜合",
+        "activity_date": "10/1-11/1",
+        "start_date": "2026-10-01",
+        "end_date": "2026-11-01",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": "參加方式：借閱3本書並於打卡站合照，公開分享至社群媒體並加上指定Hashtag，完成後至櫃台領取抽獎券。",
+        "location": "李科永紀念圖書館",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "高雄李科永圖書館舉辦萬聖節主題活動。借閱3本書並與狗斯特打卡合照分享社群，可獲抽獎券，有機會贏得戰鬥陀螺等好禮。活動至11/1，歡迎親子共度萬聖節週末。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16372",
+        "crawl_time": "2026-10-04T22:10:56"
+    },
+    {
+        "title": "台語親子同樂趣-歡樂親子故事繪系列活動",
+        "category": "藝文展演",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": null,
+        "location": "高雄市文化中心分館",
+        "target_age": "親子同樂趣",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "高雄市文化中心分館推出台語親子同樂趣系列活動，以歡樂故事繪為主，透過說故事體驗台語文化，提供親子互動學習的機會。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16372",
+        "crawl_time": "2026-10-04T22:10:56"
+    },
+    {
+        "title": "異國料理｜越世界春捲 DIY",
+        "category": "手作DIY與才藝",
+        "activity_date": "10/24",
+        "start_date": "2026-10-24",
+        "end_date": "2026-10-24",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": null,
+        "location": "岡山文化中心分館",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "岡山文化中心分館於10/24舉辦異國料理越世界春捲DIY活動，邀請民眾動手製作越南春捲，體驗異國文化及烹飪樂趣，適合親子一同參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16372",
+        "crawl_time": "2026-10-04T22:10:56"
+    },
+    {
+        "title": "AI 家庭共學 - 影像生成創作與Ai提示",
+        "category": "科技與創客",
+        "activity_date": "10/24(六)",
+        "start_date": "2026-10-24",
+        "end_date": "2026-10-24",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": null,
+        "location": "大東藝術圖書館",
+        "target_age": "家庭共學",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "大東藝術圖書館於10/24舉辦AI家庭共學活動，主題為影像生成創作與AI提示，邀請家庭成員一同探索人工智慧應用，學習利用AI進行影像創作。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16372",
+        "crawl_time": "2026-10-04T22:10:56"
     }
 ];
