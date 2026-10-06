@@ -1,5 +1,5 @@
 {
-    "last_index": 25,
+    "last_index": 30,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -264,7 +264,10 @@
             "https://activity.nlpi.edu.tw/Active_Content.aspx?n=3&ss=D510ED3CB51352E3",
             "https://activity.nlpi.edu.tw/Active_Content.aspx?n=3&ss=16BAFABBE7EA9576",
             "https://www.nlpi.edu.tw/ActivityInfo/recap/Detail/945",
-            "https://www.nlpi.edu.tw/activityinfo/recap/audiences/親子兒童"
+            "https://www.nlpi.edu.tw/activityinfo/recap/audiences/親子兒童",
+            "https://www.nlpi.edu.tw/Announcement/news?PageType=1&id=ce18c2ae-473b-415e-bc80-64f18d260b35",
+            "https://activity.nlpi.edu.tw/Active_Content.aspx?n=3&ss=3F6CFB8A52BAD909",
+            "https://activity.nlpi.edu.tw/Active_Content.aspx?n=3&ss=F9BB0EF4B6151FA3"
         ],
         "https://www.ntl.edu.tw/": [],
         "https://www.tapo.gov.taipei/": [
@@ -274,7 +277,10 @@
             "https://www.tapo.gov.taipei/News_Content.aspx?n=A6FF89AB737B343B&sms=4EC89792B96F7291&s=15006286E685D756",
             "https://www.tapo.gov.taipei/News_Content.aspx?n=CEDE938182D9017F&sms=A4E6E8DBA30EF49D&s=956723230B2302EB",
             "https://www.tapo.gov.taipei/News_Content.aspx?n=CEDE938182D9017F&sms=A4E6E8DBA30EF49D&s=2049DA0ADFE1D8B7",
-            "https://www.tapo.gov.taipei/News_Content.aspx?n=CEDE938182D9017F&sms=A4E6E8DBA30EF49D&s=81B65683F9BB0404"
+            "https://www.tapo.gov.taipei/News_Content.aspx?n=CEDE938182D9017F&sms=A4E6E8DBA30EF49D&s=81B65683F9BB0404",
+            "https://www.tapo.gov.taipei/News_Content.aspx?n=CEDE938182D9017F&sms=A4E6E8DBA30EF49D&s=90C1CFBC5C345D21",
+            "https://www.tapo.gov.taipei/News_Content.aspx?n=CEDE938182D9017F&sms=A4E6E8DBA30EF49D&s=FAFCE637ED00D70F",
+            "https://www.tapo.gov.taipei/News_Content.aspx?n=CEDE938182D9017F&sms=A4E6E8DBA30EF49D&s=9EC6E6412F27F5F7"
         ],
         "https://www.npac-weiwuying.org/": [
             "https://www.npac-weiwuying.org/?nomiss=%E6%9C%80%E6%96%B0%E6%B4%BB%E5%8B%95",
