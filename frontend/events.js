@@ -24913,5 +24913,225 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.tapo.gov.taipei/News_Content.aspx?n=CEDE938182D9017F&sms=A4E6E8DBA30EF49D&s=9EC6E6412F27F5F7",
         "crawl_time": "2026-10-06T22:52:14"
+    },
+    {
+        "title": "《墨的形狀》2026 合木兒童書法展",
+        "category": "藝文展演",
+        "activity_date": "2026/10/02 (五) – 2026/10/04 (日)",
+        "start_date": "2026-10-02",
+        "end_date": "2026-10-04",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "免費參觀，無需報名",
+        "location": "松山文創園區 藝異空間 (台北市信義區光復南路133號)",
+        "target_age": "適合兒童",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "《墨的形狀》2026 合木兒童書法展，展出兒童書寫的多元創作。合木藝文致力於書法推廣，結合兒童文教藝術基金會，以兒童視角探索書法教育新可能。本次展覽將在蠶絲上進行創作，展現孩子們天真爛漫的書寫樂趣，邀請大眾一同感受墨的聲音與形狀。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/c0d45bbe-6e4c-471c-bc42-4f2e56848149",
+        "crawl_time": "2026-10-07T23:26:01"
+    },
+    {
+        "title": "島礦祭 Mineral Island Festa 2026",
+        "category": "4.手作DIY與才藝",
+        "activity_date": "2026/10/9（五）– 2026/10/11（日）",
+        "start_date": "2026-10-09",
+        "end_date": "2026-10-11",
+        "recurring_days": [
+            "5",
+            "6",
+            "0"
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "工作坊採現場報名預約，額滿為止；市集自由入場。",
+        "location": "松山文創園區 南向製菸工廠",
+        "target_age": "邀請原礦水晶愛好者、工藝手作迷、生活美學追求者和每一位好奇的探索者！",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "島礦祭 Mineral Island Festa 2026 是一座以礦石為核心的市集，融合礦物收藏、工藝創作與生活體驗。現場有80位攤主展示天然原礦、水晶、化石及金工手作等。活動提供搗礦岩繪、好石多磨及石礫蠟燭等多種工藝體驗工作坊，邀請愛礦人、手作迷與探索者一同參與這場閃耀的礦物宇宙，適合全齡探索與體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/bb5a8c36-a5b8-454b-8ed4-ae06730db0d3",
+        "crawl_time": "2026-10-07T23:26:01"
+    },
+    {
+        "title": "福爾摩沙永續保育國際論壇暨福爾摩沙山海之島特展",
+        "category": [
+            "5.生態與大自然",
+            "6.知性與靜態學習"
+        ],
+        "activity_date": "2026/10/02 (五) – 2026/10/03 (六)",
+        "start_date": "2026-10-02",
+        "end_date": "2026-10-03",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "免費參加 論壇採報名制",
+        "location": "松山文創園區二號三號倉庫",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "福爾摩沙永續保育國際論壇暨山海之島特展，由內政部國家公園署主辦，結合國際論壇與特展，聚焦資源保育、多元文化、生態旅遊及環境學習四大主題，串聯臺灣山海保育成果，展現自然與人文共生面貌，邀請民眾從不同視角重新認識臺灣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/1cf58a38-da45-4cbf-8641-a200e1e7a769",
+        "crawl_time": "2026-10-07T23:26:01"
+    },
+    {
+        "title": "幾米快閃店",
+        "category": "藝文展演",
+        "activity_date": "2026 10.09 (五) 12.20 (日) 11:00 ~ 19:00",
+        "start_date": "2026-10-09",
+        "end_date": "2026-12-20",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "自由入場",
+        "location": "華山1914文化創意產業園區 藝術西街玻璃屋",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "為慶祝幾米品牌25週年，快閃店首度於華山推出獨立店鋪，集結超過300種商品與繪本。現場以多部幾米作品規劃主題分區，包含文具、居家用品等，讓熟悉的幾米故事走入日常。同時也將搶先看幾米首部動畫影集片段，並作為年底沉浸互動展的暖身前哨站。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.huashan1914.com/exhibition/幾米25週年活動！《幾米快閃店》、《與幾米頭碰頭》全境式沉浸互動展華山登場",
+        "crawl_time": "2026-10-07T23:26:01"
+    },
+    {
+        "title": "《與幾米頭碰頭》全境式沉浸互動展",
+        "category": "藝文展演",
+        "activity_date": "2026年12月24日至2027年2月14日（除夕休館一天）／每日10:00－18:00（最晚入場時間17:00）",
+        "start_date": "2026-12-24",
+        "end_date": "2027-02-14",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "10/6－10/31｜早鳥單人票、雙人票啟售；11/1－12/23｜預售票、親子票啟售；12/24－2/14｜展期票",
+        "location": "華山1914文化創意產業園區 Magic Box 數位故事館 東3A",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "為慶祝幾米25週年，睽違15年，幾米特展再次重返華山。這是一個全境式沉浸互動展，將於2026年12月24日登場，展覽期間除了除夕休館一天外，每日開放。現場提供早鳥票、預售票及親子票等多種購票選擇，邀請大小朋友一同進入幾米的世界，體驗獨特的互動故事。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.huashan1914.com/exhibition/幾米25週年活動！《幾米快閃店》、《與幾米頭碰頭》全境式沉浸互動展華山登場",
+        "crawl_time": "2026-10-07T23:26:01"
+    },
+    {
+        "title": "校園團體優惠預約方案",
+        "category": "藝文展演",
+        "activity_date": "",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": "填寫Google表單預約，收到通知信後於預約參訪日期至售票口付款取票。",
+        "location": "駁二藝術特區 (高雄市鹽埕區大勇路1號)",
+        "target_age": "國小團體",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "駁二藝術特區提供國小校園團體優惠方案，10人以上可預約參觀C7舊事倉庫與C5當代館展覽，享有團體票價。教師與特教生免票，並可加購導覽服務。需填寫Google表單進行預約。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://pier2.org/campusdiscount/",
+        "crawl_time": "2026-10-07T23:26:01"
+    },
+    {
+        "title": "多用途編織手機繩",
+        "category": "4.手作DIY與才藝",
+        "activity_date": "2026-11-21(六) 13時30分 ~ 2026-11-21(六) 16時30分",
+        "start_date": "2026-11-21",
+        "end_date": "2026-11-21",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "2026-09-11 ~ 2026-11-15 現場報名",
+        "location": "臺中市屯區藝文中心 B1藝享空間 (411012 臺中市太平區大興路201號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "冬日手作時光，用法式編織技法，完成一條可調整長度的手機編繩。此編繩可斜背或拆成兩條短繩，漸層配色可愛又實用。適合初學者體驗，歡迎報名參加。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ttdac.taichung.gov.tw/nc5074562102326382272/ncArticleContent",
+        "crawl_time": "2026-10-07T23:26:01"
+    },
+    {
+        "title": "2026科技跨藝實驗場：故事顯影—霧峰轉譯計畫",
+        "category": "藝文展演",
+        "activity_date": "2026-10-04(日) 14:00、15:30",
+        "start_date": "2026-10-04",
+        "end_date": "2026-10-04",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "2026-09-10 ~ 2026-11-20，線上報名",
+        "location": "臺中屯區藝術中心 大會議室",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "以兩則霧峰在地故事為基底，結合文本轉譯、現場讀劇與 AI 即時生成影像，探索地方記憶如何由模糊走向清晰的虛實融合實驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ttdac.taichung.gov.tw/nc4660824183836049232/ncArticleContent",
+        "crawl_time": "2026-10-07T23:26:01"
+    },
+    {
+        "title": "2026科技跨藝實驗場：科技藝術美學養成工坊—河床劇團《彩虹彼端》VR影展體驗",
+        "category": "藝文展演",
+        "activity_date": "2026-11-21(六) 10:00 - 12:00｜13:00 - 14:00｜16:00 - 17:30",
+        "start_date": "2026-11-21",
+        "end_date": "2026-11-21",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "2026-09-10 ~ 2026-11-20，線上報名",
+        "location": "臺中屯區藝術中心 大會議室",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "河床劇團將「看」與「被看」的親密關係轉化為虛擬實境體驗，打造每場僅限單一觀眾參與的沉浸式表演，模糊表演者與觀眾界線。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ttdac.taichung.gov.tw/nc4660824183836049232/ncArticleContent",
+        "crawl_time": "2026-10-07T23:26:01"
+    },
+    {
+        "title": "《再見未來男孩》電影欣賞",
+        "category": "2.藝文展演",
+        "activity_date": "2026-10-24(六) 14時00分 ~ 2026-10-24(六) 16時00分",
+        "start_date": "2026-10-24",
+        "end_date": "2026-10-24",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "2026-09-11 ~ 2026-10-23，線上報名",
+        "location": "屯區藝文中心 3樓大會議室 (臺中市太平區大興路201號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "《再見未來男孩》是一部結合科幻冒險、友情成長與環境永續議題的親子動畫電影。電影描述來自未來的男孩艾珂，穿越時空與女孩伊莉絲相遇，共同展開尋找返家之路的冒險旅程。影片探討氣候變遷、環境保護、科技發展等議題，兼具娛樂性與教育意義。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ttdac.taichung.gov.tw/nc5049851484694071581/ncArticleContent",
+        "crawl_time": "2026-10-07T23:26:01"
     }
 ];

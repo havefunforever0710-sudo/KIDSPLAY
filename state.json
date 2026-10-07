@@ -1,5 +1,5 @@
 {
-    "last_index": 30,
+    "last_index": 35,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -307,10 +307,17 @@
             "https://www.songshanculturalpark.org/exhibition/activity/840b0803-826e-407f-bd62-8447b51cf9c2",
             "https://www.songshanculturalpark.org/exhibition/activity/07e87658-6bea-4715-b633-5e44cd2d9e30",
             "https://www.songshanculturalpark.org/exhibition/activity/c738025c-425f-4fdb-b7f0-79fcf49c7dc1",
-            "https://www.songshanculturalpark.org/exhibition/activity/ddf676a8-1a74-4737-b739-34d2ce4b7bf1"
+            "https://www.songshanculturalpark.org/exhibition/activity/ddf676a8-1a74-4737-b739-34d2ce4b7bf1",
+            "https://www.songshanculturalpark.org/exhibition/activity/c0d45bbe-6e4c-471c-bc42-4f2e56848149",
+            "https://www.songshanculturalpark.org/exhibition/activity/bb5a8c36-a5b8-454b-8ed4-ae06730db0d3",
+            "https://www.songshanculturalpark.org/exhibition/activity/1cf58a38-da45-4cbf-8641-a200e1e7a769"
         ],
-        "https://www.huashan1914.com/": [],
-        "https://pier2.org/": [],
+        "https://www.huashan1914.com/": [
+            "https://www.huashan1914.com/exhibition/幾米25週年活動！《幾米快閃店》、《與幾米頭碰頭》全境式沉浸互動展華山登場"
+        ],
+        "https://pier2.org/": [
+            "https://pier2.org/campusdiscount/"
+        ],
         "https://www.ttdac.taichung.gov.tw/": [
             "https://www.ttdac.taichung.gov.tw/nc5232470501983413029/ncArticleContent",
             "https://www.ttdac.taichung.gov.tw/nc5120505618265090734/ncArticleContent",
@@ -319,7 +326,10 @@
             "https://www.ttdac.taichung.gov.tw/nc4904869813859458542/ncArticleContent",
             "https://www.ttdac.taichung.gov.tw/nc4667477325703002623/ncArticleContent",
             "https://www.ttdac.taichung.gov.tw/nc5710506783003211574/ncArticleContent",
-            "https://www.ttdac.taichung.gov.tw/nc5355773174289635586/ncArticleContent"
+            "https://www.ttdac.taichung.gov.tw/nc5355773174289635586/ncArticleContent",
+            "https://www.ttdac.taichung.gov.tw/nc5074562102326382272/ncArticleContent",
+            "https://www.ttdac.taichung.gov.tw/nc4660824183836049232/ncArticleContent",
+            "https://www.ttdac.taichung.gov.tw/nc5049851484694071581/ncArticleContent"
         ],
         "https://www.huludun.taichung.gov.tw/": [
             "https://www.huludun.taichung.gov.tw/active/index-1.asp?Parser=99,8,40,,,,158857,3",
