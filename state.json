@@ -1,5 +1,5 @@
 {
-    "last_index": 35,
+    "last_index": 40,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -338,7 +338,9 @@
             "https://www.huludun.taichung.gov.tw/search/index.asp?Parser=99,15,75,,,,,,,,,,兒童聯想創作畫",
             "https://www.huludun.taichung.gov.tw/news/index-1.asp?Parser=9,5,223,,,,5275",
             "https://www.huludun.taichung.gov.tw/news/index-1.asp?Parser=9,5,30,,,,5279",
-            "https://www.huludun.taichung.gov.tw/news/index-1.asp?Parser=9,5,223,,,,5274"
+            "https://www.huludun.taichung.gov.tw/news/index-1.asp?Parser=9,5,223,,,,5274",
+            "https://www.huludun.taichung.gov.tw/active/index.asp?Parser=99,8,40,,,,,3",
+            "https://www.huludun.taichung.gov.tw/active/index-1.asp?Parser=99,8,40,,,,159236,1"
         ],
         "https://chiayiartmuseum.chiayi.gov.tw/": [
             "https://chiayiartmuseum.chiayi.gov.tw/News_Content.aspx?n=13589&sms=14831&s=940520",
@@ -349,7 +351,8 @@
             "https://www.px-sunmake.org.tw/activity/seasonlist.html",
             "https://www.px-sunmake.org.tw/activity/artexhibitionlist.html",
             "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=259414",
-            "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=260925"
+            "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=260925",
+            "https://www.ncfta.gov.tw/News_Actives_photo_ncfta.aspx?n=2802&sms=11892"
         ],
         "https://www.npsm.org.tw/": [],
         "https://www.gep.ntpc.gov.tw/": [

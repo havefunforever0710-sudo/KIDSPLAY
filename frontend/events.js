@@ -25133,5 +25133,158 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.ttdac.taichung.gov.tw/nc5049851484694071581/ncArticleContent",
         "crawl_time": "2026-10-07T23:26:01"
+    },
+    {
+        "title": "2026葫蘆墩藝術節-九歌兒童劇團《大樹、小鳥與牽牛花》",
+        "category": "藝文展演",
+        "activity_date": "2026-11-14",
+        "start_date": "2026-11-14",
+        "end_date": "2026-11-14",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "請洽主辦單位",
+        "location": "葫蘆墩文化中心 演講廳 (臺中市豐原區圓環東路782號)",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "九歌兒童劇團帶來戲劇表演《大樹、小鳥與牽牛花》，適合親子一同觀賞，在葫蘆墩藝術節享受藝文氣息。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.huludun.taichung.gov.tw/active/index.asp?Parser=99,8,40,,,,,3",
+        "crawl_time": "2026-10-08T23:37:30"
+    },
+    {
+        "title": "小丑先生–哈哈",
+        "category": "藝文展演",
+        "activity_date": "2026-11-14",
+        "start_date": "2026-11-14",
+        "end_date": "2026-11-14",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "無需報名，免費入場",
+        "location": "葫蘆墩文化中心 榕樹劇場 (臺中市豐原區圓環東路782號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "小丑先生「哈哈」將帶來精彩的表演藝術，歡迎大小朋友一同前往榕樹劇場，攜帶野餐墊，享受輕鬆愉快的午後時光。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.huludun.taichung.gov.tw/active/index.asp?Parser=99,8,40,,,,,3",
+        "crawl_time": "2026-10-08T23:37:30"
+    },
+    {
+        "title": "葫蘆墩戲棚咖-漫響室內樂團《歐啦啦!翹鬍子主廚的世界美食》繪本音樂劇場",
+        "category": "藝文展演",
+        "activity_date": "2026-11-07",
+        "start_date": "2026-11-07",
+        "end_date": "2026-11-07",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "請洽主辦單位",
+        "location": "東勢許良宇圖書館2F多功能空間 (臺中市東勢區中盛巷1號)",
+        "target_age": null,
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "漫響室內樂團帶來繪本音樂劇場《歐啦啦!翹鬍子主廚的世界美食》，讓孩子在音樂中體驗不同文化與美食。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.huludun.taichung.gov.tw/active/index.asp?Parser=99,8,40,,,,,3",
+        "crawl_time": "2026-10-08T23:37:30"
+    },
+    {
+        "title": "無獨有偶工作室劇團 《演奏吧 好土樂團》",
+        "category": "藝文展演",
+        "activity_date": "2026-10-31",
+        "start_date": "2026-10-31",
+        "end_date": "2026-10-31",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "請洽主辦單位",
+        "location": "葫蘆墩文化中心 演奏廳 (臺中市豐原區圓環東路782號)",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "無獨有偶工作室劇團以現代戲劇與偶戲元素帶來《演奏吧 好土樂團》，為親子呈現獨特的藝術體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.huludun.taichung.gov.tw/active/index.asp?Parser=99,8,40,,,,,3",
+        "crawl_time": "2026-10-08T23:37:30"
+    },
+    {
+        "title": "2026小青蛙劇團《綠野仙蹤~ 桃樂絲的魔幻冒險》",
+        "category": "藝文展演",
+        "activity_date": "2026-10-24",
+        "start_date": "2026-10-24",
+        "end_date": "2026-10-24",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "請洽主辦單位",
+        "location": "葫蘆墩文化中心 演奏廳 (臺中市豐原區圓環東路782號)",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "小青蛙劇團帶來經典故事《綠野仙蹤》的魔幻冒險，適合全家大小一同觀賞，享受充滿想像力的戲劇體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.huludun.taichung.gov.tw/active/index.asp?Parser=99,8,40,,,,,3",
+        "crawl_time": "2026-10-08T23:37:30"
+    },
+    {
+        "title": "2026臺中市美術家接力展【夢之內側的日常─徐美鈴油畫創作展】",
+        "category": "藝文展演",
+        "activity_date": "2026-09-11 至 2026-10-11",
+        "start_date": "2026-09-11",
+        "end_date": "2026-10-11",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "無需購票，於開放時間內自由參觀",
+        "location": "葫蘆墩文化中心 2樓展覽室II (420216臺中市豐原區圓環東路782號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "2026臺中市美術家接力展，展出徐美鈴老師的油畫創作。主題《夢之內側的日常》透過對日常片刻的凝視，探索心靈軌跡，建構兼具現實與夢幻的繪畫語言。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.huludun.taichung.gov.tw/active/index-1.asp?Parser=99,8,40,,,,159236,1",
+        "crawl_time": "2026-10-08T23:37:30"
+    },
+    {
+        "title": "臺灣國樂團《出大甲城》繪本劇場音樂會",
+        "category": "2.藝文展演",
+        "activity_date": "2026-11-14 ~ 2026-11-15",
+        "start_date": "2026-11-14",
+        "end_date": "2026-11-15",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "請洽官網",
+        "location": "臺灣戲曲中心大表演廳",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "改編義大利波隆那插畫展臺灣館作品，這場跨界劇場音樂會以人、神與小鎮的趣味共處為主題。透過「嘻戲兒童」、媽祖繞境車隊等元素，呈現一個關於在地文化與個人選擇的動人故事。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ncfta.gov.tw/News_Actives_photo_ncfta.aspx?n=2802&sms=11892",
+        "crawl_time": "2026-10-08T23:37:30"
     }
 ];
