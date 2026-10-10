@@ -1,5 +1,5 @@
 {
-    "last_index": 45,
+    "last_index": 50,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -150,7 +150,8 @@
             "https://www.lym.gov.tw/ch/press-releases/news/TSLymNews-000745/",
             "https://www.lym.gov.tw/ch/press-releases/news/TSLymNews-000747/",
             "https://www.lym.gov.tw/ch/education/activity/festivals/",
-            "https://www.lym.gov.tw/ch/audience-service/visit/lym-kids/"
+            "https://www.lym.gov.tw/ch/audience-service/visit/lym-kids/",
+            "https://www.lym.gov.tw/ch/press-releases/news/TSLymNews-000760/"
         ],
         "https://tmofa.tycg.gov.tw/": [
             "https://tmofa.tycg.gov.tw/ch/exhibitions/upcoming-exhibitions",
@@ -400,7 +401,10 @@
             "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60084",
             "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60056",
             "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60173",
-            "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60172"
+            "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60172",
+            "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60177",
+            "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60181",
+            "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60161"
         ],
         "https://thcdc.hakka.gov.tw/": [
             "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/167679/",
@@ -417,7 +421,9 @@
             "https://thcdc.hakka.gov.tw/12205/12214/12215/170555/post",
             "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/170917/",
             "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/170678/",
-            "https://thcdc.hakka.gov.tw/12205/12219/12218/168558/post"
+            "https://thcdc.hakka.gov.tw/12205/12219/12218/168558/post",
+            "https://thcdc.hakka.gov.tw/12205/12214/12215/172281/post",
+            "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/28645/171910/"
         ],
         "https://ssl.thcp.org.tw/": [
             "https://ssl.thcp.org.tw/events/1630",
@@ -428,7 +434,9 @@
             "https://ssl.thcp.org.tw/events",
             "https://ssl.thcp.org.tw/events/1648",
             "https://ssl.thcp.org.tw/events/1662",
-            "https://ssl.thcp.org.tw/events/1665"
+            "https://ssl.thcp.org.tw/events/1665",
+            "https://ssl.thcp.org.tw/events/1672",
+            "https://ssl.thcp.org.tw/events/1673"
         ],
         "https://www.mwr.org.tw/": [
             "https://www.mwr.org.tw/xmdoc/cont?xsmsid=0I011567281712162219&sid=0Q155639520221936320",
@@ -438,7 +446,9 @@
             "https://www.mwr.org.tw/xcpmtexhi/cont?xsmsid=0H305740978429024070&sid=0Q020484110874916733",
             "https://www.mwr.org.tw/xmdoc/cont?xsmsid=0I011567281712162219&sid=0Q215620690060829690",
             "https://www.mwr.org.tw/2026dharma",
-            "https://www.mwr.org.tw/2022guardian"
+            "https://www.mwr.org.tw/2022guardian",
+            "https://www.mwr.org.tw/xcpmtexhi?xsmsid=0H305740978429024070",
+            "https://www.mwr.org.tw/xmdoc?xsmsid=0H305745636101700680"
         ],
         "https://www.suhopaper.org.tw/": [
             "https://www.suhopaper.org.tw/index.php?route=information/information&information_id=94",
