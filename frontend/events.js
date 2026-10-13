@@ -25673,5 +25673,49 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.mwr.org.tw/xmdoc?xsmsid=0H305745636101700680",
         "crawl_time": "2026-10-10T22:11:34"
+    },
+    {
+        "title": "「海洋保育創意短影音競賽」",
+        "category": "競賽與檢定",
+        "activity_date": "2026",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": null,
+        "city": null,
+        "registration_date": "請參考海洋委員會海洋保育署公告",
+        "location": "線上參與",
+        "target_age": "不限年齡",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "由海洋委員會海洋保育署舉辦的創意短影音競賽，鼓勵民眾透過短影音形式，展現對海洋保育的創意與熱情。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.marine.gov.tw/zh_tw/news/ActivityInfo",
+        "crawl_time": "2026-10-13T23:10:43"
+    },
+    {
+        "title": "115年主題式環教課程－「環境守護員」集點活動",
+        "category": "生態與大自然",
+        "activity_date": "115年",
+        "start_date": "2026-07-07",
+        "end_date": "2026-12-31",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市, 澎湖縣",
+        "registration_date": "詳洽主辦單位",
+        "location": "內政部國家公園署海洋國家公園管理處相關據點或線上",
+        "target_age": "適合學齡兒童及家庭",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "海洋國家公園管理處推出115年度主題式環境教育課程，以「環境守護員」集點活動方式，鼓勵兒童及家庭參與，學習海洋生態保育知識。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.marine.gov.tw/zh_tw/news/ActivityInfo",
+        "crawl_time": "2026-10-13T23:10:43"
     }
 ];
