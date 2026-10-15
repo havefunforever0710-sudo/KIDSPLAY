@@ -25823,5 +25823,47 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/167843/",
         "crawl_time": "2026-10-14T22:01:37"
+    },
+    {
+        "title": "2026 臺南文資月｜文資印象派繪畫徵件比賽人氣票選",
+        "category": "手作DIY與才藝",
+        "activity_date": "投票時間｜10/1（四）00:00 ~ 10/11（日）23:59",
+        "start_date": "2026-10-01",
+        "end_date": "2026-10-11",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "投票時間：2026/10/01 00:00 ~ 2026/10/11 23:59，透過Facebook或Google帳號登入線上投票。",
+        "location": "線上活動",
+        "target_age": "兒童",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "2026臺南文資月舉辦的文資印象派繪畫徵件比賽，目前正進行人氣獎線上票選。作品展現孩子眼中的臺南古蹟與街景，歡迎透過Facebook或Google帳號投票，選出你最喜歡的作品。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tmach-culture.tainan.gov.tw/activity.asp?mainid=CADB20A9-7C71-4108-9AE9-B346BEF8EDC6",
+        "crawl_time": "2026-10-15T21:55:03"
+    },
+    {
+        "title": "「遜遜」帶你尋寶去：金錢豹現身臺南六大宮廟",
+        "category": "在地文化體驗",
+        "activity_date": "2026年10月3日至11日",
+        "start_date": "2026-10-03",
+        "end_date": "2026-10-11",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "無需報名",
+        "location": "臺南市6間宮廟，包含大觀音亭暨祀典興濟宮、臺南首廟天壇、開隆宮、臺南府城隍廟、仁德大甲慈濟宮、喜樹代天府萬皇宮。",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "臺南文資處將傳統金錢豹陣轉化為文化IP「遜遜」，推出「遜遜帶你尋寶去」活動。六款大型氣膜「遜遜」現身臺南六間宮廟，吸引各世代民眾走進宮廟，認識臺南藝陣與宮廟文化。活動期間為2026年10月3日至11日，免費參觀。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tmach-culture.tainan.gov.tw/page.asp?mainid=CC272549-5333-4249-8C68-7A93985F3E0A",
+        "crawl_time": "2026-10-15T21:55:03"
     }
 ]

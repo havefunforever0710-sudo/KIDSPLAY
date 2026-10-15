@@ -1,5 +1,5 @@
 {
-    "last_index": 70,
+    "last_index": 75,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -548,7 +548,9 @@
             "https://tmach-culture.tainan.gov.tw/page.asp?orcaid=7E02B9B3-8473-4FEC-BC13-305711676555",
             "https://tmach-culture.tainan.gov.tw/activity.asp?mainid=17BE9DF8-7921-40AF-A82A-5300479D788A",
             "https://tmach-culture.tainan.gov.tw/page.asp?mainid=925636FA-485E-48E4-8691-80DF8EDE175A",
-            "https://tmach-culture.tainan.gov.tw/activity.asp?mainid=CB750135-3A78-48E0-9748-65A3FC5487BD"
+            "https://tmach-culture.tainan.gov.tw/activity.asp?mainid=CB750135-3A78-48E0-9748-65A3FC5487BD",
+            "https://tmach-culture.tainan.gov.tw/activity.asp?mainid=CADB20A9-7C71-4108-9AE9-B346BEF8EDC6",
+            "https://tmach-culture.tainan.gov.tw/page.asp?mainid=CC272549-5333-4249-8C68-7A93985F3E0A"
         ],
         "https://fossil.tainan.gov.tw/": [],
         "https://waterworks.tainan.gov.tw/": [
