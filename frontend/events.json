@@ -25865,5 +25865,117 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://tmach-culture.tainan.gov.tw/page.asp?mainid=CC272549-5333-4249-8C68-7A93985F3E0A",
         "crawl_time": "2026-10-15T21:55:03"
+    },
+    {
+        "title": "【雲之彼端．山之記憶】展高雄-桃源特展",
+        "category": "在地文化體驗",
+        "activity_date": "2026.10.08 ~ 2027.05.09",
+        "start_date": "2026-10-08",
+        "end_date": "2027-05-09",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": "請洽高雄市立歷史博物館官方網站",
+        "location": "高雄市立歷史博物館 本館203多功能室",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "高雄市立歷史博物館【雲之彼端．山之記憶】展高雄-桃源特展，介紹桃源區自然生態、農產與布農、拉阿魯哇族群文化。透過山林教育、族語與工藝傳承，展現桃源深厚文化脈動與韌性，適合全齡參觀，認識原鄉之美。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.khm.org.tw/tw/exhibition/currentexhibitions/detail/69",
+        "crawl_time": "2026-10-16T21:53:42"
+    },
+    {
+        "title": "大港輕旅地圖｜書展",
+        "category": "知性與靜態學習",
+        "activity_date": "2026年10月28日（三）至12月28日（一）",
+        "start_date": "2026-10-28",
+        "end_date": "2026-12-28",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": "無",
+        "location": "三餘書店2樓",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "以「大港輕旅地圖」為核心，串聯柯旗化故居、三餘書店及高雄文學館，透過主題書展與人權走讀活動，認識高雄城市發展、歷史記憶與人權故事。展出《台灣文化季刊》等多本選書。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.khm.org.tw/tw/exhibition/currentexhibitions/detail/71",
+        "crawl_time": "2026-10-16T21:53:42"
+    },
+    {
+        "title": "2026花蓮國際藝術節《波蘭木偶診所劇團 - 塔拉邦巴馬戲團》",
+        "category": "藝文展演",
+        "activity_date": "2026-10-30 19:00 至 2026-10-31 20:00",
+        "start_date": "2026-10-30",
+        "end_date": "2026-10-31",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "花蓮市",
+        "registration_date": "免費入場",
+        "location": "花蓮市日出大道（重慶市場旁）",
+        "target_age": "大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "花蓮國際藝術節邀請波蘭木偶診所劇團，帶來精彩演出《塔拉邦巴馬戲團》。結合巨型動物木偶、戲劇、音樂與馬戲藝術，打造充滿歡笑、色彩與想像力的視聽盛宴。以藝術傳遞尊重生命理念，邀請大小朋友一同感受表演藝術的無限魅力！",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15731",
+        "crawl_time": "2026-10-16T21:53:42"
+    },
+    {
+        "title": "《三分之二》餐桌特展",
+        "category": "藝文展演",
+        "activity_date": "115年10月8日至12月6日，每週二至週日10:00至17:00",
+        "start_date": "2026-10-08",
+        "end_date": "2026-12-06",
+        "recurring_days": [
+            0,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "region": "東部及離島",
+        "city": "花蓮縣",
+        "registration_date": "免費入場，無需報名",
+        "location": "花蓮文創園區19棟花蓮行音樂AI實驗基地（花蓮市中華路144號第19棟）",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "本特展由臺灣海洋原創動畫短片《三分之二》開發，透過沉浸式體驗結合海洋影像與鯨豚聲音，以餐桌投影方式進行敘事展示。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hccc.gov.tw/zh-tw/News/Detail/15734",
+        "crawl_time": "2026-10-16T21:53:42"
+    },
+    {
+        "title": "2026國際藝術節《波蘭木偶診所劇團》",
+        "category": "藝文展演",
+        "activity_date": "2026-10-30～10-31",
+        "start_date": "2026-10-30",
+        "end_date": "2026-10-31",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "花蓮縣",
+        "registration_date": "請洽主辦單位",
+        "location": "請洽主辦單位",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "國際藝術節系列活動之一，由波蘭木偶診所劇團帶來的精彩表演，為觀眾呈現獨特的木偶藝術體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hccc.gov.tw/zh-tw/News/Detail/15734",
+        "crawl_time": "2026-10-16T21:53:42"
     }
 ]
