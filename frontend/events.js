@@ -26177,5 +26177,110 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.culture.taichung.gov.tw/3389859/post",
         "crawl_time": "2026-10-18T21:13:23"
+    },
+    {
+        "title": "北園國小師生書法花藝融合聯展－「你容我融‧藝起相信」",
+        "category": "藝文展演",
+        "activity_date": "115/06/04 ~ 115/06/14",
+        "start_date": "2026-06-04",
+        "end_date": "2026-06-14",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "嘉義市",
+        "registration_date": "自由參觀",
+        "location": "嘉義文創園區Ｏ棟1樓展覽室",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "嘉義市北園國小師生於嘉義文創園區舉辦「你容我融‧藝起相信」書法花藝融合聯展。展出75幅師生畫作，含普特融合學生作品，旨在提供孩子展現才華的舞台。歡迎欣賞。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://cabcy.chiayi.gov.tw/web/cabcych/HotActivitiesList_26060409120121016",
+        "crawl_time": "2026-10-19T22:47:42"
+    },
+    {
+        "title": "「欲買桂花同載酒」-嘉義市115年度國民中小學美術班聯合作品展",
+        "category": "藝文展演",
+        "activity_date": "115年4月22日至4月26日",
+        "start_date": "2026-04-22",
+        "end_date": "2026-04-26",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "嘉義市",
+        "registration_date": "無需報名，依開放時間自由入場",
+        "location": "嘉義文創園區（舊酒廠）O棟1樓展覽室",
+        "target_age": "不限年齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "嘉義市115年度國民中小學美術班聯合作品展，以「欲買桂花同載酒」為主題，集結蘭潭國中與大同國小美術班60件學生創作成果，展現多元媒材與豐富題材。邀請觀者一同走入學生的藝術世界，感受青春時期獨有的生命體驗與情感流動。展覽期間為115年4月22日至4月26日。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://cabcy.chiayi.gov.tw/web/cabcych/HotActivitiesList_26042216133083574",
+        "crawl_time": "2026-10-19T22:47:42"
+    },
+    {
+        "title": "I Spy Love，發現愛",
+        "category": "藝文展演",
+        "activity_date": "2026/10/03 - 2027/02/21",
+        "start_date": "2026-10-03",
+        "end_date": "2027-02-21",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "詳洽臺北市立美術館官網",
+        "location": "臺北市立美術館",
+        "target_age": "親子共賞",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "《I Spy Love，發現愛》是臺北市立美術館的一個親子展覽，透過藝術家的創作與互動體驗，邀請孩子與大人一同探索愛在生活中的樣貌。展覽鼓勵親子對話，重新看見陪伴、照顧與關心，理解愛存在於日常細節。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tfam.museum/Exhibition/Exhibition_Special.aspx?id=816",
+        "crawl_time": "2026-10-19T22:47:42"
+    },
+    {
+        "title": "《藝脈相承》—新莊達文西畫會聯展",
+        "category": "藝文展演",
+        "activity_date": "115. 6.13 （六）－ 6.29 （一）大漢館",
+        "start_date": "2026-06-13",
+        "end_date": "2026-06-29",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "無資訊",
+        "location": "板橋435藝文特區 大漢館 (新北市板橋區中正路435號)",
+        "target_age": "無資訊",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "新莊達文西畫會30年來以繪畫藝術互相研習傳承，播種藝術種子發揚美學為目標。本次聯展將分享畫會成員們的創作成果，展現生活美學與藝術的結合，邀請民眾一同欣賞。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.435.culture.ntpc.gov.tw/xmdoc/cont?xsmsid=0I215519643908705938&sid=0Q110403308976122749",
+        "crawl_time": "2026-10-19T22:47:42"
+    },
+    {
+        "title": "《風情萬種》—膠彩畫聯展",
+        "category": "藝文展演",
+        "activity_date": "115.6.12（五）－6.30（二）",
+        "start_date": "2026-06-12",
+        "end_date": "2026-06-30",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "無須報名，活動期間開放參觀",
+        "location": "板橋435藝文特區 浮洲館 (新北市板橋區中正路435號)",
+        "target_age": "不限",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "本次膠彩畫聯展以「風情萬種」為主題，集結37位藝術家創作。作品涵蓋自然、人文與抽象意境，透過膠彩特有質感與層疊發色，展現豐富視覺語彙。誠摯邀請大眾蒞臨，感受膠彩藝術在傳統與現代交織下的萬種風情。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.435.culture.ntpc.gov.tw/xmdoc/cont?xsmsid=0I215519643908705938&sid=0Q110402298002275607",
+        "crawl_time": "2026-10-19T22:47:42"
     }
 ];
