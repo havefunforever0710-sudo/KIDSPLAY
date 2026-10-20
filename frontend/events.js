@@ -26282,5 +26282,26 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.435.culture.ntpc.gov.tw/xmdoc/cont?xsmsid=0I215519643908705938&sid=0Q110402298002275607",
         "crawl_time": "2026-10-19T22:47:42"
+    },
+    {
+        "title": "2026南瀛國際民俗藝術節─在蕭壠10/18㊐ 交通管制有秩序 大家請注意！！",
+        "category": "藝文展演",
+        "activity_date": "10.17㊅-10.25㊐",
+        "start_date": "2026-10-17",
+        "end_date": "2026-10-25",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": null,
+        "location": "蕭壠文化園區 (演出場地：戶外劇場), 台南市佳里區六安里六安130號",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "此公告為2026南瀛國際民俗藝術節在蕭壠文化園區10月18日的交通管制與館舍開放異動資訊，當日15:00-17:00將有來自斯洛伐克、羅馬尼亞等四國的民俗歌舞團帶來精彩表演。整體藝術節活動期間為10月17日至10月25日，歡迎全齡民眾免費觀賞。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://soulangh.tnc.gov.tw/index.php?inter=news&id=11&did=364",
+        "crawl_time": "2026-10-20T22:03:42"
     }
 ];
