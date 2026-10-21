@@ -26302,5 +26302,71 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://soulangh.tnc.gov.tw/index.php?inter=news&id=11&did=364",
         "crawl_time": "2026-10-20T22:03:42"
+    },
+    {
+        "title": "星海西遊・彩繪小徽章",
+        "category": "手作DIY與才藝",
+        "activity_date": "115年10月24日（六）至10月26日（一），每日上午10時至12時、下午13時30分至16時",
+        "start_date": "2026-10-24",
+        "end_date": "2026-10-26",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "免費參加且無須事先報名，現場即可體驗",
+        "location": "臺北天文館一樓宇宙劇場入口前 (臺北市士林區基河路363號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "臺北天文館於光復節連假推出「星海西遊・彩繪小徽章」活動，將《西遊記》人物與太陽系天體結合，邀請民眾親手打造獨一無二的創意徽章。活動免費參加，每日限量600份，無須事先報名，現場即可體驗，在趣味創作中認識太陽系天體，享受科學知識與藝術創意結合的樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=32170E4460501D46",
+        "crawl_time": "2026-10-21T22:03:50"
+    },
+    {
+        "title": "挑戰您的天文實力吧！115年天文知能檢測",
+        "category": "競賽與檢定",
+        "activity_date": "115年11月29日（日）",
+        "start_date": "2026-11-29",
+        "end_date": "2026-11-29",
+        "recurring_days": [
+            "0"
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "10月22日至29日開放網路報名。請至臺北天文館網站「活動報名」專區報名參加。",
+        "location": "臺北市立天文科學教育館 (地址:111013 臺北市士林區基河路363號)",
+        "target_age": "熱愛天文的初學者，或是想自我挑戰的星空高手",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺北天文館舉辦「天文知能檢測」，訂於115年11月29日（日）舉行，內容含天文知識測驗及星座辨認，適合天文愛好者與挑戰者。報名時間為10月22日至29日。另有付費「全天88星座教學」專場可購票參加。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=46A47AF84DF6101C",
+        "crawl_time": "2026-10-21T22:03:50"
+    },
+    {
+        "title": "星姊姊說故事【秋季星空的王室家族】",
+        "category": "知性與靜態學習",
+        "activity_date": "10月24日（六）14:00-15:00。",
+        "start_date": "2026-10-24",
+        "end_date": "2026-10-24",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "線上報名",
+        "location": "臺北市立天文科學教育館 展示場二樓兒童區 (臺北市士林區基河路363號)",
+        "target_age": "親子（幼稚園大班至國小三年級的孩童及其家長）",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "臺北市立天文館「星姊姊說故事」，帶親子認識秋季星空的王室星座與希臘羅馬神話，活動內容含故事、星點連線彩繪DIY及展示場尋寶，共享親子天文時光。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tam.gov.taipei/News_Content.aspx?n=794B17A953424610&sms=9D72E82EC16F3E64&s=73397C90D9246B18",
+        "crawl_time": "2026-10-21T22:03:50"
     }
 ]

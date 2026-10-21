@@ -1,5 +1,5 @@
 {
-    "last_index": 100,
+    "last_index": 2,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -11,7 +11,10 @@
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=474F183F55409528",
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=067A0E9A7EF21A94",
             "https://www.tam.gov.taipei/News_Content.aspx?n=794B17A953424610&sms=9D72E82EC16F3E64&s=BE5393FE2C5E58EA",
-            "https://www.tam.gov.taipei/News_Content.aspx?n=794B17A953424610&sms=9D72E82EC16F3E64&s=F2C7381D761A047A"
+            "https://www.tam.gov.taipei/News_Content.aspx?n=794B17A953424610&sms=9D72E82EC16F3E64&s=F2C7381D761A047A",
+            "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=32170E4460501D46",
+            "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=46A47AF84DF6101C",
+            "https://www.tam.gov.taipei/News_Content.aspx?n=794B17A953424610&sms=9D72E82EC16F3E64&s=73397C90D9246B18"
         ],
         "https://www.ntsec.gov.tw/": [
             "https://estore.ntsec.gov.tw/",
