@@ -1,5 +1,5 @@
 {
-    "last_index": 7,
+    "last_index": 12,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -100,7 +100,10 @@
             "https://nmmst.fonticket.com/tag/AdWk59Dg88zxwMYL?categoryId=jyl4QEWzlK6exOwL",
             "https://www.nmmst.gov.tw/chhtml/newsdetail/556/10633",
             "https://www.nmmst.gov.tw/chhtml/newsdetail/556/8813",
-            "https://www.nmmst.gov.tw/chhtml/newsdetail/221/10634"
+            "https://www.nmmst.gov.tw/chhtml/newsdetail/221/10634",
+            "https://www.nmmst.gov.tw/chhtml/newsdetail/556/11056",
+            "https://www.nmmst.gov.tw/chhtml/newsdetail/556/10891",
+            "https://www.nmmst.gov.tw/chhtml/newsdetail/221/10795"
         ],
         "https://www.tfam.museum/": [
             "https://www.tfam.museum/kid/"
@@ -114,7 +117,8 @@
             "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60146",
             "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60148",
             "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60118",
-            "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60142"
+            "https://event.culture.tw/mocweb/reg/NTMOFA/Detail.init.ctr?actId=60142",
+            "https://www.ntmofa.gov.tw/News_Actives_photo.aspx?n=1462&sms=11893"
         ],
         "https://www.tnam.museum/": [
             "https://www.tnam.museum/event/detail/722",
