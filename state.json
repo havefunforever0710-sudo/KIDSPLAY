@@ -1,5 +1,5 @@
 {
-    "last_index": 12,
+    "last_index": 17,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -132,13 +132,16 @@
         ],
         "https://www.ceramics.ntpc.gov.tw/": [
             "https://www.ceramics.ntpc.gov.tw/xmdoc/cont?xsmsid=0J149336017112545740&sid=0Q182579402523931672",
-            "https://www.ceramics.ntpc.gov.tw/xmdoc?xsmsid=0J149638456796918817"
+            "https://www.ceramics.ntpc.gov.tw/xmdoc?xsmsid=0J149638456796918817",
+            "https://digital.ceramics.ntpc.gov.tw/zh-tw/Biennale/1_19.htm"
         ],
         "https://www.sshm.ntpc.gov.tw/": [
             "https://www.sshm.ntpc.gov.tw/xceventsnews?xsmsid=0G250557655940640091",
             "https://www.sshm.ntpc.gov.tw/xmdoc/cont?xsmsid=0G244541084921596757&sid=0Q073555972184555288",
             "https://www.sshm.ntpc.gov.tw/xmdoc/cont?xsmsid=0N310664577604829770",
-            "https://www.sshm.ntpc.gov.tw/xmdoc/cont?xsmsid=0I100687155454429015&sid=0P331357307377690026"
+            "https://www.sshm.ntpc.gov.tw/xmdoc/cont?xsmsid=0I100687155454429015&sid=0P331357307377690026",
+            "https://www.sshm.ntpc.gov.tw/xmdoc?xsmsid=0G244541084921596757",
+            "https://www.sshm.ntpc.gov.tw/xmdoc/cont?xsmsid=0N285509165453996347"
         ],
         "https://www.juming.org.tw/": [
             "https://www.juming.org.tw/?sn=ec&pg=ZC845518&gn=%u6D3B%u52D5%u65B0%u8A0A",
@@ -153,7 +156,8 @@
             "https://www.chimeimuseum.org/event/691aeece01a23",
             "https://www.chimeimuseum.org/special-exhibition/68a68f0a422a6/68a68fa1d1a3b",
             "https://www.chimeimuseum.org/special-exhibition/68a68f0a422a6",
-            "https://www.chimeimuseum.org/exhibition-event"
+            "https://www.chimeimuseum.org/exhibition-event",
+            "https://www.chimeimuseum.org/news/6aa3ba3265845/detail"
         ],
         "https://www.lym.gov.tw/": [
             "https://www.lym.gov.tw/ch/education/course/list/",

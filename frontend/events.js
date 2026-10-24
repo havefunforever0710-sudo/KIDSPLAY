@@ -27183,5 +27183,139 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.ntmofa.gov.tw/News_Actives_photo.aspx?n=1462&sms=11893",
         "crawl_time": "2026-10-23T21:50:14"
+    },
+    {
+        "title": "臺灣國際陶藝雙年展 2026",
+        "category": "藝文展演",
+        "activity_date": "2026.07.31 – 2026.12.27",
+        "start_date": "2026-07-31",
+        "end_date": "2026-12-27",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "無需報名，依展期前往參觀",
+        "location": "陶博館三樓特展室 (新北市立鶯歌陶瓷博物館)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "新北市立鶯歌陶瓷博物館自2004年創辦「臺灣國際陶藝雙年展」。2026年將由大長智廣策劃，探討「大地」、「循環」、「靈域」、「人工」四大子題，展示國際現當代陶藝，作為文化與文明的當代表述。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://digital.ceramics.ntpc.gov.tw/zh-tw/Biennale/1_19.htm",
+        "crawl_time": "2026-10-24T21:23:55"
+    },
+    {
+        "title": "馭風乘浪-古代南島船舶特展",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": "2026-07-15",
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "新北市立十三行博物館 (地址：249005新北市八里區博物館路200號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "透過本特展，深入探索古代南島民族的船舶文化與精湛航海技術，了解他們與海洋共生的歷史與智慧。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.sshm.ntpc.gov.tw/xmdoc?xsmsid=0G244541084921596757",
+        "crawl_time": "2026-10-24T21:23:55"
+    },
+    {
+        "title": "阮ê海海人生-臺韓海洋文化交流特展",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": "2026-03-15",
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "新北市立十三行博物館 (地址：249005新北市八里區博物館路200號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "此特展旨在促進臺韓兩地海洋文化的深度交流，展示兩國在海洋生活、歷史及藝術方面的獨特魅力與共通之處。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.sshm.ntpc.gov.tw/xmdoc?xsmsid=0G244541084921596757",
+        "crawl_time": "2026-10-24T21:23:55"
+    },
+    {
+        "title": "十三行聚落虛擬展示體驗",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": "2021-02-08",
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "新北市立十三行博物館 (地址：249005新北市八里區博物館路200號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "透過先進的虛擬實境技術，帶領參觀者沉浸式體驗十三行聚落的日常生活、建築風貌與文化精髓，重現史前時期的歷史場景。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.sshm.ntpc.gov.tw/xmdoc?xsmsid=0G244541084921596757",
+        "crawl_time": "2026-10-24T21:23:55"
+    },
+    {
+        "title": "115年十三綠時尚假日體驗活動",
+        "category": [
+            "手作DIY與才藝",
+            "生態與大自然",
+            "知性與靜態學習",
+            "在地文化體驗"
+        ],
+        "activity_date": "2026-01-01 ~ 2026-12-27",
+        "start_date": "2026-01-01",
+        "end_date": "2026-12-27",
+        "recurring_days": [
+            0,
+            6
+        ],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "現場報名、電話報名 (02-26191313*603 張小姐)",
+        "location": "新北市立十三行博物館 (新北市八里區博物館路200號)",
+        "target_age": "大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "新北市立十三行博物館推出「十三綠時尚假日體驗活動」，邀請大小朋友透過每月不同的環保手作，認識史前文化、自然生態與環保議題，將古老智慧與廢棄資源結合，傳遞文化保存與環境永續的理念，讓歷史與生態在指尖重生。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.sshm.ntpc.gov.tw/xmdoc/cont?xsmsid=0N285509165453996347",
+        "crawl_time": "2026-10-24T21:23:55"
+    },
+    {
+        "title": "揮劍體驗騎士對決 西洋武術大師工作坊",
+        "category": "知性與靜態學習",
+        "activity_date": "2026年10月31日",
+        "start_date": "2026-10-31",
+        "end_date": "2026-10-31",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "即日起開放報名，早鳥優惠至10月5日，詳情請洽售票官網。",
+        "location": "奇美博物館 (717015 臺南市仁德區文華路二段66號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "奇美博物館特邀國際西洋武術大師親授，帶領學員體驗中世紀西洋劍與長劍的攻防魅力。活動包含兵器廳導覽及實作，深入學習15至17世紀歐洲武術技巧。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.chimeimuseum.org/news/6aa3ba3265845/detail",
+        "crawl_time": "2026-10-24T21:23:55"
     }
 ];
