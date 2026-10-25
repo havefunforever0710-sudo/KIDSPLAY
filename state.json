@@ -1,5 +1,5 @@
 {
-    "last_index": 17,
+    "last_index": 22,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -187,7 +187,10 @@
             "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16286",
             "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,15670",
             "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16378",
-            "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16372"
+            "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16372",
+            "https://www.ksml.edu.tw/ReaderRegist/index.aspx?Parser=99,8,1337",
+            "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16427",
+            "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16428"
         ],
         "https://www.tnpl.tn.edu.tw/": [
             "https://www.tnpl.tn.edu.tw/n14943237246847044508/n1Content",
@@ -203,7 +206,9 @@
             "https://www.tnpl.tn.edu.tw/n15707573417228522399/n1Content",
             "https://www.tnpl.tn.edu.tw/za4976375043056165457/n1Content",
             "https://www.tnpl.tn.edu.tw/n15362807739283280292/n1Content",
-            "https://www.tnpl.tn.edu.tw/za5028907899664446710/n1Content"
+            "https://www.tnpl.tn.edu.tw/za5028907899664446710/n1Content",
+            "https://www.tnpl.tn.edu.tw/za5477429751718017438/n1Content",
+            "https://www.tnpl.tn.edu.tw/za5487064514401392671/n1Content"
         ],
         "https://www.library.taichung.gov.tw/": [
             "https://gov.tw/rG7",
@@ -223,7 +228,10 @@
             "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,20931,,,,,1",
             "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,23974,,,,,2",
             "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,23976,,,,,2",
-            "https://www.library.taichung.gov.tw/active/details?Parser=99,3,39,27,,,25335"
+            "https://www.library.taichung.gov.tw/active/details?Parser=99,3,39,27,,,25335",
+            "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,25652,,,,,2",
+            "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,23967,,,,,2",
+            "https://www.library.taichung.gov.tw/active/details?Parser=99,3,39,27,,,24206"
         ],
         "https://www.typl.gov.tw/": [
             "https://www.typl.gov.tw/zh-tw/Activity/Content/9550?Preview=1147-0E6011C6250F4A999B4C9EA64B6BD6A0&httproute=True",
