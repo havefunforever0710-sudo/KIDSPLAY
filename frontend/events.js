@@ -27579,5 +27579,270 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.library.taichung.gov.tw/active/details?Parser=99,3,39,27,,,24206",
         "crawl_time": "2026-10-25T21:23:39"
+    },
+    {
+        "title": "聽囡仔歌踅世界－台語親子音樂會",
+        "category": "藝文展演",
+        "activity_date": "2026年11月14日（六）14:20–16:00",
+        "start_date": "2026-11-14",
+        "end_date": "2026-11-14",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "10月14日（三）中午12:00正式開放報名，需透過ACCUPASS App線上報名，大人及小孩皆需報名憑票入場。",
+        "location": "桃園市立圖書館新總館1樓微光廳 (台灣桃園市桃園區南平路303號)",
+        "target_age": "不限年齡，歡迎親子及闔家參與",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "桃園市立圖書館舉辦「聽囡仔歌踅世界－台語親子音樂會」，邀請台語路親子樂團與金曲入圍青虫aoi樂團，透過活潑有趣的台語囡仔歌與當代創作，讓大小朋友在歌聲與互動中親近台語，感受母語魅力。活動旨在推廣本土語言，讓台語成為家庭自然交流的一部分，適合親子及闔家參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.accupass.com/event/2610130319212303300100",
+        "crawl_time": "2026-10-26T23:00:46"
+    },
+    {
+        "title": "【兒童魔術-無蹤杯】I需事先報名I",
+        "category": "手作DIY與才藝",
+        "activity_date": "2026/11/07 (週六)上午10:30開始",
+        "start_date": "2026-11-07",
+        "end_date": "2026-11-07",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "2026-10-22 12:00～2026-11-05 12:00",
+        "location": "八德區 兒童玩具圖書館 木偶人的玩具創作室（桃園市八德區重慶街36號）",
+        "target_age": "4歲以上",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "兒童魔術「無蹤杯」活動，邀4歲以上孩子化身小小魔術師，學習魔術，培養專注力、觀察力、手眼協調、邏輯思考及親子互動。免費報名，共同揭開魔法秘密，創造歡樂回憶。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.typl.gov.tw/zh-tw/Activity/Content/10206",
+        "crawl_time": "2026-10-26T23:00:46"
+    },
+    {
+        "title": "桃園市立圖書館埔頂分館暨大溪埔頂親子館聯合開幕",
+        "category": "節慶市集與綜合",
+        "activity_date": "2026-10-29 09:30 ～ 2026-10-29 12:00",
+        "start_date": "2026-10-29",
+        "end_date": "2026-10-29",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "無資訊",
+        "location": "埔頂分館",
+        "target_age": "無資訊",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "桃園市立圖書館埔頂分館與大溪埔頂親子館的聯合開幕活動，提供免費參與，歡迎親子家庭共同參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.typl.gov.tw/zh-tw/Activity/Content/10254",
+        "crawl_time": "2026-10-26T23:00:46"
+    },
+    {
+        "title": "彩虹向日葵",
+        "category": "手作DIY與才藝",
+        "activity_date": "12/19(六)14:00-16:00",
+        "start_date": "2026-12-19",
+        "end_date": "2026-12-19",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "無資訊",
+        "location": "八德區-景雲分館",
+        "target_age": "無資訊",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "景雲分館舉辦的彩虹向日葵手作活動，適合兒童發揮創意。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.typl.gov.tw/zh-tw/Activity/Content/10254",
+        "crawl_time": "2026-10-26T23:00:46"
+    },
+    {
+        "title": "耶誕薑餅屋",
+        "category": "手作DIY與才藝",
+        "activity_date": "12/19",
+        "start_date": "2026-12-19",
+        "end_date": "2026-12-19",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "無資訊",
+        "location": "觀音區",
+        "target_age": "無資訊",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "觀音區舉辦的耶誕薑餅屋手作活動，讓孩子體驗節慶樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.typl.gov.tw/zh-tw/Activity/Content/10254",
+        "crawl_time": "2026-10-26T23:00:46"
+    },
+    {
+        "title": "耶誕花圈黏土",
+        "category": "手作DIY與才藝",
+        "activity_date": "2026.12.19",
+        "start_date": "2026-12-19",
+        "end_date": "2026-12-19",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "無資訊",
+        "location": "中壢區",
+        "target_age": "無資訊",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "青埔舉辦的耶誕花圈黏土手作活動，適合兒童發揮創意。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.typl.gov.tw/zh-tw/Activity/Content/10254",
+        "crawl_time": "2026-10-26T23:00:46"
+    },
+    {
+        "title": "3D列印筆 閃閃發光聖誕樹",
+        "category": "科技與創客",
+        "activity_date": "12/12(六)14:00-16:00",
+        "start_date": "2026-12-12",
+        "end_date": "2026-12-12",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "無資訊",
+        "location": "八德區-景雲分館",
+        "target_age": "無資訊",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "景雲分館舉辦的3D列印筆製作閃亮聖誕樹活動，結合科技與手作，適合學齡兒童。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.typl.gov.tw/zh-tw/Activity/Content/10254",
+        "crawl_time": "2026-10-26T23:00:46"
+    },
+    {
+        "title": "蘭陽人銅管五重奏【音樂戲劇劇場-藍鼻小丑冒險之旅】",
+        "category": "藝文展演",
+        "activity_date": "115年11月07日(六)下午13：30入場 14：00演出",
+        "start_date": "2026-11-07",
+        "end_date": "2026-11-07",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "無須索票，免費入場",
+        "location": "淡水分館演藝廳（淡水區文化路65號）",
+        "target_age": "親子皆能投入",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "融合丑默劇、魔術與互動表演，幽默中蘊含哲思，打造親子皆能投入、笑中有感的精彩舞台，推廣台灣丑默劇藝術。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=6736c648335b4bb98d3079d07ad32ca6",
+        "crawl_time": "2026-10-26T23:00:46"
+    },
+    {
+        "title": "閱讀MVP親子理財講座-跳跳糖姊姊帶你勇闖理財童話村",
+        "category": "知性與靜態學習",
+        "activity_date": "11月22日（日）14:00-16:00",
+        "start_date": "2026-11-22",
+        "end_date": "2026-11-22",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "預計10月22日（四）中午12:00開放報名，請點選報名連結。",
+        "location": "新北市立圖書館總館3樓演講廳 (新北市板橋區貴興路139號)",
+        "target_age": "國小以上兒童、家長",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "新北市立圖書館與中國信託銀行合作舉辦親子理財講座，邀請跳跳糖姊姊和小精靈老師帶領小朋友認識貨幣，透過戲劇、互動遊戲培養理財概念。活動包含「貨幣歷史大記憶」、「需要想要大考驗」、「前進銀行理財樂」等，適合國小以上兒童及家長。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=6e83f6709ac846388f3bfe760d2ea657",
+        "crawl_time": "2026-10-26T23:00:46"
+    },
+    {
+        "title": "【五股守讓堂】115年11月份【藝文生活圈】彩虹故事屋-親子悅讀趣",
+        "category": "知性與靜態學習",
+        "activity_date": "115/11/07 10:00-11:00",
+        "start_date": "2026-11-07",
+        "end_date": "2026-11-07",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "活動前10天(10/27起)開始報名，需持兒童本人借閱證借書滿5本，或於守讓堂借閱讀便利包1袋。",
+        "location": "新北市五股區新五路二段169號伴山學堂",
+        "target_age": "國小以下兒童及其家長",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "新北市五股守讓堂圖書館舉辦「彩虹故事屋-親子悅讀趣」活動，透過生動的故事《小狼學校(廉政)-收集笑臉》分享與DIY皇冠髮箍手作，培養兒童閱讀興趣並學習廉政概念。活動限8組親子參加，報名需憑兒童借閱證借書達指定數量。適合國小以下兒童及其家長一同參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=5cff2898bf8c460aa6391926fa8f4ddd",
+        "crawl_time": "2026-10-26T23:00:46"
+    },
+    {
+        "title": "文山分館「秋冬繪本小旅行」系列活動",
+        "category": "知性與靜態學習",
+        "activity_date": "10月28日、11月25日、12月23日，週三下午2時至3時",
+        "start_date": "2026-10-28",
+        "end_date": "2026-12-23",
+        "recurring_days": [
+            3
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "電洽文山分館報名，電話02-29315339",
+        "location": "臺北市立圖書館文山分館9樓多功能活動室（臺北市文山區興隆路2段160號7樓）",
+        "target_age": "對繪本閱讀賞析有興趣者（不限年齡，2至50人）",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "臺北市立圖書館文山分館舉辦「秋冬繪本小旅行」系列活動。鄭志芬老師帶領透過繪本探索自然奧秘、建築之美及聖誕故事。活動免費參加，共三場次，歡迎對繪本有興趣者報名，全程參與者可獲贈精美小禮物。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tpml.gov.taipei/News_Content.aspx?n=221B1426177ADA7B&sms=9D72E82EC16F3E64&s=B0BE88FBCB91FEB3",
+        "crawl_time": "2026-10-26T23:00:46"
+    },
+    {
+        "title": "大同分館「立冬暖心，感恩故事屋」英語說故事活動",
+        "category": "藝文展演",
+        "activity_date": "11月8日（日）上午10時至11時30分",
+        "start_date": "2026-11-08",
+        "end_date": "2026-11-08",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "10月14日（三）至11月2日（一）報名，親子或祖孫2人一組，共20組，採抽籤方式決定。錄取公告：11月3日（二）下午9時前公布於大同分館。報名網址：https://www.beclass.com/rid=30528306aa4f023d4f19",
+        "location": "大同分館B1樂齡學習中心",
+        "target_age": "幼稚園至小學",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "臺北市立圖書館大同分館舉辦「立冬暖心，感恩故事屋」英語說故事活動。邀請大小朋友一同聽英語故事、做美勞、玩遊戲，讓孩子在歡樂中接觸英語、培養閱讀興趣，並享受感恩與分享的美好。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tpml.gov.taipei/News_Content.aspx?n=49F42C0F3A955E81&sms=9D72E82EC16F3E64&s=D69B25743A3FCB92",
+        "crawl_time": "2026-10-26T23:00:46"
     }
 ];
