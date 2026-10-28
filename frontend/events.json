@@ -28270,5 +28270,115 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.songshanculturalpark.org/exhibition/activity/15943a3a-5f00-4d6c-a5e5-69a277d1ea5c",
         "crawl_time": "2026-10-27T22:50:00"
+    },
+    {
+        "title": "首爾插畫展 台北站",
+        "category": "2.藝文展演",
+        "activity_date": "2026.10.23 — 10.26",
+        "start_date": "2026-10-23",
+        "end_date": "2026-10-26",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "參觀／購票資訊，請點擊購買票券連結查詢",
+        "location": "華山1914文化創意產業園區",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "首爾插畫展台北站匯集多位精選插畫家，展示獨特創作與理念，以筆尖描繪自然與溫暖的日常。透過創作描繪城市，展開首爾與台北的相遇，為觀眾帶來一場視覺藝術饗宴。展覽將於華山1914文化創意產業園區舉行。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://sifintaipei.com.tw/",
+        "crawl_time": "2026-10-28T22:56:24"
+    },
+    {
+        "title": "駁二藝術特區園區導覽",
+        "category": "6.知性與靜態學習",
+        "activity_date": "週三至週五 : 14:30｜15:30｜16:30",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [
+            3,
+            4,
+            5
+        ],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": "線上申請表單預約，需於導覽日７天前申請，工作人員確認後需完成匯款。",
+        "location": "駁二藝術特區 (高雄市鹽埕區大勇路1號)，集合地點另行通知。",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "駁二藝術特區提供徒步與遊園車導覽服務，深入介紹園區歷史、藝術作品及特色店家。導覽涵蓋蓬萊、大勇、大義三大倉庫群，適合團體預約，探索高雄文創與海港風情。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://pier2.org/book/",
+        "crawl_time": "2026-10-28T22:56:24"
+    },
+    {
+        "title": "【台中木偶劇團】傳統表演藝術與影視科技的表現形式 ｜劇團 X導演 解密螢幕背後的視覺魔法｜",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-11-01(日) 10時00分 ~ 2026-11-01(日) 12時00分",
+        "start_date": "2026-11-01",
+        "end_date": "2026-11-01",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "2026-10-04 ~ 2026-10-31 線上免費報名 (需繳交100元保證金)",
+        "location": "B1 藝享空間 (屯區藝文中心)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "台中木偶劇團舉辦講座，探索傳統表演藝術如何結合影視科技，透過投影、VR、光雕動畫等元素，呈現偶戲的創新視覺體驗。由團長與邱一峰老師分享幕後魔法，適合對布袋戲與科技融合有興趣的觀眾。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ttdac.taichung.gov.tw/nc5747528526064455651/ncArticleContent",
+        "crawl_time": "2026-10-28T22:56:24"
+    },
+    {
+        "title": "《聖劍風雲三-龍虎兄弟》",
+        "category": "藝文展演",
+        "activity_date": "11 / 7（六）🕝 時間｜14:30",
+        "start_date": "2026-11-07",
+        "end_date": "2026-11-07",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "台中市",
+        "registration_date": "線上售票，票價300元 (售票連結：https://reurl.cc/eQzLXb)",
+        "location": "實驗劇場 (屯區藝文中心)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "《聖劍風雲三-龍虎兄弟》是台中木偶劇團全新武俠布袋戲續作，融合光影投影、影像疊合與殘影特效，帶來傳統偶戲與現代科技結合的視覺與感官體驗。精彩武俠風雲再起，不容錯過。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ttdac.taichung.gov.tw/nc5747528526064455651/ncArticleContent",
+        "crawl_time": "2026-10-28T22:56:24"
+    },
+    {
+        "title": "冬日香氛聖誕紅",
+        "category": "手作DIY與才藝",
+        "activity_date": "115年11月15日(星期日) 上午10-12時",
+        "start_date": "2026-11-15",
+        "end_date": "2026-11-15",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "屯區藝文中心一樓服務台繳費報名 (不接受電話及網路報名)",
+        "location": "屯區藝文中心B1藝享空間 (臺中市太平區大興路201號)",
+        "target_age": "兒童與大人親子參與",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "手作聖誕花藝，結合精油擴香功能，讓作品兼具視覺美感與淡雅香氣，提供香氛療癒體驗。每組限一位大人與一位小朋友共同參與，營造濃厚節日氛圍。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ttdac.taichung.gov.tw/nc5504230897244754299/ncArticleContent",
+        "crawl_time": "2026-10-28T22:56:24"
     }
 ]
