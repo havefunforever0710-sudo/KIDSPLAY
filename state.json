@@ -1,5 +1,5 @@
 {
-    "last_index": 37,
+    "last_index": 42,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -398,7 +398,8 @@
             "https://www.px-sunmake.org.tw/activity/artexhibitionlist.html",
             "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=259414",
             "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=260925",
-            "https://www.ncfta.gov.tw/News_Actives_photo_ncfta.aspx?n=2802&sms=11892"
+            "https://www.ncfta.gov.tw/News_Actives_photo_ncfta.aspx?n=2802&sms=11892",
+            "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=262576"
         ],
         "https://www.npsm.org.tw/": [],
         "https://www.gep.ntpc.gov.tw/": [
@@ -409,7 +410,8 @@
             "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246366358734295125&sid=0Q205605788098858761",
             "https://mineartfestival.com/",
             "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246366358734295125&sid=0Q187385014162413381",
-            "https://www.gep.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G266496700270752519&sid=0O308760664010107466"
+            "https://www.gep.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G266496700270752519&sid=0O308760664010107466",
+            "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246366358734295125&sid=0Q187376323120985978"
         ],
         "https://www.nmh.gov.tw/": [
             "https://www.nmh.gov.tw/News_actives.aspx?n=6990&sms=13323",

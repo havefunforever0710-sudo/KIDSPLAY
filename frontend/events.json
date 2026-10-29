@@ -28380,5 +28380,51 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.ttdac.taichung.gov.tw/nc5504230897244754299/ncArticleContent",
         "crawl_time": "2026-10-28T22:56:24"
+    },
+    {
+        "title": "2026亞太傳統藝術節：眾水之境",
+        "category": "節慶市集與綜合",
+        "activity_date": "即日起登場，為期9天的藝術盛會",
+        "start_date": "2026-10-03",
+        "end_date": "2026-10-11",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "宜蘭縣",
+        "registration_date": "現場購票或符合優惠資格者入場",
+        "location": "國立傳統藝術中心宜蘭園區",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "2026亞太傳統藝術節以「眾水之境」為主題，邀集印度、印尼、日本、韓國及臺灣藝術團隊，透過音樂、舞蹈、戲劇與多元藝術形式，展現亞洲各地與水相關的神話、信仰與生活文化。活動為期9天，除了精彩演出，還有文化漫遊DIY、泰國水燈體驗、各國文化體驗及異國市集，讓民眾透過手作、飲食及互動深入體驗亞洲水文化。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ncfta.gov.tw/News_Content.aspx?n=5178&s=262576",
+        "crawl_time": "2026-10-29T23:05:11"
+    },
+    {
+        "title": "礦事聚作：沿礦脈同行，讓記憶發光系列文化走讀活動",
+        "category": [
+            "職業體驗",
+            "在地文化體驗",
+            "知性與靜態學習"
+        ],
+        "activity_date": "115年5月2日 ~ 115年10月",
+        "start_date": "2026-05-02",
+        "end_date": "2026-10-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "即日起開放報名，詳情請至黃金博物館官網、粉絲專頁或IG查詢。",
+        "location": "新北市立黃金博物館 (新北市瑞芳區金光路8號) 及猴硐、新平溪、水金九在地團隊",
+        "target_age": "不限",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "新北市立黃金博物館推出「礦事聚作：沿礦脈同行」系列文化走讀活動，共16場沉浸式體驗，含礦工一日體驗，帶您走進礦業歷史現場。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246366358734295125&sid=0Q187376323120985978",
+        "crawl_time": "2026-10-29T23:05:11"
     }
 ]
