@@ -1,5 +1,5 @@
 {
-    "last_index": 42,
+    "last_index": 47,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -428,6 +428,9 @@
             "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E9%87%8E%E8%8D%89%E4%B8%8D%E6%9C%8D%E7%AE%A1",
             "https://www.mocataipei.org.tw/tw/ExhibitionAndEvent/Info/【當代館ｘ維京國際】《地圖之外》，一起展開屬於自己的旅程",
             "http://www.moca.taipei/tw/ExhibitionAndEvent/Exhibitions/Up-Coming",
+            "https://www.moca.taipei/tw/ExhibitionAndEvent/Events",
+            "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E3%80%8AARTKIDULT*%E3%80%8B%E2%80%94%E2%80%94*%E5%89%B5%E4%BD%9C%E8%80%85%E8%88%87%E5%AD%A9%E5%AD%90%E5%80%91%E7%9A%84%E9%81%8A%E6%A8%82%E5%A0%B4",
+            "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/VR%E7%B7%9A%E4%B8%8A%E5%B1%95%E8%A6%BD",
             "https://www.moca.taipei/tw/ExhibitionAndEvent/Events"
         ],
         "https://www.museum.org.tw/": [],
@@ -438,7 +441,10 @@
             "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60347",
             "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60349",
             "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60355",
-            "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60353"
+            "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60353",
+            "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60374",
+            "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60380",
+            "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60379"
         ],
         "https://www.nmtl.gov.tw/": [
             "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60138",
@@ -451,7 +457,10 @@
             "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60172",
             "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60177",
             "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60181",
-            "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60161"
+            "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60161",
+            "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60191",
+            "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60192",
+            "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60157"
         ],
         "https://thcdc.hakka.gov.tw/": [
             "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/167679/",

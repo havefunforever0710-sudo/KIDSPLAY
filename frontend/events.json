@@ -28426,5 +28426,396 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.gep.ntpc.gov.tw/xmdoc/cont?xsmsid=0G246366358734295125&sid=0Q187376323120985978",
         "crawl_time": "2026-10-29T23:05:11"
+    },
+    {
+        "title": "《ARTKIDULT 》—— 創作者與孩子們的遊樂場",
+        "category": "節慶市集與綜合",
+        "activity_date": "2026 / 11 / 14 Sat. ~ 2026 / 11 / 15 Sun. 11:00 - 17:00",
+        "start_date": "2026-11-14",
+        "end_date": "2026-11-15",
+        "recurring_days": [
+            6,
+            0
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "自由入場，無需報名",
+        "location": "台北當代藝術館 東側廣場（台北市大同區長安西路39號）",
+        "target_age": "大小孩或小大人，創作者與孩子們",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "《ARTKIDULT》是創作者與孩子們的週末實驗遊樂場，於台北當代藝術館東側廣場舉行。結合5大主題、10組企劃設計，由設計師、藝術家等與孩子們共同發想創作，鼓勵大小孩與小大人在玩樂中體驗藝術。活動自由入場，提供親子共創、體驗工作坊及能量補給。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/%E3%80%8AARTKIDULT*%E3%80%8B%E2%80%94%E2%80%94*%E5%89%B5%E4%BD%9C%E8%80%85%E8%88%87%E5%AD%A9%E5%AD%90%E5%80%91%E7%9A%84%E9%81%8A%E6%A8%82%E5%A0%B4",
+        "crawl_time": "2026-10-30T22:45:50"
+    },
+    {
+        "title": "VR線上展覽：雲端美術館正式開放！",
+        "category": "藝文展演",
+        "activity_date": "2020 / 11 / 14 Sat. ~ 2026 / 12 / 31 Thu.",
+        "start_date": "2020-11-14",
+        "end_date": "2026-12-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "無需報名，線上開放",
+        "location": "線上美術館，網址請見活動簡介連結。",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "台北當代藝術館於疫情時代推出VR線上展覽，將多個主題策劃展搬上雲端美術館。無論身處何地或錯過展期，皆可自由點選想看的展覽，隨時隨地在無人的美術館中，欣賞豐富多元的藝術內容。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/VR%E7%B7%9A%E4%B8%8A%E5%B1%95%E8%A6%BD",
+        "crawl_time": "2026-10-30T22:45:50"
+    },
+    {
+        "title": "線上小玩藝 U12小玩藝專屬線上影片",
+        "category": "6.知性與靜態學習",
+        "activity_date": "2021 / 07 / 11 Sun. - 2027 / 12 / 31 Fri.",
+        "start_date": "2021-07-11",
+        "end_date": "2027-12-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "BOOK 線上報名",
+        "location": "線上平台",
+        "target_age": "U12小玩藝專屬",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "提供U12兒童專屬的線上藝術影片，點選連結即可收看，豐富孩子們的藝術學習與想像。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.moca.taipei/tw/ExhibitionAndEvent/Events",
+        "crawl_time": "2026-10-30T22:45:50"
+    },
+    {
+        "title": "《ARTKIDULT 》—— 創作者與孩子們的遊樂場",
+        "category": "7.節慶市集與綜合",
+        "activity_date": "2026 / 11 / 14 Sat. - 2026 / 11 / 15 Sun. 11:00 - 17:00",
+        "start_date": "2026-11-14",
+        "end_date": "2026-11-15",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "BOOK 線上報名",
+        "location": "台北當代藝術館",
+        "target_age": "親子",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "台北當代藝術館舉辦的親子市集，匯集創作者與孩子們的創意，打造一場充滿樂趣與啟發的遊樂場體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.moca.taipei/tw/ExhibitionAndEvent/Events",
+        "crawl_time": "2026-10-30T22:45:50"
+    },
+    {
+        "title": "【當代館ｘ采實童書】《永遠的美子奶奶》，一場溫暖的回憶旅行",
+        "category": "6.知性與靜態學習",
+        "activity_date": "2026 / 11 / 01 Sun. 10:30 - 11:30",
+        "start_date": "2026-11-01",
+        "end_date": "2026-11-01",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "BOOK 線上報名",
+        "location": "台北當代藝術館",
+        "target_age": "親子",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "透過與采實童書合作的繪本故事活動，帶領親子一同閱讀《永遠的美子奶奶》，展開溫暖的回憶之旅。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.moca.taipei/tw/ExhibitionAndEvent/Events",
+        "crawl_time": "2026-10-30T22:45:50"
+    },
+    {
+        "title": "【藝術家工作坊】走走走，有樹有椅有首詩",
+        "category": "4.手作DIY與才藝",
+        "activity_date": "2026 / 11 / 07 Sat. 14:00 - 16:00",
+        "start_date": "2026-11-07",
+        "end_date": "2026-11-07",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "BOOK 線上報名",
+        "location": "台北當代藝術館",
+        "target_age": "親子",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "結合街區藝術計畫的藝術家工作坊，引導參與者透過觀察與創作，將生活元素轉化為詩意的藝術作品。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.moca.taipei/tw/ExhibitionAndEvent/Events",
+        "crawl_time": "2026-10-30T22:45:50"
+    },
+    {
+        "title": "【當代館ｘ小塊】《美術館的一天》，打開你的觀察與想像！",
+        "category": "6.知性與靜態學習",
+        "activity_date": "2026 / 11 / 08 Sun. 10:30 - 11:30",
+        "start_date": "2026-11-08",
+        "end_date": "2026-11-08",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "BOOK 線上報名",
+        "location": "台北當代藝術館",
+        "target_age": "親子",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "與小塊文化合作繪本故事活動，藉由《美術館的一天》引導親子觀察美術館，開啟無限的想像與藝術對話。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.moca.taipei/tw/ExhibitionAndEvent/Events",
+        "crawl_time": "2026-10-30T22:45:50"
+    },
+    {
+        "title": "【當代館ｘ維京國際】《地圖之外》，一起展開屬於自己的旅程",
+        "category": "6.知性與靜態學習",
+        "activity_date": "2026 / 11 / 29 Sun. 10:30 - 11:30",
+        "start_date": "2026-11-29",
+        "end_date": "2026-11-29",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "BOOK 線上報名",
+        "location": "台北當代藝術館",
+        "target_age": "親子",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "與維京國際合作繪本故事活動，透過《地圖之外》鼓勵親子探索未知，激發創意，展開獨一無二的想像旅程。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.moca.taipei/tw/ExhibitionAndEvent/Events",
+        "crawl_time": "2026-10-30T22:45:50"
+    },
+    {
+        "title": "【當代館ｘ上誼】《企鵝演奏會》，一起收藏相遇的美好！",
+        "category": "6.知性與靜態學習",
+        "activity_date": "2026 / 12 / 06 Sun. 10:30 - 11:30",
+        "start_date": "2026-12-06",
+        "end_date": "2026-12-06",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "BOOK 線上報名",
+        "location": "台北當代藝術館",
+        "target_age": "親子",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "與上誼文化合作繪本故事活動，透過《企鵝演奏會》引導親子感受音樂與故事的魅力，收藏相遇的溫暖美好。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.moca.taipei/tw/ExhibitionAndEvent/Events",
+        "crawl_time": "2026-10-30T22:45:50"
+    },
+    {
+        "title": "【藝術家工作坊】畫一座想像中的當代館",
+        "category": "4.手作DIY與才藝",
+        "activity_date": "2026 / 12 / 26 Sat. 14:00 - 16:00",
+        "start_date": "2026-12-26",
+        "end_date": "2026-12-26",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "BOOK 線上報名",
+        "location": "台北當代藝術館",
+        "target_age": "親子",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "藝術家帶領的工作坊，鼓勵參與者發揮創意，繪製一座專屬的想像當代館，體驗藝術創作的無限可能。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.moca.taipei/tw/ExhibitionAndEvent/Events",
+        "crawl_time": "2026-10-30T22:45:50"
+    },
+    {
+        "title": "【康樂本館】史前館X兒文所 原創繪本說故事+立體卡創作工作坊 (海底爸爸)",
+        "category": "手作DIY與才藝",
+        "activity_date": "11月8日 (日)",
+        "start_date": "2026-11-08",
+        "end_date": "2026-11-08",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "臺東市",
+        "registration_date": "報名期間：2026/10/19 09:00 ~ 2026/11/04 17:00。需至「我要繳費」頁面進行付款。",
+        "location": "康樂本館創意工坊（探索館）、探索館多功能教室 (地址：95060臺東市豐田里博物館路1號)",
+        "target_age": "建議5歲以上學童參與",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "史前館與臺東大學兒文所合作，推出親子原創繪本說故事及立體卡創作工作坊。由專業紙藝工程師引導，體驗大型立體繪本，並動手將平面圖畫轉化為立體卡片，將故事場景帶回家。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60374",
+        "crawl_time": "2026-10-30T22:45:50"
+    },
+    {
+        "title": "【南科考古館】考古真簇味",
+        "category": "知性與靜態學習",
+        "activity_date": "115.11.21（六）",
+        "start_date": "2026-11-21",
+        "end_date": "2026-11-21",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "報名期間：2026/11/04 12:00 ~ 2026/11/19 17:00。請於活動前10分鐘至館內一樓大廳服務台完成報到及繳費。",
+        "location": "南科考古館1F後方賣店教室 (地址：74147臺南市新市區南科三路10號)",
+        "target_age": "建議年齡8歲以上",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "活動以鳥居龍藏特展為延伸，透過導覽介紹磨製石器與打製石器差異，實際磨製屬於自己的箭簇，了解史前人製作工具的巧思與資源不易取得性。親手體驗史前人的製作智慧！",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60380",
+        "crawl_time": "2026-10-30T22:45:50"
+    },
+    {
+        "title": "【康樂本館多元文化月】東南亞自然食器再現系列 - 場次3 泰國",
+        "category": "在地文化體驗",
+        "activity_date": "2026/11/07(六)",
+        "start_date": "2026-11-07",
+        "end_date": "2026-11-07",
+        "recurring_days": [
+            6
+        ],
+        "region": "東部及離島",
+        "city": "臺東市",
+        "registration_date": "線上報名，2026/10/21 12:00 ~ 2026/11/06 17:00",
+        "location": "康樂本館創意工坊（探索館），95060臺東市豐田里博物館路1號",
+        "target_age": "親子、一般大眾、新住民家庭",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "透過東南亞移民女性分享母國文化，體驗芭蕉植物食器手作、特色飲食品嚐與主題導覽，增進親子互動，認識多元文化並實踐環境友善行動。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMP/Detail.init.ctr?actId=60379",
+        "crawl_time": "2026-10-30T22:45:50"
+    },
+    {
+        "title": "「玩家登入！用身體跟聲音玩文學」創造性戲劇工作坊",
+        "category": "藝文展演",
+        "activity_date": "2026/11/07 14:30 ~ 2026/11/07 15:15",
+        "start_date": "2026-11-07",
+        "end_date": "2026-11-07",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "2026/10/22 09:00 ~ 2026/11/06 20:00",
+        "location": "國立臺灣文學館-展覽室D (兒童文學特展展區)",
+        "target_age": "幼兒園中班至國小低年級（5 – 9歲）的親子家庭",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "國立臺灣文學館邀請親子化身冒險玩家，透過聲音遊戲、肢體創作與戲劇互動，探索兒童文學。由「影響‧新劇場」帶領，適合5-9歲親子家庭，讓孩子用身體和聲音玩出想像力，體驗文學的多元樣貌。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60191",
+        "crawl_time": "2026-10-30T22:45:50"
+    },
+    {
+        "title": "「玩家登入！用身體跟聲音玩文學」創造性戲劇工作坊",
+        "category": "藝文展演",
+        "activity_date": "2026/11/08 10:30 ~ 2026/11/08 11:15",
+        "start_date": "2026-11-08",
+        "end_date": "2026-11-08",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "2026/10/23 09:00 ~ 2026/11/06 20:00",
+        "location": "國立臺灣文學館-展覽室D (兒童文學特展展區)",
+        "target_age": "幼兒園中班至國小低年級（5 – 9歲）的親子家庭",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "國立臺灣文學館邀請親子化身冒險玩家，透過聲音遊戲、肢體創作與戲劇互動，探索兒童文學。由「影響‧新劇場」帶領，適合5-9歲親子家庭，讓孩子用身體和聲音玩出想像力，體驗文學的多元樣貌。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60191",
+        "crawl_time": "2026-10-30T22:45:50"
+    },
+    {
+        "title": "「玩家登入！用身體跟聲音玩文學」創造性戲劇工作坊",
+        "category": "藝文展演",
+        "activity_date": "2026/11/08 14:30 ~ 2026/11/08 15:15",
+        "start_date": "2026-11-08",
+        "end_date": "2026-11-08",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "2026/10/23 09:00 ~ 2026/11/06 20:00",
+        "location": "國立臺灣文學館-展覽室D (兒童文學特展展區)",
+        "target_age": "幼兒園中班至國小低年級（5 – 9歲）的親子家庭",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "國立臺灣文學館邀請親子化身冒險玩家，透過聲音遊戲、肢體創作與戲劇互動，探索兒童文學。由「影響‧新劇場」帶領，適合5-9歲親子家庭，讓孩子用身體和聲音玩出想像力，體驗文學的多元樣貌。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60191",
+        "crawl_time": "2026-10-30T22:45:50"
+    },
+    {
+        "title": "(展覽預告)紙上征途：吉訶德大人的文學冒險",
+        "category": "藝文展演",
+        "activity_date": "2026/12/15 09:00 ~ 2027/03/21 18:00",
+        "start_date": "2026-12-15",
+        "end_date": "2027-03-21",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": null,
+        "location": "國立臺灣文學館",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "為紀念塞萬提斯逝世410週年及臺西接觸400週年，國立臺灣文學館舉辦《紙上征途：吉訶德大人的文學冒險》特展。展出珍貴古籍、版畫與器物，探討《堂吉訶德》追求自由與反抗壓迫的精神，並對照臺灣文學作品。透過跨域藝術與互動設計，帶領觀眾探索這部經典如何從諷刺人物蛻變為理想與勇氣的象徵，並在臺灣文學中激盪出新火花，鼓勵民眾思考自身與吉訶德精神的連結。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60192",
+        "crawl_time": "2026-10-30T22:45:50"
+    },
+    {
+        "title": "跨越邊界的童心：臺灣原創繪本外譯書展",
+        "category": "藝文展演",
+        "activity_date": "配合「玩家登入：兒童文學特展」展期",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "無需報名",
+        "location": "國立臺灣文學館",
+        "target_age": "全齡，特別適合兒童與親子",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "本展覽配合「玩家登入：兒童文學特展」展期，展出多本近年於國際獲獎的臺灣原創兒童繪本外譯作品，透過五大主題呈現臺灣兒童文學的豐富面貌與創作能量。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60157",
+        "crawl_time": "2026-10-30T22:45:50"
     }
 ]
