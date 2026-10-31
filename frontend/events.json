@@ -28817,5 +28817,47 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60157",
         "crawl_time": "2026-10-30T22:45:50"
+    },
+    {
+        "title": "鐵定有客─富玉客庄深度巡禮活動",
+        "category": "12.在地文化體驗",
+        "activity_date": "9月20日至21日",
+        "start_date": "2026-09-20",
+        "end_date": "2026-09-21",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "花蓮縣",
+        "registration_date": "活動已於2026年9月21日結束，網頁未提供報名資訊。",
+        "location": "花蓮縣玉里鎮及富里鄉客庄 (包含玉里火車站、春日五穀宮、織羅部落米86、東豐拾穗農場、玉里協天宮周邊老街、六十石山、竹田義民亭、富里火車站等)",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "客家委員會客家文化發展中心於2026年9月20日至21日舉辦「鐵定有客─富玉客庄深度巡禮」，結合花東鐵路通車百年特展與金針花季，帶領民眾深度體驗花蓮玉里、富里客庄的歷史文化、生態環境與在地美食，感受東臺灣客庄的慢活風情。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/12205/12219/12218/171740/post",
+        "crawl_time": "2026-10-31T22:09:51"
+    },
+    {
+        "title": "花東鐵路通車百年─鐵定有客特展",
+        "category": "2.藝文展演",
+        "activity_date": "玉里鎮璞石藝術館的展期到10月18日，緊接著將於11月巡展至國立臺東生活美學館",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "花蓮縣, 臺東縣",
+        "registration_date": "網頁為活動報導，未提供報名資訊。",
+        "location": "花蓮縣玉里鎮璞石藝術館、國立臺東生活美學館",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "「花東鐵路通車百年─鐵定有客」特展，首展於花蓮玉里鎮璞石藝術館展出至2026年10月18日，隨後於11月巡展至臺東生活美學館。特展重現1930年代玉里車站意象，展示電氣路牌，帶領民眾回顧花東鐵道與客家移民的百年記憶與文化。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/12205/12219/12218/171740/post",
+        "crawl_time": "2026-10-31T22:09:51"
     }
 ]

@@ -1,5 +1,5 @@
 {
-    "last_index": 47,
+    "last_index": 52,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -482,7 +482,8 @@
             "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/28645/171910/",
             "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/1437/153220/171985/",
             "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12321/12323/1437/153220/169779/",
-            "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/167843/"
+            "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/167843/",
+            "https://thcdc.hakka.gov.tw/12205/12219/12218/171740/post"
         ],
         "https://ssl.thcp.org.tw/": [
             "https://ssl.thcp.org.tw/events/1630",
