@@ -28880,5 +28880,49 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.marine.gov.tw/news/ActivityInfo",
         "crawl_time": "2026-11-03T01:26:33"
+    },
+    {
+        "title": "我的彩色歷險記-性平繪本趣味測驗",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "不適用 (線上展覽，無需報名)",
+        "location": "國立國父紀念館網站 (線上)",
+        "target_age": "未明確說明，適合學齡兒童及青少年",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "透過性別平等主題繪本，以趣味測驗的形式，引導學齡兒童與青少年互動學習性別平等知識，富有教育意義。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.yatsen.gov.tw/News_Link_Card.aspx?n=6661&sms=14548",
+        "crawl_time": "2026-11-03T23:51:26"
+    },
+    {
+        "title": "性平歷史漫畫《進擊吧！花漾正義》",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "不適用 (線上展覽，無需報名)",
+        "location": "國立國父紀念館網站 (線上)",
+        "target_age": "未明確說明，適合學齡兒童及青少年",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "以生動有趣的歷史漫畫形式，向學齡兒童及青少年介紹性別平等議題，將嚴肅的教育主題轉化為易於理解的故事。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.yatsen.gov.tw/News_Link_Card.aspx?n=6661&sms=14548",
+        "crawl_time": "2026-11-03T23:51:26"
     }
 ]

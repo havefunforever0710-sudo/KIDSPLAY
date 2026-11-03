@@ -1,5 +1,5 @@
 {
-    "last_index": 62,
+    "last_index": 67,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -579,7 +579,8 @@
             "https://www.yatsen.gov.tw/News_actives.aspx?n=6682&sms=13411",
             "https://www.yatsen.gov.tw/News_Content.aspx?n=6518&s=261211",
             "https://www.yatsen.gov.tw/News_Content.aspx?n=6519&s=261414",
-            "https://www.yatsen.gov.tw/News_Content2.aspx?n=6680&s=262573"
+            "https://www.yatsen.gov.tw/News_Content2.aspx?n=6680&s=262573",
+            "https://www.yatsen.gov.tw/News_Link_Card.aspx?n=6661&sms=14548"
         ],
         "https://culture.hccg.gov.tw/": [
             "https://hsinchucityfilm.kktix.cc/events/2026hsinchucityfilm",
