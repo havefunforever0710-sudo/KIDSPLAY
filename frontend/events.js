@@ -28925,5 +28925,90 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.yatsen.gov.tw/News_Link_Card.aspx?n=6661&sms=14548",
         "crawl_time": "2026-11-03T23:51:26"
+    },
+    {
+        "title": "府城城垣節系列活動",
+        "category": "節慶市集與綜合",
+        "activity_date": "2025/4/28 盛大啟動，系列活動持續至8月31日",
+        "start_date": "2025-04-28",
+        "end_date": "2025-08-31",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "詳情請見各活動官網或現場參與",
+        "location": "臺南市各地",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "臺南市政府攜手民間舉辦「府城城垣節」系列活動，結合歷史、宗教與當代藝術文化，重現府城三百年前的樣貌，內容豐富多元，適合各年齡層民眾參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tmach-culture.tainan.gov.tw/list.asp?orcaid=715B79A3-4619-4D1F-A07E-801667EFE53C",
+        "crawl_time": "2026-11-05T23:55:55"
+    },
+    {
+        "title": "府城城垣300年 | 城是[ ]集章",
+        "category": "在地文化體驗",
+        "activity_date": "2025.5月～8月31日",
+        "start_date": "2025-05-01",
+        "end_date": "2025-08-31",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "活動期間內參與，不需預先報名",
+        "location": "臺南市各地點 (需尋訪20個城區店家與10組城門城垣印章)",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "慶祝府城城垣300年，舉辦集章任務活動，需尋訪20個城區店家與10組城門城垣印章，適合全家大小一同探索臺南歷史古蹟與在地文化。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tmach-culture.tainan.gov.tw/list.asp?orcaid=715B79A3-4619-4D1F-A07E-801667EFE53C",
+        "crawl_time": "2026-11-05T23:55:55"
+    },
+    {
+        "title": "百年水道變國際舞台！水道博物館7周年 異國歌舞、手作體驗登場",
+        "category": "節慶市集與綜合",
+        "activity_date": "2026/10/17 ~ 2026/10/18",
+        "start_date": "2026-10-17",
+        "end_date": "2026-10-18",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "詳洽水道博物館官方粉絲專頁；部分手作體驗完成指定闖關可免費獲得。",
+        "location": "台南山上花園水道博物館",
+        "target_age": "親子、大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "台南山上花園水道博物館歡慶7周年，結合南瀛國際民俗藝術節，於10月17日至18日推出「七聚水道・藝起鬧熱」館慶活動，安排國際民俗表演、4大手作工作坊及台語導覽闖關，邀親子體驗文化藝術，部分手作體驗完成闖關可免費獲得。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ettoday.net/news/20261016/3255665.htm?shem=aimgspe,",
+        "crawl_time": "2026-11-05T23:55:55"
+    },
+    {
+        "title": "【展高雄桃源特展系列】雲之彼端．山之記憶－布農族文化體驗工作坊",
+        "category": "在地文化體驗",
+        "activity_date": "2026.11.21 13:30 ~ 2026.11.21 16:30",
+        "start_date": "2026-11-21",
+        "end_date": "2026-11-21",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": "2026.11.03 ~ 2026.11.19 線上報名",
+        "location": "高雄市立歷史博物館203多功能室 (高雄市鹽埕區中正四路272號)",
+        "target_age": "11歲以上一般大眾(國小兒童須由1位成人陪同)",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "配合特展，邀請桃源區布農族人老師，帶您從生命歷程認識布農族的日常生活與文化，透過文化講座及布農族傳統家屋模型製作，鼓勵參與者對布農族文化的認識，進而建立多元文化理解與尊重。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.khm.org.tw/tw/event/detail/414",
+        "crawl_time": "2026-11-05T23:55:55"
     }
 ];

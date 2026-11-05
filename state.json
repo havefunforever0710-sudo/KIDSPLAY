@@ -1,5 +1,5 @@
 {
-    "last_index": 72,
+    "last_index": 77,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -609,7 +609,8 @@
             "https://tmach-culture.tainan.gov.tw/page.asp?mainid=925636FA-485E-48E4-8691-80DF8EDE175A",
             "https://tmach-culture.tainan.gov.tw/activity.asp?mainid=CB750135-3A78-48E0-9748-65A3FC5487BD",
             "https://tmach-culture.tainan.gov.tw/activity.asp?mainid=CADB20A9-7C71-4108-9AE9-B346BEF8EDC6",
-            "https://tmach-culture.tainan.gov.tw/page.asp?mainid=CC272549-5333-4249-8C68-7A93985F3E0A"
+            "https://tmach-culture.tainan.gov.tw/page.asp?mainid=CC272549-5333-4249-8C68-7A93985F3E0A",
+            "https://tmach-culture.tainan.gov.tw/list.asp?orcaid=715B79A3-4619-4D1F-A07E-801667EFE53C"
         ],
         "https://fossil.tainan.gov.tw/": [],
         "https://waterworks.tainan.gov.tw/": [
@@ -621,12 +622,14 @@
             "https://waterworks.tainan.gov.tw/",
             "https://waterworks.tainan.gov.tw/index.php?modify=news",
             "https://www.ettoday.net/news/20260726/3207762.htm?from=ettoday_app",
-            "https://waterworks.tainan.gov.tw/index.php?modify=visit&id=2"
+            "https://waterworks.tainan.gov.tw/index.php?modify=visit&id=2",
+            "https://www.ettoday.net/news/20261016/3255665.htm?shem=aimgspe,"
         ],
         "https://khm.org.tw/": [
             "https://www.khm.org.tw/tw/event/detail/406",
             "https://www.khm.org.tw/tw/exhibition/currentexhibitions/detail/69",
-            "https://www.khm.org.tw/tw/exhibition/currentexhibitions/detail/71"
+            "https://www.khm.org.tw/tw/exhibition/currentexhibitions/detail/71",
+            "https://www.khm.org.tw/tw/event/detail/414"
         ],
         "https://www.cultural.pthg.gov.tw/": [],
         "https://www.hccc.gov.tw/": [
