@@ -29009,5 +29009,111 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.khm.org.tw/tw/event/detail/414",
         "crawl_time": "2026-11-05T23:55:55"
+    },
+    {
+        "title": "2026洄瀾藝術節 夢回心聲・唱響洄瀾",
+        "category": "藝文展演",
+        "activity_date": "2026-12-19 14:00 至 2026-12-19 15:30",
+        "start_date": "2026-12-19",
+        "end_date": "2026-12-19",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "花蓮市",
+        "registration_date": "索票入場（11／16開放索票）",
+        "location": "花蓮縣立中正體育館 (970 花蓮縣花蓮市民權里公園路53號)",
+        "target_age": "",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "2026洄瀾藝術節邀請國立東華大學交響樂團，攜手花蓮在地及學校合唱團、聲樂家，以跨世代經典歌曲，帶大家重溫記憶中的好歌，唱出屬於花蓮的溫暖與感動。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15783",
+        "crawl_time": "2026-11-06T23:37:51"
+    },
+    {
+        "title": "短耳兔跳進故事王國・陪伴寶貝長大 經典繪本閱讀饗宴",
+        "category": "6.知性與靜態學習",
+        "activity_date": "11月11日",
+        "start_date": "2026-11-11",
+        "end_date": "2026-11-11",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "花蓮市",
+        "registration_date": null,
+        "location": "明禮國小附幼",
+        "target_age": "幼兒 (preschoolers)",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲"
+        ],
+        "price_type": "付費",
+        "summary": "經典繪本閱讀饗宴，邀請短耳兔跳進故事王國，陪伴幼兒寶貝一同成長，於明禮國小附幼登場。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hccc.gov.tw/zh-tw/News/Detail/15785",
+        "crawl_time": "2026-11-06T23:37:51"
+    },
+    {
+        "title": "『童心同行 為愛築院』公益園遊會",
+        "category": "7.節慶市集與綜合",
+        "activity_date": "2026-11-07",
+        "start_date": "2026-11-07",
+        "end_date": "2026-11-07",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "花蓮市",
+        "registration_date": null,
+        "location": null,
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "以「童心同行 為愛築院」為主題的公益園遊會，適合親子一同參與，為愛心單位募集資源。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hccc.gov.tw/zh-tw/News/Detail/15785",
+        "crawl_time": "2026-11-06T23:37:51"
+    },
+    {
+        "title": "裂石新生創作坊",
+        "category": "4.手作DIY與才藝",
+        "activity_date": "2026-10-31～11-28",
+        "start_date": "2026-10-31",
+        "end_date": "2026-11-28",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "花蓮市",
+        "registration_date": null,
+        "location": null,
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "「裂石新生創作坊」是2026花蓮國際石雕藝術季的一部分，提供手作創作體驗，激發藝術潛能。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hccc.gov.tw/zh-tw/News/Detail/15785",
+        "crawl_time": "2026-11-06T23:37:51"
+    },
+    {
+        "title": "『童心同行 為愛築院』公益園遊會",
+        "category": "7.節慶市集與綜合",
+        "activity_date": "2026-11-07",
+        "start_date": "2026-11-07",
+        "end_date": "2026-11-07",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "花蓮市",
+        "registration_date": null,
+        "location": null,
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "一場以「童心同行」為主題的公益園遊會，旨在為愛心事業籌募資金，適合家庭與各年齡層一同參與，享受節慶氛圍。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15751",
+        "crawl_time": "2026-11-06T23:37:51"
     }
 ]
