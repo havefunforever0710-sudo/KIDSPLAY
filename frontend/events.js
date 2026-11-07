@@ -29116,5 +29116,111 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.hccc.gov.tw/zh-tw/Activity/Detail/15751",
         "crawl_time": "2026-11-06T23:37:51"
+    },
+    {
+        "title": "2026《紙廠電影院－中興57影展》",
+        "category": "藝文展演",
+        "activity_date": "2026.11.7(六) – 12.12(六)",
+        "start_date": "2026-11-07",
+        "end_date": "2026-12-12",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "宜蘭縣",
+        "registration_date": "免費線上索票，請參考網址：https://reurl.cc/AXmOXQ",
+        "location": "宜蘭中興文化創意園區 57號影視中心",
+        "target_age": "大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "2026《紙廠電影院－中興57影展》將於11月7日至12月12日在宜蘭中興文化創意園區舉行。影展以青春成長、自我探索與多元認同為主題，精選動畫與感人故事，邀請大小朋友一同透過電影探索人生，並在老紙廠改建的空間中享受室內與戶外特映的影像體驗。開幕與星光場戶外特映精彩可期。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ilccb.gov.tw/News_Content.aspx?n=10537&sms=12918&s=411451",
+        "crawl_time": "2026-11-07T22:28:37"
+    },
+    {
+        "title": "2026第六屆銅鑼杭菊生活節－菊內人 6",
+        "category": "節慶市集與綜合",
+        "activity_date": "115年11月21日（星期六）至22日（星期日）",
+        "start_date": "2026-11-21",
+        "end_date": "2026-11-22",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "苗栗縣",
+        "registration_date": "詳見主辦單位Facebook粉絲專頁「富農農產運銷合作社─杭菊生活節『菊內人』」公告",
+        "location": "苗栗縣銅鑼鄉",
+        "target_age": "全國民眾",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "苗栗縣富農農產運銷合作社舉辦「2026第六屆銅鑼杭菊生活節」，結合杭菊產業、客家文化、食農教育與地方特產，規劃花田、音樂會、食安館、杭菊宴及市集等多元活動，邀請全國民眾體驗客庄風情與農村之美。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ilccb.gov.tw/News_Content.aspx?n=10199&sms=12932&s=412080",
+        "crawl_time": "2026-11-07T22:28:37"
+    },
+    {
+        "title": "漫響室內樂團《生氣王子》親子繪本音樂會",
+        "category": "藝文展演",
+        "activity_date": "115-12-06",
+        "start_date": "2026-12-06",
+        "end_date": "2026-12-06",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "OPENTIX售票連結購票",
+        "location": "桃園展演中心-展演廳",
+        "target_age": null,
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "漫響室內樂團《生氣王子》親子繪本音樂會，改編自知名繪本，以銅管五重奏、戲劇、馬戲呈現。故事講述愛生氣的艾迪王子尋找生氣解藥，透過沉浸式互動、多元音樂曲風及饒舌對決，教導孩子情緒管理，溫暖陪伴每個被情緒困住的孩子。活動亮點包括繪本角色立體現身及夢幻樂園體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1908742",
+        "crawl_time": "2026-11-07T22:28:37"
+    },
+    {
+        "title": "2026 東興圳光藝節 — 夜巡・探水燈",
+        "category": "藝文展演",
+        "activity_date": "2026年 12月 5日（五）至 12月 27日（日）",
+        "start_date": "2026-12-05",
+        "end_date": "2026-12-27",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新竹縣",
+        "registration_date": "無須報名，自由入場",
+        "location": "東興圳公園（新竹縣竹北市文興路）",
+        "target_age": "不限",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "2026東興圳光藝節以「夜巡・探水燈」為主題，在新竹縣東興圳公園展出光影藝術作品。活動期間有開幕點燈、藝文表演及聖誕市集等，適合全家大小一同前往感受夜間光影魅力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://dongxinglight.hchcc.gov.tw/",
+        "crawl_time": "2026-11-07T22:28:37"
+    },
+    {
+        "title": "2026新竹美展得獎作品展",
+        "category": "藝文展演",
+        "activity_date": "2026/10/21 ~ 2026/11/08",
+        "start_date": "2026-10-21",
+        "end_date": "2026-11-08",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新竹縣",
+        "registration_date": "自由入場，無需報名",
+        "location": "新竹241藝術空間 (開放時間：10:00-18:00)、新竹縣政府文化局美術館101-104展廳 (開放時間：9:00-17:00，周一及國定假日休館)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "2026新竹美展得獎作品展，由新竹縣市府共同主辦，展出159件優秀藝術創作，涵蓋六大類媒材，展現竹竹地區豐沛的藝術能量與多元文化風貌。自由入場，歡迎全齡參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.hchcc.gov.tw/Tw/News/ActPreviewDetail?filter=fff0eeb8-d017-46fa-a3b8-547a4049499f&id=545d5c48-0a56-4f96-8d84-621da4d014a9",
+        "crawl_time": "2026-11-07T22:28:37"
     }
 ];
