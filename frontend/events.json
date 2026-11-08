@@ -29221,5 +29221,47 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.hchcc.gov.tw/Tw/News/ActPreviewDetail?filter=fff0eeb8-d017-46fa-a3b8-547a4049499f&id=545d5c48-0a56-4f96-8d84-621da4d014a9",
         "crawl_time": "2026-11-07T22:28:37"
+    },
+    {
+        "title": "2026家將藝術節：裝將ē囡仔",
+        "category": "藝文展演",
+        "activity_date": "2026.11.15(日)-2027.03.07(日)",
+        "start_date": "2026-11-15",
+        "end_date": "2027-03-07",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "嘉義市",
+        "registration_date": "開放參觀",
+        "location": "嘉義市政府廣場前 (開幕式)、嘉義市立博物館 (主題展區)、九華山地藏庵、嘉義城隍廟、嘉義慈濟宮 (衛星展區)",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "嘉義市2026家將藝術節「裝將ē囡仔」，透過展覽與繞境踩街，探討家將文化與背後平凡人的故事。活動期間嘉義市立博物館及多處宮廟設有展區，並提供集章活動兌換限量卡牌，適合全齡民眾，特別是親子家庭，一同認識嘉義特有的在地信仰與藝術。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://cabcy.chiayi.gov.tw/web/cabcych/HotActivitiesList_26110611590278343",
+        "crawl_time": "2026-11-08T22:38:46"
+    },
+    {
+        "title": "2026嘉義市母語生活節「沓沓仔」",
+        "category": "在地文化體驗",
+        "activity_date": "2026年10月2日開跑，系列活動將一路持續至11月30日",
+        "start_date": "2026-10-02",
+        "end_date": "2026-11-30",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "嘉義市",
+        "registration_date": "請關注「嘉義市政府文化局」Facebook、Instagram、「嘉義市圖書館」Facebook、「平凡講台語」Facebook、Instagram，以及文化部國家語言數位資源網查詢最新報名資訊",
+        "location": "嘉義市不同地點",
+        "target_age": "邀請不同世代，包含親子共學",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "2026嘉義市母語生活節「沓沓仔」以嘉義市不疾不徐的生活步調為主題，透過人物分享、城市走讀、生活體驗、創作工作坊與親子共學等多元活動，鼓勵不同世代重新學習與使用台語，讓語言的生命力在城市中靜靜生根。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://cabcy.chiayi.gov.tw/web/cabcych/news_26100217164265707",
+        "crawl_time": "2026-11-08T22:38:46"
     }
 ]
