@@ -29264,5 +29264,47 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://cabcy.chiayi.gov.tw/web/cabcych/news_26100217164265707",
         "crawl_time": "2026-11-08T22:38:46"
+    },
+    {
+        "title": "《鹽在其中》奧地利藝術交流展",
+        "category": "藝文展演",
+        "activity_date": "2026-10-28 ~ 2027-04-30",
+        "start_date": "2026-10-28",
+        "end_date": "2027-04-30",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "依園區開放時間參觀，無需特別報名",
+        "location": "蕭壠文化園區 A4-1館 (台南市佳里區六安里六安130號)",
+        "target_age": "無特別說明",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "《鹽在其中》是一場奧地利藝術交流展，作品以生命不可或缺的元素「鹽」為核心，探討其被掌控後，可能成為壓迫或引發抵抗的議題。透過身體、聲音與鹽，共同提問海洋賦予的一切究竟屬於誰。本作品原為表演，現以裝置藝術形式展出。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://soulangh.tnc.gov.tw/index.php?inter=exhibition&id=135&type=1&kind=current",
+        "crawl_time": "2026-11-10T23:53:41"
+    },
+    {
+        "title": "2026 Mattauw 大地藝術季",
+        "category": "藝文展演",
+        "activity_date": "2026.09.05~ 2026.12.06",
+        "start_date": "2026-09-05",
+        "end_date": "2026-12-06",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "無需報名，開放參觀",
+        "location": "總爺藝文中心 (紅樓、草地、副廠長宿舍、糖學埕)、曾文水庫、拔林聚落、匏仔寮聚落、左鎮聚落、楠西聚落、七股頂山國小",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "2026 Mattauw大地藝術季以曾文溪流域為主題，透過多重感官體驗，引導觀眾重新感知土地與環境。活動探討人與自然共生關係，結合國際議題與在地實踐，打造兼具地方深度與全球連結的藝術盛會。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://tyart.tnc.gov.tw/index.php?inter=program&period=real&id=262",
+        "crawl_time": "2026-11-10T23:53:41"
     }
 ];
