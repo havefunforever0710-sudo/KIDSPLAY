@@ -1,5 +1,5 @@
 {
-    "last_index": 102,
+    "last_index": 4,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -27,7 +27,9 @@
             "https://www.ntsec.gov.tw/article/detail.aspx?a=6038",
             "https://estore.ntsec.gov.tw/classes.aspx?TYPE2=4&uid=1139&pid=13",
             "https://www.ntsec.gov.tw/article/detail.aspx?a=5802",
-            "https://www.ntsec.gov.tw/article/activityCalendar.aspx?a=17"
+            "https://www.ntsec.gov.tw/article/activityCalendar.aspx?a=17",
+            "https://www.ntsec.gov.tw/article/detail.aspx?a=6159",
+            "https://www.ntsec.gov.tw/article/detail.aspx?a=6181"
         ],
         "https://www.nstm.gov.tw/": [
             "https://www.nstm.gov.tw/ActivitiesDetailC001110.aspx?Cond=d3c437a9-c20a-4862-8590-fb500615a5ed",
@@ -770,6 +772,7 @@
             "https://mr-tree.webnode.tw/two-columns/",
             "https://mr-tree.webnode.tw/copy-of-%e5%a4%a7%e6%a8%b9%e6%b4%be%e5%b0%8d%e8%a6%8f%e5%8a%83/",
             "https://mr-tree.webnode.tw/%e5%8c%85%e5%a0%b4%e8%b3%87%e8%a8%8a/",
+            "https://mr-tree.webnode.tw/copy-of-%e5%a4%a7%e6%a8%b9%e6%b4%be%e5%b0%8d%e8%a6%8f%e5%8a%83/",
             "https://mr-tree.webnode.tw/copy-of-%e5%a4%a7%e6%a8%b9%e6%b4%be%e5%b0%8d%e8%a6%8f%e5%8a%83/",
             "https://mr-tree.webnode.tw/copy-of-%e5%a4%a7%e6%a8%b9%e6%b4%be%e5%b0%8d%e8%a6%8f%e5%8a%83/",
             "https://mr-tree.webnode.tw/copy-of-%e5%a4%a7%e6%a8%b9%e6%b4%be%e5%b0%8d%e8%a6%8f%e5%8a%83/"
