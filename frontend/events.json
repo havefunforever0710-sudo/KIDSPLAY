@@ -29793,5 +29793,26 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.ntsec.gov.tw/article/detail.aspx?a=6181",
         "crawl_time": "2026-11-12T01:17:00"
+    },
+    {
+        "title": "南北故宮 國寶薈萃",
+        "category": "藝文展演",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": null,
+        "location": "北部院區 第一展覽館 N302陳列室",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "國立故宮博物院北部院區「南北故宮 國寶薈萃」展出〈清 翠玉白菜〉與〈清 肉形石〉。翠玉白菜於北部院區展至115年11月29日，後續將於115年12月8日起至116年3月7日移至南部院區S302展出。肉形石現正於北部院區展出。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.npm.gov.tw/Exhibition-Content.aspx?sno=04009612&l=1&type=&cat=",
+        "crawl_time": "2026-11-12T23:57:03"
     }
 ]
