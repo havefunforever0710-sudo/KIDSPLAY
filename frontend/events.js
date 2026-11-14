@@ -29914,5 +29914,77 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.sshm.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G250557655940640091&sid=0Q013410442241525253",
         "crawl_time": "2026-11-14T00:08:24"
+    },
+    {
+        "title": "奇美博物館 常設展：自然史類 動物廳",
+        "category": "知性與靜態學習",
+        "activity_date": "依奇美博物館開放時間：9:30-17:30 (週三及除夕休館)",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "請參考奇美博物館線上購票及參觀指南",
+        "location": "奇美博物館 動物廳 (臺南市仁德區文華路二段66號)",
+        "target_age": "適合大小朋友、兒童學習",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "奇美博物館常設展「動物廳」展示珍貴動物標本與化石，帶領大小朋友探索地球生命演化史。廳內設計為孩子打造學習自然史的第二教室，並設有互動電子螢幕與3D地景，享受寓教於樂的親子時光。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.chimeimuseum.org/permanent-exhibition/5fd33a5f22b8c",
+        "crawl_time": "2026-11-14T22:51:04"
+    },
+    {
+        "title": "剩食變黃金！蘭博惜食零廢棄行動教育展",
+        "category": "6. 知性與靜態學習",
+        "activity_date": "115/11/12 ~ 116/03/02",
+        "start_date": "2026-11-12",
+        "end_date": "2027-03-02",
+        "recurring_days": [
+            0,
+            1,
+            2,
+            4,
+            5,
+            6
+        ],
+        "region": "北部",
+        "city": "宜蘭縣",
+        "registration_date": "無須報名，開放時間入館參觀 (宜蘭縣民可免費參觀)",
+        "location": "蘭陽博物館1樓常新展區 (開放時間:每日9:00~17:00，每週三休館)",
+        "target_age": "全民",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "蘭陽博物館舉辦「惜食零廢棄」行動教育展，響應惜食減廢與資源循環政策。透過8組在地實踐案例、互動投票等方式，引導民眾從日常生活中實踐惜食，看見食物的多元價值，共同為環境永續努力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.lym.gov.tw/ch/press-releases/news/TSLymNews-000769/",
+        "crawl_time": "2026-11-14T22:51:04"
+    },
+    {
+        "title": "【蘭博地景音樂廳】臺北市興雅國中弦樂團-「『興弦流韻 · 樂映蘭城』音樂會」",
+        "category": "藝文展演",
+        "activity_date": "2026/11/15 (日) 下午3時",
+        "start_date": "2026-11-15",
+        "end_date": "2026-11-15",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "宜蘭縣",
+        "registration_date": "無相關報名資訊",
+        "location": "蘭陽博物館遊客大廳 (宜蘭縣頭城鎮青雲路三段750號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺北市興雅國中弦樂團將於蘭陽博物館遊客大廳舉辦「興弦流韻 · 樂映蘭城」音樂會，呈現古典與當代曲目，包括霍爾斯特、柴可夫斯基及李哲藝的作品。該樂團培育無數愛樂學子，並積極參與國內外演出交流，展現穩健臺風與真摯情感。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.lym.gov.tw/ch/press-releases/news/TSLymNews-000770/",
+        "crawl_time": "2026-11-14T22:51:04"
     }
 ];

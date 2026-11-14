@@ -1,5 +1,5 @@
 {
-    "last_index": 14,
+    "last_index": 19,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -163,7 +163,8 @@
             "https://www.chimeimuseum.org/special-exhibition/68a68f0a422a6/68a68fa1d1a3b",
             "https://www.chimeimuseum.org/special-exhibition/68a68f0a422a6",
             "https://www.chimeimuseum.org/exhibition-event",
-            "https://www.chimeimuseum.org/news/6aa3ba3265845/detail"
+            "https://www.chimeimuseum.org/news/6aa3ba3265845/detail",
+            "https://www.chimeimuseum.org/permanent-exhibition/5fd33a5f22b8c"
         ],
         "https://www.lym.gov.tw/": [
             "https://www.lym.gov.tw/ch/education/course/list/",
@@ -176,7 +177,9 @@
             "https://www.lym.gov.tw/ch/press-releases/news/TSLymNews-000747/",
             "https://www.lym.gov.tw/ch/education/activity/festivals/",
             "https://www.lym.gov.tw/ch/audience-service/visit/lym-kids/",
-            "https://www.lym.gov.tw/ch/press-releases/news/TSLymNews-000760/"
+            "https://www.lym.gov.tw/ch/press-releases/news/TSLymNews-000760/",
+            "https://www.lym.gov.tw/ch/press-releases/news/TSLymNews-000769/",
+            "https://www.lym.gov.tw/ch/press-releases/news/TSLymNews-000770/"
         ],
         "https://tmofa.tycg.gov.tw/": [
             "https://tmofa.tycg.gov.tw/ch/exhibitions/upcoming-exhibitions",
