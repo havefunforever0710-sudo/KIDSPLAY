@@ -29814,5 +29814,104 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.npm.gov.tw/Exhibition-Content.aspx?sno=04009612&l=1&type=&cat=",
         "crawl_time": "2026-11-12T23:57:03"
+    },
+    {
+        "title": "2026第一屆臺南藝術雙年展｜歷史迴圈｜「遊街－噍吧哖事件城市劇場」遊街演出",
+        "category": [
+            "藝文展演",
+            "知性與靜態學習",
+            "在地文化體驗"
+        ],
+        "activity_date": "2026年11月14日（六）15:30-17:00",
+        "start_date": "2026-11-14",
+        "end_date": "2026-11-14",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "線上報名：reurl.cc/5XWV3R",
+        "location": "臺灣府城隍廟前廣場（臺南市中西區青年路133號）起，沿遊街路線至小西門公園。",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "「遊街－噍吧哖事件城市劇場」是2026臺南藝術雙年展活動。以噍吧哖事件為核心，透過遊街、吟唱等行為藝術，重構集體記憶，使歷史在行走中再次發聲。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnam.museum/event/detail/749",
+        "crawl_time": "2026-11-14T00:08:24"
+    },
+    {
+        "title": "2026第一屆臺南藝術雙年展｜歷史迴圈｜「遊街－噍吧哖事件城市劇場」播映會",
+        "category": [
+            "藝文展演",
+            "知性與靜態學習",
+            "在地文化體驗"
+        ],
+        "activity_date": "2026年11月29日（日）14:00-16:00",
+        "start_date": "2026-11-29",
+        "end_date": "2026-11-29",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "線上報名：reurl.cc/5XWV3R",
+        "location": "司法博物館第三法庭（臺南市中西區府前路一段307號）",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "「遊街－噍吧哖事件城市劇場」播映會，觀賞成果首映並參與映後座談。與演員分享創作歷程，思考城市記憶如何延續。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnam.museum/event/detail/749",
+        "crawl_time": "2026-11-14T00:08:24"
+    },
+    {
+        "title": "迴圈．超展開：2026第一屆臺南藝術雙年展｜雙年展城市人文走讀",
+        "category": "在地文化體驗",
+        "activity_date": "2026/11/07-2027/3/1",
+        "start_date": "2026-11-07",
+        "end_date": "2027-03-01",
+        "recurring_days": [
+            0,
+            6
+        ],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "ACCUPASS線上預約報名，出團前 3 天截止。10人(含)以上團體可透過官方信箱 tnabwalkingtour@tnam.museum 預約。",
+        "location": "臺南市區 (多個集合地點，例如：臺南市美術館、原臺南公園管理所、東菜市)",
+        "target_age": "7歲以上(含7歲)，未滿18歲者須至少一位家長陪同",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "2026第一屆臺南藝術雙年展城市人文走讀系列活動，以7條路線由專業導覽員帶領，穿梭臺南街道巷弄，探看雙年展藝術作品，並娓娓道來城市建築景觀、人文歷史、生活信仰與自然生態，探尋400年城市記憶與多元樣貌。邀請7歲以上藝術愛好者、漫遊巷弄者，以「慢」步調深入感受臺南日常。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnam.museum/event/detail/755",
+        "crawl_time": "2026-11-14T00:08:24"
+    },
+    {
+        "title": "115年十三綠時尚假日體驗活動",
+        "category": "手作DIY與才藝",
+        "activity_date": "每週六、日，及國定假日 (2026-01-01 ~ 2026-12-27)",
+        "start_date": "2026-01-01",
+        "end_date": "2026-12-27",
+        "recurring_days": [
+            0,
+            6
+        ],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "現場報名、電話報名 (02-26191313*603 張小姐)",
+        "location": "新北市立十三行博物館 (249005新北市八里區博物館路200號)",
+        "target_age": "大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "十三行博物館於115年度舉辦「十三綠時尚假日體驗活動」，透過手作體驗，帶領大小朋友認識史前居民與自然共生的智慧，運用環保素材將古老文化與環境守護融入創作，讓廢棄資源擁有新生命，實踐永續精神。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.sshm.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G250557655940640091&sid=0Q013410442241525253",
+        "crawl_time": "2026-11-14T00:08:24"
     }
 ]
