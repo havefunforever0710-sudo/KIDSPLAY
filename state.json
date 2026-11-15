@@ -1,5 +1,5 @@
 {
-    "last_index": 19,
+    "last_index": 24,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -199,7 +199,9 @@
             "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16372",
             "https://www.ksml.edu.tw/ReaderRegist/index.aspx?Parser=99,8,1337",
             "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16427",
-            "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16428"
+            "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16428",
+            "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16360",
+            "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16504"
         ],
         "https://www.tnpl.tn.edu.tw/": [
             "https://www.tnpl.tn.edu.tw/n14943237246847044508/n1Content",
@@ -217,7 +219,8 @@
             "https://www.tnpl.tn.edu.tw/n15362807739283280292/n1Content",
             "https://www.tnpl.tn.edu.tw/za5028907899664446710/n1Content",
             "https://www.tnpl.tn.edu.tw/za5477429751718017438/n1Content",
-            "https://www.tnpl.tn.edu.tw/za5487064514401392671/n1Content"
+            "https://www.tnpl.tn.edu.tw/za5487064514401392671/n1Content",
+            "https://www.tnpl.tn.edu.tw/za5149193798019042800/n1Content"
         ],
         "https://www.library.taichung.gov.tw/": [
             "https://gov.tw/rG7",
@@ -240,7 +243,10 @@
             "https://www.library.taichung.gov.tw/active/details?Parser=99,3,39,27,,,25335",
             "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,25652,,,,,2",
             "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,23967,,,,,2",
-            "https://www.library.taichung.gov.tw/active/details?Parser=99,3,39,27,,,24206"
+            "https://www.library.taichung.gov.tw/active/details?Parser=99,3,39,27,,,24206",
+            "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,26383,,,,,1",
+            "https://www.library.taichung.gov.tw/active/details?Parser=99,3,39,27,,,25519",
+            "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,23966,,,,,2"
         ],
         "https://www.typl.gov.tw/": [
             "https://www.typl.gov.tw/zh-tw/Activity/Content/9550?Preview=1147-0E6011C6250F4A999B4C9EA64B6BD6A0&httproute=True",
@@ -260,7 +266,10 @@
             "https://www.typl.gov.tw/zh-tw/Activity/Content/10183",
             "https://www.accupass.com/event/2610130319212303300100",
             "https://www.typl.gov.tw/zh-tw/Activity/Content/10206",
-            "https://www.typl.gov.tw/zh-tw/Activity/Content/10254"
+            "https://www.typl.gov.tw/zh-tw/Activity/Content/10254",
+            "https://www.typl.gov.tw/zh-tw/Activity/Content/10253",
+            "https://www.typl.gov.tw/zh-tw/Activity/Content/10303",
+            "https://www.typl.gov.tw/zh-tw/Activity/Content/10142"
         ],
         "https://www.library.ntpc.gov.tw/": [
             "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=676dc4baa46342eb8f07ce41024eddf1",
@@ -278,7 +287,10 @@
             "https://atpass.ntpclib.gov.tw/activities/detail?svcId=8e109e8bb57a4b44b21e31c34db87dba&cntId=57d80ea6f33c4c458f9dc7fa70b61321",
             "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=6736c648335b4bb98d3079d07ad32ca6",
             "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=6e83f6709ac846388f3bfe760d2ea657",
-            "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=5cff2898bf8c460aa6391926fa8f4ddd"
+            "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=5cff2898bf8c460aa6391926fa8f4ddd",
+            "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=a8455a624aaa46c9ab1d6c25418db9b2",
+            "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=752f829f408e4bf4a1a17945dfde4725",
+            "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=55766c3274044fad991145a5f48ee035#gsc.tab=0"
         ],
         "https://tpml.gov.taipei/": [
             "https://tpml.gov.taipei/News.aspx?n=68A4C6DA03531601&sms=ABDA4D9D1C570290",

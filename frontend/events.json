@@ -29985,5 +29985,358 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.lym.gov.tw/ch/press-releases/news/TSLymNews-000770/",
         "crawl_time": "2026-11-14T22:51:04"
+    },
+    {
+        "title": "2026年臺灣國際兒童及青少年嘉年華",
+        "category": "節慶市集與綜合",
+        "activity_date": "2026年9月23日起至9月27日",
+        "start_date": "2026-09-23",
+        "end_date": "2026-09-27",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": null,
+        "location": "高雄展覽館與喜樂時代總圖店",
+        "target_age": "兒童及青少年",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "文化部與高雄市政府合辦的「2026年臺灣國際兒童及青少年嘉年華」於高雄展覽館與喜樂時代總圖店登場，串聯「未來世代書展」、「Young Boom!劇場」及「Tiffi外送中兒少影展」，提供兒童及青少年多元、跨域藝文體驗。法國為書展主題國，邀請多位法國作家、漫畫家、插畫家及影視專家參與，並有表演、講座、工作坊、簽書會及大型漫畫展等超過40場活動。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16360",
+        "crawl_time": "2026-11-15T23:18:17"
+    },
+    {
+        "title": "每月FUN心聽故事",
+        "category": "藝文展演",
+        "activity_date": "每週日15點-16點",
+        "start_date": "2026-11-01",
+        "end_date": "2026-11-30",
+        "recurring_days": [
+            0
+        ],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": "現場直接參加",
+        "location": "李科永分館 B1地板階梯區",
+        "target_age": "喜愛繪本的孩子們",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "李科永分館每月舉辦的溫馨有趣故事時間，有多種故事，適合喜愛繪本的孩子們，由現場老師們親自與你互動、說給你聽。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16504",
+        "crawl_time": "2026-11-15T23:18:17"
+    },
+    {
+        "title": "本土台語光陰的故事—《豆油找親戚》繪本說故事",
+        "category": "藝文展演",
+        "activity_date": "115/11/21 (六)",
+        "start_date": "2026-11-21",
+        "end_date": "2026-11-21",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": "請參考網頁公告",
+        "location": "大東藝術圖書館",
+        "target_age": "繪本說故事 (適合兒童)",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "大東藝術圖書館舉辦的繪本說故事活動，以本土台語分享《豆油找親戚》的故事，帶領孩子們透過繪本接觸不同語言的文化。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16504",
+        "crawl_time": "2026-11-15T23:18:17"
+    },
+    {
+        "title": "人魚王國彩繪之旅 紙芝居.稅務故事列車",
+        "category": "知性與靜態學習",
+        "activity_date": "115/12/12 (六)",
+        "start_date": "2026-12-12",
+        "end_date": "2026-12-12",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": "請參考網頁公告",
+        "location": "三民分館",
+        "target_age": "歡迎搭乘一起探索海底學校 (適合兒童)",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "三民分館舉辦的《人魚王國彩繪之旅》，結合紙芝居故事與稅務知識，歡迎孩子們搭乘故事列車，一同探索海底學校，從遊戲中學習新知。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ksml.edu.tw/LibNews/Details.aspx?Parser=9,4,33,,,,16504",
+        "crawl_time": "2026-11-15T23:18:17"
+    },
+    {
+        "title": "【臺灣閱讀節：多元語宙】看見彼此的故事：《客人主人》紀錄片播映＋映後座談",
+        "category": "知性與靜態學習",
+        "activity_date": "𝟐𝟎𝟐𝟔.𝟏𝟏.𝟐𝟗 𝐒𝐮𝐧. ⏰13:30–17:00",
+        "start_date": "2026-11-29",
+        "end_date": "2026-11-29",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "線上報名，詳見活動報名頁面連結",
+        "location": "臺南市立圖書館新總館6F哇劇場 (臺南市永康區康橋大道255號)",
+        "target_age": "一般民眾（6歲以上）",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "本活動播放紀錄片《客人主人》，探討臺灣客家文化與不同族群的生命故事。映後邀請沈可尚導演分享創作歷程與拍攝經驗，帶領觀眾深入了解文化、歷史與族群共融的深度對話。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnpl.tn.edu.tw/za5149193798019042800/n1Content",
+        "crawl_time": "2026-11-15T23:18:17"
+    },
+    {
+        "title": "【臺灣閱讀節：多元語宙】看見彼此的故事：《只有大海知道》電影播映＋映後座談",
+        "category": "知性與靜態學習",
+        "activity_date": "𝟐𝟎𝟐𝟔.𝟏𝟐.𝟏𝟗 𝐒𝐚𝐭. ⏰14:00–17:00",
+        "start_date": "2026-12-19",
+        "end_date": "2026-12-19",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "線上報名，詳見活動報名頁面連結",
+        "location": "臺南市立圖書館新總館6F哇劇場 (臺南市永康區康橋大道255號)",
+        "target_age": "一般民眾（6歲以上）",
+        "age_groups": [
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "本活動放映電影《只有大海知道》，透過影像描繪蘭嶼達悟族孩子的成長故事，以及傳統文化與現代生活的交會。映後邀請崔永徽導演分享創作與文化觀察，認識達悟族文化特色。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tnpl.tn.edu.tw/za5149193798019042800/n1Content",
+        "crawl_time": "2026-11-15T23:18:17"
+    },
+    {
+        "title": "畫一張我的冒險地圖：親子故事地圖工作坊",
+        "category": "手作DIY與才藝",
+        "activity_date": "115/11/22 ~ 115/11/22",
+        "start_date": "2026-11-22",
+        "end_date": "2026-11-22",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "請透過報名表單連結報名",
+        "location": "臺中市立圖書館總館 B1會議室2（臺中市西屯區中科路2201號）",
+        "target_age": "國小中、高年級親子家庭（孩童須由家長全程陪同參與，1-2名小孩搭配一位家長）",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "由敘事與聲音藝術家楊雨樵，帶領親子從《環遊世界70張地圖》展覽出發，化身小小製圖師，透過地圖探索故事角色、生活經驗與想像世界，繪製專屬自己的生活地圖，重新發現日常空間中的記憶、情感與無限想像。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,26383,,,,,1",
+        "crawl_time": "2026-11-15T23:18:17"
+    },
+    {
+        "title": "【總館】「情緒森林裡的悄悄話」插畫展",
+        "category": "藝文展演",
+        "activity_date": "115年10月14日 - 115年12月27日",
+        "start_date": "2026-10-14",
+        "end_date": "2026-12-27",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "無需報名，自由參觀",
+        "location": "臺中市立圖書館總館 1F兒童閱覽區 (西屯區中科路2201號)",
+        "target_age": "兒童",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "《情緒森林裡的悄悄話》以六大情緒為主題，透過插畫與簡單文字，邀請孩子和大人一起走進情緒世界，認識情緒、感受情緒，學習調節情緒。展覽結合情緒相關書籍與繪本，讓親子共讀成為理解彼此的方式。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.taichung.gov.tw/active/details?Parser=99,3,39,27,,,25519",
+        "crawl_time": "2026-11-15T23:18:17"
+    },
+    {
+        "title": "【西區分館】01/09 親子讀經班(第11期)",
+        "category": "知性與靜態學習",
+        "activity_date": "2027-01-09 ~ 2027-01-09",
+        "start_date": "2027-01-09",
+        "end_date": "2027-01-09",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "報名電話：0925911962(賴老師)，報名網址：https://reurl.cc/b3rrey",
+        "location": "西區分館",
+        "target_age": "兒童及親子",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "本課程包含國學經典選讀、英文繪本、創意手作及品格教育。由慈興文教基金會志工老師帶領，旨在讓孩子在快樂氣氛中學習常規禮儀，培養良好品格。歡迎親子共同參與，體驗多元豐富的課程內容。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.taichung.gov.tw/active/details?Parser=9,3,39,27,,,23966,,,,,2",
+        "crawl_time": "2026-11-15T23:18:17"
+    },
+    {
+        "title": "親子生命捏捏樂 讓我們一起做 -會走動的孔子",
+        "category": "手作DIY與才藝",
+        "activity_date": "民國 115 年 12 月 19 日（星期六）",
+        "start_date": "2026-12-19",
+        "end_date": "2026-12-19",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "報名期限：2026-11-02 00:00～2026-12-10 23:59。報名流程分兩步驟：填寫表單後轉帳繳費並來信對帳。",
+        "location": "桃園市立圖書館八德分館 多功能活動室（桃園市八德區豐德路452號2樓）",
+        "target_age": "小孩限 12 歲以下（含 1 大 1 小），成人或 12 歲以上學童可單獨報名",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "本課程為親子共學同樂活動，帶領大小朋友一同學習孔子的生命韌性。透過手作輕黏土，讓親子共同學習，體驗文創樂趣，增進親密無間的親子連結。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.typl.gov.tw/zh-tw/Activity/Content/10253",
+        "crawl_time": "2026-11-15T23:18:17"
+    },
+    {
+        "title": "《燈塔的故事-白沙岬燈塔》施政廷原畫展 x 新書發表會暨親子藝術工作坊",
+        "category": "藝文展演",
+        "activity_date": "2026-12-01 00:00 ～ 2027-01-03 23:59",
+        "start_date": "2026-12-01",
+        "end_date": "2027-01-03",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "2026/11/03(二)12:00開放報名，報名連結請點我",
+        "location": "桃園市立圖書館 總館 3F兒藝展示區、3F親子小學堂",
+        "target_age": "適合親子參與",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "《燈塔的故事-白沙岬燈塔》施政廷原畫展展出繪本原稿，並搭配新書發表會與親子藝術工作坊，邀請親子一同認識桃園在地歷史與海洋記憶，感受臺灣土地故事的溫度。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.typl.gov.tw/zh-tw/Activity/Content/10303",
+        "crawl_time": "2026-11-15T23:18:17"
+    },
+    {
+        "title": "3D列印筆-旋轉荷蘭風車",
+        "category": "手作DIY與才藝",
+        "activity_date": "12/5 (六) 14:00 - 16:00",
+        "start_date": "2026-12-05",
+        "end_date": "2026-12-05",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "2026-11-02 00:00～2026-12-03 23:59，線上報名",
+        "location": "八德區 / 景雲分館 1樓研習室（桃園市八德區廣福路218號）",
+        "target_age": "國小以上",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "學習3D列印筆的簡介與操作，並製作一個可以旋轉的荷蘭風車。活動將搭配轉軸讓風車葉片旋轉起來，適合國小以上小朋友參與，費用每人250元。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.typl.gov.tw/zh-tw/Activity/Content/10142",
+        "crawl_time": "2026-11-15T23:18:17"
+    },
+    {
+        "title": "小小感覺大玩藝：嬰幼兒多感官藝術探索",
+        "category": "手作DIY與才藝",
+        "activity_date": "11/7（六）、11/14（六）、11/22（日）、11/29（日）14:00-16:00",
+        "start_date": "2026-11-07",
+        "end_date": "2026-11-29",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "電話/臨櫃/網路報名 https://reurl.cc/qa4RKR",
+        "location": "新北市立圖書館三芝分館／兒童閱覽區（新北市三芝區淡金路一段37號）",
+        "target_age": "嬰幼兒",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲"
+        ],
+        "price_type": "付費",
+        "summary": "此嬰幼兒多感官藝術探索課程，透過敲擊噴濺、立體捏塑、趣味化學反應及掌印等，讓孩子在視覺、聽覺、觸覺的全方位手作互動中，自由釋放想像力，點亮藝術童年。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=a8455a624aaa46c9ab1d6c25418db9b2",
+        "crawl_time": "2026-11-15T23:18:17"
+    },
+    {
+        "title": "親子共讀魔法課講座",
+        "category": "知性與靜態學習",
+        "activity_date": "11/29（日）10:00-12:00",
+        "start_date": "2026-11-29",
+        "end_date": "2026-11-29",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "電話/臨櫃/網路報名 https://reurl.cc/qa4RKR",
+        "location": "新北市立圖書館三芝分館／多功能教室（新北市三芝區淡金路一段37號）",
+        "target_age": "家長與嬰幼兒",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "專業講師引導父母認識親子共讀技巧與樂趣，提供選書、互動、習慣建立等實用策略，培養孩子語文力與想像力，陪伴家庭開啟閱讀旅程。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=a8455a624aaa46c9ab1d6c25418db9b2",
+        "crawl_time": "2026-11-15T23:18:17"
+    },
+    {
+        "title": "【總館】115年11月新住民媽媽說故事活動",
+        "category": "藝文展演",
+        "activity_date": "115年11月08日 ~ 115年11月22日",
+        "start_date": "2026-11-08",
+        "end_date": "2026-11-22",
+        "recurring_days": [
+            0
+        ],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "新北市立圖書館總館 (新北市板橋區貴興路139號)",
+        "target_age": "親子",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "新北市立圖書館總館舉辦新住民媽媽說故事活動，由來自不同國家的媽媽們分享家鄉故事及童趣遊戲，帶領親子認識多元文化。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=752f829f408e4bf4a1a17945dfde4725",
+        "crawl_time": "2026-11-15T23:18:17"
+    },
+    {
+        "title": "把森林帶回家 療癒苔球手作體驗課",
+        "category": "手作DIY與才藝",
+        "activity_date": "11/22（日）14:00–16:00",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "多功能教室（新北市立圖書館三芝分館，新北市三芝區淡金路一段37號）",
+        "target_age": null,
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "苔球是把植物和泥土包進圓圓的苔蘚哩，像一顆綠色的小森林，外型可愛又充滿自然感",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.library.ntpc.gov.tw/singlehtml/ActvInfo?cntId=55766c3274044fad991145a5f48ee035#gsc.tab=0",
+        "crawl_time": "2026-11-15T23:18:17"
     }
 ]
