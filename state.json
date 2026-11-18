@@ -1,5 +1,5 @@
 {
-    "last_index": 29,
+    "last_index": 34,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -379,15 +379,20 @@
             "https://www.songshanculturalpark.org/exhibition/activity/bb5a8c36-a5b8-454b-8ed4-ae06730db0d3",
             "https://www.songshanculturalpark.org/exhibition/activity/1cf58a38-da45-4cbf-8641-a200e1e7a769",
             "https://www.songshanculturalpark.org/exhibition/activity/d49f852e-c06d-45ab-bf62-6a9b5916df9e",
-            "https://www.songshanculturalpark.org/exhibition/activity/15943a3a-5f00-4d6c-a5e5-69a277d1ea5c"
+            "https://www.songshanculturalpark.org/exhibition/activity/15943a3a-5f00-4d6c-a5e5-69a277d1ea5c",
+            "https://www.songshanculturalpark.org/exhibition/activity/7debe01f-7b55-41d1-ad9f-fa7514526fcc",
+            "https://www.songshanculturalpark.org/exhibition/activity/37478e08-b215-4744-a1b9-3050f2120bb2",
+            "https://www.songshanculturalpark.org/exhibition/activity/5612490a-b8cc-4041-9a63-091be13ec857"
         ],
         "https://www.huashan1914.com/": [
             "https://www.huashan1914.com/exhibition/幾米25週年活動！《幾米快閃店》、《與幾米頭碰頭》全境式沉浸互動展華山登場",
-            "https://sifintaipei.com.tw/"
+            "https://sifintaipei.com.tw/",
+            "https://www.huashan1914.com/exhibition/《與幾米頭碰頭》全境式沉浸互動展"
         ],
         "https://pier2.org/": [
             "https://pier2.org/campusdiscount/",
-            "https://pier2.org/book/"
+            "https://pier2.org/book/",
+            "https://pier2.org/ticket/"
         ],
         "https://www.ttdac.taichung.gov.tw/": [
             "https://www.ttdac.taichung.gov.tw/nc5232470501983413029/ncArticleContent",

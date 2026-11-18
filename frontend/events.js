@@ -30468,5 +30468,142 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.npac-weiwuying.org/programs/69dd9d86c3aa6c0007ef8992",
         "crawl_time": "2026-11-17T02:16:40"
+    },
+    {
+        "title": "電影共和國-IP 宇宙大亂鬥 | 聖誕選品店",
+        "category": "節慶市集與綜合",
+        "activity_date": "2026/11/17 (二) – 2024/11/29 (日)",
+        "start_date": "2026-11-17",
+        "end_date": "2024-11-29",
+        "recurring_days": [
+            0,
+            2,
+            3,
+            4,
+            5,
+            6
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "不需報名，免費入場",
+        "location": "松山文創園區 A0 檢查室 (台北市信義區光復南路133號)",
+        "target_age": "不限年齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "電影共和國集結多個人氣IP，打造「IP宇宙大亂鬥」聖誕選品店。現場精選各式影視動漫遊戲周邊，包含玩偶、生活文具等。適合粉絲收藏、交換禮物。免費入場，並有冰淇淋車與滿額贈禮。讓您在松菸享受跨次元的聖誕購物樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/7debe01f-7b55-41d1-ad9f-fa7514526fcc",
+        "crawl_time": "2026-11-18T01:28:48"
+    },
+    {
+        "title": "咒術迴戰 快閃店",
+        "category": "藝文展演",
+        "activity_date": "2026/10/28（三）至 2026/12/13（日）",
+        "start_date": "2026-10-28",
+        "end_date": "2026-12-13",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "免費參觀，無需報名",
+        "location": "台北松山文創園區 藝巷空間 (台北市信義區光復南路133號)",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "超人氣動畫《咒術迴戰》快閃店將於松山文創園區登場。展區以三大核心篇章「懷玉・玉折」、「劇場版 0」、「澀谷事變」為主題，打造沉浸式造景，並推出全台首發限定商品，滿足粉絲收藏慾。活動免費參觀，重現人氣角色名場面，是咒術迷不可錯過的朝聖熱點。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/37478e08-b215-4744-a1b9-3050f2120bb2",
+        "crawl_time": "2026-11-18T01:28:48"
+    },
+    {
+        "title": "方舟玩具 x 創意大交流會",
+        "category": "節慶市集與綜合",
+        "activity_date": "2026/11/20（五）– 2026/11/22（日）",
+        "start_date": "2026-11-20",
+        "end_date": "2026-11-22",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "追蹤 IG 免費入場",
+        "location": "松山文創園區 北向製菸工廠一樓東側 (台北市信義區光復南路133號)",
+        "target_age": "無年齡限制",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "方舟玩具交流會集結各式復古玩具、設計玩具、怪獸收藏、懷舊玩意與文創品牌，共同打造一場屬於大人們的夢想市集。活動推廣美日系老物玩具及動漫周邊，傳達老玩具的童心與懷舊溫度，適合男女老幼闔家遊憩。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.songshanculturalpark.org/exhibition/activity/5612490a-b8cc-4041-9a63-091be13ec857",
+        "crawl_time": "2026-11-18T01:28:48"
+    },
+    {
+        "title": "《與幾米頭碰頭》全境式沉浸互動展",
+        "category": "藝文展演",
+        "activity_date": "2026.12.24 (四) ~ 2027.2.14 (日) 每日10:00－18:00 (2027.2.5除夕休館)",
+        "start_date": "2026-12-24",
+        "end_date": "2027-02-14",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "預售期間：2026.11.01~2026.12.23；展覽期間：2026.12.24~2027.02.14。可透過活動購票連結或現場購買。",
+        "location": "華山1914文化創意產業園區 東3A館 (Magic Box 數位故事館)，台北市中正區八德路一段一號",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "幾米作品首度全境式沉浸呈現，結合五面投影、三面互動與聲光設計，走進完整包覆的幾米繪本世界。以《頭碰頭說說話》為核心，串聯經典作品，讓觀眾成為故事參與者，透過互動親自參與故事發展。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.huashan1914.com/exhibition/《與幾米頭碰頭》全境式沉浸互動展",
+        "crawl_time": "2026-11-18T01:28:48"
+    },
+    {
+        "title": "駁二當代館",
+        "category": "藝文展演",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": "現場購票；10人以上學生團體可預約購票，20人以上其他團體需來電預約。",
+        "location": "駁二藝術特區大勇區C5倉庫、大義區C7倉庫 (高雄市鹽埕區大勇路1號)",
+        "target_age": "6歲以下兒童免票，學生適用國小至高中，適合全齡參觀",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "駁二當代館提供多樣藝術展覽與文化體驗，設有套票與單展票選擇。6歲以下兒童免票入場，國小至高中學生享學生票優惠。適合全家大小，一同探索藝文之美。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://pier2.org/ticket/",
+        "crawl_time": "2026-11-18T01:28:48"
+    },
+    {
+        "title": "駁二塔",
+        "category": "知性與靜態學習",
+        "activity_date": null,
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [],
+        "region": "南部",
+        "city": "高雄市",
+        "registration_date": "現場投幣入場",
+        "location": "駁二藝術特區內 (高雄市鹽埕區大勇路1號)",
+        "target_age": "3歲以下幼童免票，適合全齡參觀",
+        "age_groups": [
+            "0-3歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "駁二塔提供觀景體驗，每人每次10元投幣入場，3歲以下幼童可免票。適合各年齡層遊客，可一覽駁二藝術特區及周邊風光。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://pier2.org/ticket/",
+        "crawl_time": "2026-11-18T01:28:48"
     }
 ];
