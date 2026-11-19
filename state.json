@@ -1,5 +1,5 @@
 {
-    "last_index": 34,
+    "last_index": 39,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -407,7 +407,9 @@
             "https://www.ttdac.taichung.gov.tw/nc4660824183836049232/ncArticleContent",
             "https://www.ttdac.taichung.gov.tw/nc5049851484694071581/ncArticleContent",
             "https://www.ttdac.taichung.gov.tw/nc5747528526064455651/ncArticleContent",
-            "https://www.ttdac.taichung.gov.tw/nc5504230897244754299/ncArticleContent"
+            "https://www.ttdac.taichung.gov.tw/nc5504230897244754299/ncArticleContent",
+            "https://www.ttdac.taichung.gov.tw/na4700118767679823531/naArticleContent",
+            "https://www.ttdac.taichung.gov.tw/nc4737881674671717944/ncArticleContent"
         ],
         "https://www.huludun.taichung.gov.tw/": [
             "https://www.huludun.taichung.gov.tw/active/index-1.asp?Parser=99,8,40,,,,158857,3",
@@ -418,7 +420,8 @@
             "https://www.huludun.taichung.gov.tw/news/index-1.asp?Parser=9,5,30,,,,5279",
             "https://www.huludun.taichung.gov.tw/news/index-1.asp?Parser=9,5,223,,,,5274",
             "https://www.huludun.taichung.gov.tw/active/index.asp?Parser=99,8,40,,,,,3",
-            "https://www.huludun.taichung.gov.tw/active/index-1.asp?Parser=99,8,40,,,,159236,1"
+            "https://www.huludun.taichung.gov.tw/active/index-1.asp?Parser=99,8,40,,,,159236,1",
+            "https://www.huludun.taichung.gov.tw/news/index-1.asp?Parser=9,5,30,,,,5298"
         ],
         "https://chiayiartmuseum.chiayi.gov.tw/": [
             "https://chiayiartmuseum.chiayi.gov.tw/News_Content.aspx?n=13589&sms=14831&s=940520",

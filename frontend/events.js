@@ -30605,5 +30605,70 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://pier2.org/ticket/",
         "crawl_time": "2026-11-18T01:28:48"
+    },
+    {
+        "title": "台中木偶劇團｜《波比大冒險》親子兒童劇",
+        "category": "藝文展演",
+        "activity_date": "115/11/14(六)",
+        "start_date": "2026-11-14",
+        "end_date": "2026-11-14",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "免費入場，無需報名",
+        "location": "臺中市屯區藝文中心 戶外．茄苳樹區 (地址：411012 臺中市太平區大興路201號)",
+        "target_age": "不限，適合大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "本劇融合傳統戲偶、金光戲偶、電視木偶及大型人偶，將「助人為善」與「愛護環境」巧妙融入冒險故事，帶領大小朋友在歡笑中感受寓教於樂、驚喜十足的親子偶戲魅力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ttdac.taichung.gov.tw/na4700118767679823531/naArticleContent",
+        "crawl_time": "2026-11-19T00:56:43"
+    },
+    {
+        "title": "【 科技藝術美學養成工坊 】河床劇團VR體驗及講座",
+        "category": "藝文展演",
+        "activity_date": "2026-11-21(六) 09時00分 ~ 2026-11-21(六) 17時00分",
+        "start_date": "2026-11-21",
+        "end_date": "2026-11-21",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "2026-10-04 ~ 2026-11-20，線上報名入場。VR體驗需預付100元保證金(活動後現場退還)，講座免費。報名連結：ACCUPASS。",
+        "location": "臺中市屯區藝文中心三樓大會議室（地址：臺中市太平區大興路201號）",
+        "target_age": "未提及",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "河床劇團VR體驗與美學講座，以《彩虹彼端》為主題，提供沉浸式虛擬實境體驗，模糊表演者與觀眾界線，讓參與者體驗超現實感官旅程。並探討VR美學，推廣科技藝術。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.ttdac.taichung.gov.tw/nc4737881674671717944/ncArticleContent",
+        "crawl_time": "2026-11-19T00:56:43"
+    },
+    {
+        "title": "演奏吧! 好土樂團",
+        "category": "藝文展演",
+        "activity_date": "2026年10月31日",
+        "start_date": "2026-10-31",
+        "end_date": "2026-10-31",
+        "recurring_days": [],
+        "region": "中部",
+        "city": "臺中市",
+        "registration_date": "購票請洽OPENTIX兩廳院文化生活售票系統。",
+        "location": "葫蘆墩文化中心 (臺中市豐原區圓環東路782號)",
+        "target_age": "大小觀眾 / 親子",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "「演奏吧! 好土樂團」是無獨有偶工作室劇團帶來的親子奇幻偶戲，將土壤生態世界搬上舞台。結合真人演出、面具物件、大型機關偶與現場樂隊，邀請大小觀眾探索地底世界，展開一場關於生命、合作與土地永續的音樂冒險。劇中透過節奏感音樂和幽默角色，帶領孩子認識土壤生態，發現生命的價值。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.huludun.taichung.gov.tw/news/index-1.asp?Parser=9,5,30,,,,5298",
+        "crawl_time": "2026-11-19T00:56:43"
     }
 ];
