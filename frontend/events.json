@@ -30669,5 +30669,47 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.huludun.taichung.gov.tw/news/index-1.asp?Parser=9,5,30,,,,5298",
         "crawl_time": "2026-11-19T00:56:43"
+    },
+    {
+        "title": "是誰躲起來了？ 街區藝術計畫",
+        "category": "藝文展演",
+        "activity_date": "2026 09 / 25 Fri. 2026 11 / 22 Sun.",
+        "start_date": "2026-09-25",
+        "end_date": "2026-11-22",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "線上報名 (已額滿)",
+        "location": "台北當代藝術館 (台北市大同區103長安西路39號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "透過「是誰躲起來了？」街區藝術計畫，探索城市中的隱藏藝術，適合各年齡層民眾參與，感受藝術與環境的互動。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/2026%E9%97%9C%E6%B8%A9%E5%9C%8B%E9%9A%9B%E5%8B%95%E7%95%AB%E7%AF%80X%E5%8F%B0%E5%B1%B1%E7%95%B6%E4%BB%A3%E8%97%9D%E8%A1%B3%E2%94%80%E8%97%9D%E8%A1%B3%E4%B8%B2%E8%81%AF%E8%A8%88%E5%B9%AB",
+        "crawl_time": "2026-11-20T01:00:20"
+    },
+    {
+        "title": "2026關渡國際動畫節X台北當代藝術館─藝術串聯計劃",
+        "category": "藝文展演",
+        "activity_date": "2026 11 / 14 Sat. 2026 12 / 13 Sun.",
+        "start_date": "2026-11-14",
+        "end_date": "2026-12-13",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "線上報名 (已額滿)",
+        "location": "台北當代藝術館 (台北市大同區103長安西路39號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "欣賞2026關渡國際動畫節與台北當代藝術館的藝術串聯計畫，感受動畫藝術的魅力與創意，適合所有年齡的觀眾。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/2026%E9%97%9C%E6%B8%A9%E5%9C%8B%E9%9A%9B%E5%8B%95%E7%95%AB%E7%AF%80X%E5%8F%B0%E5%B1%B1%E7%95%B6%E4%BB%A3%E8%97%9D%E8%A1%B3%E2%94%80%E8%97%9D%E8%A1%B3%E4%B8%B2%E8%81%AF%E8%A8%88%E5%B9%AB",
+        "crawl_time": "2026-11-20T01:00:20"
     }
 ]
