@@ -30711,5 +30711,500 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.moca.taipei/tw/ExhibitionAndEvent/Info/2026%E9%97%9C%E6%B8%A9%E5%9C%8B%E9%9A%9B%E5%8B%95%E7%95%AB%E7%AF%80X%E5%8F%B0%E5%B1%B1%E7%95%B6%E4%BB%A3%E8%97%9D%E8%A1%B3%E2%94%80%E8%97%9D%E8%A1%B3%E4%B8%B2%E8%81%AF%E8%A8%88%E5%B9%AB",
         "crawl_time": "2026-11-20T01:00:20"
+    },
+    {
+        "title": "史前探索遊戲體驗",
+        "category": "知性與靜態學習",
+        "activity_date": "7/1(三)-8/30(日) 09:30-11:30、14:00-16:00",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "台東縣",
+        "registration_date": "購票入館、不需報名、當日開放時段內現場體驗",
+        "location": "探索館/2F史前探索遊戲區/服務台",
+        "target_age": "一般觀眾",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "以史前文化為主題的遊戲設計，分為巨石、玉器、陶器、動物與戶外地景等單元，提供親子遊玩互動與解謎體驗。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmp.gov.tw/News_Content.aspx?n=8869&s=257880",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "尋找炊煙之謎──兒童版語音導覽趣探索",
+        "category": "知性與靜態學習",
+        "activity_date": "7/1(三)-8/30(日) 09:00-16:00",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-30",
+        "recurring_days": [],
+        "region": "東部及離島",
+        "city": "台東縣",
+        "registration_date": "現場租借語音導覽機",
+        "location": "大廳售票處/常設展廳",
+        "target_age": "兒童版",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "使用兒童版語音導覽機搭配探索地圖，尋找展場內的任務號碼牌，依序聆聽語音故事，解開守護精靈的謎題。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmp.gov.tw/News_Content.aspx?n=8869&s=257880",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "畫蹤尋跡：特派員＂ㄕㄜˋ＂集令──尋寶活動",
+        "category": "知性與靜態學習",
+        "activity_date": "7/01 (三) -7/17 (五)、8/18 (二) - 8/28 (五) (週二至五) 上午場 10:00 - 11:30 下午場 14:00 - 15:30",
+        "start_date": "2026-07-01",
+        "end_date": "2026-08-28",
+        "recurring_days": [
+            2,
+            3,
+            4,
+            5
+        ],
+        "region": "東部及離島",
+        "city": "台東縣",
+        "registration_date": "購票入館後於活動攤車現場登記",
+        "location": "展示廳入口（活動攤車處）",
+        "target_age": "實習特派員們",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "實習特派員們需在有限時間內，牢記任務卡物件特徵，潛入展廳搜查出真實文物藏匿蹤跡，並用手機拍照蒐證的尋寶活動。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmp.gov.tw/News_Content.aspx?n=8869&s=257880",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "「小小博物館員sió-sió phok-bu̍t-kuán-uân—導覽員會什麼？」台語營隊",
+        "category": "職業體驗",
+        "activity_date": "7/19(日)、7/26(日)9：30-12：30",
+        "start_date": "2026-07-19",
+        "end_date": "2026-07-26",
+        "recurring_days": [
+            0
+        ],
+        "region": "東部及離島",
+        "city": "台東縣",
+        "registration_date": "詳洽官網",
+        "location": "售票大廳、史前廳、展示中庭",
+        "target_age": "小小朋友",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "透過博物館導覽機租借及導覽服務體驗，讓小小朋友了解博物館工作內容，學習服務技巧與認識展廳文物。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmp.gov.tw/News_Content.aspx?n=8869&s=257880",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "兒童文學特展 12月講座│為臺灣創作永不止息的故事：繪本與少年小說的創作奧祕",
+        "category": "知性與靜態學習",
+        "activity_date": "2026/12/27 14:00 ~ 2026/12/27 16:00",
+        "start_date": "2026-12-27",
+        "end_date": "2026-12-27",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "2026/10/28 10:00 ~ 2026/12/26 12:00",
+        "location": "國立臺灣文學館 一樓文學沙龍 (臺南市中西區中正路1號)",
+        "target_age": "大小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "國立臺灣文學館舉辦「兒童文學特展」系列講座，邀請黃惠鈴老師分享以臺灣文化為本的繪本與少年小說創作奧祕。講座將帶領大小朋友，探索兒童文學世界，看見孩子的內心。適合愛聽故事的孩子與對兒童文學創作有興趣的大人。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60195",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "兒童文學特展 12月講座│為臺灣創作永不止息的故事：繪本與少年小說的創作奧祕",
+        "category": "知性與靜態學習",
+        "activity_date": "日期：2026-12-27",
+        "start_date": "2026-12-27",
+        "end_date": "2026-12-27",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "網頁未提供詳細資訊",
+        "location": "國立臺灣文學館 一樓文學沙龍",
+        "target_age": "大小朋友",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "國立臺灣文學館舉辦「兒童文學特展」系列講座，邀請大小朋友探討繪本與少年小說的創作奧祕，了解故事的魅力與創作技巧。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmtl.gov.tw/News_Actives_photo.aspx?n=3825&sms=13367",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "繪本說故事／自由參加",
+        "category": "藝文展演",
+        "activity_date": "週六下午",
+        "start_date": null,
+        "end_date": null,
+        "recurring_days": [
+            6
+        ],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "自由參加，無需報名",
+        "location": "國立臺灣文學館 1F文學沙龍",
+        "target_age": "大朋友和小朋友",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "國立臺灣文學館每週六下午舉辦繪本說故事活動，由故事志工帶領大小朋友一同進入文學故事世界，活動自由參加，免費入場。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmtl.gov.tw/News_Actives_photo.aspx?n=3825&sms=13367",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "【臺灣文學基地】2026繪本好時光（臺北）",
+        "category": "藝文展演",
+        "activity_date": "日期：2026-01-10 ~ 2026-11-25",
+        "start_date": "2026-01-10",
+        "end_date": "2026-11-25",
+        "recurring_days": [
+            3,
+            6
+        ],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "網頁未提供詳細資訊",
+        "location": "臺灣文學基地：文學厝",
+        "target_age": "小朋友、大朋友",
+        "age_groups": [
+            "0-3歲",
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "臺灣文學基地舉辦2026繪本好時光活動，每週三、六邀請大小朋友一同聆聽故事，沉浸在繪本的圖像與文字世界中。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmtl.gov.tw/News_Actives_photo.aspx?n=3825&sms=13367",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "2026故事聯合國：每個國家都來講故事",
+        "category": "知性與靜態學習",
+        "activity_date": "日期：2026-05-02 ~ 2026-11-21",
+        "start_date": "2026-05-02",
+        "end_date": "2026-11-21",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "臺南市",
+        "registration_date": "網頁未提供詳細資訊",
+        "location": "國立臺灣文學館 B1文學樂園",
+        "target_age": "孩童",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲",
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "國立臺灣文學館舉辦「2026故事聯合國」活動，精選世界各國繪本，推廣孩童閱讀並拓展國際視野，透過圖文體驗顛倒世界的故事。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.nmtl.gov.tw/News_Actives_photo.aspx?n=3825&sms=13367",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "台南老爺行旅 × 影響．新劇場「開機Rolling！文學上映」互動戲劇導覽",
+        "category": "藝文展演",
+        "activity_date": "2026/07/04 15:00 ~ 2026/08/22 16:00",
+        "start_date": "2026-07-04",
+        "end_date": "2026-08-22",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "台南市",
+        "registration_date": "憑國立臺灣文學館與台南老爺行旅「雙展通行證」，可於7/1-8/20限額線上報名（QRcode於通行證背面）。",
+        "location": "台南老爺行旅6789Gallery--8、9樓 (地址：臺南市東區中華東路一段368號8F、9F)",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "透過「雙展通行證」，可報名影響．新劇場「開機Rolling！文學上映」互動戲劇導覽，在台南老爺行旅體驗文學魅力。本活動限額，需線上預約，適合親子共同參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/NMTL/Detail.init.ctr?actId=60132",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "115年11月21日-22日、28日-29日、12月5日-6日六堆園區「星光露營趣」體驗活動",
+        "category": "生態與大自然",
+        "activity_date": "115/11/21(六)-22(日)、11/28(六)-29(日)、12/5(六)-6(日)。下午2點至隔日中午12點。",
+        "start_date": "2026-11-21",
+        "end_date": "2026-12-06",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "線上系統報名，各梯次報名時間不同，最早從2026/11/09 15:30開始，最晚至2026/12/02 22:00結束。報名後需於4天內繳款完成。",
+        "location": "六堆客家文化園區 露營區 (屏東縣內埔鄉建興村信義路588號)",
+        "target_age": "所有民眾",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "「六堆園區星光露營趣」體驗活動，邀請民眾在六堆客家文化園區享受戶外露營的悠閒時光。活動包含自己搭帳篷，可使用園區帳篷或自備，並設有星光電影院（部分場次）。適合所有年齡層，共三梯次。來一場充滿客家風情的慢活假期。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/175389/",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "《伯公水魔法》親子偶劇",
+        "category": "藝文展演",
+        "activity_date": "11月14日（六）至15日（日）",
+        "start_date": "2026-11-14",
+        "end_date": "2026-11-15",
+        "recurring_days": [
+            6,
+            0
+        ],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "請至六堆客家文化園區粉絲專頁或官網查詢",
+        "location": "六堆客家文化園區演藝廳",
+        "target_age": "親子",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "六堆客家文化園區大獅兄家族親子人偶劇團全新沉浸式互動劇。觀眾化身水魔法小勇士，從刺激互動中認識客家伯公信仰文化，並歡樂開口學客語。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/12205/12214/12215/175884/post",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "藍衫時光歡樂野餐",
+        "category": "節慶市集與綜合",
+        "activity_date": "今(14)日",
+        "start_date": "2026-11-14",
+        "end_date": "2026-11-14",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "請至六堆客家文化園區粉絲專頁或官網查詢",
+        "location": "六堆客家文化園區",
+        "target_age": "民眾",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "「2026六堆秋收祭」系列活動之一。民眾身穿藍衫齊聚六堆園區，品嚐南北客家烤雞野餐組合，並體驗客家藝文展演及「打粢粑」等活動，營造家庭溫馨慢活氛圍。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/12205/12214/12215/175884/post",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "《火焰蟲森林》親子音樂情境劇",
+        "category": "藝文展演",
+        "activity_date": "11月29日（日）",
+        "start_date": "2026-11-29",
+        "end_date": "2026-11-29",
+        "recurring_days": [
+            0
+        ],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "請至六堆客家文化園區粉絲專頁或官網查詢",
+        "location": "六堆客家文化園區",
+        "target_age": "親子",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "「2026六堆秋收祭」系列活動，由「火焰蟲樂團」與「大獅兄家族人偶劇團」聯手打造的親子音樂情境劇，結合客語電音，帶領觀眾步入神祕的極光森林。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/12205/12214/12215/175884/post",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "童遊客家2027冬令營─小小大地藝術家(上)：找出客家餐桌的秘密 (第一梯)",
+        "category": "長天數營隊",
+        "activity_date": "第一梯 1/21(四)-1/23(六)",
+        "start_date": "2027-01-21",
+        "end_date": "2027-01-23",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "預計於 1/4(一)10:00至1/8(五)17:00 進行早鳥優惠線上報名繳費，1/4(一)14:00開放報名",
+        "location": "臺北市客家文化主題公園─客家文化主題公園文化中心4樓學習教室及戶外走讀等。",
+        "target_age": "國小一至六年級",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "冬令營第一梯。探索客家香料、友善雞蛋農場與環境，透過五感聞香、食農冒險、文化闖關，認識客家文化、環境教育與生命教育，並創作專屬客家食譜。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://ssl.thcp.org.tw/events/1682",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "童遊客家2027冬令營─小小大地藝術家(上)：找出客家餐桌的秘密 (第二梯)",
+        "category": "長天數營隊",
+        "activity_date": "第二梯 1/27(三)-1/29(五)",
+        "start_date": "2027-01-27",
+        "end_date": "2027-01-29",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "預計於 1/4(一)10:00至1/8(五)17:00 進行早鳥優惠線上報名繳費，1/4(一)14:00開放報名",
+        "location": "臺北市客家文化主題公園─客家文化主題公園文化中心4樓學習教室及戶外走讀等。",
+        "target_age": "國小一至六年級",
+        "age_groups": [
+            "7-12歲"
+        ],
+        "price_type": "付費",
+        "summary": "冬令營第二梯。探索客家香料、友善雞蛋農場與環境，透過五感聞香、食農冒險、文化闖關，認識客家文化、環境教育與生命教育，並創作專屬客家食譜。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://ssl.thcp.org.tw/events/1682",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "童遊客家冬令親子活動：一日超可愛天然造型湯圓甜點老闆 (1/24場次)",
+        "category": "手作DIY與才藝",
+        "activity_date": "1/24(日) 14:00 - 17:00",
+        "start_date": "2027-01-24",
+        "end_date": "2027-01-24",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "1/4(一)14:00開放報名",
+        "location": "臺北市客家文化主題公園",
+        "target_age": "親子組1大+1小或2大+1小",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "親子共作天然造型湯圓，讓孩子擔任甜點店小老闆，爸媽協助，學習健康飲食，體驗客家生活新滋味，玩出健康與創意。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://ssl.thcp.org.tw/events/1682",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "童遊客家冬令親子活動：一日超可愛天然造型湯圓甜點老闆 (2/21場次)",
+        "category": "手作DIY與才藝",
+        "activity_date": "2/21(日)14:00 - 17:00",
+        "start_date": "2027-02-21",
+        "end_date": "2027-02-21",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "2/1(一)14:00開放報名",
+        "location": "臺北市客家文化主題公園",
+        "target_age": "親子組1大+1小或2大+1小",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "親子共作天然造型湯圓，讓孩子擔任甜點店小老闆，爸媽協助，學習健康飲食，體驗客家生活新滋味，玩出健康與創意。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://ssl.thcp.org.tw/events/1682",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "童遊客家冬令親子活動：客家香料懷香囊香包體驗 (1/31場次)",
+        "category": "手作DIY與才藝",
+        "activity_date": "1/31(日) 14:00-17:00",
+        "start_date": "2027-01-31",
+        "end_date": "2027-01-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": null,
+        "location": "臺北市客家文化主題公園",
+        "target_age": "親子組1大+1小或2大+1小",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "親子共作客家香料香包，運用天然植物與香草辛香料，安定心神，同時練習手腦協調，打開五感，感受傳統客家文化魅力。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://ssl.thcp.org.tw/events/1682",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "童遊客家冬令親子活動：客家香料懷香囊香包體驗 (3/7場次)",
+        "category": "手作DIY與才藝",
+        "activity_date": "3/7(日) 14:00-17:00",
+        "start_date": "2027-03-07",
+        "end_date": "2027-03-07",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": null,
+        "location": "臺北市客家文化主題公園",
+        "target_age": "親子組1大+1小或2大+1小",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "親子共作客家香料香包，運用天然植物與香草辛香料，安定心神，同時練習手腦協調，打開五感，感受傳統客家文化魅力。",
+        "image": "https://images://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://ssl.thcp.org.tw/events/1682",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "童遊客家冬令親子活動：手作健康好玩的薑黃豆腐壽司 (2/14場次)",
+        "category": "手作DIY與才藝",
+        "activity_date": "2/14(日)",
+        "start_date": "2027-02-14",
+        "end_date": "2027-02-14",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": null,
+        "location": "臺北市客家文化主題公園",
+        "target_age": "親子組",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "親子共作健康美味的薑黃豆腐壽司，學習食材知識與健康飲食，體驗客家生活新滋味，玩出創意與永續生活。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://ssl.thcp.org.tw/events/1682",
+        "crawl_time": "2026-11-21T00:34:10"
+    },
+    {
+        "title": "童遊客家冬令親子活動：手作健康好玩的薑黃豆腐壽司 (3/14場次)",
+        "category": "手作DIY與才藝",
+        "activity_date": "3/14(日)",
+        "start_date": "2027-03-14",
+        "end_date": "2027-03-14",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": null,
+        "location": "臺北市客家文化主題公園",
+        "target_age": "親子組",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "親子共作健康美味的薑黃豆腐壽司，學習食材知識與健康飲食，體驗客家生活新滋味，玩出創意與永續生活。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://ssl.thcp.org.tw/events/1682",
+        "crawl_time": "2026-11-21T00:34:10"
     }
 ]
