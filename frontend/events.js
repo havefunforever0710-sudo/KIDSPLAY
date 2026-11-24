@@ -31251,5 +31251,47 @@ const dynamicEvents = [
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.mwr.org.tw/xmdoc/cont?xsmsid=0Q314547563463224532",
         "crawl_time": "2026-11-21T23:41:38"
+    },
+    {
+        "title": "風帆之路-淡水平戶交流特展",
+        "category": "知性與靜態學習",
+        "activity_date": "2026-02-24",
+        "start_date": "2026-02-24",
+        "end_date": null,
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": null,
+        "location": "淡水紅毛城園區（新北市淡水區中正路 28 巷 1 號）",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "新北市立淡水古蹟博物館舉辦「風帆之路」特展，介紹17世紀淡水與日本平戶作為荷蘭東印度公司貿易站的交流歷史與文化。展覽地點位於淡水紅毛城園區。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tshs.ntpc.gov.tw/xmdoc/cont?xsmsid=0G245656224351531469&sid=0Q055608194870257539",
+        "crawl_time": "2026-11-24T04:09:51"
+    },
+    {
+        "title": "烹茶煨鴨腳－茶食文化特展",
+        "category": "知性與靜態學習",
+        "activity_date": "日期：2025-10-17",
+        "start_date": "2025-10-17",
+        "end_date": "2025-10-17",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "",
+        "location": "新北市坪林區水德里水聳淒坑19-1號 (新北市坪林茶業博物館)",
+        "target_age": "",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "新北市坪林茶業博物館舉辦「烹茶煨鴨腳－茶食文化特展」，帶領參觀者深入了解茶與飲食結合的豐富歷史與文化內涵。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.tea.ntpc.gov.tw/xmdoc?xsmsid=0G266543806125384210",
+        "crawl_time": "2026-11-24T04:09:51"
     }
 ];
