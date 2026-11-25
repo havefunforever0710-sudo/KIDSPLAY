@@ -1,5 +1,5 @@
 {
-    "last_index": 64,
+    "last_index": 69,
     "visited_urls": {
         "https://www.tam.gov.taipei/": [
             "https://www.tam.gov.taipei/News_Content.aspx?n=49854D6439EC40C0&sms=72544237BBE4C5F6&s=CFC0DF7EB3DD057E",
@@ -525,7 +525,8 @@
             "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/167843/",
             "https://thcdc.hakka.gov.tw/12205/12219/12218/171740/post",
             "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/12420/153221/175389/",
-            "https://thcdc.hakka.gov.tw/12205/12214/12215/175884/post"
+            "https://thcdc.hakka.gov.tw/12205/12214/12215/175884/post",
+            "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/28646/172189/"
         ],
         "https://ssl.thcp.org.tw/": [
             "https://ssl.thcp.org.tw/events/1630",
@@ -612,14 +613,18 @@
             "https://www.linfamily.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G249617555861789607&sid=0Q200543607992454237",
             "https://www.linfamily.ntpc.gov.tw/xmdoc/cont?xsmsid=0Q054383780560957303&sid=0Q068551900853012146",
             "https://www.linfamily.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G249617555861789607&sid=0Q232416638213621447",
-            "https://www.linfamily.ntpc.gov.tw/xmdoc/cont?xsmsid=0P003508122206281209&sid=0P310371621318020779"
+            "https://www.linfamily.ntpc.gov.tw/xmdoc/cont?xsmsid=0P003508122206281209&sid=0P310371621318020779",
+            "https://www.linfamily.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G249617555861789607&sid=0Q293499310685644373",
+            "https://www.linfamily.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G249617555861789607&sid=0L062586188885145053"
         ],
         "https://www.cksmh.gov.tw/": [
             "https://event.culture.tw/mocweb/reg/CKSMH/Index.init.ctr?openExternalBrowser=1",
             "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=60773",
             "https://www.cksmh.gov.tw/News_Content.aspx?n=6216&s=258047",
             "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=60996",
-            "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=61004"
+            "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=61004",
+            "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=61186",
+            "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=61179"
         ],
         "https://www.yatsen.gov.tw/": [
             "https://event.culture.tw/mocweb/reg/YATSEN/Index.init.ctr?openExternalBrowser=1",

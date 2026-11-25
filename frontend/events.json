@@ -31292,5 +31292,219 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://www.tea.ntpc.gov.tw/xmdoc?xsmsid=0G266543806125384210",
         "crawl_time": "2026-11-24T04:09:51"
+    },
+    {
+        "title": "幻旅林園",
+        "category": "節慶市集與綜合",
+        "activity_date": "2026-11-14 ~ 2026-12-13",
+        "start_date": "2026-11-14",
+        "end_date": "2026-12-13",
+        "recurring_days": [
+            6,
+            0
+        ],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "開放報名中，藝術家工作坊、夜間導覽及夜間攝影課程請點擊內文連結報名。",
+        "location": "國定古蹟林本源園邸 (新北市板橋區西門街9號)",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "百年古蹟林本源園邸化身光影秘境，結合光雕展演、藝術裝置、音樂舞蹈及多元遊園體驗，打造夜間藝術饗宴。活動含光影主秀、藝術裝置、藝文演出、遊園闖關及限定體驗（工作坊、導覽、攝影課程），邀您探索古蹟之美。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.linfamily.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G249617555861789607&sid=0Q293499310685644373",
+        "crawl_time": "2026-11-25T02:55:01"
+    },
+    {
+        "title": "【種子導覽員-實地導覽活動】115-116年度場次",
+        "category": "在地文化體驗",
+        "activity_date": "2026-07-30 ~ 2027-07-31",
+        "start_date": "2026-07-30",
+        "end_date": "2027-07-31",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "新北市",
+        "registration_date": "不須事先報名，於指定時間集合",
+        "location": "林本源園邸 (新北市板橋區西門街9號)，到方亭集合",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "林本源園邸推出「種子導覽員-實地導覽活動」，由林家花園與中山國小合作培育的優秀小小導覽員，帶領遊客深入認識林園歷史與文化。這是一個難得的機會，能欣賞小小導覽員的風采，並體驗由孩子們主導的在地文化導覽。活動不需事先報名，歡迎大小朋友一同參與。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://www.linfamily.ntpc.gov.tw/xceventsnews/cont?xsmsid=0G249617555861789607&sid=0L062586188885145053",
+        "crawl_time": "2026-11-25T02:55:01"
+    },
+    {
+        "title": "第十一屆全國學藝競賽孩子的藝想世界公益畫展(免費參觀)",
+        "category": "藝文展演",
+        "activity_date": "2026/11/20 09:00 ~ 2026/12/21 18:00",
+        "start_date": "2026-11-20",
+        "end_date": "2026-12-21",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "臺北市",
+        "registration_date": "免費參觀，無需報名",
+        "location": "三樓藝廊，臺北市中正區中山南路21號",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "第11屆全國學藝競賽公益畫展，由安得烈慈善協會舉辦，展出脆弱家庭兒少150位優秀學子的繪畫、書法、作文及硬筆書法作品，展現孩子們的潛能與對議題的敏銳觀察。展覽免費參觀，歡迎各界蒞臨欣賞。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=61186",
+        "crawl_time": "2026-11-25T02:55:01"
+    },
+    {
+        "title": "默墨觀心．勇渡迷津—書藝頑皮豹王志揚V.S.兩岸多藝唐寶寶曾恩通 感通聯展(免費參觀)",
+        "category": "藝文展演",
+        "activity_date": "2026/11/13 09:00 ~ 2026/11/25 18:00",
+        "start_date": "2026-11-13",
+        "end_date": "2026-11-25",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "台北市",
+        "registration_date": "免費參觀，無須報名",
+        "location": "4展廳，臺北市中正區中山南路21號",
+        "target_age": "全齡",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "本展覽匯集藝術家王志揚書法作品與多藝唐寶寶曾恩通平面繪畫作品共約70件，兩人以藝術跨越生命困境，展現堅韌與熱情。邀請觀眾一齊見證生命的無限可能，勇敢揮灑屬於自己的光彩。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://event.culture.tw/mocweb/reg/CKSMH/Detail.init.ctr?actId=61179",
+        "crawl_time": "2026-11-25T02:55:01"
+    },
+    {
+        "title": "2026六堆秋收祭開幕式活動-千人醃蘿蔔",
+        "category": "12.在地文化體驗",
+        "activity_date": "11/7(六) 10:00-11:30",
+        "start_date": "2026-11-07",
+        "end_date": "2026-11-07",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "報名費用：每組１５０元/２人１組(限量５００組)；報名連結：https://reurl.cc/p84Gz8 【報名已額滿】",
+        "location": "六堆客家文化園區【噴泉廣場】",
+        "target_age": "不限",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "體驗客家文化傳統醃蘿蔔，由客家媽媽親自指導，將當季美味保存下來，感受惜福好滋味。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/28646/172189/",
+        "crawl_time": "2026-11-25T02:55:01"
+    },
+    {
+        "title": "2026共下影展｜平大相看 親子共學場",
+        "category": "6.知性與靜態學習",
+        "activity_date": "2026 / 11 / 7（六）14：00–15：20",
+        "start_date": "2026-11-07",
+        "end_date": "2026-11-07",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "手刀報名 https://reurl.cc/90zl1d",
+        "location": "六堆客家文化園區・行政中心2樓「六堆會議廳」",
+        "target_age": "帶著孩子",
+        "age_groups": [
+            "4-6歲",
+            "7-12歲"
+        ],
+        "price_type": "免費",
+        "summary": "親子共學電影放映會，包含4部短片與映後互動，邀請大小朋友動動身體、放飛想像，探索電影故事。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/28646/172189/",
+        "crawl_time": "2026-11-25T02:55:01"
+    },
+    {
+        "title": "2026六堆秋收祭 ✕ 客庄野餐蓋生趣",
+        "category": "7.節慶市集與綜合",
+        "activity_date": "2026.11.14（六）10:30-14:00",
+        "start_date": "2026-11-14",
+        "end_date": "2026-11-14",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "名額有限，錯過就要等明年囉～；手刀搶起：https://reurl.cc/LexvL4 【報名已額滿】",
+        "location": "六堆客家文化園區",
+        "target_age": "不限",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "結合客庄美食與藝文表演的野餐活動，提供特製烤雞與紀念品，享受秋日客家文化。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/28646/172189/",
+        "crawl_time": "2026-11-25T02:55:01"
+    },
+    {
+        "title": "灶下个米食魔法｜一起體驗客家傳統「打粢粑」",
+        "category": "4.手作DIY與才藝",
+        "activity_date": "11/14(六) 10:30-15:30",
+        "start_date": "2026-11-14",
+        "end_date": "2026-11-14",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "現場報名：100元/組(兩人一組)；可連同野餐一起網路加購或現場報名，限量150組【報名已額滿】",
+        "location": "六堆客家文化園區・噴泉廣場",
+        "target_age": "不限",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "體驗客家傳統「打粢粑」的米食魔法，感受手作米食的樂趣。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/28646/172189/",
+        "crawl_time": "2026-11-25T02:55:01"
+    },
+    {
+        "title": "全新五感互動小劇場「伯公水魔法」",
+        "category": "2.藝文展演",
+        "activity_date": "𝟭𝟭月𝟭𝟰日（六）第一場 14:00~14:30、第二場 15:30~16:00；𝟭𝟭月𝟭𝟱日（日）第一場 14:00~14:30、第二場 15:30~16:00",
+        "start_date": "2026-11-14",
+        "end_date": "2026-11-15",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "超親民票價：每張票只要𝟱𝟬 元；現場售票：𝟭𝟭月𝟭𝟰日及𝟭𝟭月𝟭𝟱日當天上午𝟭𝟬點開始販售。網路購票：https://reurl.cc/VnV976 (購票3日內完成匯款，每購買2張票加贈文創夾1個)",
+        "location": "六堆客家文化園區演藝廳大廳",
+        "target_age": "親子必看",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "付費",
+        "summary": "全新五感互動小劇場，以銅板價欣賞精彩演出。憑2張實體票根可兌換客家甜水粄1個，網路購票另贈文創夾。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/28646/172189/",
+        "crawl_time": "2026-11-25T02:55:01"
+    },
+    {
+        "title": "火焰蟲森林-音樂情境劇",
+        "category": "2.藝文展演",
+        "activity_date": "𝟭𝟭/𝟮𝟵（日）14:00–15:00",
+        "start_date": "2026-11-29",
+        "end_date": "2026-11-29",
+        "recurring_days": [],
+        "region": "南部",
+        "city": "屏東縣",
+        "registration_date": "全額免費（需事先索票，名額有限，贈完為止）。方式一：線上索票（10/13～10/31，已額滿）。方式二：紙本現場索票（11/07～11/23），至園區遊客服務中心索取。",
+        "location": "六堆客家文化園區 演藝廳",
+        "target_age": "大朋友、小朋友",
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "客家電音結合人偶劇團，帶領大小朋友進入奇幻森林，享受一場充滿驚喜的音樂冒險。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/28646/172189/",
+        "crawl_time": "2026-11-25T02:55:01"
     }
 ]
