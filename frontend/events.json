@@ -31506,5 +31506,26 @@
         "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
         "source_url": "https://thcdc.hakka.gov.tw/onlineservice/1362/1394/12322/12419/28646/172189/",
         "crawl_time": "2026-11-25T02:55:01"
+    },
+    {
+        "title": "2026富岡鐵道藝術生活節「即將抵達—富岡」",
+        "category": "7.節慶市集與綜合",
+        "activity_date": "115-12-05 ~ 115-12-20",
+        "start_date": "2026-12-05",
+        "end_date": "2026-12-20",
+        "recurring_days": [],
+        "region": "北部",
+        "city": "桃園市",
+        "registration_date": "詳見活動官網或粉絲專頁",
+        "location": "桃園市楊梅區富岡里中正路（富岡火車站前廣場及周邊街區）",
+        "target_age": null,
+        "age_groups": [
+            "全齡"
+        ],
+        "price_type": "免費",
+        "summary": "2026富岡鐵道藝術生活節以「即將抵達—富岡」為主題，於115年12月5日至12月20日在富岡火車站及周邊舉行。活動內容豐富，包含海風號專列、特色列車展示、鐵道模型特展、講座、藝術展演、市集、舞台演出及親子互動等，串聯桃園仙草嘉年華，邀請民眾體驗鐵道文化與小鎮風情。",
+        "image": "https://images.unsplash.com/photo-1542840410-3092f99611a3?w=800&q=80",
+        "source_url": "https://culture.tycg.gov.tw/News_Content.aspx?n=11099&s=1998982",
+        "crawl_time": "2026-11-28T01:45:53"
     }
 ]
